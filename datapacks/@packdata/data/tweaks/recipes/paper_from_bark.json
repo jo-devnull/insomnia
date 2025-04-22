@@ -1,0 +1,13 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        { "tag": "immersive_weathering:bark" }
+    ],
+    "results": [
+        {
+            "item": "minecraft:paper",
+            "count": 1,
+            "chance": 0.8
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+name = "Zombie Nightmare Expansions - Undead Horror Monsters"
+filename = "../ZoNiEx-1.2.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "51fc33db38b06a9e709a5180f8ed148845e4e076"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6276844
+project-id = 1171163

@@ -1,0 +1,13 @@
+name = "Chovy's Apocalypse"
+filename = "../chovys_apocalypse_mod-1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dBwrH6ur/versions/WlRYZgYI/chovys_apocalypse_mod-1.7.jar"
+hash-format = "sha512"
+hash = "8603dda8fcc7419feb1851355405d7b149de00f078de58e6912b43105639e82192c8c1556b734d12c7d095efe5883d78c642a1374a63b6bd1abdd58abe1a6066"
+
+[update]
+[update.modrinth]
+mod-id = "dBwrH6ur"
+version = "WlRYZgYI"

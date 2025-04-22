@@ -1,0 +1,13 @@
+name = "Desert Survival House"
+filename = "../desert_survival_house-1.2.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VgHVm0rk/versions/ljaLoQFw/desert_survival_house-1.2.0-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "125eddd42a661ce7ea6b93651721ee8e216d4117"
+
+[update]
+[update.modrinth]
+mod-id = "VgHVm0rk"
+version = "ljaLoQFw"

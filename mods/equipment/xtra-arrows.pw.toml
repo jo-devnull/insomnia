@@ -1,0 +1,13 @@
+name = "Xtra Arrows"
+filename = "../xtraarrows-3.0.12-forge-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NROnqTK4/versions/gcrmxEKr/xtraarrows-3.0.12-forge-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "2d6f8d7a27bae6d11211683d25782c0eb3094154f5ec869faa695433655eddd1b8a009fcfeefde98c336d5ccfff1f4bdf68d6f1f7cec02d301054a7c3a3ca72f"
+
+[update]
+[update.modrinth]
+mod-id = "NROnqTK4"
+version = "gcrmxEKr"

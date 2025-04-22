@@ -1,0 +1,13 @@
+name = "Re:Deco"
+filename = "../redeco-1.14.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xejiztgi/versions/bcwEUDw0/redeco-1.14.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "3c9124d0900a3dbc302e9f0b4fef849345a8278c095e47927b90a992f812645ce3e46c586691bb4706867689c374c36374b2d0588f2ae75df6bc287ed849af93"
+
+[update]
+[update.modrinth]
+mod-id = "xejiztgi"
+version = "bcwEUDw0"

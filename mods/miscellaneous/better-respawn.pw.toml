@@ -1,0 +1,13 @@
+name = "Better Respawn"
+filename = "../better-respawn-forge-1.20.1-2.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7802c4a1192bf92d7a0d90e51b0664441e94dabe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4974054
+project-id = 340907

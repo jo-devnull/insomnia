@@ -1,0 +1,13 @@
+name = "Shrimp's Immersive Interfaces"
+filename = "§6Immersive§8_§6Interfaces§8.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3sV1gvyJ/versions/ZfqC3Brx/%C2%A76Immersive%C2%A78_%C2%A76Interfaces%C2%A78.zip"
+hash-format = "sha512"
+hash = "b69d7fe5101bd81b008d372ce455ab9a60cec1559ef1a5097998014c959777e3fd7d1574f1579af2fb3142cf0ac71c39db9a339365c7be3d7382a13a7821b46d"
+
+[update]
+[update.modrinth]
+mod-id = "3sV1gvyJ"
+version = "ZfqC3Brx"

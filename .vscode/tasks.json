@@ -1,0 +1,74 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Packwiz: Add",
+            "icon": {
+                "id": "cloud-download",
+                "color": "terminal.ansiGreen"
+            },
+            "dependsOn": [
+                "scripts.install",
+            ],
+            "dependsOrder": "sequence",
+            "problemMatcher": []
+        },
+        {
+            "label": "Packwiz: Refresh",
+            "icon": {
+                "id": "refresh",
+                "color": "terminal.ansiMagenta"
+            },
+            "type": "shell",
+            "command": "python python/refresh.py",
+            "isBackground": true,
+            "problemMatcher": []
+        },
+        {
+            "hide": true,
+            "label": "packwiz.refresh",
+            "type": "shell",
+            "command": "packwiz refresh",
+        },
+        {
+            "hide": true,
+            "label": "scripts.install",
+            "type": "process",
+            "command": "python",
+            "args": [
+                "${workspaceFolder}/python/install.py",
+                "${input:category}",
+                "${input:modspec}"
+            ],
+        }
+    ],
+    "inputs": [
+        {
+            "id": "modspec",
+            "type": "promptString",
+            "description": "Mod source (ID, URL, Slug...)"
+        },
+        {
+            "id": "category",
+            "type": "pickString",
+            "description": "The category to add to",
+            "options": [
+                "datapacks",
+                "resourcepacks",
+                "shaderpacks",
+
+                "cooking",
+                "decoration",
+                "dependency",
+                "entities",
+                "equipment",
+                "mechanics",
+                "miscellaneous",
+                "performance",
+                "technology",
+                "utilities",
+                "world"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:createfood:apple_cheesecake_slice",
+    "item:brewinandchewin:glittering_grenadine{\"fiahi:temperature\":0}",
+    "item:brewinandchewin:mead",
+    "item:minecraft:tropical_fish",
+    "item:minecraft:cooked_beef",
+    "item:minecraft:cooked_mutton",
+    "item:minecraft:potato",
+    "item:minecraft:crimson_fence_gate",
+    "item:minecraft:glow_berries",
+    "item:minecraft:enchanted_golden_apple",
+    "item:ftbquests:book",
+    "item:farmersdelight:milk_bottle",
+    "item:minecraft:glass_bottle",
+    "item:minecraft:acacia_fence_gate",
+    "item:minecraft:mangrove_slab",
+    "item:minecraft:acacia_door",
+    "item:minecraft:acacia_trapdoor",
+    "item:minecraft:recovery_compass"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

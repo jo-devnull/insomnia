@@ -1,0 +1,54 @@
+#If true, Nights of the Undead (horde nights) are enabled | default: true
+undeadNightsEnabled = true
+#Days between horde nights (1 = every night is a horde night) | default: 5
+#Range: > 1
+daysBetweenHordeNights = 14
+#Chance in % for a horde night | default: 100
+#Range: 1 ~ 100
+chanceForHordeNight = 20
+#If true, each night a message will be sent to the player with how many nights are left before the next Horde Night | default: false
+sendHordeNightsCountdownMessage = false
+#Minimum distance a horde will spawn away from the player | default: 70
+#Range: 10 ~ 256
+distanceMin = 70
+#Maximum distance a horde will spawn away from the player | default: 75
+#Range: 10 ~ 256
+distanceMax = 75
+#Size of a wave of zombies | default: 15
+#Range: 1 ~ 256
+zombieHordeWaveSize = 15
+#Maximum amount of zombies that can be loaded in the world at the same time | default: 80
+#Range: 1 ~ 256
+hordeZombiesSpawnCap = 80
+#If true, additional waves can spawn in a horde night | default: true
+spawnAdditionalWaves = true
+#Time in seconds between check for next possible wave in a horde night | default: 45
+#Range: > 1
+cooldownBetweenWaves = 45
+#Chance in % for another zombie wave (checked after every wave cooldown) | default: 7
+#Range: 1 ~ 100
+chanceForAdditionalWaves = 7
+#If true, Players can't sleep through horde nights | default: true
+hordeNightsDisableSleeping = true
+#If true, the horde zombies will be persistent and not despawn | default: false
+persistentZombies = false
+#If true, the horde zombies will burn in daylight | default: false
+zombiesBurnInDaylight = false
+#If true, demolition zombies with TNT will spawn | default: true
+spawnDemolitionZombies = false
+#Chance in % for a demolition zombie to spawn | default: 6
+#Range: 1 ~ 100
+chanceForDemolitionZombieToSpawn = 6
+#TNT Stack size a demolition zombie will spawn with (0 = unlimited) | default: 3
+#Range: 1 ~ 64
+demolitionZombieTntStackSize = 3
+#If true, elite zombies will spawn | default: true
+spawnEliteZombies = true
+#Chance in % for an elite zombie to spawn | default: 3
+#Range: 1 ~ 64
+chanceForEliteZombieToSpawn = 3
+#If true, single stray horde zombies can spawn on normal nights | default: true
+spawnStrayHordeZombies = true
+#If true, debug messages will be logged out | default: false
+printDebugMessages = false
+

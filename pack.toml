@@ -1,0 +1,13 @@
+name = "Insomnia"
+author = "dylanxyz"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "07b46fc10092c4e7c4a51578b24f8cc532c15c7e046141e85f032a0b654701bf"
+
+[versions]
+forge = "47.3.12"
+minecraft = "1.20.1"

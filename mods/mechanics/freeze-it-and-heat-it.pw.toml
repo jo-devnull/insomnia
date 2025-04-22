@@ -1,0 +1,13 @@
+name = "Freeze It, and Heat It!"
+filename = "../fiahi-3.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ef3124d61c4d35f2eb8035ed695ee2f5d63e744"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6286990
+project-id = 911258

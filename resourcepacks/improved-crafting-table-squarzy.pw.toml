@@ -1,0 +1,13 @@
+name = "| Improved Crafting Table |"
+filename = "Improved Crafting Table V1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QRupZ6bR/versions/Zo7TLEcO/Improved%20Crafting%20Table%20V1.0.zip"
+hash-format = "sha512"
+hash = "f64ca879d58c48ef8de15b90cacbc7d3a0863d021a6d5e6120654e8f2ee58314d8e3085981de746c64753970b476cf69f6ef531ce520e6d9184481834340489d"
+
+[update]
+[update.modrinth]
+mod-id = "QRupZ6bR"
+version = "Zo7TLEcO"

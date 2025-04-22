@@ -1,0 +1,13 @@
+name = "Migamigos"
+filename = "../Migamigos-0.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c126e8dca5d2c983f5b78414942f967b4a6b446"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6129596
+project-id = 1188039

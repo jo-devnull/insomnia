@@ -1,0 +1,13 @@
+name = "Fresh Waystones Texture"
+filename = "waystones_1.20.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BcyGAwlg/versions/qQgOdy8R/waystones_1.20.zip"
+hash-format = "sha512"
+hash = "ee588f7b38fddf6dc1133841f71d18f4d776c958527a9daca39041fce1c81fe12046afc119af0a3f2ddaec0e8c8523031f61193edc12c790303460ab4b8bd799"
+
+[update]
+[update.modrinth]
+mod-id = "BcyGAwlg"
+version = "qQgOdy8R"
