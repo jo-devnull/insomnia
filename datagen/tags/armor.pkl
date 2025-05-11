@@ -1,0 +1,23 @@
+minecraft {
+  "#forge:armors"
+}
+
+immersive_armors {
+  for (armor in List(
+    "bone",
+    "wither",
+    "warrior",
+    "heavy",
+    "robe",
+    "slime",
+    "divine",
+    "prismarine",
+    "wooden",
+    "steampunk"
+  )) {
+    "\(armor)_helmet"
+    "\(armor)_chestplate"
+    "\(armor)_leggings"
+    "\(armor)_boots"
+  }
+}

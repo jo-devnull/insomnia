@@ -115,7 +115,7 @@
 	#Allowed Values: PressKey, ReleaseKey
 	wall-jump_control = "PressKey"
 	#Enable double-tapping ctrl for Dodge
-	enable_double_tapping_for_dodge = true
+	enable_double_tapping_for_dodge = false
 	#Enable cooldown of wall jump
 	enable_wall_jump_cooldown = true
 	#Enable Crawl in air

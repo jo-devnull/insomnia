@@ -10,16 +10,11 @@ CONFIG = INST / "config"
 CONFIG.mkdir(exist_ok=True)
 
 sources = [
-    "resourcepacks/@emi/*",
-    "datapacks/@packdata/*",
-    "datapacks/@category/*",
-    #"config/starterkit/*",
+    "datapacks/@packdata/",
 
-    "config/almostunified/",
-    "config/incontrol/",
-    "config/rootoffear/",
-    # "config/thirst/",
-    # "journeymap/",
+    "config/almostunified/**/*.json",
+    "config/rootoffear/**/*.toml",
+    "config/incontrol/**/*.json",
 
     "config/emi.css",
     "config/mca.json",
@@ -27,6 +22,7 @@ sources = [
     "config/chloride-client.json",
     "config/resourcepackoverrides.json",
     "config/parcool-client.toml",
+    "config/xaero*.txt",
 
     "emi.json",
     "options.txt",
@@ -47,12 +43,9 @@ def link_dir(path: Path, target: Path):
     print(f"linking dir: {target}")
     target.symlink_to(ROOT / path, target_is_directory=True)
 
-for path in sources:
-    if path.endswith("/"):
-        for file in glob("**/*.*", root_dir=ROOT / path, recursive=True):
-            entry = Path(path) / file
-            link_file(ROOT / entry, INST / entry)
-    elif path.endswith("/*"):
-        link_dir(Path(path[:-2]), INST / path[:-2])
-    else:
-        link_file(Path(path), INST / path)
+for pattern in sources:
+    for path in map(Path, glob(pattern, root_dir=ROOT, recursive=True)):
+        if path.is_file():
+            link_file(ROOT / path, INST / path)
+        elif path.is_dir():
+            link_dir(path, INST / path)

@@ -8,8 +8,11 @@
         "file/No Enchant Glint 1.20.1.zip",
         "file/SmoothDrawers_1.20.1_v2.zip",
         "file/VanillaTweaks.zip",
-        "file/GEO - v1.61.0.zip",
-        "file/@emi"
+        "file/GEO - v1.62.0.zip",
+        "file/Detail-Brush-1.6-1.20.zip",
+        "file/Tool_Belt_Retextured_1.20.x_V3.zip",
+        "file/3.3.1v_VisualEnchantments.zip",
+        "file/@insomnia"
     ],
 
     "default_overrides": {
@@ -40,8 +43,10 @@
             "file/No Enchant Glint 1.20.1.zip",
             "file/SmoothDrawers_1.20.1_v2.zip",
             "file/VanillaTweaks.zip",
-            "file/GEO - v1.61.0.zip",
-            "file/@emi"
+            "file/GEO - v1.62.0.zip",
+            "file/Tool_Belt_Retextured_1.20.x_V3.zip",
+            "file/3.3.1v_VisualEnchantments.zip",
+            "file/@insomnia"
         ],
 
         "$$1": {

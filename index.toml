@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".editorconfig"
+hash = "da597acefc6e909ec08ebd56eae12f474c1f87bdb75d95cb4a690ff932790f29"
+
+[[files]]
 file = "config/almostunified/unify.json"
 hash = "89a9290be73ad0a806bc04d3edb126dab52f27b8a0604bda4b633f7ec046182a"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "bfcc3a484168b76ee4289595cb7cf881861ff8015c58d5db131a519a71a83391"
+hash = "46f779ac91b91cef0d7dfc4e154342ea6cb30c8b50d55aad34d1c708a71df64e"
 preserve = true
 
 [[files]]
@@ -20,7 +24,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "0cb0ecc39ad488f3e1161163a4e004e2c71b1ffaa78c7e55a5b2a80bd33a212f"
+hash = "1d5a54b5a2b6e7ff5f15257b21491915ee3c0fb8b3f15ef8035d5f42687b985d"
 preserve = true
 
 [[files]]
@@ -41,7 +45,7 @@ hash = "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f"
 
 [[files]]
 file = "config/lmft.json"
-hash = "616b89227e557c16754a9d89ac5b28bf18da1607cea770e2b92eb95a91c6538e"
+hash = "365dea7158e35e763e91f84ee63c687553d40b7806abde459a3d15c089c5d5e9"
 
 [[files]]
 file = "config/mca.json"
@@ -49,7 +53,7 @@ hash = "1f6413ce54710e9cfaa9f1ccc9186e49502baf1fa8bc86fd912b66cd98b180aa"
 
 [[files]]
 file = "config/parcool-client.toml"
-hash = "eda288a24fd11be3bb0167b33eb86da7243bfb720fd39e49a861d837ed8dbd7c"
+hash = "39e47c6d1d5359ff5fc6791f4c99c085b6e2b07886b5422496a6495d357d1e41"
 preserve = true
 
 [[files]]
@@ -59,27 +63,31 @@ preserve = true
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "9881fbd4b9d54b4c9242424b9779e43d487d9ffd914aa104f5e48b4bddaee497"
+hash = "1cc58958465c96c7a1a4360b6160301dad372e24fc376d8eb8424efdf81b0068"
 
 [[files]]
 file = "config/rootoffear/common.toml"
 hash = "7d9b9e276400921d767a1c53493196290eaef248df253dc8dcd7589260431465"
 
 [[files]]
-file = "datapacks/@packdata/data/fromtheshadows/forge/biome_modifier/nether_spawns.json"
-hash = "c51f11ddbda1479e1f0ecd6c5521607f99f58a2371967ef22d5f2f2b0b1d39d7"
+file = "config/xaerominimap-common.txt"
+hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
 [[files]]
-file = "datapacks/@packdata/data/fromtheshadows/forge/biome_modifier/spawns.json"
-hash = "7fed2aa5b899dd1f8a0e77c03fd11431a13c69db88ed26d42c65f14c48828726"
+file = "config/xaerominimap.txt"
+hash = "9f4afef6c3307c3b418d9b897b912c7cbd33eacbceafd3a78c5f1abafc77f4b8"
 
 [[files]]
-file = "datapacks/@packdata/data/superflat/dimension/superflat.json"
-hash = "60464090d397d47355ba8f7ffe5eae1a9e83ea584cfd614c5ce24568fd090069"
+file = "config/xaerominimap_entities.json"
+hash = "3b07400bf5992a718a301558f96e0ae456b0e01de22fb056dd65209a8e8b2ab5"
 
 [[files]]
-file = "datapacks/@packdata/pack.mcmeta"
-hash = "fd15bf8b2e9c1a9c6f4163a6622aab52b85a579ae0c973e7eb4b6f4acf4d790d"
+file = "config/xaeroworldmap-common.txt"
+hash = "f5bb870d3638e4331f1b1baee637359cd2ac425d4f600b8723c2bf3b7d408196"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "ef1cf9d7a1fc4848e9c064d8abb2a1826ca12ce19daeeb5624c9b3bf80723a53"
 
 [[files]]
 file = "datapacks/create-immersive-aircrafts-data-pack.pw.toml"
@@ -106,7 +114,7 @@ hash = "682bf5b88a35bfefd28b349d035c1a591829aab96b0d3fb07481a928d4b2bdd1"
 
 [[files]]
 file = "emi.json"
-hash = "f8e46902f1c0d6b688291dd34194359209f0a1f408468ff8b8b56825c1aba0a6"
+hash = "f3487f16dec9a810ee7c794253549b4a58638fe2cd95e1a639daf9aa22a67d9d"
 
 [[files]]
 file = "mods/cooking/brewin-and-chewin.pw.toml"
@@ -210,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/decoration/supplementaries.pw.toml"
-hash = "4c1c0951734b6754f043637d34b5f7798f2ab36b1e2b1b3b4d582f5557a3757d"
+hash = "7a18aa80a5113e4776d479854f8e24c1d9c269eff5d490919b1ff10a214f540e"
 metafile = true
 
 [[files]]
@@ -290,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/data-anchor.pw.toml"
-hash = "799ad6764918cc8feb55a1bc52a10dce8e7e7fe07a0d04e384987feaaf37fc6a"
+hash = "2052a611b23f76f0d16113467f77d1891dbd7dff7b32ae60ecc8b61de8c4b0e6"
 metafile = true
 
 [[files]]
@@ -316,6 +324,11 @@ metafile = true
 [[files]]
 file = "mods/dependency/glitchcore.pw.toml"
 hash = "192304cde78e4604903cc41966cfd7d117ea5abe439b5f5b91a75db2f351a7ed"
+metafile = true
+
+[[files]]
+file = "mods/dependency/insanelib.pw.toml"
+hash = "3e5bd3b80cf5c7939ebc06a46f9e5125b645c0c387084a0af0ecaca74695abc6"
 metafile = true
 
 [[files]]
@@ -365,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/selene.pw.toml"
-hash = "15c5a770109f596e321039d7d4cc3a65b830946f68cdf93f8ac3a489e7901a88"
+hash = "a4b3107b421bf8056481ee51a68a55a7e042e482f558ab3783a5ab6d2644cec1"
 metafile = true
 
 [[files]]
@@ -406,6 +419,11 @@ metafile = true
 [[files]]
 file = "mods/entities/alexs-mobs.pw.toml"
 hash = "be367a3747553d01d45316795404528aa01d32a126c9330f4076a90c283ccd1d"
+metafile = true
+
+[[files]]
+file = "mods/entities/all-bark-all-bite.pw.toml"
+hash = "090b122ea1ff59e4000e1df716088ba91309a408e58290aec536c3baa783d696"
 metafile = true
 
 [[files]]
@@ -480,7 +498,7 @@ metafile = true
 
 [[files]]
 file = "mods/entities/mowzies-mobs.pw.toml"
-hash = "5e589801fbfe3089ded6faba69cf8d756107def628f895945ab1c9e739f0bf7f"
+hash = "8efff8fbb09921fb0fc61c01685f1a1108618194bf2a49ccde5bbac7f7bd5e97"
 metafile = true
 
 [[files]]
@@ -495,7 +513,7 @@ metafile = true
 
 [[files]]
 file = "mods/entities/undead-nights.pw.toml"
-hash = "2f69d4b4d2bdd2a1296d16db303fe9eebcda15ccc900a79b4ef0f5edf140f5d5"
+hash = "1b7dd3b88aa109970c781392bac382f139769c8ef7dea6d6ab5262d3bd4a81f5"
 metafile = true
 
 [[files]]
@@ -524,11 +542,6 @@ hash = "9808c609356761f828fb17be1e609103f36edeb744791a4221f2884fd5eb86d5"
 metafile = true
 
 [[files]]
-file = "mods/equipment/nyfs-quivers.pw.toml"
-hash = "969d8daec1544fdfb4466538515a53114e5c31eab38b66bb7b1e7281c46ad867"
-metafile = true
-
-[[files]]
 file = "mods/equipment/shield-expansion.pw.toml"
 hash = "58d27ee1a4f979d69cdf76d76cf0c24df222feb889c2629309f98fc215c1c927"
 metafile = true
@@ -554,18 +567,13 @@ hash = "cce8da002b5c1ab9ed47abb37843abe75bc1ae4a8e3d4fa2027572584b7d0928"
 metafile = true
 
 [[files]]
-file = "mods/mechanics/better-dogs-x-doggy-talents-next.pw.toml"
-hash = "2ccb72f26cb2f88fcb553c6bd3b2a9558db89f9254a761d86e909490c036a92e"
-metafile = true
-
-[[files]]
 file = "mods/mechanics/carry-on.pw.toml"
 hash = "188b54dc995936a318ed71d4510bc1c4b07da3a38b3e5adc64d5c2e69382aaa9"
 metafile = true
 
 [[files]]
 file = "mods/mechanics/cold-sweat.pw.toml"
-hash = "accbb4024bb9564ffa7465d8b0d1d0b9639a10a5c3cea22cfe8239e41e4abe4b"
+hash = "5424673f62fd81e25521cb8b5c528541784c0a5c1068151d5b480f98227773a3"
 metafile = true
 
 [[files]]
@@ -574,13 +582,13 @@ hash = "d585e4e092bf82418290b996e4b2e510601c4b7aea6c04eb03fe159adfa3bc05"
 metafile = true
 
 [[files]]
-file = "mods/mechanics/doggy-talents-next.pw.toml"
-hash = "76c2908403293329a87f4bc942dc0d221a2ae8601ac0877692c0aec4ac678bb0"
+file = "mods/mechanics/domestication-innovation.pw.toml"
+hash = "39d0177c9959d75cfe7e537df6d24b46db03ed8f377d51f9481bf4541a9f427b"
 metafile = true
 
 [[files]]
-file = "mods/mechanics/domestication-innovation.pw.toml"
-hash = "39d0177c9959d75cfe7e537df6d24b46db03ed8f377d51f9481bf4541a9f427b"
+file = "mods/mechanics/enhanced-ai.pw.toml"
+hash = "c442e9900992ba63bdd1fbeea8f43aa0afee497ce2614ca4b8bb2738fa605d1c"
 metafile = true
 
 [[files]]
@@ -591,6 +599,11 @@ metafile = true
 [[files]]
 file = "mods/mechanics/irons-spells-n-spellbooks.pw.toml"
 hash = "dae5755d189d21cbbf4316108e0747d8d9cdb886a5f35d73d7e2370cf17dfc6d"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/no-tree-punching.pw.toml"
+hash = "be5a7395477ef416b0e767d237b778dee2692792171b52be2a01fdc347ec24ff"
 metafile = true
 
 [[files]]
@@ -635,7 +648,7 @@ metafile = true
 
 [[files]]
 file = "mods/miscellaneous/ambientsounds.pw.toml"
-hash = "da940407f6f3f4f35447b0c6fe3ba5514c4f059c7484c21ba250a595252fa744"
+hash = "367ac766cf4e6a05aca5613457e4f5d78b742e3d36889f3bf893fc7a8385529b"
 metafile = true
 
 [[files]]
@@ -720,7 +733,7 @@ metafile = true
 
 [[files]]
 file = "mods/miscellaneous/horseman.pw.toml"
-hash = "ba334e17059597eb307c4913b4a1c241c3270462b84008a238fdea86f3c2328a"
+hash = "2fb98d9a6a01b71e72f96902174ba08bc945ed21dabd36c6a55a8928f8b9904d"
 metafile = true
 
 [[files]]
@@ -731,6 +744,11 @@ metafile = true
 [[files]]
 file = "mods/miscellaneous/immersive-aircraft.pw.toml"
 hash = "d51e2d4b2060406bc0038a7f948b4347ab989b8b1e973780e14c96282d6814ee"
+metafile = true
+
+[[files]]
+file = "mods/miscellaneous/insomniatweaks.pw.toml"
+hash = "7b262933f841c2803c71839766bbb9d904b6d54b9ba41baea48e3c2ac27f6159"
 metafile = true
 
 [[files]]
@@ -746,6 +764,16 @@ metafile = true
 [[files]]
 file = "mods/miscellaneous/itemphysic-lite.pw.toml"
 hash = "5c001be9230f3b607814fbfac0d87672d451a52193247e49843da0b44a7bbff7"
+metafile = true
+
+[[files]]
+file = "mods/miscellaneous/jade-addons-forge.pw.toml"
+hash = "f1970bfcb5e27a8278d8a7a7a59e73d73e2c8543977e4809736bd20194076719"
+metafile = true
+
+[[files]]
+file = "mods/miscellaneous/jade.pw.toml"
+hash = "0513b280c2b411aceb2f75740b83fe3574c8b11368b2bd0f61a54264c796721e"
 metafile = true
 
 [[files]]
@@ -790,7 +818,12 @@ metafile = true
 
 [[files]]
 file = "mods/miscellaneous/polymorph.pw.toml"
-hash = "4f4c8c87c5c8066ad36cc52572d95358bd39335677fde1786c6695cb215ad5d0"
+hash = "afb235d1c7d910384139e1316d4f03695bf1f37ecb23c22e098e1ca725a4321d"
+metafile = true
+
+[[files]]
+file = "mods/miscellaneous/rrls.pw.toml"
+hash = "c3de6983cc6cc682588f8fc8447b8dc26f8630e977ff0452f377f61409484092"
 metafile = true
 
 [[files]]
@@ -819,13 +852,23 @@ hash = "aebad8093fb59d03eb81b34f8c266c3d804f9971b68e2448f7e985de309a9357"
 metafile = true
 
 [[files]]
+file = "mods/miscellaneous/xaeros-minimap.pw.toml"
+hash = "587c5ef2d8258cea33a313377d8917f2e329b32b40d3c01813f139d5384af9ad"
+metafile = true
+
+[[files]]
+file = "mods/miscellaneous/xaeros-world-map.pw.toml"
+hash = "07d27e60792a406b7d4359a17c13ae98459481df6c22f422f72f874a77e84393"
+metafile = true
+
+[[files]]
 file = "mods/performance/accelerated-decay.pw.toml"
 hash = "f627222b24ca3289c74dc80a963be4058ae8359f199729176ee4bc6724a44d57"
 metafile = true
 
 [[files]]
 file = "mods/performance/badoptimizations.pw.toml"
-hash = "1dd4cbd94135cf7e1ac6bcbc6bd2cad096cb921e4b0d1b7a929dda0d92a4c835"
+hash = "62d14cd206bd66bd324c17275d156a9e6261a2447f523e6034afd3b3e84041d0"
 metafile = true
 
 [[files]]
@@ -871,11 +914,6 @@ metafile = true
 [[files]]
 file = "mods/performance/flerovium.pw.toml"
 hash = "af91045e275d02eb37246075cc5144fb1f6fba1b3c85358019631e4c0a38969f"
-metafile = true
-
-[[files]]
-file = "mods/performance/ftb-quests-optimizer.pw.toml"
-hash = "6693ad0e1a8fd4a1bb8327ff43880899d450f9ddfbcabba08d32aa071092d218"
 metafile = true
 
 [[files]]
@@ -964,6 +1002,11 @@ hash = "4ad61c5b2dbf00c4cd10f7806c0f7e8294f9e8ea64288f35fccae20fedba3cfa"
 metafile = true
 
 [[files]]
+file = "mods/utilities/almost-unified.pw.toml"
+hash = "bd0e2e5a30252e646bd6a903b85232a8a21ce97ac1a7658d10fec44480c2217b"
+metafile = true
+
+[[files]]
 file = "mods/utilities/client-tweaks.pw.toml"
 hash = "1fb9dacc5a03396c8ca66b73448b12a0131c1a2ae72e2aac0a92ccc4b693f35e"
 metafile = true
@@ -971,6 +1014,11 @@ metafile = true
 [[files]]
 file = "mods/utilities/crafttweaker.pw.toml"
 hash = "f5470f407c499e36a687919e7c83454263f023385a9890a100edf30af8fd3cd0"
+metafile = true
+
+[[files]]
+file = "mods/utilities/createtweaker.pw.toml"
+hash = "71614f2245e63d471017579ebd2d5a6c8203e4f5e1414fe8dc0cadc8d87184a7"
 metafile = true
 
 [[files]]
@@ -1016,16 +1064,6 @@ metafile = true
 [[files]]
 file = "mods/utilities/wits.pw.toml"
 hash = "efae7db58221428950ad0f2294efb5e8040ac62fc01d8235f5681a8110cd7de6"
-metafile = true
-
-[[files]]
-file = "mods/utilities/xaeros-minimap.pw.toml"
-hash = "587c5ef2d8258cea33a313377d8917f2e329b32b40d3c01813f139d5384af9ad"
-metafile = true
-
-[[files]]
-file = "mods/utilities/xaeros-world-map.pw.toml"
-hash = "07d27e60792a406b7d4359a17c13ae98459481df6c22f422f72f874a77e84393"
 metafile = true
 
 [[files]]
@@ -1130,11 +1168,136 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "16fde4b4f013a7cf03b17de42b1b990daeab9088dfb7a877e7247feab9d7a7d0"
+hash = "636ca64a68911f6cad827ff7a51f6f421c6e48a1c6ed948556700dd37d90634e"
+
+[[files]]
+file = "resourcepacks/@InsomniaUI/assets/emi/textures/gui/background.png"
+hash = "46e92c340fc597c7ba4981c046a78ce4bc05eb170984fe51879e6da623a2155b"
+
+[[files]]
+file = "resourcepacks/@InsomniaUI/assets/emi/textures/gui/buttons.png"
+hash = "34bdfcb96aa3e382af5d582942baf3f164bf8fa814a5fe612ddd13becc7025bc"
+
+[[files]]
+file = "resourcepacks/@InsomniaUI/assets/emi/textures/gui/container/brewing_stand.png"
+hash = "7102355a66f4ac0aef1491b06700a09f12713ebec891c7672a69d7aebba465c7"
+
+[[files]]
+file = "resourcepacks/@InsomniaUI/assets/emi/textures/gui/container/grindstone.png"
+hash = "8ba6fcdca4c7f27524ed717d2eff47be415945dc1768a169fc6957ddf9756d68"
+
+[[files]]
+file = "resourcepacks/@InsomniaUI/assets/minecraft/textures/gui/widgets.png"
+hash = "eed850e24c0caa985f55665308fe7b682c656f7c1764e427f0edd5ec1eae70f7"
+
+[[files]]
+file = "resourcepacks/@InsomniaUI/pack.mcmeta"
+hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/lang/pt_br.json"
+hash = "7cefa9a21aa62e3a21b793cc92cb1456e00ea5bfb200134e97047c2c865b77af"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/models/tag/item/archery.json"
+hash = "73190710874ff1cc718a42e3cee8bfe1f61ca34cb62f747a6f6e0d6555976506"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/models/tag/item/armor.json"
+hash = "1100fd257c52ab905ef8fa4d842c21ae58be3d74d5f89719860191334ea2ea39"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/models/tag/item/armory.json"
+hash = "ba232fdfd04fd4d236bad9e363e1df5160107c5ed7808b2d513f184815cb689f"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/models/tag/item/basic_tools.json"
+hash = "5ac8af533532591102538946bb69e5c4791013e769fc27f5be62eed943af7b05"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/models/tag/item/beverages.json"
+hash = "e14a9e2d996f6e098bc170b15a14dc6f8a6af03f1974efca42fbbd4aa7cd454e"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/models/tag/item/brewing.json"
+hash = "0716931bc9ed7cda8bd760eecc7f7f087a57df0836eef2f0e89a68972a83cee3"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/items/archery.json"
+hash = "c416da2d5a1c5d39b3668d11a0bdf4db74f7462dfa28e0ef3294480a56ac106b"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/items/armor.json"
+hash = "e4b7b98f85320dd4ad431cc32910ba7cf5f254aa8936f2e65884c77787772b5c"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/items/armory.json"
+hash = "0c615d27d6e7932dab70603593b0d4b2098f06e605c17c7e8549a677ec84ef94"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/items/basic_tools.json"
+hash = "0c615d27d6e7932dab70603593b0d4b2098f06e605c17c7e8549a677ec84ef94"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/items/beverages.json"
+hash = "0c615d27d6e7932dab70603593b0d4b2098f06e605c17c7e8549a677ec84ef94"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/items/brewing.json"
+hash = "0c615d27d6e7932dab70603593b0d4b2098f06e605c17c7e8549a677ec84ef94"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/fromtheshadows/forge/biome_modifier/nether_spawns.json"
+hash = "c51f11ddbda1479e1f0ecd6c5521607f99f58a2371967ef22d5f2f2b0b1d39d7"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/fromtheshadows/forge/biome_modifier/spawns.json"
+hash = "7fed2aa5b899dd1f8a0e77c03fd11431a13c69db88ed26d42c65f14c48828726"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/superflat/dimension/superflat.json"
+hash = "60464090d397d47355ba8f7ffe5eae1a9e83ea584cfd614c5ce24568fd090069"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/tweaks/recipes/campfire_water_from_snow copy.json"
+hash = "5bf94e06b36c5b243c38238c5f4a088c3d12778b75dc4178b06fc3e707a675dd"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/tweaks/recipes/leather.json"
+hash = "97ea527969929022312e7642baefec36a4ef156bd9e779bb9eb5359fd67a9d0f"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/tweaks/recipes/lit_campfire.json"
+hash = "5baf17b85cb0161c426cda9f16a8002d9253f07fe278ee272632d6270c6d4c57"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/tweaks/recipes/paper_from_bark.json"
+hash = "2825b8924770f703091386629ec12d39b2317d36fb4fd3a10170db5f45684993"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/tweaks/recipes/saddle.json"
+hash = "d770f722c14b11e48f0015e184c8359034ff57e00aa5a80c73bf425423f5dec0"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/tweaks/recipes/smelting_water_from_snow.json"
+hash = "718a8d424d35eea4a8d3f9be8ae9987f5b9bcaff2a7185b428224f92a8d1fb51"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/waystones/loot_tables/blocks/waystone.json"
+hash = "89914390432b72ec6687d743405ef36b133420ffcdb9737411859c0689adf2b9"
+
+[[files]]
+file = "resourcepacks/@insomnia/pack.mcmeta"
+hash = "fd15bf8b2e9c1a9c6f4163a6622aab52b85a579ae0c973e7eb4b6f4acf4d790d"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
 hash = "622db52934292b831dd7a67bfc6ad22827fe00ce9fb228241c56a29362843aeb"
+
+[[files]]
+file = "resourcepacks/detail-brush.pw.toml"
+hash = "c1693318b2a8aab90324bf027e6d9c74cd7ced0d6ff6cc432ecd6463cc3751ff"
+metafile = true
 
 [[files]]
 file = "resourcepacks/fancy-beds.pw.toml"
@@ -1153,7 +1316,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/glowing-emissive-ores.pw.toml"
-hash = "e1594945285f5f9c5666785e40370abca8a5b0ba6aa67525a2a4b5112173d5db"
+hash = "2e970218092afac5c5202ba5ed189cc3988ea89cc09bc95e23239e1f93689378"
 metafile = true
 
 [[files]]
@@ -1174,6 +1337,21 @@ metafile = true
 [[files]]
 file = "resourcepacks/smooth-drawers.pw.toml"
 hash = "2cba577f71e47ce43ebd1dba336248815aa64e415407820be75828d347d32e60"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-20.pw.toml"
+hash = "5d6a9c4d995bc6a2cac09b738242f5f85df0fb70e39a90b1fb1319f5b6d7c2de"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tool-belt-retextured.pw.toml"
+hash = "447a75920192f1e57ad35fc30c7803396bddbbb0cd0ac190443568c8917dddf5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unique-dark.pw.toml"
+hash = "17df137ede1b2421d1cab19b729fbec2f79337012e049becff9eb741715b0cc0"
 metafile = true
 
 [[files]]
@@ -1202,5 +1380,13 @@ hash = "9f9743c793b257f5dee93d4aa492811aff475f90e7005fb723053fd5daaf90c4"
 metafile = true
 
 [[files]]
-file = "scripts/category/cooking.zs"
-hash = "1c990730888be0bb1674f742356163d9be1159876dc4b78d78a7df604c9cd664"
+file = "scripts/misc.zs"
+hash = "8d50f8b8a87585cc411546cf3176b2e6b0227fa108ac67123ca4cf0ac4b41836"
+
+[[files]]
+file = "scripts/recipes.zs"
+hash = "9972c368ad05401034c27755b55f542ff2fd87f2568534f79c83172d9d25d691"
+
+[[files]]
+file = "scripts/tags.zs"
+hash = "b74f0a79639c2da75774f2274b1053267c2c104ec5b91f16e632a879f689544c"

@@ -1,0 +1,297 @@
+extends "../categories.pkl"
+
+block_decoration {
+  "cardboard_block"
+  "oak_window"
+  "spruce_window"
+  "birch_window"
+  "jungle_window"
+  "acacia_window"
+  "dark_oak_window"
+  "mangrove_window"
+  "crimson_window"
+  "warped_window"
+  "cherry_window"
+  "bamboo_window"
+  "ornate_iron_window"
+  "industrial_iron_window"
+  "weathered_iron_window"
+  "rose_quartz_block"
+  "small_rose_quartz_tiles"
+}
+
+masonry {
+  for (material in List(
+    "granite",
+    "diorite",
+    "andesite",
+    "calcite",
+    "dripstone",
+    "deepslate",
+    "tuff",
+    "asurine",
+    "crimsite",
+    "limestone",
+    "ochrum",
+    "scoria",
+    "scorchia",
+    "veridium"))
+  {
+    "cut_\(material)"
+    "polished_cut_\(material)"
+    "cut_\(material)_bricks"
+    "small_\(material)_bricks"
+    "layered_\(material)"
+  }
+}
+
+metalworking {
+  "metal_girder"
+  "copycat_step"
+  "copycat_panel"
+  "zinc_block"
+  "andesite_alloy_block"
+  "industrial_iron_block"
+  "weathered_iron_block"
+  "brass_block"
+  "bound_cardboard_block"
+
+  "copper_shingle_slab"
+  "exposed_copper_shingle_slab"
+  "weathered_copper_shingle_slab"
+  "oxidized_copper_shingle_slab"
+
+  "copper_shingle_stairs"
+  "exposed_copper_shingle_stairs"
+  "weathered_copper_shingle_stairs"
+  "oxidized_copper_shingle_stairs"
+
+  "waxed_copper_shingle_slab"
+  "waxed_exposed_copper_shingle_slab"
+  "waxed_weathered_copper_shingle_slab"
+  "waxed_oxidized_copper_shingle_slab"
+
+  "waxed_copper_shingle_stairs"
+  "waxed_exposed_copper_shingle_stairs"
+  "waxed_weathered_copper_shingle_stairs"
+  "waxed_oxidized_copper_shingle_stairs"
+
+  "copper_tiles_slab"
+  "exposed_copper_tiles_slab"
+  "weathered_copper_tiles_slab"
+  "oxidized_copper_tiles_slab"
+
+  "copper_tiles_stairs"
+  "exposed_copper_tiles_stairs"
+  "weathered_copper_tiles_stairs"
+  "oxidized_copper_tiles_stairs"
+
+  "waxed_copper_tiles_slab"
+  "waxed_exposed_copper_tiles_slab"
+  "waxed_weathered_copper_tiles_slab"
+  "waxed_oxidized_copper_tiles_slab"
+
+  "waxed_copper_tiles_stairs"
+  "waxed_exposed_copper_tiles_stairs"
+  "waxed_weathered_copper_tiles_stairs"
+  "waxed_oxidized_copper_tiles_stairs"
+
+  "copper_shingles"
+  "exposed_copper_shingles"
+  "weathered_copper_shingles"
+  "oxidized_copper_shingles"
+
+  "waxed_copper_shingles"
+  "waxed_exposed_copper_shingles"
+  "waxed_weathered_copper_shingles"
+  "waxed_oxidized_copper_shingles"
+
+  "copper_tiles"
+  "exposed_copper_tiles"
+  "weathered_copper_tiles"
+  "oxidized_copper_tiles"
+
+  "waxed_copper_tiles"
+  "waxed_exposed_copper_tiles"
+  "waxed_weathered_copper_tiles"
+  "waxed_oxidized_copper_tiles"
+}
+
+basic_tools {
+  "wrench"
+  "brown_toolbox"
+  "clipboard"
+  "goggles"
+  "super_glue"
+  "crafting_blueprint"
+  "sand_paper"
+  "red_sand_paper"
+}
+
+beverages {
+  "builders_tea"
+}
+
+cooking {
+  "basin"
+  "whisk"
+  "honey_bucket"
+  "chocolate_bucket"
+}
+
+decoration {
+  "peculiar_bell"
+  "haunted_bell"
+  "desk_bell"
+  "red_table_cloth"
+  "andesite_table_cloth"
+  "copper_table_cloth"
+  "rose_quartz_lamp"
+}
+
+foods {
+  "bar_of_chocolate"
+  "sweet_roll"
+  "chocolate_glazed_berries"
+  "honeyed_apple"
+}
+
+furniture {
+  "#create:seats"
+  "cuckoo_clock"
+}
+
+functional_blocks {
+  "schematic_table"
+  "andesite_scaffolding"
+  "brass_scaffolding"
+  "copper_scaffolding"
+}
+
+heavy_tools {
+  "potato_cannon"
+  "extendo_grip"
+  "wand_of_symmetry"
+}
+
+storage {
+  "#create:packages"
+  "item_vault"
+  "item_hatch"
+  "#create:postboxes"
+}
+
+engineering {
+  "linked_controller"
+  "shaft"
+  "cogwheel"
+  "large_cogwheel"
+  "gearbox"
+  "vertical_gearbox"
+  "clutch"
+  "gearshift"
+  "encased_chain_drive"
+  "adjustable_chain_gearshift"
+  "belt_connector"
+  "chain_conveyor"
+  "water_wheel"
+  "lage_water_wheel"
+  "encased_fan"
+  "nozzle"
+  "turn_table"
+  "hand_crank"
+  "millstone"
+  "crushing_wheel"
+  "mechanical_press"
+  "mechanical_mixer"
+  "basin"
+  "empty_blaze_burner"
+  "blaze_burner"
+  "depot"
+  "weighted_ejector"
+  "chute"
+  "smart_chute"
+  "speedometer"
+  "stressometer"
+  "fluid_pipe"
+  "mechanical_pump"
+  "smart_fluid_pipe"
+  "fluid_valve"
+  "copper_valve_handle"
+  "fluid_tank"
+  "hose_pulley"
+  "item_drain"
+  "spout"
+  "portable_fluid_interface"
+  "steam_engine"
+  "steam_whistle"
+  "mechanical_piston"
+  "sticky_mechanical_piston"
+  "piston_extension_pole"
+  "gantry_carriage"
+  "gantry_shaft"
+  "windmill_bearing"
+  "mechanical_bearing"
+  "clockwork_bearing"
+  "rope_pulley"
+  "elevator_pulley"
+  "linear_chassis"
+  "secondary_linear_chassis"
+  "radial_chassis"
+  "sticker"
+  "contraption_controls"
+  "mechanical_drill"
+  "mechanical_saw"
+  "deployer"
+  "portable_storage_interface"
+  "redstone_contact"
+  "mechanical_haverster"
+  "mechanical_plough"
+  "mechanical_roller"
+  "sail_frame"
+  "white_sail"
+  "andesite_casing"
+  "brass_casing"
+  "copper_casin"
+  "mechanical_crafter"
+  "sequenced_gearshift"
+  "flywheel"
+  "rotation_speed_controller"
+  "mechanical_arm"
+  "andesite_funnel"
+  "brass_funnel"
+  "andesite_tunnel"
+  "brass_tunnel"
+  "content_observer"
+  "stockpile_switch"
+  "packager"
+  "repackager"
+  "package_frogport"
+  "stock_link"
+  "stock_ticker"
+  "redstone_requester"
+  "factory_gauge"
+  "display_link"
+  "display_board"
+  "nixie_tube"
+  "redstone_link"
+  "analog_lever"
+  "placard"
+  "pulse_repeater"
+  "pulse_extender"
+  "pulse_timer"
+  "powered_latch"
+  "powered_toggle_latch"
+}
+
+transport {
+  "cart_assembler"
+  "controller_rail"
+  "track"
+  "railway_casing"
+  "schedule"
+  "track_station"
+  "track_signal"
+  "track_observer"
+  "controls"
+}

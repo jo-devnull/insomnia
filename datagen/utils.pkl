@@ -1,0 +1,7 @@
+import "pkl:json" as json
+
+function nameof(file: String) =
+  file.split("/").last.replaceAll(".pkl", "")
+
+function load(filename: String) =
+  new json.Parser { useMapping = true }.parse(read(filename))

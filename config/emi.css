@@ -46,7 +46,7 @@
 	/**
 	 * Which action should be performed when clicking the recipe book.
 	 */
-	recipe-book-action: toggle-craftables;
+	recipe-book-action: default;
 
 	/**
 	 * Where to display status effects in the inventory.
@@ -177,12 +177,12 @@
 	/**
 	 * How many columns and rows of ingredients to limit the left sidebar to
 	 */
-	left-sidebar-size: 12, 100;
+	left-sidebar-size: 12, 3;
 
 	/**
 	 * How much space to maintain between the left sidebar and obstructions, in pixels
 	 */
-	left-sidebar-margins: 2, 2, 2, 2;
+	left-sidebar-margins: 4, 4, 4, 4;
 
 	/**
 	 * Where to position the left sidebar
@@ -202,7 +202,7 @@
 	/**
 	 * The pages in the right sidebar
 	 */
-	right-sidebar-pages: index, craftables;
+	right-sidebar-pages: index;
 
 	/**
 	 * The subpanels in the right sidebar
@@ -212,12 +212,12 @@
 	/**
 	 * How many columns and rows of ingredients to limit the right sidebar to
 	 */
-	right-sidebar-size: 12, 100;
+	right-sidebar-size: 8, 100;
 
 	/**
 	 * How much space to maintain between the right sidebar and obstructions, in pixels
 	 */
-	right-sidebar-margins: 2, 2, 2, 2;
+	right-sidebar-margins: 4, 4, 4, 4;
 
 	/**
 	 * Where to position the right sidebar
@@ -232,7 +232,7 @@
 	/**
 	 * Which theme to use for the right sidebar
 	 */
-	right-sidebar-theme: transparent;
+	right-sidebar-theme: vanilla;
 
 	/**
 	 * The pages in the top sidebar
@@ -453,7 +453,7 @@
 	/**
 	 * Whether editing the index is enabled
 	 */
-	edit-mode: false;
+	edit-mode: true;
 
 	/**
 	 * Whether to log untranslated tags as warnings.
@@ -468,7 +468,7 @@
 	/**
 	 * Whether hovering the output of a recipe should show the recipe's EMI ID.
 	 */
-	show-recipe-ids: false;
+	show-recipe-ids: true;
 
 	/**
 	 * Whether to display additional widgets added to recipes from other mods.

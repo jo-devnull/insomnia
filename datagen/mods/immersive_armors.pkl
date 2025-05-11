@@ -1,0 +1,23 @@
+extends "../categories.pkl"
+
+local armorTypes = List(
+  "bone",
+  "wither",
+  "warrior",
+  "heavy",
+  "robe",
+  "slime",
+  "divine",
+  "prismarine",
+  "wooden",
+  "steampunk"
+)
+
+armor {
+  for (armor in armorTypes) {
+    "\(armor)_helmet"
+    "\(armor)_chestplate"
+    "\(armor)_leggings"
+    "\(armor)_boots"
+  }
+}

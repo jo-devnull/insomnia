@@ -1,0 +1,437 @@
+extends "../categories.pkl"
+
+archery {
+  "#forge:bows"
+  "#minecraft:arrows"
+}
+
+armor {
+  "#forge:armors"
+}
+
+armory {}
+
+basic_tools {
+  "bucket"
+  "fishing_rod"
+  "flint_and_steel"
+  "shears"
+  "brush"
+  "name_tag"
+  "lead"
+  "compass"
+  "recovery_compass"
+  "clock"
+  "spyglass"
+  "map"
+  "writable_book"
+  "elytra"
+  "firework_rocket"
+  "saddle"
+  "carrot_on_a_stick"
+  "warped_fungus_on_a_stick"
+  "goat_horn"
+}
+
+beverages {
+  "honey_bottle"
+  "milk_bucket"
+}
+
+brewing {
+  "brewing_stand"
+  "glass_bottle"
+  "potion"
+}
+
+carpentry {
+  "#minecraft:planks"
+  "#minecraft:wooden_doors"
+  "#minecraft:wooden_trapdoors"
+  "#minecraft:wooden_stairs"
+  "#minecraft:wooden_slabs"
+  "#minecraft:wooden_fences"
+  "#minecraft:fence_gates"
+}
+
+masonry {
+  "stone"
+  "stone_stairs"
+  "stone_slab"
+
+  "cobblestone"
+  "cobblestone_stairs"
+  "cobblestone_slab"
+  "cobblestone_wall"
+
+  "mossy_cobblestone"
+  "mossy_cobblestone_stairs"
+  "mossy_cobblestone_slab"
+  "mossy_cobblestone_wall"
+
+  "smooth_stone"
+  "smooth_stone_slab"
+
+  "stone_bricks"
+  "stone_brick_stairs"
+  "stone_brick_slab"
+  "stone_brick_wall"
+  "cracked_stone_bricks"
+  "chiseled_stone_bricks"
+
+  "mossy_stone_bricks"
+  "mossy_stone_brick_stairs"
+  "mossy_stone_brick_slab"
+  "mossy_stone_brick_wall"
+
+  "diorite"
+  "diorite_stairs"
+  "diorite_slab"
+  "diorite_wall"
+
+  "smooth_diorite"
+  "smooth_diorite_stairs"
+  "smooth_diorite_slab"
+
+  "andesite"
+  "andesite_stairs"
+  "andesite_slab"
+  "andesite_wall"
+
+  "polished_andesite"
+  "polished_andesite_stairs"
+  "polished_andesite_slab"
+
+  "deepslate"
+  "chiseled_deepslate"
+
+  "cobbled_deepslate"
+  "cobbled_deepslate_stairs"
+  "cobbled_deepslate_slab"
+  "cobbled_deepslate_wall"
+
+  "polished_deepslate"
+  "polished_deepslate_stairs"
+  "polished_deepslate_slab"
+  "polished_deepslate_wall"
+
+  "deepslate_bricks"
+  "deepslate_brick_stairs"
+  "deepslate_brick_slab"
+  "deepslate_brick_wall"
+  "cracked_deepslate_bricks"
+
+  "deepslate_tiles"
+  "deepslate_tile_stairs"
+  "deepslate_tile_slab"
+  "deepslate_tile_wall"
+  "cracked_deepslate_tiles"
+  "reinforced_deepslate"
+
+  "bricks"
+  "brick_stairs"
+  "brick_slab"
+  "brick_wall"
+
+  "mud_bricks"
+  "mud_brick_stairs"
+  "mud_brick_slab"
+  "mud_brick_wall"
+}
+
+metalworking {
+  "iron_block"
+  "iron_bars"
+  "iron_door"
+  "iron_trapdoor"
+  "iron_pressure_plate"
+
+  "gold_block"
+  "gold_pressure_plate"
+
+  "copper_block"
+  "cut_copper"
+  "cut_copper_stairs"
+  "cut_copper_slab"
+
+  for (type in List(
+    "exposed",
+    "weathered",
+    "oxidized",
+    "waxed",
+    "waxed_exposed",
+    "waxed_weathered",
+    "waxed_oxidized"
+  )) {
+    "\(type)_copper"
+    "\(type)_cut_copper"
+    "\(type)_cut_copper_stairs"
+    "\(type)_cut_copper_slab"
+  }
+}
+
+geology {
+  "gravel"
+  "calcite"
+  "tuff"
+  "dripstone_block"
+  "dripstone"
+  "magma"
+  "obsidian"
+  "crying_obsidian"
+  "#c:ores"
+  "#c:buds"
+  "budding_amethyst"
+}
+
+block_decoration {
+  "#forge:glass"
+  "#forge:glass_panes"
+
+  "#minecraft:terracota"
+  "#forge:concrete"
+  "#forge:concrete_powders"
+
+  "white_glazed_terracotta"
+  "light_gray_glazed_terracotta"
+  "gray_glazed_terracotta"
+  "black_glazed_terracotta"
+  "brown_glazed_terracotta"
+  "red_glazed_terracotta"
+  "orange_glazed_terracotta"
+  "yellow_glazed_terracotta"
+  "lime_glazed_terracotta"
+  "green_glazed_terracotta"
+  "cyan_glazed_terracotta"
+  "light_blue_glazed_terracotta"
+  "blue_glazed_terracotta"
+  "purple_glazed_terracotta"
+  "magenta_glazed_terracotta"
+  "pink_glazed_terracotta"
+}
+
+cooking {
+  "bucket"
+  "glass_bottle"
+  "furnace"
+  "smoker"
+  "campfire"
+}
+
+decoration {
+  "#minecraft:wool_carpets"
+  "cyan_banner"
+  "carved_pumpkin"
+  "jack_o_lantern"
+  "#minecraft:candles"
+  "torch"
+  "soul_torch"
+  "lantern"
+  "soul_lantern"
+  "redstone_lamp"
+  "bell"
+  "flower_pot"
+  "decorated_pot"
+  "item_frame"
+  "glow_item_frame"
+  "painting"
+  "#forge:heads"
+}
+
+enchanting {
+  "enchanting_table"
+  "bookshelf"
+  "chiseled_bookshelf"
+  "lectern"
+  "book"
+  "enchanted_book"
+}
+
+engineering {
+  "redstone"
+  "repeater"
+  "comparator"
+  "lever"
+  "sculk_sensor"
+  "calibrated_sculk_sensor"
+  "tripwire_hook"
+  "daylight_detector"
+  "piston"
+  "sticky_piston"
+  "dispenser"
+  "dropper"
+  "hopper"
+  "observer"
+}
+
+farming {
+  "#minecraft:dirt"
+  "#minecraft:sapplings"
+  "#forge:mushrooms"
+  "bamboo"
+  "sugar_cane"
+  "cactus"
+  "#forge:seeds"
+  "#forge:crops"
+  "pumpkin"
+  "melon"
+  "bee_nest"
+  "beehive"
+  "honeycomb_block"
+  "honey_block"
+  "composter"
+  "bone_meal"
+  "water_bucket"
+}
+
+fishing {
+  "#forge:tools/fishing_rods"
+  "bucket"
+  "#c:entity_water_buckets"
+  "#minecraft:fishes"
+}
+
+foods {
+  "#forge:fruits"
+  "#c:foods"
+}
+
+functional_blocks {
+  "crafting_table"
+  "stonecutter"
+  "cartography_table"
+  "fletching_table"
+  "smithing_table"
+  "grindstone"
+  "loom"
+  "furnace"
+  "smoker"
+  "blast_furnace"
+  "campfire"
+  "soul_campfire"
+  "anvil"
+  "composter"
+  "note_block"
+  "jukebox"
+  "enchanting_table"
+  "brewing_stand"
+  "cauldron"
+  "bell"
+  "beacon"
+  "ladder"
+  "scaffolding"
+  "beehive"
+  "armor_stand"
+  "bookshelf"
+  "chiseled_bookshelf"
+  "lectern"
+  "chest"
+  "barrel"
+  "ender_chest"
+}
+
+furniture {
+  "#minecraft:beds"
+  "cauldron"
+  "armor_stand"
+  "bookshelf"
+  "chiseled_bookshelf"
+  "lectern"
+  "chest"
+  "barrel"
+  "ender_chest"
+}
+
+gardening {
+  "grass"
+  "tall_grass"
+  "fern"
+  "large_fern"
+  "dead_bush"
+  "dirt"
+  "grass_block"
+  "moss_block"
+  "moss_carpet"
+  "#minecraft:leaves"
+  "#minecraft:saplings"
+  "#forge:mushrooms"
+  "#minecraft:flowers"
+  "cactus"
+  "crimson_roots"
+  "warped_roots"
+  "nether_sprouts"
+  "weeping_vines"
+  "twisting_vines"
+  "vine"
+  "big_dripleaf"
+  "small_dripleaf"
+  "glow_lichen"
+  "hanging_roots"
+  "lily_pad"
+  "sea_grass"
+  "sea_pickle"
+  "kelp"
+}
+
+heavy_tools {
+  "#forge:tools/knives"
+  "#minecraft:axes"
+  "#forge:tools/axes"
+  "#minecraft:hoes"
+  "#forge:tools/hoes"
+  "#minecraft:shovels"
+  "#forge:tools/shovels"
+  "#minecraft:pickaxes"
+  "#forge:tools/pickaxes"
+}
+
+storage {
+  "chest"
+  "ender_chest"
+  "chest_minecart"
+  "trapped_chest"
+  "barrel"
+  "bookshelf"
+  "chiseled_bookshelf"
+  "oak_chest_boat"
+  "#c:shulker_boxes"
+}
+
+transport {
+  "elytra"
+  "saddle"
+  "lead"
+  "#minecraft:rails"
+  "minecart"
+  "hopper_minecart"
+  "chest_minecart"
+  "furnace_minecart"
+  "tnt_minecart"
+  "#minecraft:boats"
+}
+
+weapons {
+  "#minecraft:axes"
+  "#minecraft:swords"
+  "trident"
+  "shield"
+}
+
+witchcraft {
+  "end_crystal"
+  "cauldron"
+  "ender_eye"
+  "dragon_egg"
+  "fire_charge"
+  "ender_pearl"
+  "totem_of_undying"
+  "glass_bottle"
+  "dragon_breath"
+  "spider_eye"
+  "fermented_spider_eye"
+  "nether_star"
+  "blaze_powder"
+  "blaze_rod"
+  "rabbit_foot"
+  "magma_cream"
+}

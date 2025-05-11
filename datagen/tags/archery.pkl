@@ -1,0 +1,4 @@
+minecraft {
+  "#forge:bows"
+  "#minecraft:arrows"
+}

@@ -1,0 +1,66 @@
+import "./tags/@tags.pkl" as tags
+import "./utils.pkl" as utils
+
+const path {
+  data = "./resourcepacks/@insomnia/data"
+  assets = "./resourcepacks/@insomnia/assets"
+}
+
+const json: FileOutput = new {
+  value = null
+  renderer = new JsonRenderer {}
+}
+
+function buildEmi() = new Mapping<String, FileOutput> {
+  ["emi.json"] = (json) {
+    value {
+      hidden_stacks = utils.load("../emi.json")
+        .getOrNull("hidden_stacks")
+
+      favorites = new Listing {
+        for (tag in tags.toMap().keys) {
+          new { stack = "#item:category:\(tag)" }
+        }
+      }
+    }
+  }
+}
+
+function buildLang() = new Mapping<String, FileOutput> {
+  ["\(path.assets)/category/lang/pt_br.json"] = (json) {
+    value {
+      for (key, tag in tags.toMap()) {
+        ["tag.item.category.\(key)"] = tag.title
+      }
+    }
+  }
+}
+
+function buildTags() = new Mapping<String, FileOutput> {
+  for (key, tag in tags.toMap()) {
+    ["\(path.data)/category/tags/items/\(key).json"] = (json) {
+      value {
+        replace = false
+        values = new Listing<String> {
+          for (modname, list in tag.mod) {
+            for (item in list) {
+              if (item.contains(":")) item else "\(modname):\(item)"
+            }
+          }
+        }
+      }
+    }
+
+    ["\(path.assets)/models/tag/item/\(key).json"] = (json) {
+      value { parent = tag.icon }
+    }
+  }
+}
+
+output {
+  files {
+    ...buildEmi()
+    ...buildTags()
+    ...buildLang()
+  }
+}

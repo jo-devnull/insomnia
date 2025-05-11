@@ -1,31 +1,95 @@
 {
-  "favorites": [],
-  "lookup_history": [
-    "item:createfood:apple_cheesecake_slice",
-    "item:brewinandchewin:glittering_grenadine{\"fiahi:temperature\":0}",
-    "item:brewinandchewin:mead",
-    "item:minecraft:tropical_fish",
-    "item:minecraft:cooked_beef",
-    "item:minecraft:cooked_mutton",
-    "item:minecraft:potato",
-    "item:minecraft:crimson_fence_gate",
-    "item:minecraft:glow_berries",
-    "item:minecraft:enchanted_golden_apple",
-    "item:ftbquests:book",
-    "item:farmersdelight:milk_bottle",
-    "item:minecraft:glass_bottle",
-    "item:minecraft:acacia_fence_gate",
-    "item:minecraft:mangrove_slab",
-    "item:minecraft:acacia_door",
-    "item:minecraft:acacia_trapdoor",
-    "item:minecraft:recovery_compass"
+  "hidden_stacks": [
+    "item:minecraft:goat_horn{instrument:\"minecraft:sing_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:seek_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:feel_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:admire_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:call_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:yearn_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:dream_goat_horn\"}",
+    "item:create:netherite_backtank",
+    "item:minecraft:firework_rocket{Fireworks:{Flight:2b}}",
+    "item:minecraft:firework_rocket{Fireworks:{Flight:3b}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:kebab\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:aztec\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:alban\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:aztec2\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:bomb\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:plant\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:wasteland\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:wanderer\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:graham\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:bust\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:match\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"alexsmobs:dog_poker\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:creebet\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:sunset\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:sea\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:courbet\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:pool\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:stage\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:void\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:skull_and_roses\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:wither\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"alexsmobs:nft\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"supplementaries:bombs\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:fighters\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:skeleton\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:burning_skull\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:pigscene\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:pointer\"}}",
+    "item:minecraft:painting{EntityTag:{variant:\"minecraft:donkey_kong\"}}",
+    "item:minecraft:water_bucket{}",
+    "item:minecraft:water_bucket{Purity:1}",
+    "item:minecraft:water_bucket{Purity:3}",
+    "item:minecraft:water_bucket",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:100,EffectId:16,\"forge:effect_id\":\"minecraft:night_vision\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:80,EffectId:12,\"forge:effect_id\":\"minecraft:fire_resistance\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:0,EffectId:1,\"forge:effect_id\":\"minecraft:speed\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:0,EffectId:9,\"forge:effect_id\":\"minecraft:nausea\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:160,EffectId:15,\"forge:effect_id\":\"minecraft:blindness\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:0,EffectId:21,\"forge:effect_id\":\"minecraft:health_boost\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:180,EffectId:18,\"forge:effect_id\":\"minecraft:weakness\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:0,EffectId:22,\"forge:effect_id\":\"minecraft:absorption\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:160,EffectId:10,\"forge:effect_id\":\"minecraft:regeneration\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:0,EffectId:14,\"forge:effect_id\":\"minecraft:invisibility\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:120,EffectId:8,\"forge:effect_id\":\"minecraft:jump_boost\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:0,EffectId:10,\"forge:effect_id\":\"minecraft:regeneration\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:240,EffectId:19,\"forge:effect_id\":\"minecraft:poison\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:0,EffectId:24,\"forge:effect_id\":\"minecraft:glowing\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:160,EffectId:20,\"forge:effect_id\":\"minecraft:wither\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:0,EffectId:27,\"forge:effect_id\":\"minecraft:unluck\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:160,EffectId:13,\"forge:effect_id\":\"minecraft:water_breathing\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:160,EffectId:9,\"forge:effect_id\":\"minecraft:nausea\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:120,EffectId:4,\"forge:effect_id\":\"minecraft:mining_fatigue\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:200,EffectId:19,\"forge:effect_id\":\"minecraft:poison\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:120,EffectId:12,\"forge:effect_id\":\"minecraft:fire_resistance\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:120,EffectId:5,\"forge:effect_id\":\"minecraft:strength\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:0,EffectId:13,\"forge:effect_id\":\"minecraft:water_breathing\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:0,EffectId:12,\"forge:effect_id\":\"minecraft:fire_resistance\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:120,EffectId:24,\"forge:effect_id\":\"minecraft:glowing\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:200,EffectId:3,\"forge:effect_id\":\"minecraft:haste\"}]}",
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:300,EffectId:24,\"forge:effect_id\":\"minecraft:glowing\"}]}",
+    "item:create:builders_tea"
   ],
-  "craft_history": [],
-  "recipe_defaults": {
-    "added": [],
-    "tags": {},
-    "resolutions": {},
-    "disabled": []
-  },
-  "hidden_stacks": []
+  "favorites": [
+    {
+      "stack": "#item:category:basic_tools"
+    },
+    {
+      "stack": "#item:category:beverages"
+    },
+    {
+      "stack": "#item:category:brewing"
+    },
+    {
+      "stack": "#item:category:archery"
+    },
+    {
+      "stack": "#item:category:armor"
+    },
+    {
+      "stack": "#item:category:armory"
+    }
+  ]
 }
