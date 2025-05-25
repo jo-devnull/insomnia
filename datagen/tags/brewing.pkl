@@ -1,0 +1,17 @@
+minecraft {
+  "brewing_stand"
+  "glass_bottle"
+  "potion"
+}
+
+irons_spellbooks {
+  "oakskin_elixir"
+  "greater_oakskin_elixir"
+  "greater_healing_potion"
+  "invisibility_elixir"
+  "greater_invisibility_elixir"
+  "evasion_elixir"
+  "greater_evasion_elixir"
+  "fire_ale"
+  "netherward_tincture"
+}

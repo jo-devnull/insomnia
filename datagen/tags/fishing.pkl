@@ -1,0 +1,6 @@
+minecraft {
+  "#forge:tools/fishing_rods"
+  "bucket"
+  "#c:entity_water_buckets"
+  "#minecraft:fishes"
+}

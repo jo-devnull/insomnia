@@ -1,0 +1,16 @@
+minecraft {
+  "#minecraft:beds"
+  "cauldron"
+  "armor_stand"
+  "bookshelf"
+  "chiseled_bookshelf"
+  "lectern"
+  "chest"
+  "barrel"
+  "ender_chest"
+}
+
+create {
+  "#create:seats"
+  "cuckoo_clock"
+}

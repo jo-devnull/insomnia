@@ -167,7 +167,7 @@
 	/**
 	 * The pages in the left sidebar
 	 */
-	left-sidebar-pages: favorites;
+	left-sidebar-pages: none;
 
 	/**
 	 * The subpanels in the left sidebar
@@ -177,7 +177,7 @@
 	/**
 	 * How many columns and rows of ingredients to limit the left sidebar to
 	 */
-	left-sidebar-size: 12, 3;
+	left-sidebar-size: 9, 16;
 
 	/**
 	 * How much space to maintain between the left sidebar and obstructions, in pixels
@@ -207,12 +207,12 @@
 	/**
 	 * The subpanels in the right sidebar
 	 */
-	right-sidebar-subpanels: none;
+	right-sidebar-subpanels: favorites 3;
 
 	/**
 	 * How many columns and rows of ingredients to limit the right sidebar to
 	 */
-	right-sidebar-size: 8, 100;
+	right-sidebar-size: 9, 100;
 
 	/**
 	 * How much space to maintain between the right sidebar and obstructions, in pixels
@@ -453,7 +453,7 @@
 	/**
 	 * Whether editing the index is enabled
 	 */
-	edit-mode: true;
+	edit-mode: false;
 
 	/**
 	 * Whether to log untranslated tags as warnings.

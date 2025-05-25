@@ -1,0 +1,60 @@
+import "../utils.pkl" as utils
+
+minecraft {
+  "#minecraft:wool_carpets"
+  "cyan_banner"
+  "carved_pumpkin"
+  "jack_o_lantern"
+  "#minecraft:candles"
+  "torch"
+  "soul_torch"
+  "lantern"
+  "soul_lantern"
+  "redstone_lamp"
+  "bell"
+  "flower_pot"
+  "decorated_pot"
+  "item_frame"
+  "glow_item_frame"
+  "painting"
+  "#forge:heads"
+}
+
+create {
+  "peculiar_bell"
+  "haunted_bell"
+  "desk_bell"
+  "red_table_cloth"
+  "andesite_table_cloth"
+  "copper_table_cloth"
+  "rose_quartz_lamp"
+}
+
+supplementaries {
+  "statue"
+  "globe"
+  "globe_sepia"
+  "globet"
+  "flag_purple"
+  "sconce"
+  "sconce_soul"
+  "sconce_lever"
+  "stone_lamp"
+  "blackstone_lamp"
+  "deepslate_lamp"
+  "fire_pit"
+  "pedestal"
+  "blackboard"
+  "notice_board"
+  "clock_block"
+
+  "awning"
+  "present"
+  "candle_holder"
+
+  for (color in utils.BlockColors) {
+    "candle_holder_\(color)"
+    "awning_\(color)"
+    "present_\(color)"
+  }
+}

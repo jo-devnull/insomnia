@@ -1,0 +1,17 @@
+minecraft {
+  "#forge:tools/knives"
+  "#minecraft:axes"
+  "#forge:tools/axes"
+  "#minecraft:hoes"
+  "#forge:tools/hoes"
+  "#minecraft:shovels"
+  "#forge:tools/shovels"
+  "#minecraft:pickaxes"
+  "#forge:tools/pickaxes"
+}
+
+create {
+  "potato_cannon"
+  "extendo_grip"
+  "wand_of_symmetry"
+}

@@ -24,7 +24,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "1d5a54b5a2b6e7ff5f15257b21491915ee3c0fb8b3f15ef8035d5f42687b985d"
+hash = "ccbac949fb5276a4c6016043a0fe237a72d4b5cb9fcaae719070e39712f45dff"
 preserve = true
 
 [[files]]
@@ -114,7 +114,7 @@ hash = "682bf5b88a35bfefd28b349d035c1a591829aab96b0d3fb07481a928d4b2bdd1"
 
 [[files]]
 file = "emi.json"
-hash = "f3487f16dec9a810ee7c794253549b4a58638fe2cd95e1a639daf9aa22a67d9d"
+hash = "a76484b244e40aee2b575bdc1d0e4cca6ee907a3087c29266e3677bdc256789d"
 
 [[files]]
 file = "mods/cooking/brewin-and-chewin.pw.toml"
@@ -1168,7 +1168,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "636ca64a68911f6cad827ff7a51f6f421c6e48a1c6ed948556700dd37d90634e"
+hash = "3245447a283199398bd9ade341670f5d9d51ea2de1a1292e5329667b06348714"
 
 [[files]]
 file = "resourcepacks/@InsomniaUI/assets/emi/textures/gui/background.png"
@@ -1195,100 +1195,8 @@ file = "resourcepacks/@InsomniaUI/pack.mcmeta"
 hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
-file = "resourcepacks/@insomnia/assets/category/lang/pt_br.json"
-hash = "7cefa9a21aa62e3a21b793cc92cb1456e00ea5bfb200134e97047c2c865b77af"
-
-[[files]]
-file = "resourcepacks/@insomnia/assets/models/tag/item/archery.json"
-hash = "73190710874ff1cc718a42e3cee8bfe1f61ca34cb62f747a6f6e0d6555976506"
-
-[[files]]
-file = "resourcepacks/@insomnia/assets/models/tag/item/armor.json"
-hash = "1100fd257c52ab905ef8fa4d842c21ae58be3d74d5f89719860191334ea2ea39"
-
-[[files]]
-file = "resourcepacks/@insomnia/assets/models/tag/item/armory.json"
-hash = "ba232fdfd04fd4d236bad9e363e1df5160107c5ed7808b2d513f184815cb689f"
-
-[[files]]
-file = "resourcepacks/@insomnia/assets/models/tag/item/basic_tools.json"
-hash = "5ac8af533532591102538946bb69e5c4791013e769fc27f5be62eed943af7b05"
-
-[[files]]
-file = "resourcepacks/@insomnia/assets/models/tag/item/beverages.json"
-hash = "e14a9e2d996f6e098bc170b15a14dc6f8a6af03f1974efca42fbbd4aa7cd454e"
-
-[[files]]
-file = "resourcepacks/@insomnia/assets/models/tag/item/brewing.json"
-hash = "0716931bc9ed7cda8bd760eecc7f7f087a57df0836eef2f0e89a68972a83cee3"
-
-[[files]]
-file = "resourcepacks/@insomnia/data/category/tags/items/archery.json"
-hash = "c416da2d5a1c5d39b3668d11a0bdf4db74f7462dfa28e0ef3294480a56ac106b"
-
-[[files]]
-file = "resourcepacks/@insomnia/data/category/tags/items/armor.json"
-hash = "e4b7b98f85320dd4ad431cc32910ba7cf5f254aa8936f2e65884c77787772b5c"
-
-[[files]]
-file = "resourcepacks/@insomnia/data/category/tags/items/armory.json"
-hash = "0c615d27d6e7932dab70603593b0d4b2098f06e605c17c7e8549a677ec84ef94"
-
-[[files]]
-file = "resourcepacks/@insomnia/data/category/tags/items/basic_tools.json"
-hash = "0c615d27d6e7932dab70603593b0d4b2098f06e605c17c7e8549a677ec84ef94"
-
-[[files]]
-file = "resourcepacks/@insomnia/data/category/tags/items/beverages.json"
-hash = "0c615d27d6e7932dab70603593b0d4b2098f06e605c17c7e8549a677ec84ef94"
-
-[[files]]
-file = "resourcepacks/@insomnia/data/category/tags/items/brewing.json"
-hash = "0c615d27d6e7932dab70603593b0d4b2098f06e605c17c7e8549a677ec84ef94"
-
-[[files]]
-file = "resourcepacks/@insomnia/data/fromtheshadows/forge/biome_modifier/nether_spawns.json"
-hash = "c51f11ddbda1479e1f0ecd6c5521607f99f58a2371967ef22d5f2f2b0b1d39d7"
-
-[[files]]
-file = "resourcepacks/@insomnia/data/fromtheshadows/forge/biome_modifier/spawns.json"
-hash = "7fed2aa5b899dd1f8a0e77c03fd11431a13c69db88ed26d42c65f14c48828726"
-
-[[files]]
-file = "resourcepacks/@insomnia/data/superflat/dimension/superflat.json"
-hash = "60464090d397d47355ba8f7ffe5eae1a9e83ea584cfd614c5ce24568fd090069"
-
-[[files]]
-file = "resourcepacks/@insomnia/data/tweaks/recipes/campfire_water_from_snow copy.json"
-hash = "5bf94e06b36c5b243c38238c5f4a088c3d12778b75dc4178b06fc3e707a675dd"
-
-[[files]]
-file = "resourcepacks/@insomnia/data/tweaks/recipes/leather.json"
-hash = "97ea527969929022312e7642baefec36a4ef156bd9e779bb9eb5359fd67a9d0f"
-
-[[files]]
-file = "resourcepacks/@insomnia/data/tweaks/recipes/lit_campfire.json"
-hash = "5baf17b85cb0161c426cda9f16a8002d9253f07fe278ee272632d6270c6d4c57"
-
-[[files]]
-file = "resourcepacks/@insomnia/data/tweaks/recipes/paper_from_bark.json"
-hash = "2825b8924770f703091386629ec12d39b2317d36fb4fd3a10170db5f45684993"
-
-[[files]]
-file = "resourcepacks/@insomnia/data/tweaks/recipes/saddle.json"
-hash = "d770f722c14b11e48f0015e184c8359034ff57e00aa5a80c73bf425423f5dec0"
-
-[[files]]
-file = "resourcepacks/@insomnia/data/tweaks/recipes/smelting_water_from_snow.json"
-hash = "718a8d424d35eea4a8d3f9be8ae9987f5b9bcaff2a7185b428224f92a8d1fb51"
-
-[[files]]
-file = "resourcepacks/@insomnia/data/waystones/loot_tables/blocks/waystone.json"
-hash = "89914390432b72ec6687d743405ef36b133420ffcdb9737411859c0689adf2b9"
-
-[[files]]
-file = "resourcepacks/@insomnia/pack.mcmeta"
-hash = "fd15bf8b2e9c1a9c6f4163a6622aab52b85a579ae0c973e7eb4b6f4acf4d790d"
+file = "resourcepacks/@insomnia.zip"
+hash = "63ef922e8d814530844c74baac8c4f3dafde819c16990d89d87c5cfdbf688406"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"

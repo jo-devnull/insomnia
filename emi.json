@@ -74,22 +74,82 @@
   ],
   "favorites": [
     {
+      "stack": "#item:category:functional_blocks"
+    },
+    {
       "stack": "#item:category:basic_tools"
+    },
+    {
+      "stack": "#item:category:heavy_tools"
+    },
+    {
+      "stack": "#item:category:cooking"
+    },
+    {
+      "stack": "#item:category:foods"
     },
     {
       "stack": "#item:category:beverages"
     },
     {
-      "stack": "#item:category:brewing"
+      "stack": "#item:category:furniture"
+    },
+    {
+      "stack": "#item:category:decoration"
+    },
+    {
+      "stack": "#item:category:block_decoration"
+    },
+    {
+      "stack": "#item:category:storage"
     },
     {
       "stack": "#item:category:archery"
+    },
+    {
+      "stack": "#item:category:weapons"
     },
     {
       "stack": "#item:category:armor"
     },
     {
       "stack": "#item:category:armory"
+    },
+    {
+      "stack": "#item:category:gardening"
+    },
+    {
+      "stack": "#item:category:carpentry"
+    },
+    {
+      "stack": "#item:category:masonry"
+    },
+    {
+      "stack": "#item:category:metalworking"
+    },
+    {
+      "stack": "#item:category:engineering"
+    },
+    {
+      "stack": "#item:category:farming"
+    },
+    {
+      "stack": "#item:category:fishing"
+    },
+    {
+      "stack": "#item:category:geology"
+    },
+    {
+      "stack": "#item:category:transport"
+    },
+    {
+      "stack": "#item:category:brewing"
+    },
+    {
+      "stack": "#item:category:enchanting"
+    },
+    {
+      "stack": "#item:category:witchcraft"
     }
   ]
 }

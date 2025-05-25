@@ -1,0 +1,24 @@
+minecraft {
+  "elytra"
+  "saddle"
+  "lead"
+  "#minecraft:rails"
+  "minecart"
+  "hopper_minecart"
+  "chest_minecart"
+  "furnace_minecart"
+  "tnt_minecart"
+  "#minecraft:boats"
+}
+
+create {
+  "cart_assembler"
+  "controller_rail"
+  "track"
+  "railway_casing"
+  "schedule"
+  "track_station"
+  "track_signal"
+  "track_observer"
+  "controls"
+}

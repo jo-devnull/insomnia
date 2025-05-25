@@ -51,7 +51,7 @@ function buildTags() = new Mapping<String, FileOutput> {
       }
     }
 
-    ["\(path.assets)/models/tag/item/\(key).json"] = (json) {
+    ["\(path.assets)/category/models/tag/item/\(key).json"] = (json) {
       value { parent = tag.icon }
     }
   }

@@ -1,0 +1,102 @@
+minecraft {
+  "iron_block"
+  "iron_bars"
+  "iron_door"
+  "iron_trapdoor"
+  "iron_pressure_plate"
+
+  "gold_block"
+  "gold_pressure_plate"
+
+  "copper_block"
+  "cut_copper"
+  "cut_copper_stairs"
+  "cut_copper_slab"
+
+  for (type in List(
+    "exposed",
+    "weathered",
+    "oxidized",
+    "waxed",
+    "waxed_exposed",
+    "waxed_weathered",
+    "waxed_oxidized"
+  )) {
+    "\(type)_copper"
+    "\(type)_cut_copper"
+    "\(type)_cut_copper_stairs"
+    "\(type)_cut_copper_slab"
+  }
+}
+
+create {
+  "metal_girder"
+  "copycat_step"
+  "copycat_panel"
+  "zinc_block"
+  "andesite_alloy_block"
+  "industrial_iron_block"
+  "weathered_iron_block"
+  "brass_block"
+  "bound_cardboard_block"
+
+  "copper_shingle_slab"
+  "exposed_copper_shingle_slab"
+  "weathered_copper_shingle_slab"
+  "oxidized_copper_shingle_slab"
+
+  "copper_shingle_stairs"
+  "exposed_copper_shingle_stairs"
+  "weathered_copper_shingle_stairs"
+  "oxidized_copper_shingle_stairs"
+
+  "waxed_copper_shingle_slab"
+  "waxed_exposed_copper_shingle_slab"
+  "waxed_weathered_copper_shingle_slab"
+  "waxed_oxidized_copper_shingle_slab"
+
+  "waxed_copper_shingle_stairs"
+  "waxed_exposed_copper_shingle_stairs"
+  "waxed_weathered_copper_shingle_stairs"
+  "waxed_oxidized_copper_shingle_stairs"
+
+  "copper_tiles_slab"
+  "exposed_copper_tiles_slab"
+  "weathered_copper_tiles_slab"
+  "oxidized_copper_tiles_slab"
+
+  "copper_tiles_stairs"
+  "exposed_copper_tiles_stairs"
+  "weathered_copper_tiles_stairs"
+  "oxidized_copper_tiles_stairs"
+
+  "waxed_copper_tiles_slab"
+  "waxed_exposed_copper_tiles_slab"
+  "waxed_weathered_copper_tiles_slab"
+  "waxed_oxidized_copper_tiles_slab"
+
+  "waxed_copper_tiles_stairs"
+  "waxed_exposed_copper_tiles_stairs"
+  "waxed_weathered_copper_tiles_stairs"
+  "waxed_oxidized_copper_tiles_stairs"
+
+  "copper_shingles"
+  "exposed_copper_shingles"
+  "weathered_copper_shingles"
+  "oxidized_copper_shingles"
+
+  "waxed_copper_shingles"
+  "waxed_exposed_copper_shingles"
+  "waxed_weathered_copper_shingles"
+  "waxed_oxidized_copper_shingles"
+
+  "copper_tiles"
+  "exposed_copper_tiles"
+  "weathered_copper_tiles"
+  "oxidized_copper_tiles"
+
+  "waxed_copper_tiles"
+  "waxed_exposed_copper_tiles"
+  "waxed_weathered_copper_tiles"
+  "waxed_oxidized_copper_tiles"
+}

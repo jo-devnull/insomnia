@@ -5,3 +5,22 @@ function nameof(file: String) =
 
 function load(filename: String) =
   new json.Parser { useMapping = true }.parse(read(filename))
+
+const BlockColors = List(
+  "white",
+  "light_gray",
+  "gray",
+  "black",
+  "brown",
+  "red",
+  "orange",
+  "yellow",
+  "lime",
+  "green",
+  "cyan",
+  "light_blue",
+  "blue",
+  "purple",
+  "magenta",
+  "pink"
+)

@@ -1,0 +1,14 @@
+minecraft {
+  "bucket"
+  "glass_bottle"
+  "furnace"
+  "smoker"
+  "campfire"
+}
+
+create {
+  "basin"
+  "whisk"
+  "honey_bucket"
+  "chocolate_bucket"
+}

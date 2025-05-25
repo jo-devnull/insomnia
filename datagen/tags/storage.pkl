@@ -1,0 +1,18 @@
+minecraft {
+  "chest"
+  "ender_chest"
+  "chest_minecart"
+  "trapped_chest"
+  "barrel"
+  "bookshelf"
+  "chiseled_bookshelf"
+  "oak_chest_boat"
+  "#c:shulker_boxes"
+}
+
+create {
+  "#create:packages"
+  "item_vault"
+  "item_hatch"
+  "#create:postboxes"
+}
