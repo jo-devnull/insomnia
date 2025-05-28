@@ -10,7 +10,7 @@ hash = "89a9290be73ad0a806bc04d3edb126dab52f27b8a0604bda4b633f7ec046182a"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "46f779ac91b91cef0d7dfc4e154342ea6cb30c8b50d55aad34d1c708a71df64e"
+hash = "67e483ac452b8fa138f6570b315eb28234c66af40ba914f5f3c9685ca01904b6"
 preserve = true
 
 [[files]]
@@ -114,7 +114,7 @@ hash = "682bf5b88a35bfefd28b349d035c1a591829aab96b0d3fb07481a928d4b2bdd1"
 
 [[files]]
 file = "emi.json"
-hash = "a76484b244e40aee2b575bdc1d0e4cca6ee907a3087c29266e3677bdc256789d"
+hash = "bbdac6755152e1c8a3e7a5a8a54fd60f3f7ab53e1d3ba60601ea66b6011d3e44"
 
 [[files]]
 file = "mods/cooking/brewin-and-chewin.pw.toml"
@@ -1062,6 +1062,11 @@ hash = "5887505fb4f8db231ae869def3941cfeafe094b14016a0d140f110174893ab68"
 metafile = true
 
 [[files]]
+file = "mods/utilities/sodium-dynamic-lights.pw.toml"
+hash = "09156450778933479ef213f23d27ee61694627d1a7c228140c73bf6d9238f5de"
+metafile = true
+
+[[files]]
 file = "mods/utilities/wits.pw.toml"
 hash = "efae7db58221428950ad0f2294efb5e8040ac62fc01d8235f5681a8110cd7de6"
 metafile = true
@@ -1168,7 +1173,8 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "3245447a283199398bd9ade341670f5d9d51ea2de1a1292e5329667b06348714"
+hash = "6d5fa15b4fac2a38a004f94f6443f0a0b410650334f3d9b31eacde10c7fb33f4"
+preserve = true
 
 [[files]]
 file = "resourcepacks/@InsomniaUI/assets/emi/textures/gui/background.png"
