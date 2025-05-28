@@ -62,5 +62,14 @@ output {
     ...buildEmi()
     ...buildTags()
     ...buildLang()
+
+    ["./resourcepacks/@insomnia/pack.mcmeta"] = (json) {
+      value {
+        pack {
+          pack_format = 15
+          description = "Data & Assets for the modpack"
+        }
+      }
+    }
   }
 }

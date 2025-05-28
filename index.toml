@@ -63,7 +63,7 @@ preserve = true
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "1cc58958465c96c7a1a4360b6160301dad372e24fc376d8eb8424efdf81b0068"
+hash = "6613016a8801627d78d23a3f6ca783ad4ffc4ab1547ab65963de29ce8664e47b"
 
 [[files]]
 file = "config/rootoffear/common.toml"
@@ -1196,7 +1196,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "63ef922e8d814530844c74baac8c4f3dafde819c16990d89d87c5cfdbf688406"
+hash = "62eac5620cd31dbbfa299ee2fddcfe16abedc3a255a539e18f2bf30afb90e255"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
