@@ -74,12 +74,30 @@
     },
     {
       "stack": "#item:category:witchcraft"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "thirst:terracotta_water_bowl",
+        "nbt": "{Purity:1}",
+        "amount": 6
+      }
     }
   ],
   "lookup_history": [
+    "item:fromtheshadows:devil_splitter{Damage:0}",
+    "item:minecraft:leather",
+    "item:supplementaries:bellows",
+    "item:minecraft:anvil",
+    "item:minecraft:soul_campfire",
+    {
+      "type": "item",
+      "id": "minecraft:iron_ingot",
+      "amount": 9
+    },
+    "item:simplyswords:iron_katana{Damage:0}",
     "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]}}",
     "item:minecraft:saddle",
-    "item:minecraft:leather",
     "item:travelersbackpack:white_sleeping_bag",
     "#item:travelersbackpack:sleeping_bags",
     "item:notreepunching:flint_shovel{Damage:0}",
@@ -96,6 +114,11 @@
     "item:notreepunching:flint_axe{Damage:0}"
   ],
   "craft_history": [
+    "notreepunching:string_from_wool_with_knife",
+    "create_ironworks:armor/boots/copper",
+    "simplyswords:iron_katana",
+    "create_ironworks:armor/leggings/copper",
+    "create_ironworks:armor/chestplate/copper",
     "minecraft:iron_pickaxe",
     "minecraft:chest",
     "farmersdelight:cutting_board",

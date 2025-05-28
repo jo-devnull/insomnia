@@ -1,13 +1,13 @@
 name = "Minecraft Cursor"
-filename = "../minecraft-cursor-forge-3.6.7+1.20.1.jar"
+filename = "../minecraft-cursor-forge-3.8.0+1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4494dd202bc602866789e5a33586a9e594b67a21"
+hash = "5b2db181702f6dfdd6936cb08f0920f556556159"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6441052
+file-id = 6552006
 project-id = 1184736
