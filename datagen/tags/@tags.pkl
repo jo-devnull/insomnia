@@ -99,12 +99,6 @@ armory = new ItemTag {
 
 // Professions
 
-gardening = new ItemTag {
-  title = "Jardinagem"
-  icon = "minecraft:item/flowering_azalea_leaves"
-  mod = import("./gardening.pkl").toMap()
-}
-
 carpentry = new ItemTag {
   title = "Carpintaria"
   icon = "minecraft:item/oak_planks"
@@ -139,12 +133,6 @@ fishing = new ItemTag {
   title = "Pescaria"
   icon = "minecraft:item/fishing_rod"
   mod = import("./fishing.pkl").toMap()
-}
-
-geology = new ItemTag {
-  title = "Geologia"
-  icon = "minecraft:item/dripstone_block"
-  mod = import("./geology.pkl").toMap()
 }
 
 transport = new ItemTag {

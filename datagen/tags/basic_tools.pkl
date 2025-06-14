@@ -45,3 +45,64 @@ supplementaries {
   "confetti_popper"
   "quiver"
 }
+
+toolbelt {
+  "belt"
+  "pouch"
+}
+
+all_bark_all_bite {
+  "whistle"
+}
+
+redeco {
+  "hammer"
+}
+
+alexsmobs {
+  "chorus_on_a_stick"
+}
+
+automobility {
+  "crowbar"
+}
+
+betterarcheology {
+  "iron_brush"
+  "diamond_brush"
+  "netherite_brush"
+  "radiance_totem"
+  "torrent_totem"
+  "soul_totem"
+  "growth_totem"
+}
+
+createdieselgenerators {
+  "wire_cutters"
+  "hammer"
+  "engine_silencer"
+  "engine_turbocharger"
+  "oil_scanner"
+  "chemical_sprayer"
+  "chemical_sprayer_lighter"
+}
+
+cold_sweat {
+  "waterskin"
+  "filled_waterskin"
+  "soulspring_lamp"
+  "thermometer"
+  "minecart_insulation"
+}
+
+domesticationinnovation {
+  "collar_tag"
+  "feather_on_a_stick"
+  "deed_of_ownership"
+  "pet_bed_white"
+}
+
+notreepunching {
+  "clay_tool"
+  "fire_starter"
+}

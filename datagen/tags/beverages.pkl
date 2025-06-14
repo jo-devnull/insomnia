@@ -6,3 +6,22 @@ minecraft {
 create {
   "builders_tea"
 }
+
+brewinandchewin {
+  "tankard"
+  "beer"
+  "vodka"
+  "mead"
+  "ice_wine"
+  "pale_jane"
+  "egg_grog"
+  "glittering_grenadine"
+  "sanccharine_rum"
+  "salty_folly"
+  "bloody_mary"
+  "red_rum"
+  "strongroot_ale"
+  "steel_toe_stout"
+  "dread_nog"
+  "withering_dross"
+}

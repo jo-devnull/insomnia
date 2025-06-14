@@ -1,13 +1,13 @@
 name = "ParCool!"
-filename = "../ParCool-1.20.1-3.4.0.5.jar"
+filename = "../ParCool-1.20.1-3.4.0.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Fsvx2bdR/versions/Y4nabmsA/ParCool-1.20.1-3.4.0.5.jar"
+url = "https://cdn.modrinth.com/data/Fsvx2bdR/versions/WgfgHDSM/ParCool-1.20.1-3.4.0.6.jar"
 hash-format = "sha512"
-hash = "5610f110f084fcd4e11f6d83b4e4d452303e22658d8aa9fe29f3841c64a93e13f61ba97968dff1ea836816232b6acd0e7158a207ccee56ce7d5aeb9734cfcbb1"
+hash = "afccb219784264ec2d6f8f64bea50b340e34c906083ceef3fc6b5d1b9d36274604117812dfbbec60ed3573cf53966da6c43b53e5d6a29ed8a26721ac53aee1b4"
 
 [update]
 [update.modrinth]
 mod-id = "Fsvx2bdR"
-version = "Y4nabmsA"
+version = "WgfgHDSM"

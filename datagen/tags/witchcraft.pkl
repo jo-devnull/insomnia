@@ -89,3 +89,8 @@ irons_spellbooks {
   "nature_rune"
   "scroll"
 }
+
+alexsmobs {
+  "transmutation_table"
+
+}

@@ -4,3 +4,14 @@ minecraft {
   "trident"
   "shield"
 }
+
+aquamirae {
+  "terrible_sword"
+  "fin_cutter"
+  "divider"
+  "whisper_of_the_abyss"
+  "remnants_saber"
+  "poisoned_blade"
+  "coral_lance"
+  "dagger_of_greed"
+}

@@ -22,3 +22,7 @@ create {
   "track_observer"
   "controls"
 }
+
+cold_sweat {
+  "insulated_minecart"
+}

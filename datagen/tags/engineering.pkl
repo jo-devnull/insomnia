@@ -125,3 +125,19 @@ create {
   "powered_latch"
   "powered_toggle_latch"
 }
+
+createdieselgenerators {
+  "diesel_engine"
+  "large_diesel_engine"
+  "huge_diesel_engine"
+  "pumpjack_hole"
+  "pumpjack_bearing"
+  "pumpjack_crank"
+  "pumpjack_head"
+  "canister"
+  "oil_barrel"
+  "basin_lid"
+  "bulk_fermenter"
+  "burner"
+  "chemical_turret"
+}

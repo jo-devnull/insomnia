@@ -17,3 +17,13 @@ minecraft {
   "bone_meal"
   "water_bucket"
 }
+
+farmersdelight {
+  "carrot_crate"
+  "potato_crate"
+  "beetroot_crate"
+  "cabbage_crate"
+  "tomato_crate"
+  "onion_crate"
+  "rice_bag"
+}

@@ -48,7 +48,6 @@ spawnEliteZombies = true
 #Range: 1 ~ 64
 chanceForEliteZombieToSpawn = 3
 #If true, single stray horde zombies can spawn on normal nights | default: true
-spawnStrayHordeZombies = true
+spawnStrayHordeZombies = false
 #If true, debug messages will be logged out | default: false
 printDebugMessages = false
-

@@ -21,3 +21,38 @@ immersive_armors {
     "\(armor)_boots"
   }
 }
+
+aquamirae {
+  "terrible_helmet"
+  "terrible_chestplate"
+  "terrible_leggings"
+  "terrible_boots"
+
+  "abyssal_heaume"
+  "abyssal_brigantine"
+  "abyssal_leggings"
+  "abyssal_boots"
+  "abyssal_tiara"
+
+  "three_bolt_helmet"
+  "three_bolt_suit"
+  "three_bolt_leggings"
+  "three_bolt_boots"
+}
+
+cold_sweat {
+  "hoglin_headpiece"
+  "hoglin_tunic"
+  "hoglin_trousers"
+  "hoglin_hooves"
+
+  "goat_fur_cap"
+  "goat_fur_parka"
+  "goat_fur_pants"
+  "goat_fur_boots"
+
+  "chamaleon_scale_helmet"
+  "chamaleon_scale_chestplate"
+  "chamaleon_scale_leggings"
+  "chamaleon_scale_boots"
+}

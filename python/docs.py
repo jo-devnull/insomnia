@@ -3,27 +3,48 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent.parent
 
-MODRINTH = 'https://modrinth.com/mod'
-CURSEFORGE = 'https://www.curseforge.com/minecraft/mc-mods'
+def get_mods():
+  mods = {}
 
-mods = {}
+  for file in (ROOT / "mods").glob("**/*.pw.toml"):
+    category = file.parent.name
+    if category not in mods:
+      mods[category] = []
+    mods[category].append(file)
 
-for file in (ROOT / "mods").glob("**/*.pw.toml"):
-  category = file.parent.name
+  return mods
 
-  if category not in mods:
-    mods[category] = []
+def get_link(file: Path, meta: dict):
+  slug = file.name.replace('.pw.toml', '')
+  update = meta['update']
 
-  mods[category].append(file)
+  if 'modrinth' in update:
+    return f'https://modrinth.com/mod/{slug}'
+  elif 'curseforge' in update:
+    return f'https://www.curseforge.com/minecraft/mc-mods/{slug}'
+  elif 'github' in update:
+    return f'https://github.com/{update['slug']}'
 
-for category in mods:
-  print(f'# {category.title()}')
-  print()
+  return '#'
 
-  for mod in mods[category]:
-    with open(mod, 'rb') as io:
-      meta = tomllib.load(io)
-      url = CURSEFORGE if 'curseforge' in meta['update'] else MODRINTH
-      print(f'- {meta['name']} | {url}/{mod.name.replace('.pw.toml', '')}')
+def main():
+  mods = get_mods()
 
-  print()
+  for category in mods:
+    print(f'# {category.title()}')
+    print()
+    print('| Mod | Link |')
+    print('|------|------|')
+
+    for mod in mods[category]:
+      with open(mod, 'rb') as io:
+        meta = tomllib.load(io)
+        try:
+          print(f'| {meta['name']} | {get_link(mod, meta)} |')
+        except:
+          pass
+
+    print()
+
+if __name__ == "__main__":
+  main()

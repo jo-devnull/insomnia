@@ -15,3 +15,16 @@ create {
   "extendo_grip"
   "wand_of_symmetry"
 }
+
+notreepunching {
+  "flint_axe"
+  "flint_pickaxe"
+  "flint_hoe"
+  "flint_shovel"
+  "macuahuitl"
+
+  "iron_saw"
+  "gold_saw"
+  "diamond_saw"
+  "netherite_saw"
+}

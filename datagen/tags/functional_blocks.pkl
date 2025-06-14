@@ -58,3 +58,28 @@ supplementaries {
   "bellows"
   "lock_block"
 }
+
+automobility {
+  "auto_mechanic_table"
+  "automobile_assembler"
+}
+
+betterarcheology {
+  "archeology_table"
+}
+
+brewinandchewin {
+  "keg"
+  "heating_cask"
+  "ice_crate"
+  "coaster"
+}
+
+cold_sweat {
+  "thermolith"
+  "hearth"
+  "boiler"
+  "icebox"
+  "smokestack"
+  "sewing_table"
+}

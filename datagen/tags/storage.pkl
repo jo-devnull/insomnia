@@ -16,3 +16,7 @@ create {
   "item_hatch"
   "#create:postboxes"
 }
+
+farmersdelight {
+  "#farmersdelight:cabinets"
+}

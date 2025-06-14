@@ -14,3 +14,7 @@ create {
   "#create:seats"
   "cuckoo_clock"
 }
+
+farmersdelight {
+  "#farmersdelight:cabinets"
+}

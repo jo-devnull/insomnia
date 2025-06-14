@@ -119,3 +119,9 @@ supplementaries {
     "\(type)_wall"
   }
 }
+
+createdieselgenerators {
+  "asphalt_block"
+  "asphalt_stairs"
+  "asphalt_slab"
+}

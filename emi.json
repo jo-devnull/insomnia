@@ -1,151 +1,4 @@
 {
-  "favorites": [
-    {
-      "stack": "#item:category:functional_blocks"
-    },
-    {
-      "stack": "#item:category:basic_tools"
-    },
-    {
-      "stack": "#item:category:heavy_tools"
-    },
-    {
-      "stack": "#item:category:cooking"
-    },
-    {
-      "stack": "#item:category:foods"
-    },
-    {
-      "stack": "#item:category:beverages"
-    },
-    {
-      "stack": "#item:category:furniture"
-    },
-    {
-      "stack": "#item:category:decoration"
-    },
-    {
-      "stack": "#item:category:block_decoration"
-    },
-    {
-      "stack": "#item:category:storage"
-    },
-    {
-      "stack": "#item:category:archery"
-    },
-    {
-      "stack": "#item:category:weapons"
-    },
-    {
-      "stack": "#item:category:armor"
-    },
-    {
-      "stack": "#item:category:gardening"
-    },
-    {
-      "stack": "#item:category:carpentry"
-    },
-    {
-      "stack": "#item:category:masonry"
-    },
-    {
-      "stack": "#item:category:metalworking"
-    },
-    {
-      "stack": "#item:category:engineering"
-    },
-    {
-      "stack": "#item:category:farming"
-    },
-    {
-      "stack": "#item:category:fishing"
-    },
-    {
-      "stack": "#item:category:geology"
-    },
-    {
-      "stack": "#item:category:transport"
-    },
-    {
-      "stack": "#item:category:brewing"
-    },
-    {
-      "stack": "#item:category:enchanting"
-    },
-    {
-      "stack": "#item:category:witchcraft"
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "thirst:terracotta_water_bowl",
-        "nbt": "{Purity:1}",
-        "amount": 6
-      }
-    }
-  ],
-  "lookup_history": [
-    "item:fromtheshadows:devil_splitter{Damage:0}",
-    "item:minecraft:leather",
-    "item:supplementaries:bellows",
-    "item:minecraft:anvil",
-    "item:minecraft:soul_campfire",
-    {
-      "type": "item",
-      "id": "minecraft:iron_ingot",
-      "amount": 9
-    },
-    "item:simplyswords:iron_katana{Damage:0}",
-    "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]}}",
-    "item:minecraft:saddle",
-    "item:travelersbackpack:white_sleeping_bag",
-    "#item:travelersbackpack:sleeping_bags",
-    "item:notreepunching:flint_shovel{Damage:0}",
-    "item:notreepunching:macuahuitl{Damage:0}",
-    "item:thirst:clay_bowl",
-    "item:thirstcanteen:leather_canteen_full{Damage:0,Purity:0}",
-    "item:thirstcanteen:leather_canteen",
-    "item:thirstcanteen:dragon_bottle_full{Damage:0,Purity:2}",
-    "item:thirstcanteen:dragon_bottle",
-    "item:thirstcanteen:military_bottle",
-    "item:minecraft:shears{Damage:0}",
-    "item:notreepunching:flint_pickaxe{Damage:0}",
-    "item:notreepunching:fire_starter{Damage:0}",
-    "item:notreepunching:flint_axe{Damage:0}"
-  ],
-  "craft_history": [
-    "notreepunching:string_from_wool_with_knife",
-    "create_ironworks:armor/boots/copper",
-    "simplyswords:iron_katana",
-    "create_ironworks:armor/leggings/copper",
-    "create_ironworks:armor/chestplate/copper",
-    "minecraft:iron_pickaxe",
-    "minecraft:chest",
-    "farmersdelight:cutting_board",
-    "notreepunching:generated/minecraft_oak_planks",
-    "travelersbackpack:white_sleeping_bag",
-    "minecraft:shears",
-    "minecraft:iron_axe",
-    "minecraft:furnace",
-    "thirst:clay_bowl",
-    "notreepunching:flint_shovel",
-    "notreepunching:flint_from_gravel",
-    "farmersdelight:rope",
-    "notreepunching:flint_pickaxe",
-    "notreepunching:sticks_from_logs_with_flint_axe",
-    "minecraft:crafting_table",
-    "notreepunching:generated/minecraft_spruce_planks",
-    "notreepunching:plant_string",
-    "notreepunching:plant_fiber_from_saplings_with_knife",
-    "farmersdelight:flint_knife",
-    "notreepunching:flint_axe"
-  ],
-  "recipe_defaults": {
-    "added": [],
-    "tags": {},
-    "resolutions": {},
-    "disabled": []
-  },
   "hidden_stacks": [
     "item:minecraft:goat_horn{instrument:\"minecraft:sing_goat_horn\"}",
     "item:minecraft:goat_horn{instrument:\"minecraft:seek_goat_horn\"}",
@@ -218,5 +71,79 @@
     "item:minecraft:suspicious_stew{Effects:[{EffectDuration:200,EffectId:3,\"forge:effect_id\":\"minecraft:haste\"}]}",
     "item:minecraft:suspicious_stew{Effects:[{EffectDuration:300,EffectId:24,\"forge:effect_id\":\"minecraft:glowing\"}]}",
     "item:create:builders_tea"
+  ],
+  "favorites": [
+    {
+      "stack": "#item:category:functional_blocks"
+    },
+    {
+      "stack": "#item:category:basic_tools"
+    },
+    {
+      "stack": "#item:category:heavy_tools"
+    },
+    {
+      "stack": "#item:category:cooking"
+    },
+    {
+      "stack": "#item:category:foods"
+    },
+    {
+      "stack": "#item:category:beverages"
+    },
+    {
+      "stack": "#item:category:furniture"
+    },
+    {
+      "stack": "#item:category:decoration"
+    },
+    {
+      "stack": "#item:category:block_decoration"
+    },
+    {
+      "stack": "#item:category:storage"
+    },
+    {
+      "stack": "#item:category:archery"
+    },
+    {
+      "stack": "#item:category:weapons"
+    },
+    {
+      "stack": "#item:category:armor"
+    },
+    {
+      "stack": "#item:category:armory"
+    },
+    {
+      "stack": "#item:category:carpentry"
+    },
+    {
+      "stack": "#item:category:masonry"
+    },
+    {
+      "stack": "#item:category:metalworking"
+    },
+    {
+      "stack": "#item:category:engineering"
+    },
+    {
+      "stack": "#item:category:farming"
+    },
+    {
+      "stack": "#item:category:fishing"
+    },
+    {
+      "stack": "#item:category:transport"
+    },
+    {
+      "stack": "#item:category:brewing"
+    },
+    {
+      "stack": "#item:category:enchanting"
+    },
+    {
+      "stack": "#item:category:witchcraft"
+    }
   ]
 }
