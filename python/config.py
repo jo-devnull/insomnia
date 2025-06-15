@@ -30,7 +30,8 @@ sources = [
 
 def link_file(path: Path, target: Path):
     if target.exists():
-        return
+        print(f'File {target} already exists. Removing...')
+        target.unlink()
 
     print(f"linking file: {target}")
     target.parent.mkdir(parents=True, exist_ok=True)
@@ -38,7 +39,8 @@ def link_file(path: Path, target: Path):
 
 def link_dir(path: Path, target: Path):
     if target.exists():
-        return
+        print(f'Directory {target} already exists. Removing...')
+        target.rmdir()
 
     print(f"linking dir: {target}")
     target.symlink_to(ROOT / path, target_is_directory=True)

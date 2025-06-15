@@ -57,11 +57,18 @@ function buildTags() = new Mapping<String, FileOutput> {
   }
 }
 
+function buildWalkers() = new Mapping<String, FileOutput> {
+  for (key, trait in import("misc/walkers.pkl").traits) {
+    ["\(path.data)/shapeshifting/\(key)"] = (json) { value = trait }
+  }
+}
+
 output {
   files {
     ...buildEmi()
     ...buildTags()
     ...buildLang()
+    ...buildWalkers()
 
     ["./resourcepacks/@insomnia/pack.mcmeta"] = (json) {
       value {

@@ -1,0 +1,14 @@
+traits {
+  ["walkers/traits/flying.json"] {
+    entity_types {
+      "crittersandcompanions:dragonfly"
+    }
+
+    traits {
+      new {
+        type = "walkers:flying"
+        slow_falling = true
+      }
+    }
+  }
+}

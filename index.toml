@@ -5,12 +5,16 @@ file = ".editorconfig"
 hash = "da597acefc6e909ec08ebd56eae12f474c1f87bdb75d95cb4a690ff932790f29"
 
 [[files]]
+file = "config/alexsmobsinteraction-client.toml"
+hash = "c6d5e83a56e7d7f611abb1c47ce59f1b96c6a18a3d6f49ca1f6365a48c0dd5f2"
+
+[[files]]
 file = "config/almostunified/unify.json"
 hash = "89a9290be73ad0a806bc04d3edb126dab52f27b8a0604bda4b633f7ec046182a"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "66a6f24704196a3b1b69e16f9123d51fdcd6b6c5a8a486f40953feaf847c9f5f"
+hash = "0ac8228a6d51ae4789e2c4810c2b10d08c7a752e427002d28627962752c1fe33"
 preserve = true
 
 [[files]]
@@ -33,11 +37,11 @@ hash = "29a8e56da3425d99c3b09cee7ed0e12b91a69205afd4280df2235131b3f08671"
 
 [[files]]
 file = "config/incontrol/phases.json"
-hash = "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f"
+hash = "3c877aad39c55e199006e048dc44247fc9988739879e942bb91ab5bbb5d47ab5"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "99440a3e695fc6f7ef1c3fb10f67d8b97b430e0f683c32c45ece771f45b04899"
+hash = "8f7a5c1d786686fa6166440863f04cdbb6766003ccb825923e7690d829920832"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -45,7 +49,7 @@ hash = "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f"
 
 [[files]]
 file = "config/lmft.json"
-hash = "365dea7158e35e763e91f84ee63c687553d40b7806abde459a3d15c089c5d5e9"
+hash = "616b89227e557c16754a9d89ac5b28bf18da1607cea770e2b92eb95a91c6538e"
 
 [[files]]
 file = "config/mca.json"
@@ -63,7 +67,7 @@ preserve = true
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "82f2f25936c03fff221ed29bfaeb4d6f76638fb16c950805b8d3181c3ca2131d"
+hash = "e57ea66f5551a9ce0c32bf64dd15be2ca13e3f50567b2fa7aa67f33da40e89af"
 
 [[files]]
 file = "config/rootoffear/common.toml"
@@ -123,6 +127,11 @@ hash = "9f3b6c301c64e1d06bd61617d03bf588ede32fe183ba3fe33fea190c3ea0f439"
 [[files]]
 file = "mods/cooking/brewin-and-chewin.pw.toml"
 hash = "ea5a875db565a7ff9e7775b9cdf4bc565bf35bf6bdb5091fad865cf8df7bb409"
+metafile = true
+
+[[files]]
+file = "mods/cooking/create-food.pw.toml"
+hash = "b03c3fb015b1a7ba853f168dbb9a12a30c631fda70fb97a5fa747bb7c1190200"
 metafile = true
 
 [[files]]
@@ -242,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/azurelib.pw.toml"
-hash = "d9390ead71dda9d07e2fc4d7e0c1ba3b65cc3a3f950543d9357ae98a5b2a7396"
+hash = "897d3320497c8e5a6e4580ab5d5b3f3eff82a946a01fd3700c2980e6319086d4"
 metafile = true
 
 [[files]]
@@ -303,11 +312,6 @@ metafile = true
 [[files]]
 file = "mods/dependency/data-anchor.pw.toml"
 hash = "6678c098babe07176c5bc8104de0d63db22fd23c39f1f23134a707574e160d14"
-metafile = true
-
-[[files]]
-file = "mods/dependency/embeddium.pw.toml"
-hash = "4b9930bbefbf7f91c53ccdea60cfbd8ae2e3b476f07f5cc948b2bd905f3d6fb7"
 metafile = true
 
 [[files]]
@@ -482,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/entities/legendary-monsters.pw.toml"
-hash = "2247e21de7e2a68ce53115a6c42bf0e7d0f24fecf28448945232f08da0f81366"
+hash = "2f2e3c73b9155de2dc86889426552fae0956a25915186a92928b33d876428e9a"
 metafile = true
 
 [[files]]
@@ -597,12 +601,12 @@ metafile = true
 
 [[files]]
 file = "mods/mechanics/enhanced-ai.pw.toml"
-hash = "b9cc23d481bc0b168f60ad7ef626f25ee5bc78c5bf9e41aa48cedfe9dfb4d6b7"
+hash = "99015906708f307dfd91a3a85fa4384b3bc000612942d81215cc95302ca3dc44"
 metafile = true
 
 [[files]]
 file = "mods/mechanics/freeze-it-and-heat-it.pw.toml"
-hash = "75c4f779fb05a64688065658c7c4e355796a5c4647873d6b1b248d642af9a1ad"
+hash = "de348e16e7fb02807d0688b58bf1493732726b483c04372bc0bda0c304bd0516"
 metafile = true
 
 [[files]]
@@ -617,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/mechanics/parcool.pw.toml"
-hash = "9e8ae5ae1b9d444e22b67fe16632ca4373de8e61661f2bdbdd033f448631439f"
+hash = "494fe45c926a327ef6982ace5bd9100a05098d536296d6608ba4f111c4c5dccc"
 metafile = true
 
 [[files]]
@@ -637,7 +641,7 @@ metafile = true
 
 [[files]]
 file = "mods/mechanics/travelersbackpack.pw.toml"
-hash = "fc087488f3c5544a32e1c10bd8a334047d2c830d190533a0b876eadca804acdc"
+hash = "8c270cfd303cf28f420badae772f6f1bf74ca3211b296028b861baaa3d5f38ba"
 metafile = true
 
 [[files]]
@@ -931,6 +935,11 @@ hash = "1030081398652516055089b569cc517808dae3e7f495d98be183179b9d0752ae"
 metafile = true
 
 [[files]]
+file = "mods/performance/mobtimizations.pw.toml"
+hash = "f86bee2ea8769e15b551f82031536a3f5ed97d488a95f4c91941b608c559d10d"
+metafile = true
+
+[[files]]
 file = "mods/performance/modernfix.pw.toml"
 hash = "59bdda628ef1cfefae3ee9645b32dcd0b76dac20aa0ee56c264944f132e875d3"
 metafile = true
@@ -971,11 +980,6 @@ hash = "9f3bc75a9d90c5ea09dfc9e9322d73a2803d9d2cf597f7180182966e88872ec7"
 metafile = true
 
 [[files]]
-file = "mods/technology/create-food.pw.toml"
-hash = "745b478701a888512b2a366bd9f9a6d3c0669cf0050f14163185114e2fcee3ef"
-metafile = true
-
-[[files]]
 file = "mods/technology/create-ironworks.pw.toml"
 hash = "0291f5d37f57e582db17868b3868c0a2d4691bdef5543d0549451e11bcc822ec"
 metafile = true
@@ -992,7 +996,7 @@ metafile = true
 
 [[files]]
 file = "mods/technology/create.pw.toml"
-hash = "91a61815ab8a773572bf06408dcf72dd7ebf8c7052d948140f08985ec51974db"
+hash = "0292c2d3397d670d09a735fabf9077f46894f98ecf869aaa7ff7daf7287f8ce5"
 metafile = true
 
 [[files]]
@@ -1182,7 +1186,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e67714e57e8becc860b2f2ec0f3f4c03d5bfa23eb1c39a15ff7883da9bb7cd15"
+hash = "8eb8fab2c6336fe33960f9436a29ebf29b1b75b6b19ada0779aafcbb8dfe1ee8"
 preserve = true
 
 [[files]]
@@ -1211,7 +1215,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "73124275ec1e25141d8d712896c7d4d8e22cfcbd123431cdc64c3c21383d4268"
+hash = "dfc752e9d49a7693ca7dedc072d06f902b28a69465d21f6d21dc30e1162e714d"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
@@ -1229,7 +1233,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "3545a5aeece1edd15cf0c31e39e12300110e7feac2f5343b6c209a4ae7d85680"
+hash = "3b05b966ad8012708764929ded584b1bbb80b065485c1b5ee8f5587ea18e92d7"
 metafile = true
 
 [[files]]
@@ -1239,7 +1243,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/glowing-emissive-ores.pw.toml"
-hash = "612604da9ee3724fbe4e1e212c89e7de2bf3aa9f69057167c017212b67d7653a"
+hash = "5a00f0d4a7d80945347658c6053da52e382b6239f447888cb991ded7039eda40"
 metafile = true
 
 [[files]]

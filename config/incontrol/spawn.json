@@ -1,95 +1,101 @@
 [
-    {
-        "result"        : "deny",
-        "mob"           : "artifacts:mimic",
-        "when"          : "onjoin"
-    },
-    {
-        "result"        : "default",
-        "hostile"       : true,
-        "dimension"     : "overworld",
-        "phase"         : "super_blood_moon"
-    },
-    {
-        "result"        : "default",
-        "hostile"       : true,
-        "dimension"     : "overworld",
-        "phase"         : "blood_moon"
-    },
-    {
-        "result"        : "default",
-        "hostile"       : true,
-        "dimension"     : "overworld",
-        "mob"           : ["minecraft:zombie", "minecraft:skeleton", "minecraft:drowned"],
-        "phase"         : "super_zombie_moon"
-    },
-    {
-        "result"        : "default",
-        "hostile"       : true,
-        "dimension"     : "overworld",
-        "mob"           : ["minecraft:zombie", "minecraft:skeleton", "minecraft:drowned"],
-        "phase"         : "zombie_moon"
-    },
-    {
-        "result"        : "default",
-        "hostile"       : true,
-        "biometags"     : ["forge:caves", "minecraft:is_cave", "c:caves", "c:is_cave"],
-        "dimension"     : "overworld"
-    },
-    {
-        "result"        : "default",
-        "hostile"       : true,
-        "maxheight"     : 40,
-        "dimension"     : "overworld"
-    },
-    {
-        "result"        : "default",
-        "hostile"       : true,
-        "mod"           : ["alexsmobs", "alexscaves"],
-        "dimension"     : "overworld"
-    },
-    {
-        "result"        : "default",
-        "hostile"       : true,
-        "structuretags" : "modpack:unsafe",
-        "dimension"     : "overworld"
-    },
-    {
-        "result"        : "deny",
-        "hostile"       : true,
-        "minheight"     : 222,
-        "dimension"     : "overworld"
-    },
-    {
-        "result"        : "deny",
-        "hostile"       : true,
-        "biometags"     : "modpack:safe",
-        "dimension"     : "overworld"
-    },
-    {
-        "result"        : "allow",
-        "when"          : "finalize",
-        "mob"           : "minecraft:skeleton",
-        "helditem"      : [
-            "20=farmersdelight:flint_knife",
-            "4=minecraft:bow",
-            "1=simplyswords:stormbringer",
-            "1=simplyswords:soulrender",
-            "1=simplyswords:whisperwind"
-        ]
-    },
-    {
-        "result"        : "allow",
-        "when"          : "finalize",
-        "mob"           : "minecraft:vindicator",
-        "helditem"      : [
-            "10=minecraft:iron_axe",
-            "4=simplyswords:iron_twinblade",
-            "4=simplyswords:iron_katana",
-            "3=simplyswords:iron_greataxe",
-            "3=simplyswords:iron_claymore",
-            "1=simplyswords:stormbringer",
-            "1=simplyswords:soulrender"
-        ]
-    }
+  {
+    "result": "deny",
+    "minheight": 50,
+    "hostile": true,
+    "phase": "in_7_days"
+  },
+  {
+    "result": "deny",
+    "mob": "artifacts:mimic",
+    "when": "onjoin"
+  },
+  {
+    "result": "default",
+    "hostile": true,
+    "dimension": "overworld",
+    "phase": "super_blood_moon"
+  },
+  {
+    "result": "default",
+    "hostile": true,
+    "dimension": "overworld",
+    "phase": "blood_moon"
+  },
+  {
+    "result": "default",
+    "hostile": true,
+    "dimension": "overworld",
+    "mob": ["minecraft:zombie", "minecraft:skeleton", "minecraft:drowned"],
+    "phase": "super_zombie_moon"
+  },
+  {
+    "result": "default",
+    "hostile": true,
+    "dimension": "overworld",
+    "mob": ["minecraft:zombie", "minecraft:skeleton", "minecraft:drowned"],
+    "phase": "zombie_moon"
+  },
+  {
+    "result": "default",
+    "hostile": true,
+    "biometags": ["forge:caves", "minecraft:is_cave", "c:caves", "c:is_cave"],
+    "dimension": "overworld"
+  },
+  {
+    "result": "default",
+    "hostile": true,
+    "maxheight": 40,
+    "dimension": "overworld"
+  },
+  {
+    "result": "default",
+    "hostile": true,
+    "mod": ["alexsmobs", "alexscaves"],
+    "dimension": "overworld"
+  },
+  {
+    "result": "default",
+    "hostile": true,
+    "structuretags": "modpack:unsafe",
+    "dimension": "overworld"
+  },
+  {
+    "result": "deny",
+    "hostile": true,
+    "minheight": 222,
+    "dimension": "overworld"
+  },
+  {
+    "result": "deny",
+    "hostile": true,
+    "biometags": "modpack:safe",
+    "dimension": "overworld"
+  },
+  {
+    "result": "allow",
+    "when": "finalize",
+    "mob": "minecraft:skeleton",
+    "helditem": [
+      "20=farmersdelight:flint_knife",
+      "4=minecraft:bow",
+      "1=simplyswords:stormbringer",
+      "1=simplyswords:soulrender",
+      "1=simplyswords:whisperwind"
+    ]
+  },
+  {
+    "result": "allow",
+    "when": "finalize",
+    "mob": "minecraft:vindicator",
+    "helditem": [
+      "10=minecraft:iron_axe",
+      "4=simplyswords:iron_twinblade",
+      "4=simplyswords:iron_katana",
+      "3=simplyswords:iron_greataxe",
+      "3=simplyswords:iron_claymore",
+      "1=simplyswords:stormbringer",
+      "1=simplyswords:soulrender"
+    ]
+  }
 ]
