@@ -925,6 +925,11 @@ hash = "55e7c7a9d4123f1883db7c1c1fb3941280513749ba263a89cb70105f65e34125"
 metafile = true
 
 [[files]]
+file = "mods/performance/fastboot.pw.toml"
+hash = "6fbc8f61094696e5b8ddce5538fa65b7f440930741daa15713bd2e3f3105e74a"
+metafile = true
+
+[[files]]
 file = "mods/performance/ferrite-core.pw.toml"
 hash = "00338d42479a9ea8f4bbd58288d32f989477bc378edc1226b4f3725749d500b2"
 metafile = true
