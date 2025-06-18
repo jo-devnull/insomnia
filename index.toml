@@ -851,7 +851,7 @@ metafile = true
 
 [[files]]
 file = "mods/miscellaneous/sound-physics-remastered.pw.toml"
-hash = "ed4349377e9761b56b477ba951cc8d4be94f3a08c4f959a55d46cb600e040b47"
+hash = "0c683c6ea3141e32005408dbd4a8621673911611c988188c4959d95e5c3b9532"
 metafile = true
 
 [[files]]
@@ -922,11 +922,6 @@ metafile = true
 [[files]]
 file = "mods/performance/fast-paintings.pw.toml"
 hash = "55e7c7a9d4123f1883db7c1c1fb3941280513749ba263a89cb70105f65e34125"
-metafile = true
-
-[[files]]
-file = "mods/performance/fastboot.pw.toml"
-hash = "6fbc8f61094696e5b8ddce5538fa65b7f440930741daa15713bd2e3f3105e74a"
 metafile = true
 
 [[files]]
