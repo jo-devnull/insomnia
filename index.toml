@@ -14,7 +14,7 @@ hash = "89a9290be73ad0a806bc04d3edb126dab52f27b8a0604bda4b633f7ec046182a"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "0ac8228a6d51ae4789e2c4810c2b10d08c7a752e427002d28627962752c1fe33"
+hash = "e79df57cae84621e3d48220df828e8561be751ff95bcd8df7615876a895427d4"
 preserve = true
 
 [[files]]
@@ -845,6 +845,11 @@ hash = "c3de6983cc6cc682588f8fc8447b8dc26f8630e977ff0452f377f61409484092"
 metafile = true
 
 [[files]]
+file = "mods/miscellaneous/simple-voice-chat.pw.toml"
+hash = "c194e0775189d49e4f46e51c79d3fb7d132732295fadb63cf67b989b86dfdcc4"
+metafile = true
+
+[[files]]
 file = "mods/miscellaneous/sound-physics-remastered.pw.toml"
 hash = "ed4349377e9761b56b477ba951cc8d4be94f3a08c4f959a55d46cb600e040b47"
 metafile = true
@@ -1186,7 +1191,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "8eb8fab2c6336fe33960f9436a29ebf29b1b75b6b19ada0779aafcbb8dfe1ee8"
+hash = "707b86e1beb7c07fec23641701b3b76d60f825a652616e83a10f181595aa9de5"
 preserve = true
 
 [[files]]
@@ -1215,7 +1220,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "dfc752e9d49a7693ca7dedc072d06f902b28a69465d21f6d21dc30e1162e714d"
+hash = "ddebe60d8bf8f434469dc62702f6e664c7a222500cadeb61a6a22ba5c15afd12"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
