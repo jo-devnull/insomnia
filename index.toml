@@ -865,6 +865,11 @@ hash = "b8f6921b23b5707f2adbbab0515376dbeb4ca6fb2f76d5da6de18781faef3f73"
 metafile = true
 
 [[files]]
+file = "mods/miscellaneous/tooltips-reforged.pw.toml"
+hash = "5bdbe371280d869a4b4465c6374f7e348b9c2bd95b0d128d718a8917e2149fb4"
+metafile = true
+
+[[files]]
 file = "mods/miscellaneous/unlit-campfire.pw.toml"
 hash = "c0be60f73e24206ae16dc7c41d534721c0b0529898e809a0ee1c322dc9507d4a"
 metafile = true
@@ -1191,7 +1196,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "707b86e1beb7c07fec23641701b3b76d60f825a652616e83a10f181595aa9de5"
+hash = "449024b42769398951369f6bd1929950e73d857f540bb6f425c162417d0924d8"
 preserve = true
 
 [[files]]
