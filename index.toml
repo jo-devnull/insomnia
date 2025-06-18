@@ -118,7 +118,7 @@ hash = "a1f36d1b8d78c26f9136625d9bf3549e59d9a545136096d184d44c156fdc584a"
 
 [[files]]
 file = "emi.json"
-hash = "51a6d5517c3f91872be01a0302270ed3658efc928e4b0e6dd3e54ab1c8b899bd"
+hash = "cab830fe278887aaeae21d9cc2fe851126819b2475fa6427c8252a1b67ccdf3b"
 
 [[files]]
 file = "modlist.md"
@@ -862,11 +862,6 @@ metafile = true
 [[files]]
 file = "mods/miscellaneous/thirst-canteen.pw.toml"
 hash = "b8f6921b23b5707f2adbbab0515376dbeb4ca6fb2f76d5da6de18781faef3f73"
-metafile = true
-
-[[files]]
-file = "mods/miscellaneous/tooltips-reforged.pw.toml"
-hash = "5bdbe371280d869a4b4465c6374f7e348b9c2bd95b0d128d718a8917e2149fb4"
 metafile = true
 
 [[files]]

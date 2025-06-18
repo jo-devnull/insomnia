@@ -1,0 +1,13 @@
+name = "Jupiter"
+filename = "../Jupiter-2.2-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XbiLGMMU/versions/FZnUFUWk/Jupiter-2.2-forge.jar"
+hash-format = "sha512"
+hash = "941154fa200bfd15d71592c2b40dd165b9e639153ee983461ba69c4bbb9a27063a555a5af5bf7c2affda1c67cc0133d1fa58d690a8915065c6b7591dd4da61f8"
+
+[update]
+[update.modrinth]
+mod-id = "XbiLGMMU"
+version = "FZnUFUWk"
