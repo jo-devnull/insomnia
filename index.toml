@@ -530,11 +530,6 @@ hash = "43ba3d22e3402a7e8e1982a8b274384e673f49986c5733eb652a8a2760011f89"
 metafile = true
 
 [[files]]
-file = "mods/entities/paranoia.pw.toml"
-hash = "167c635eba20acfc3047ce15eec557b331fb4cb89a93c2a6415aca31e22780a5"
-metafile = true
-
-[[files]]
 file = "mods/entities/the-root-of-fear.pw.toml"
 hash = "5c817af2eb612edd4df09d6f00223de4e4b353b3579bcf352b8d838a3c1fb206"
 metafile = true
