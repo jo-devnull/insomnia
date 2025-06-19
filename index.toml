@@ -118,7 +118,7 @@ hash = "a1f36d1b8d78c26f9136625d9bf3549e59d9a545136096d184d44c156fdc584a"
 
 [[files]]
 file = "emi.json"
-hash = "39942734f198c63204d7b31bd1e930e3841384019a7c76e912ce21b6200731ef"
+hash = "25113f6ef281e173ac5eabc396587a4769fad553fe6eb2a02d27d3388521453a"
 
 [[files]]
 file = "modlist.md"
@@ -302,6 +302,11 @@ metafile = true
 [[files]]
 file = "mods/dependency/creativecore.pw.toml"
 hash = "140c2c3103cbcc6a3ec138296b3af0c595bba915300fe8d12eadc4b97f896293"
+metafile = true
+
+[[files]]
+file = "mods/dependency/cupboard.pw.toml"
+hash = "86875215f650f1cc78d8da7ffd3e1fd22da52473edb0be208b9c6973c90edf36"
 metafile = true
 
 [[files]]
@@ -685,6 +690,11 @@ hash = "20a9b3f040808de2e99f2ef44e8b31d905cebc31d4d7006131b634338c46645b"
 metafile = true
 
 [[files]]
+file = "mods/miscellaneous/biome-music.pw.toml"
+hash = "1074045ef1fa205b415ecf04a192eaacf8cf860c3d9842640f47f51d16be0e8d"
+metafile = true
+
+[[files]]
 file = "mods/miscellaneous/catalogue.pw.toml"
 hash = "7b153ce3599bf752f8a77d8a3567c3876fbeae0cfeed050e0b86b8022271437a"
 metafile = true
@@ -717,6 +727,11 @@ metafile = true
 [[files]]
 file = "mods/miscellaneous/easy-magic.pw.toml"
 hash = "8de2d0f40a946fe898a45f0602403ebd1bc76242f321e0ec92f4fb550b90618f"
+metafile = true
+
+[[files]]
+file = "mods/miscellaneous/eerie-music-forge-fabric.pw.toml"
+hash = "c0f1e411aee4b09d4ac2c1e47dff20e5fc440b76f5de9e750ec03733095c9c30"
 metafile = true
 
 [[files]]
@@ -965,6 +980,11 @@ hash = "b8607fdb2e342ad58b3b778341d35c0f751ff283877fe529f22fe355a9152c10"
 metafile = true
 
 [[files]]
+file = "mods/performance/structure-essentials-forge-fabric.pw.toml"
+hash = "ba5348a4944d6f09515d866c459c96d1333af58d2a90517d0c5533828bd9802b"
+metafile = true
+
+[[files]]
 file = "mods/performance/structure-layout-optimizer.pw.toml"
 hash = "bbe5c3f5dfc7fbb2ddd21217fc0062a15dadae56a3e266eed3f6875e121cfa87"
 metafile = true
@@ -1075,8 +1095,18 @@ hash = "1509725ec680a345a6405439ee0f874ad880e900045ae7f5095ba62a8e5175a9"
 metafile = true
 
 [[files]]
+file = "mods/utilities/skinrestorer.pw.toml"
+hash = "e0bd4163a796033cbf915e6a9545a061acb4f92e7e8160afbd2b587a2ef7bc60"
+metafile = true
+
+[[files]]
 file = "mods/utilities/sodium-dynamic-lights.pw.toml"
 hash = "09156450778933479ef213f23d27ee61694627d1a7c228140c73bf6d9238f5de"
+metafile = true
+
+[[files]]
+file = "mods/utilities/wavey-capes.pw.toml"
+hash = "271bc8cbc69f1dd41d34c9ca5492bf2621ba134e6be73c24a1453cb428c5d8ef"
 metafile = true
 
 [[files]]
@@ -1160,6 +1190,11 @@ hash = "519ba69e1cc987e4b1e971c6f08691504c121c2a7a1a4bbf1bb1adafd4b69698"
 metafile = true
 
 [[files]]
+file = "mods/world/underground-villages-stoneholm.pw.toml"
+hash = "61b4f1c02929727e727f3178ac1f00f8074a9710f612fbd19c8d39c42daaa7ab"
+metafile = true
+
+[[files]]
 file = "mods/world/yungs-better-dungeons.pw.toml"
 hash = "d3490ec29b13e5507f38c1a3dab646a1c1f42a3975289fe97cc21e7ebaa28eb9"
 metafile = true
@@ -1186,7 +1221,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b7fea5bb3635d635a332d49309c7d0bd68001dbd89321bac3f0098d9e83016f6"
+hash = "0361445fbb97d33e321d33a9e0f2247a0c7c41e229127fc04b995d27dea3e82f"
 preserve = true
 
 [[files]]

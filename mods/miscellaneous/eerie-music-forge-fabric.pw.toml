@@ -1,0 +1,13 @@
+name = "Eerie Music"
+filename = "../eeriemusic-1.18.2-1.20.1-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3be6fbd71163363725039d8b8059234bbd2711e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6195921
+project-id = 924274

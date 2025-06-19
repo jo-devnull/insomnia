@@ -68,17 +68,71 @@
     },
     {
       "stack": "#item:category:witchcraft"
+    },
+    {
+      "stack": "item:minecraft:oak_boat"
+    },
+    {
+      "stack": "item:chovys_apocalypse_mod:cannedpatato"
+    },
+    {
+      "stack": "item:mowziesmobs:umvuthana_mask_fury{Damage:8,insulation:[]}"
+    },
+    {
+      "stack": "item:minecraft:bread"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "legendary_monsters:ancient_spike",
+        "amount": 8
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "farmersdelight:rope",
+        "amount": 20
+      }
     }
   ],
   "lookup_history": [
+    {
+      "type": "item",
+      "id": "chovys_apocalypse_mod:epmtycan",
+      "amount": 7
+    },
+    "item:legendary_monsters:anchor_handle{Damage:0}",
+    "item:legendary_monsters:molten_metal_ingot",
+    "item:legendary_monsters:chiseled_ancient_dripstone_shard",
+    "item:legendary_monsters:ancient_spike",
+    {
+      "type": "item",
+      "id": "minecraft:bone",
+      "amount": 21
+    },
+    "item:legendary_monsters:ancient_dripstone_block",
+    "item:zoniex:deathly_heart",
+    "item:mowziesmobs:umvuthana_mask_fury{Damage:0,insulation:[]}",
+    "item:chovys_apocalypse_mod:wrench{Damage:0}",
+    "item:minecraft:crying_obsidian",
+    "item:irons_spellbooks:scroll_forge",
+    "item:irons_spellbooks:scroll{ISB_Spells:{data:[{id:\"woodwalkers_spellbooks:shapeshifting\",index:0,level:1,locked:1b}],maxSpells:1,mustEquip:0b,spellWheel:0b}}",
+    "item:minecraft:wither_rose",
     "item:notreepunching:fire_starter{Damage:0}",
+    "item:brewinandchewin:vodka",
+    "item:brewinandchewin:beer",
+    "item:thirstcanteen:military_bottle",
+    "item:minecraft:green_dye",
+    "item:minecraft:clay_ball",
+    "item:thirst:clay_bowl",
+    "item:minecraft:glass_bottle",
     "item:minecraft:soul_campfire",
     "item:notreepunching:flint_shovel{Damage:0}",
     "item:notreepunching:flint_pickaxe{Damage:0}",
     "item:notreepunching:flint_axe{Damage:0}",
     "item:thirstcanteen:leather_canteen",
     "item:thirstcanteen:dragon_bottle",
-    "item:thirstcanteen:military_bottle",
     "item:chovys_apocalypse_mod:barricade",
     "item:irons_spellbooks:blood_upgrade_orb",
     "item:irons_spellbooks:nature_upgrade_orb",
@@ -121,14 +175,28 @@
     "item:simplyswords:stars_edge{Damage:0}"
   ],
   "craft_history": [
+    "minecraft:iron_boots",
+    "minecraft:iron_helmet",
+    "minecraft:iron_chestplate",
+    "travelersbackpack:standard_no_tanks",
+    "minecraft:chest",
+    "notreepunching:generated/minecraft_oak_planks",
+    "minecraft:crafting_table",
+    "minecraft:oak_boat",
+    "notreepunching:fire_starter",
+    "notreepunching:string_from_wool_with_knife",
+    "minecraft:furnace",
+    "thirstcanteen:military_bottle",
+    "minecraft:iron_axe",
+    "travelersbackpack:white_sleeping_bag",
+    "minecraft:white_wool_from_string",
+    "minecraft:shears",
+    "minecraft:iron_pickaxe",
     "farmersdelight:rope",
     "minecraft:torch",
     "notreepunching:sticks_from_logs_with_flint_axe",
-    "notreepunching:fire_starter",
     "notreepunching:flint_shovel",
     "notreepunching:flint_pickaxe",
-    "minecraft:crafting_table",
-    "notreepunching:generated/minecraft_oak_planks",
     "notreepunching:plant_string",
     "notreepunching:plant_fiber_from_saplings_with_knife",
     "notreepunching:flint_axe",
