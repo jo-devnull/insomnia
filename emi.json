@@ -71,6 +71,11 @@
     }
   ],
   "lookup_history": [
+    "item:notreepunching:fire_starter{Damage:0}",
+    "item:minecraft:soul_campfire",
+    "item:notreepunching:flint_shovel{Damage:0}",
+    "item:notreepunching:flint_pickaxe{Damage:0}",
+    "item:notreepunching:flint_axe{Damage:0}",
     "item:thirstcanteen:leather_canteen",
     "item:thirstcanteen:dragon_bottle",
     "item:thirstcanteen:military_bottle",
@@ -115,7 +120,21 @@
     "item:minecraft:crafting_table",
     "item:simplyswords:stars_edge{Damage:0}"
   ],
-  "craft_history": [],
+  "craft_history": [
+    "farmersdelight:rope",
+    "minecraft:torch",
+    "notreepunching:sticks_from_logs_with_flint_axe",
+    "notreepunching:fire_starter",
+    "notreepunching:flint_shovel",
+    "notreepunching:flint_pickaxe",
+    "minecraft:crafting_table",
+    "notreepunching:generated/minecraft_oak_planks",
+    "notreepunching:plant_string",
+    "notreepunching:plant_fiber_from_saplings_with_knife",
+    "notreepunching:flint_axe",
+    "farmersdelight:flint_knife",
+    "notreepunching:flint_from_gravel"
+  ],
   "recipe_defaults": {
     "added": [],
     "tags": {},

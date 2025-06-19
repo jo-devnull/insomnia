@@ -118,7 +118,7 @@ hash = "a1f36d1b8d78c26f9136625d9bf3549e59d9a545136096d184d44c156fdc584a"
 
 [[files]]
 file = "emi.json"
-hash = "cab830fe278887aaeae21d9cc2fe851126819b2475fa6427c8252a1b67ccdf3b"
+hash = "39942734f198c63204d7b31bd1e930e3841384019a7c76e912ce21b6200731ef"
 
 [[files]]
 file = "modlist.md"
@@ -605,11 +605,6 @@ hash = "99015906708f307dfd91a3a85fa4384b3bc000612942d81215cc95302ca3dc44"
 metafile = true
 
 [[files]]
-file = "mods/mechanics/freeze-it-and-heat-it.pw.toml"
-hash = "de348e16e7fb02807d0688b58bf1493732726b483c04372bc0bda0c304bd0516"
-metafile = true
-
-[[files]]
 file = "mods/mechanics/irons-spells-n-spellbooks.pw.toml"
 hash = "adbdf7bdf1ccfafda76be696f8bde9d2a7ac36f699d035ff9a02609672d8576a"
 metafile = true
@@ -876,12 +871,12 @@ metafile = true
 
 [[files]]
 file = "mods/miscellaneous/xaeros-minimap.pw.toml"
-hash = "57e0f55d28b9a621ef07ec6655eeebb0375a4f07c02359e442d6a9bf79048fa7"
+hash = "bb46ca87c02eb4fd1dc43688e820b9f402faad2427bb9ea1c7864f5bbac116a7"
 metafile = true
 
 [[files]]
-file = "mods/miscellaneous/xaeros-world-map.pw.toml"
-hash = "65afab949005742d6c738ea6a560fdb52fa51e866c4077908e847922cb324b72"
+file = "mods/miscellaneous/xaeros-worldmap.pw.toml"
+hash = "b5ad282adbe2386865e1aff651c47e5b7b438c595fce3c87678f0a82e7c613c6"
 metafile = true
 
 [[files]]
@@ -1191,7 +1186,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "8130d667c35a92be791d10bd9388e0d1d6170bfbc86c0fcef6940c8a1777a49b"
+hash = "b7fea5bb3635d635a332d49309c7d0bd68001dbd89321bac3f0098d9e83016f6"
 preserve = true
 
 [[files]]
