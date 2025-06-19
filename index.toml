@@ -118,7 +118,7 @@ hash = "a1f36d1b8d78c26f9136625d9bf3549e59d9a545136096d184d44c156fdc584a"
 
 [[files]]
 file = "emi.json"
-hash = "25113f6ef281e173ac5eabc396587a4769fad553fe6eb2a02d27d3388521453a"
+hash = "1d4e67b6aee5104054646ffad7b1e5222dcd336bdafc066488512d457c6cb122"
 
 [[files]]
 file = "modlist.md"
@@ -465,6 +465,11 @@ hash = "519bc107537b71d4a04d6f3de19972b514c6c530026e39f89f431cebd7b34895"
 metafile = true
 
 [[files]]
+file = "mods/entities/distant-friends.pw.toml"
+hash = "7ed31863d3d316f77207e80eed4751b6edfa94e3af8bffa9b4445deb90cacff5"
+metafile = true
+
+[[files]]
 file = "mods/entities/ecologics.pw.toml"
 hash = "d806a7c3c9fbbfb5049605bd1cd4c0a466daab7231f69f64734a7e9a0c31016e"
 metafile = true
@@ -522,6 +527,11 @@ metafile = true
 [[files]]
 file = "mods/entities/mutant-monsters.pw.toml"
 hash = "43ba3d22e3402a7e8e1982a8b274384e673f49986c5733eb652a8a2760011f89"
+metafile = true
+
+[[files]]
+file = "mods/entities/paranoia.pw.toml"
+hash = "167c635eba20acfc3047ce15eec557b331fb4cb89a93c2a6415aca31e22780a5"
 metafile = true
 
 [[files]]
@@ -627,6 +637,11 @@ metafile = true
 [[files]]
 file = "mods/mechanics/redstonepen.pw.toml"
 hash = "2d83876af0af619c2950ef491e1e9f5d564016a4adaab2fdb82113312140ece2"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/sanity-descent-into-madness.pw.toml"
+hash = "deb0431d84cc149e188d9cbbfbf71c2348bd6b18109448516b83a75146d3317f"
 metafile = true
 
 [[files]]
@@ -1221,7 +1236,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0361445fbb97d33e321d33a9e0f2247a0c7c41e229127fc04b995d27dea3e82f"
+hash = "e7265c0fb56fb73895fa460b38e4c1710a54074a4032237cc36715090cd6a358"
 preserve = true
 
 [[files]]

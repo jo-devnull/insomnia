@@ -175,6 +175,8 @@
     "item:simplyswords:stars_edge{Damage:0}"
   ],
   "craft_history": [
+    "minecraft:oak_slab",
+    "farmersdelight:rope",
     "minecraft:iron_boots",
     "minecraft:iron_helmet",
     "minecraft:iron_chestplate",
@@ -192,7 +194,6 @@
     "minecraft:white_wool_from_string",
     "minecraft:shears",
     "minecraft:iron_pickaxe",
-    "farmersdelight:rope",
     "minecraft:torch",
     "notreepunching:sticks_from_logs_with_flint_axe",
     "notreepunching:flint_shovel",
