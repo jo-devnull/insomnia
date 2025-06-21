@@ -1,6 +1,6 @@
 {
   "modpackMode": false,
-  "fullScreen": "FULLSCREEN",
+  "fullScreen": "WINDOWED",
   "fpsDisplayMode": "SIMPLE",
   "fpsDisplayAlign": "LEFT",
   "fpsDisplayVAlign": "TOP",
@@ -9,10 +9,10 @@
   "fpsDisplayVMargin": 12,
   "fpsDisplayShadow": false,
   "fog": true,
-  "blueBand": false,
+  "blueBand": true,
   "customFog": true,
-  "fogStart": 260,
-  "fogEnd": 300,
+  "fogStart": 300,
+  "fogEnd": 350,
   "fogShape": "CYLINDER",
   "cloudsHeight": 256,
   "entityNametagRendering": true,
@@ -63,6 +63,6 @@
   ],
   "borderlessAttachModeF11": "ATTACH",
   "fastLanguageReload": true,
-  "enableZoom": true,
+  "enableZoom": false,
   "maxZoom": 50.0
 }

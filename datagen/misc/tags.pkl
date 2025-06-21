@@ -1,0 +1,50 @@
+unsafeBiomes {
+  path = "worldgen/biome/unsafe"
+
+  values {
+    "#minecraft:is_ocean"
+    "#minecraft:is_cave"
+
+    "minecraft:dark_forest"
+    "minecraft:mushroom_fields"
+    "minecraft:desert"
+    "minecraft:badlands"
+    "minecraft:eroded_badlands"
+
+    "biomesoplenty:cold_desert"
+    "biomesoplenty:dead_forest"
+    "biomesoplenty:old_growth_dead_forest"
+    "biomesoplenty:dryland"
+    "biomesoplenty:fungal_jungle"
+    "biomesoplenty:muskeg"
+    "biomesoplenty:mystic_grove"
+    "biomesoplenty:ominous_woods"
+    "biomesoplenty:redwood_forest"
+    "biomesoplenty:volcano"
+    "biomesoplenty:volcano_plains"
+    "biomesoplenty:wasteland"
+    "biomesoplenty:wasteland_steppe"
+
+    "nyctophobia:ancient_dead_coral_reef"
+    "nyctophobia:deep_dark_forest"
+    "nyctophobia:eroded_haunted_forest"
+    "nyctophobia:haunted_forest"
+    "nyctophobia:haunted_lakes"
+  }
+}
+
+unsafeStructures {
+  path = "worldgen/structure/unsafe"
+
+  values {
+    "minecraft:pillager_outpost"
+    "irons_spellbooks:evoker_fort"
+    "irons_spellbooks:mountain_tower"
+    "irons_spellbooks:pyromancer_tower"
+    "scguns:asgharian_citadel"
+    "scguns:asgharian_tower"
+    "scguns:osgood_lab"
+    "scguns:osgood_lab_outpost"
+    "scguns:trench"
+  }
+}

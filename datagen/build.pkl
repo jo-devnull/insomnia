@@ -63,11 +63,23 @@ function buildWalkers() = new Mapping<String, FileOutput> {
   }
 }
 
+function buildMisc() = new Mapping<String, FileOutput> {
+  for (key, tag in import("misc/tags.pkl").toMap()) {
+    ["\(path.data)/modpack/tags/\(tag.path).json"] = (json) {
+      value {
+        replace = false
+        values = tag.values
+      }
+    }
+  }
+}
+
 output {
   files {
     ...buildEmi()
     ...buildTags()
     ...buildLang()
+    ...buildMisc()
     ...buildWalkers()
 
     ["./resourcepacks/@insomnia/pack.mcmeta"] = (json) {
