@@ -41,7 +41,7 @@ hash = "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "efb8aacf9193e2bc41563d3c6bad6a563a3eb8b4b6db9fd5a7827cd366d0fbf8"
+hash = "5020624b5717793dc7a289e2e84c3d3231358477970b723dac4a4f1234126190"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -838,7 +838,7 @@ metafile = true
 
 [[files]]
 file = "mods/miscellaneous/insomniatweaks.pw.toml"
-hash = "885d987e85410ceafd2d4040d58f2b60daafee0ef1cdb3365806d0d2f64312fa"
+hash = "cb9530e9a16d81597a091959a8b724747e0749faec4f6c22bbce76003dace80e"
 metafile = true
 
 [[files]]
