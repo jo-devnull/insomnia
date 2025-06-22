@@ -14,7 +14,7 @@ hash = "89a9290be73ad0a806bc04d3edb126dab52f27b8a0604bda4b633f7ec046182a"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "87845fa1feebd0b6b59d931382a3077ac0932525c4f666b8522005c63538a7ce"
+hash = "06b01e5156b394385822dc4005710f8602b7fcfd68e77d0a6eed3ea08e778c28"
 preserve = true
 
 [[files]]
@@ -170,7 +170,7 @@ hash = "a1f36d1b8d78c26f9136625d9bf3549e59d9a545136096d184d44c156fdc584a"
 
 [[files]]
 file = "emi.json"
-hash = "51a6d5517c3f91872be01a0302270ed3658efc928e4b0e6dd3e54ab1c8b899bd"
+hash = "73cfd667b9c3f2271ee2e70978e3dce4c972c4fa7d1646d8ce5cd9169c819061"
 
 [[files]]
 file = "modlist.md"
@@ -409,6 +409,11 @@ metafile = true
 [[files]]
 file = "mods/dependency/petrolpark.pw.toml"
 hash = "499b014fe894aa7803f2d1affbb2225d447c5ebc7106f9ba9dd445a969f46441"
+metafile = true
+
+[[files]]
+file = "mods/dependency/platform.pw.toml"
+hash = "ad3ca21ad405022a25ed35a2f5934f87a005dfa703bfffd5a5d5e62b465e5756"
 metafile = true
 
 [[files]]
@@ -714,6 +719,11 @@ metafile = true
 [[files]]
 file = "mods/mechanics/treechop.pw.toml"
 hash = "28338683a820169965b741c5bf8c331b5c3d0e77ec0da681f6c64face100ca85"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/vanillabackport.pw.toml"
+hash = "b53f688068a54fe251af70eadd77ec9cf36faf1252bf174584800f9b387bd048"
 metafile = true
 
 [[files]]
@@ -1303,7 +1313,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "6db54b607566d24027937ecbdc0c9d23655b88ce0680f4ca91e005dbe2d4a633"
+hash = "36d8c517dda95454bf799031c6f0250896aebb06bf02587062cdb614c9bff43d"
 preserve = true
 
 [[files]]
