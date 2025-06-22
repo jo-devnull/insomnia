@@ -378,6 +378,11 @@ hash = "94fadcc6d98788b11d63d2017ccd51d2aa70a8ba4e73a6478c6b1e06e20ba27b"
 metafile = true
 
 [[files]]
+file = "mods/dependency/forgeendertech.pw.toml"
+hash = "e03ab507436170398969e0bfc41d0bd42038aca36ca7936319984b76ed48129e"
+metafile = true
+
+[[files]]
 file = "mods/dependency/forgified-fabric-api.pw.toml"
 hash = "d3f89b6e2a393035585df86d95db71fd1e9f583c0f5078c0fff1f64963f65b68"
 metafile = true
@@ -824,7 +829,7 @@ metafile = true
 
 [[files]]
 file = "mods/miscellaneous/eerie-music-forge-fabric.pw.toml"
-hash = "c0f1e411aee4b09d4ac2c1e47dff20e5fc440b76f5de9e750ec03733095c9c30"
+hash = "ae7b0ecea7ce7771f88abc63cba2e2d0f97261699417f0064b8890973ac3a400"
 metafile = true
 
 [[files]]
@@ -1258,6 +1263,11 @@ hash = "5a97f6b3c6761fad3bf97a599476bb97e3b6895e830deb4268337b638b6e65b0"
 metafile = true
 
 [[files]]
+file = "mods/world/large-ore-deposits.pw.toml"
+hash = "fbebf8412e3be79c7e86210e1fc30386e7fed06e2935abeba3c6d03deea208fe"
+metafile = true
+
+[[files]]
 file = "mods/world/nyctophobia-forge.pw.toml"
 hash = "5fe6d0cd9fb5c7a639f765598c3dbc10b4ac22e58535496eb3e6f9e55dff0dbd"
 metafile = true
@@ -1358,7 +1368,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "82c188198133cdd934a75e0adfbd4aab08618d0d199107219586ee49cb75ab95"
+hash = "00821904872bf5f5ce3b66a462eddaf27c35bfc1c1e2f2158392c63ed69400f7"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
