@@ -83,3 +83,10 @@ cold_sweat {
   "smokestack"
   "sewing_table"
 }
+
+waystones {
+  "waystone"
+  "mossy_waystone"
+  "sandy_waystone"
+  "sharestone"
+}

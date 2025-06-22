@@ -94,6 +94,22 @@ file = "config/xaeroworldmap.txt"
 hash = "ef1cf9d7a1fc4848e9c064d8abb2a1826ca12ce19daeeb5624c9b3bf80723a53"
 
 [[files]]
+file = "datapacks/@packdata/data/chovys_apocalypse_mod/weapon_attributes/aluminiumbat.json"
+hash = "fe30163fbfcebb82f080dbe29cecc43facd06c790c6fd4cc391d80120601fb82"
+
+[[files]]
+file = "datapacks/@packdata/data/chovys_apocalypse_mod/weapon_attributes/baseballbat.json"
+hash = "fe30163fbfcebb82f080dbe29cecc43facd06c790c6fd4cc391d80120601fb82"
+
+[[files]]
+file = "datapacks/@packdata/data/chovys_apocalypse_mod/weapon_attributes/crowbar.json"
+hash = "35122180a8d0d05c63311b32a8e202783c316a0ec164bc6457520b3551297c0c"
+
+[[files]]
+file = "datapacks/@packdata/data/chovys_apocalypse_mod/weapon_attributes/pitchfork.json"
+hash = "e5b85bc5dbdd39ad3cbfff0d42191ee47b30698b0e682653fdb3a05d3c594b13"
+
+[[files]]
 file = "datapacks/@packdata/data/fromtheshadows/forge/biome_modifier/nether_spawns.json"
 hash = "c51f11ddbda1479e1f0ecd6c5521607f99f58a2371967ef22d5f2f2b0b1d39d7"
 
@@ -170,7 +186,7 @@ hash = "a1f36d1b8d78c26f9136625d9bf3549e59d9a545136096d184d44c156fdc584a"
 
 [[files]]
 file = "emi.json"
-hash = "73cfd667b9c3f2271ee2e70978e3dce4c972c4fa7d1646d8ce5cd9169c819061"
+hash = "00245f1fb2ef12df4a6f6337794c78e40db180f881dcd56a0a54396f6556b5c0"
 
 [[files]]
 file = "modlist.md"
@@ -1313,7 +1329,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "36d8c517dda95454bf799031c6f0250896aebb06bf02587062cdb614c9bff43d"
+hash = "7f121355c6228fd687fc377c6f5ccaa83adab87ecff67a861009373d573af49b"
 preserve = true
 
 [[files]]
@@ -1342,7 +1358,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "8d0a101cf36476696a498736b797376b017225a58a9c1a12fa86efe5a63f38ce"
+hash = "82c188198133cdd934a75e0adfbd4aab08618d0d199107219586ee49cb75ab95"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"

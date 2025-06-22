@@ -71,10 +71,6 @@ betterarcheology {
   "iron_brush"
   "diamond_brush"
   "netherite_brush"
-  "radiance_totem"
-  "torrent_totem"
-  "soul_totem"
-  "growth_totem"
 }
 
 createdieselgenerators {
@@ -105,4 +101,12 @@ domesticationinnovation {
 notreepunching {
   "clay_tool"
   "fire_starter"
+}
+
+travelersbackpack {
+  "standard"
+  "backpack_tank"
+  "hose"
+  "blank_upgrade"
+  "white_sleeping_bag"
 }

@@ -1,3 +1,5 @@
+import "../utils.pkl"
+
 minecraft {
   "#minecraft:beds"
   "cauldron"
@@ -17,4 +19,29 @@ create {
 
 farmersdelight {
   "#farmersdelight:cabinets"
+}
+
+redeco {
+  for (woodType in utils.VanillaWood) {
+    "\(woodType)_table"
+    "\(woodType)_side_table"
+    "\(woodType)_drawers"
+    "\(woodType)_drawer_counter"
+    "\(woodType)_cabinet_counter"
+    "\(woodType)_coffee_table"
+    "\(woodType)_chair"
+    "\(woodType)_stool"
+    "\(woodType)_bench"
+    "\(woodType)_shelf"
+    "\(woodType)_display_case"
+    "\(woodType)_sword_mount"
+    "\(woodType)_pedestal"
+  }
+
+  for (color in utils.BlockColors) {
+    "\(color)_sofa"
+    "\(color)_ottoman"
+    "\(color)_cushion"
+    "\(color)_pet_bed"
+  }
 }

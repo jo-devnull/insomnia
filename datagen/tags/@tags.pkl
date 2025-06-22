@@ -25,6 +25,32 @@ heavy_tools = new ItemTag {
   mod = import("./heavy_tools.pkl").toMap()
 }
 
+// Combat
+
+weapons = new ItemTag {
+  title = "Armas Brancas"
+  icon = "minecraft:item/netherite_sword"
+  mod = import("./weapons.pkl").toMap()
+}
+
+armor = new ItemTag {
+  title = "Armadura"
+  icon = "minecraft:item/diamond_chestplate"
+  mod = import("./armor.pkl").toMap()
+}
+
+archery = new ItemTag {
+  title = "Arquearia"
+  icon  = "minecraft:item/bow"
+  mod   = import("./archery.pkl").toMap()
+}
+
+// armory = new ItemTag {
+//   title = "Armas de Fogo"
+//   icon = "minecraft:item/missing"
+//   mod = import("./armory.pkl").toMap()
+// }
+
 // Cooking
 
 cooking = new ItemTag {
@@ -39,10 +65,24 @@ foods = new ItemTag {
   mod = import("./foods.pkl").toMap()
 }
 
-beverages = new ItemTag {
-  title = "Bebidas Comuns"
-  icon = "minecraft:item/honey_bottle"
-  mod = import("./beverages.pkl").toMap()
+// Magic
+
+brewing = new ItemTag {
+  title = "Bebidas & Poções"
+  icon = "minecraft:item/potion"
+  mod = import("./brewing.pkl").toMap()
+}
+
+enchanting = new ItemTag {
+  title = "Encantamento"
+  icon = "minecraft:item/enchanting_table"
+  mod = import("./enchanting.pkl").toMap()
+}
+
+witchcraft = new ItemTag {
+  title = "Bruxaria"
+  icon = "irons_spellbooks:item/holy_upgrade_orb"
+  mod = import("./witchcraft.pkl").toMap()
 }
 
 // Decoration
@@ -69,32 +109,6 @@ storage = new ItemTag {
   title = "Armazenamento"
   icon = "farmersdelight:item/oak_cabinet"
   mod = import("./storage.pkl").toMap()
-}
-
-// Combat
-
-archery = new ItemTag {
-  title = "Arquearia"
-  icon  = "minecraft:item/bow"
-  mod   = import("./archery.pkl").toMap()
-}
-
-weapons = new ItemTag {
-  title = "Armas Brancas"
-  icon = "minecraft:item/netherite_sword"
-  mod = import("./weapons.pkl").toMap()
-}
-
-armor = new ItemTag {
-  title = "Armadura"
-  icon = "minecraft:item/diamond_chestplate"
-  mod = import("./armor.pkl").toMap()
-}
-
-armory = new ItemTag {
-  title = "Armas de Fogo"
-  icon = "minecraft:item/missing"
-  mod = import("./armory.pkl").toMap()
 }
 
 // Professions
@@ -139,24 +153,4 @@ transport = new ItemTag {
   title = "Transporte"
   icon = "minecraft:item/minecart"
   mod = import("./transport.pkl").toMap()
-}
-
-// Magic
-
-brewing = new ItemTag {
-  title = "Fermentação & Poções"
-  icon = "minecraft:item/potion"
-  mod = import("./brewing.pkl").toMap()
-}
-
-enchanting = new ItemTag {
-  title = "Encantamento"
-  icon = "minecraft:item/enchanting_table"
-  mod = import("./enchanting.pkl").toMap()
-}
-
-witchcraft = new ItemTag {
-  title = "Bruxaria"
-  icon = "irons_spellbooks:item/holy_upgrade_orb"
-  mod = import("./witchcraft.pkl").toMap()
 }

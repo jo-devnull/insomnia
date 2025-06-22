@@ -1,5 +1,9 @@
 minecraft {
   "#forge:armors"
+  "#forge:armor/helmets"
+  "#forge:armor/chestplates"
+  "#forge:armor/leggings"
+  "#forge:armor/boots"
 }
 
 immersive_armors {
@@ -55,4 +59,8 @@ cold_sweat {
   "chamaleon_scale_chestplate"
   "chamaleon_scale_leggings"
   "chamaleon_scale_boots"
+}
+
+chovys_apocalypse_mod {
+  "policevest_chestplate"
 }

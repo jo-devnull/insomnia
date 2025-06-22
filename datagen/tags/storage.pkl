@@ -1,3 +1,5 @@
+import "../utils.pkl"
+
 minecraft {
   "chest"
   "ender_chest"
@@ -19,4 +21,29 @@ create {
 
 farmersdelight {
   "#farmersdelight:cabinets"
+}
+
+storagedrawers {
+  "#storagedrawers:drawers"
+}
+
+storagedelight {
+  for (wood in utils.VanillaWood) {
+    "\(wood)_drawer"
+    "\(wood)_drawer_with_door"
+    "\(wood)_drawer_with_books"
+    "\(wood)_bookshelf_with_door"
+    "\(wood)_cabinet_with_glass_doors"
+    "\(wood)_single_door_cabinet"
+    "glass_\(wood)_cabinet"
+  }
+}
+
+redeco {
+  for (wood in utils.VanillaWood) {
+    "\(wood)_crate"
+    "\(wood)_drawers"
+    "\(wood)_drawer_counter"
+    "\(wood)_cabinet_counter"
+  }
 }

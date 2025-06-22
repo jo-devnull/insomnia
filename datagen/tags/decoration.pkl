@@ -58,3 +58,20 @@ supplementaries {
     "present_\(color)"
   }
 }
+
+chovys_apocalypse_mod {
+  "wire"
+  "cargobox"
+  "barricade"
+  "trafficbarricade"
+  "cone"
+}
+
+redeco {
+  for (color in utils.BlockColors) {
+    "\(color)_lamp"
+    "\(color)_paper_lantern"
+    "\(color)_fluffy_carpet"
+    "\(color)_awning"
+  }
+}

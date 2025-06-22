@@ -8,7 +8,8 @@ minecraft {
   "chest_minecart"
   "furnace_minecart"
   "tnt_minecart"
-  "#minecraft:boats"
+  "oak_boat"
+  "oak_chest_boat"
 }
 
 create {
@@ -25,4 +26,20 @@ create {
 
 cold_sweat {
   "insulated_minecart"
+}
+
+alexscaves {
+  "submarine"
+}
+
+automobility {
+  "automobile"
+}
+
+vanillabackport {
+  "white_harness"
+}
+
+immersive_aircraft {
+  "#immersive_aircraft:aircraft"
 }
