@@ -67,7 +67,7 @@ preserve = true
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "e57ea66f5551a9ce0c32bf64dd15be2ca13e3f50567b2fa7aa67f33da40e89af"
+hash = "a422aa598677aa8a783a2140fcdc057be9b406a7c3a0256eebd438b05f54fddf"
 
 [[files]]
 file = "config/rootoffear/common.toml"
@@ -375,6 +375,16 @@ metafile = true
 [[files]]
 file = "mods/dependency/curios.pw.toml"
 hash = "94fadcc6d98788b11d63d2017ccd51d2aa70a8ba4e73a6478c6b1e06e20ba27b"
+metafile = true
+
+[[files]]
+file = "mods/dependency/entity-model-features.pw.toml"
+hash = "d1cd90a2763a453212661cd06f815f9d95571ad29bd89bedefbc85afb9ebf8ea"
+metafile = true
+
+[[files]]
+file = "mods/dependency/entitytexturefeatures.pw.toml"
+hash = "f5923ee01db2aa51c19c68884bd681e44962bd6ef725625943556cd97cb840fd"
 metafile = true
 
 [[files]]
@@ -770,11 +780,6 @@ metafile = true
 [[files]]
 file = "mods/miscellaneous/automobility.pw.toml"
 hash = "4e969399064d3cd8962adc2f8a52b1172aaa5f69fc97b56557213c14f48155ee"
-metafile = true
-
-[[files]]
-file = "mods/miscellaneous/better-animations-collection.pw.toml"
-hash = "6994598c91006698c4b01d9f3532b989d5da0ca594345ea65e97f01bd301e11a"
 metafile = true
 
 [[files]]
@@ -1339,7 +1344,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "7f121355c6228fd687fc377c6f5ccaa83adab87ecff67a861009373d573af49b"
+hash = "8a95b646a53131f49fd48614619b1364c196648e8702b83194574b889177ea08"
 preserve = true
 
 [[files]]
@@ -1375,6 +1380,11 @@ file = "resourcepacks/VanillaTweaks.zip"
 hash = "622db52934292b831dd7a67bfc6ad22827fe00ce9fb228241c56a29362843aeb"
 
 [[files]]
+file = "resourcepacks/create-style-hopper.pw.toml"
+hash = "374fc3b531d1cff3d9dcafc73103797e44c5e27bce2ab414fab2695bde9d9284"
+metafile = true
+
+[[files]]
 file = "resourcepacks/detail-brush.pw.toml"
 hash = "c1693318b2a8aab90324bf027e6d9c74cd7ced0d6ff6cc432ecd6463cc3751ff"
 metafile = true
@@ -1390,6 +1400,11 @@ hash = "3b05b966ad8012708764929ded584b1bbb80b065485c1b5ee8f5587ea18e92d7"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-waystones-texture.pw.toml"
 hash = "9e211b5199490a166526613d26e01fb42bc8ab488e82f9c496b5647665a6c748"
 metafile = true
@@ -1402,6 +1417,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/improved-crafting-table-squarzy.pw.toml"
 hash = "c15efd64289159580f0997ace2c8b1b21ee81669417935aa31da1d0f0322951d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/more-mob-variants-fresh-animations-addon.pw.toml"
+hash = "a36b5799b81638f43b8d35b9bbca6a9471e2e52b811739bff90601db31b8ebe0"
 metafile = true
 
 [[files]]
@@ -1440,6 +1460,11 @@ hash = "fb40f1bfd9e4c4a4e392f3f518840b4d4d6f2c8f474a974a19cff11cb37f9e7a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/xalis-bushy-leaves.pw.toml"
+hash = "8cf6e23385d2c850f847d21682137acd11a580228bd5923e1a6452cf2fa88d89"
+metafile = true
+
+[[files]]
 file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
 hash = "ae7edf88421a097a50a8d2081dad32598bc24fc3bff7f0961763645a6fff37d2"
 metafile = true
@@ -1473,4 +1498,4 @@ hash = "b4b1a2b12abe8a98efd821d2e8e13166fd941c9b30c7ab7c460b8701a64ee008"
 
 [[files]]
 file = "scripts/tags.zs"
-hash = "bc60490609f3bdc31bb114c1b2e5db297bbaa52ff199ac91f4fdc5d4e751eb73"
+hash = "1b3564e9f2c87e7e1416e43d68d9f812ea664b5a9e64e14d4f2a73c26efb89dc"

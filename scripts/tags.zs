@@ -42,9 +42,7 @@ import crafttweaker.api.item.ItemDefinition;
 
 <tag:entity_types:friendlyfire:player_protection>.add(
   <entitytype:minecraft:player>,
-  <entitytype:minecraft:villager>,
-  <entitytype:mca:female_villager>,
-  <entitytype:mca:male_villager>
+  <entitytype:minecraft:villager>
 );
 
 <tag:entity_types:friendlyfire:player_protection>.add(
