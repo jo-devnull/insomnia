@@ -1,6 +1,6 @@
 {
   "modpackMode": false,
-  "fullScreen": "WINDOWED",
+  "fullScreen": "BORDERLESS",
   "fpsDisplayMode": "SIMPLE",
   "fpsDisplayAlign": "LEFT",
   "fpsDisplayVAlign": "TOP",
@@ -14,7 +14,7 @@
   "fogStart": 290,
   "fogEnd": 300,
   "fogShape": "CYLINDER",
-  "cloudsHeight": 256,
+  "cloudsHeight": 320,
   "entityNametagRendering": true,
   "playerNametagRendering": true,
   "itemNametagRendering": true,

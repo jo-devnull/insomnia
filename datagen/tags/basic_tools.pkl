@@ -110,3 +110,9 @@ travelersbackpack {
   "blank_upgrade"
   "white_sleeping_bag"
 }
+
+thirstcanteen {
+  "military_bottle"
+  "leather_bottle"
+  "dragon_bottle"
+}

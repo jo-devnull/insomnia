@@ -14,7 +14,7 @@ hash = "89a9290be73ad0a806bc04d3edb126dab52f27b8a0604bda4b633f7ec046182a"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "06b01e5156b394385822dc4005710f8602b7fcfd68e77d0a6eed3ea08e778c28"
+hash = "dc7b6db77c993a457960307ef42485f4ac4160e8b2bcd84617eacb4e5096cbdf"
 preserve = true
 
 [[files]]
@@ -28,7 +28,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "ccbac949fb5276a4c6016043a0fe237a72d4b5cb9fcaae719070e39712f45dff"
+hash = "248cf07d175361a4c5ea731c4ec1b8f28452f4635f79b5bfed05f42e26f00b4f"
 preserve = true
 
 [[files]]
@@ -57,7 +57,7 @@ hash = "29f9b3178bade07d7e1ab60d8cdf3f4880f559490ef0b8911c4a190b906134d9"
 
 [[files]]
 file = "config/parcool-client.toml"
-hash = "1ceff51248a745ab31786b4eb556994ceee08c0d1331d248e705ee41f6cb2d5e"
+hash = "cb38087006380357694fae760dc3fa2855de5b2eb58c29c97da0228870bbc548"
 preserve = true
 
 [[files]]
@@ -186,7 +186,7 @@ hash = "a1f36d1b8d78c26f9136625d9bf3549e59d9a545136096d184d44c156fdc584a"
 
 [[files]]
 file = "emi.json"
-hash = "00245f1fb2ef12df4a6f6337794c78e40db180f881dcd56a0a54396f6556b5c0"
+hash = "7e541bb337231b16a2912f120fe5eba5ae72fbc53cb5bf1f3040dd44305c1ec8"
 
 [[files]]
 file = "modlist.md"
@@ -420,6 +420,11 @@ metafile = true
 [[files]]
 file = "mods/dependency/insanelib.pw.toml"
 hash = "41dadf381d02409f278eb334d65aa21b3b2c08d017bf375503a48be65c8f7a57"
+metafile = true
+
+[[files]]
+file = "mods/dependency/jupiter.pw.toml"
+hash = "23df9f3a6888f45941cb277de3bbabe3318babc26ba24d06cfecb585e62544c1"
 metafile = true
 
 [[files]]
@@ -874,7 +879,7 @@ metafile = true
 
 [[files]]
 file = "mods/miscellaneous/insomniatweaks.pw.toml"
-hash = "cb9530e9a16d81597a091959a8b724747e0749faec4f6c22bbce76003dace80e"
+hash = "60fbe77ab295acf6c8a6f5f8864943b2836dd9a92ddcf709ebbc9899d4f95a6e"
 metafile = true
 
 [[files]]
@@ -970,6 +975,11 @@ metafile = true
 [[files]]
 file = "mods/miscellaneous/thirst-canteen.pw.toml"
 hash = "b8f6921b23b5707f2adbbab0515376dbeb4ca6fb2f76d5da6de18781faef3f73"
+metafile = true
+
+[[files]]
+file = "mods/miscellaneous/tooltips-reforged.pw.toml"
+hash = "5bdbe371280d869a4b4465c6374f7e348b9c2bd95b0d128d718a8917e2149fb4"
 metafile = true
 
 [[files]]
@@ -1344,7 +1354,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "8a95b646a53131f49fd48614619b1364c196648e8702b83194574b889177ea08"
+hash = "0e3fcdfba792b90ee49e5f5f1c9844be3aa6a7174d141a21185cbb09cbc68254"
 preserve = true
 
 [[files]]
@@ -1373,7 +1383,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "00821904872bf5f5ce3b66a462eddaf27c35bfc1c1e2f2158392c63ed69400f7"
+hash = "e133665233338ca1b86498a18717769a2b2304b718b32151bdb08e88acaaa08f"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
@@ -1420,11 +1430,6 @@ hash = "c15efd64289159580f0997ace2c8b1b21ee81669417935aa31da1d0f0322951d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/more-mob-variants-fresh-animations-addon.pw.toml"
-hash = "a36b5799b81638f43b8d35b9bbca6a9471e2e52b811739bff90601db31b8ebe0"
-metafile = true
-
-[[files]]
 file = "resourcepacks/no-enchant-glint.pw.toml"
 hash = "d46c1e7989d2af9e8b115cf7923e4dbe449e32e1aa5b58492ac27f17bc985837"
 metafile = true
@@ -1457,11 +1462,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/visual-enchantments.pw.toml"
 hash = "fb40f1bfd9e4c4a4e392f3f518840b4d4d6f2c8f474a974a19cff11cb37f9e7a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xalis-bushy-leaves.pw.toml"
-hash = "8cf6e23385d2c850f847d21682137acd11a580228bd5923e1a6452cf2fa88d89"
 metafile = true
 
 [[files]]

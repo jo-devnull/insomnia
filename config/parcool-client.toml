@@ -19,7 +19,7 @@
 	can_Roll = true
 	can_SkyDive = true
 	can_Slide = true
-	can_Tap = true
+	can_Tap = false
 	can_Vault = true
 	can_VerticalWallRun = true
 	can_WallJump = false
