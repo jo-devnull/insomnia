@@ -43,3 +43,7 @@ vanillabackport {
 immersive_aircraft {
   "#immersive_aircraft:aircraft"
 }
+
+vc_gliders {
+  "#curios:gliders"
+}

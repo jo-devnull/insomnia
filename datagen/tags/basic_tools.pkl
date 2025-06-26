@@ -112,7 +112,11 @@ travelersbackpack {
 }
 
 thirstcanteen {
+  "leather_canteen"
   "military_bottle"
-  "leather_bottle"
   "dragon_bottle"
+}
+
+map_atlases {
+  "atlas"
 }

@@ -1,217 +1,4 @@
 {
-  "favorites": [
-    {
-      "stack": "#item:category:functional_blocks"
-    },
-    {
-      "stack": "#item:category:basic_tools"
-    },
-    {
-      "stack": "#item:category:heavy_tools"
-    },
-    {
-      "stack": "#item:category:weapons"
-    },
-    {
-      "stack": "#item:category:armor"
-    },
-    {
-      "stack": "#item:category:archery"
-    },
-    {
-      "stack": "#item:category:cooking"
-    },
-    {
-      "stack": "#item:category:foods"
-    },
-    {
-      "stack": "#item:category:brewing"
-    },
-    {
-      "stack": "#item:category:enchanting"
-    },
-    {
-      "stack": "#item:category:witchcraft"
-    },
-    {
-      "stack": "#item:category:furniture"
-    },
-    {
-      "stack": "#item:category:decoration"
-    },
-    {
-      "stack": "#item:category:block_decoration"
-    },
-    {
-      "stack": "#item:category:storage"
-    },
-    {
-      "stack": "#item:category:carpentry"
-    },
-    {
-      "stack": "#item:category:masonry"
-    },
-    {
-      "stack": "#item:category:metalworking"
-    },
-    {
-      "stack": "#item:category:engineering"
-    },
-    {
-      "stack": "#item:category:farming"
-    },
-    {
-      "stack": "#item:category:fishing"
-    },
-    {
-      "stack": "#item:category:transport"
-    }
-  ],
-  "lookup_history": [
-    "item:notreepunching:flint_pickaxe{Damage:0}",
-    "item:notreepunching:flint_axe{Damage:0}",
-    "item:minecraft:water_bucket{Purity:0}",
-    "item:notreepunching:ceramic_water_bucket",
-    "item:thirstcanteen:military_bottle",
-    "item:minecraft:moss_block",
-    "item:minecraft:green_dye",
-    "item:minecraft:flint",
-    "item:create_ironworks:tin_ingot",
-    "item:create_ironworks:raw_tin",
-    {
-      "type": "item",
-      "id": "minecraft:oak_sapling",
-      "amount": 15
-    },
-    "item:samurai_dynasty:spirit_upgrade_smithing_template",
-    "item:minecraft:ender_pearl",
-    {
-      "type": "item",
-      "id": "minecraft:lapis_lazuli",
-      "amount": 5
-    },
-    {
-      "type": "item",
-      "id": "minecraft:pumpkin",
-      "amount": 11
-    },
-    "item:create_ironworks:iron_paxel{Damage:0}",
-    {
-      "type": "item",
-      "id": "minecraft:bone",
-      "amount": 11
-    },
-    {
-      "type": "item",
-      "id": "minecraft:compass",
-      "amount": 2
-    },
-    "item:irons_spellbooks:inscription_table",
-    "item:irons_spellbooks:iron_spell_book{ISB_Spells:{data:[],maxSpells:6,mustEquip:1b,spellWheel:1b}}",
-    "item:minecraft:chain",
-    "item:farmersdelight:tree_bark",
-    "item:minecraft:paper",
-    {
-      "type": "item",
-      "id": "immersive_weathering:oak_bark",
-      "amount": 7
-    },
-    "item:minecraft:book",
-    "item:travelersbackpack:blank_upgrade",
-    "item:travelersbackpack:iron_tier_upgrade",
-    "#item:travelersbackpack:backpack_upgrades",
-    "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]}}",
-    "item:toolbelt:pouch",
-    "item:toolbelt:belt",
-    "item:createdieselgenerators:chemical_sprayer_lighter{}",
-    {
-      "type": "item",
-      "id": "minecraft:mutton",
-      "amount": 7
-    },
-    {
-      "type": "item",
-      "id": "farmersdelight:cooked_salmon_slice",
-      "amount": 2
-    },
-    {
-      "type": "item",
-      "id": "minecraft:cooked_salmon",
-      "amount": 6
-    },
-    "item:minecraft:saddle",
-    "item:thirstcanteen:leather_canteen",
-    {
-      "type": "item",
-      "id": "minecraft:ink_sac",
-      "amount": 2
-    },
-    "item:minecraft:brush{Damage:0}",
-    {
-      "type": "item",
-      "id": "biomesoplenty:toadstool",
-      "amount": 4
-    }
-  ],
-  "craft_history": [
-    "travelersbackpack:white_sleeping_bag",
-    "minecraft:white_wool_from_string",
-    "notreepunching:flint_pickaxe",
-    "minecraft:crafting_table",
-    "notreepunching:generated/minecraft_spruce_planks",
-    "notreepunching:string_from_wool_with_knife",
-    "notreepunching:flint_axe",
-    "notreepunching:plant_string",
-    "notreepunching:plant_fiber_from_saplings_with_knife",
-    "farmersdelight:rope",
-    "farmersdelight:flint_knife",
-    "notreepunching:flint_from_gravel",
-    "thirstcanteen:military_bottle",
-    "immersive_weathering:moss_clump_from_block",
-    "minecraft:iron_boots",
-    "minecraft:iron_chestplate",
-    "minecraft:furnace",
-    "minecraft:gold_ingot_from_gold_block",
-    "minecraft:torch",
-    "minecraft:flint_and_steel",
-    "farmersdelight:lead_from_straw",
-    "farmersdelight:cutting_board",
-    "notreepunching:sticks_from_planks_with_flint_axe",
-    "notreepunching:generated/minecraft_oak_planks",
-    "minecraft:shears",
-    "chovys_apocalypse_mod:kniferep",
-    "notreepunching:sticks_from_logs_with_flint_axe",
-    "minecraft:iron_pickaxe",
-    "minecraft:iron_axe",
-    "irons_spellbooks:inscription_table",
-    "minecraft:oak_slab",
-    "minecraft:oak_fence",
-    "irons_spellbooks:iron_spell_book",
-    "minecraft:chain",
-    "minecraft:iron_nugget",
-    "farmersdelight:paper_from_tree_bark",
-    "travelersbackpack:iron_tier_upgrade",
-    "travelersbackpack:blank_upgrade",
-    "toolbelt:pouch",
-    "toolbelt:belt",
-    "thirstcanteen:leather_canteen",
-    "notreepunching:string_from_web_with_knife",
-    "travelersbackpack:standard_no_tanks",
-    "minecraft:chest",
-    "create_ironworks:armor/leggings/copper",
-    "create_ironworks:armor/chestplate/copper",
-    "minecraft:brush",
-    "vanillabackport:saddle",
-    "notreepunching:leather_from_chestplate_with_knife",
-    "minecraft:iron_shovel",
-    "minecraft:raw_iron"
-  ],
-  "recipe_defaults": {
-    "added": [],
-    "tags": {},
-    "resolutions": {},
-    "disabled": []
-  },
   "hidden_stacks": [
     "item:minecraft:goat_horn{instrument:\"minecraft:sing_goat_horn\"}",
     "item:minecraft:goat_horn{instrument:\"minecraft:seek_goat_horn\"}",
@@ -288,5 +75,73 @@
     "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]},Tier:2}",
     "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]},Tier:3}",
     "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]},Tier:4}"
+  ],
+  "favorites": [
+    {
+      "stack": "#item:category:functional_blocks"
+    },
+    {
+      "stack": "#item:category:basic_tools"
+    },
+    {
+      "stack": "#item:category:heavy_tools"
+    },
+    {
+      "stack": "#item:category:weapons"
+    },
+    {
+      "stack": "#item:category:armor"
+    },
+    {
+      "stack": "#item:category:archery"
+    },
+    {
+      "stack": "#item:category:cooking"
+    },
+    {
+      "stack": "#item:category:foods"
+    },
+    {
+      "stack": "#item:category:brewing"
+    },
+    {
+      "stack": "#item:category:enchanting"
+    },
+    {
+      "stack": "#item:category:witchcraft"
+    },
+    {
+      "stack": "#item:category:furniture"
+    },
+    {
+      "stack": "#item:category:decoration"
+    },
+    {
+      "stack": "#item:category:block_decoration"
+    },
+    {
+      "stack": "#item:category:storage"
+    },
+    {
+      "stack": "#item:category:carpentry"
+    },
+    {
+      "stack": "#item:category:masonry"
+    },
+    {
+      "stack": "#item:category:metalworking"
+    },
+    {
+      "stack": "#item:category:engineering"
+    },
+    {
+      "stack": "#item:category:farming"
+    },
+    {
+      "stack": "#item:category:fishing"
+    },
+    {
+      "stack": "#item:category:transport"
+    }
   ]
 }

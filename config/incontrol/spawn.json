@@ -1,7 +1,7 @@
 [
   {
     "result": "deny",
-    "mob": "artifacts:mimic",
+    "mob": ["artifacts:mimic"],
     "when": "onjoin"
   },
   {

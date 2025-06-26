@@ -14,7 +14,7 @@ hash = "89a9290be73ad0a806bc04d3edb126dab52f27b8a0604bda4b633f7ec046182a"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "dc7b6db77c993a457960307ef42485f4ac4160e8b2bcd84617eacb4e5096cbdf"
+hash = "14e93b96221f97d203c78d4b509e99ebb142c1cc0b9aedc9c70418168d4e6828"
 preserve = true
 
 [[files]]
@@ -28,7 +28,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "248cf07d175361a4c5ea731c4ec1b8f28452f4635f79b5bfed05f42e26f00b4f"
+hash = "9bb948bc842a6d84cf288842af94ab22b95e9566789fa7e70ccf05de94dadf38"
 preserve = true
 
 [[files]]
@@ -41,7 +41,7 @@ hash = "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "5020624b5717793dc7a289e2e84c3d3231358477970b723dac4a4f1234126190"
+hash = "4c2254106eff191e52b51b73263b44fd6b61bbef582a06e2edc2b1a95991e6a3"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -186,7 +186,7 @@ hash = "a1f36d1b8d78c26f9136625d9bf3549e59d9a545136096d184d44c156fdc584a"
 
 [[files]]
 file = "emi.json"
-hash = "7e541bb337231b16a2912f120fe5eba5ae72fbc53cb5bf1f3040dd44305c1ec8"
+hash = "00245f1fb2ef12df4a6f6337794c78e40db180f881dcd56a0a54396f6556b5c0"
 
 [[files]]
 file = "modlist.md"
@@ -378,11 +378,6 @@ hash = "94fadcc6d98788b11d63d2017ccd51d2aa70a8ba4e73a6478c6b1e06e20ba27b"
 metafile = true
 
 [[files]]
-file = "mods/dependency/entity-model-features.pw.toml"
-hash = "d1cd90a2763a453212661cd06f815f9d95571ad29bd89bedefbc85afb9ebf8ea"
-metafile = true
-
-[[files]]
 file = "mods/dependency/entitytexturefeatures.pw.toml"
 hash = "f5923ee01db2aa51c19c68884bd681e44962bd6ef725625943556cd97cb840fd"
 metafile = true
@@ -420,11 +415,6 @@ metafile = true
 [[files]]
 file = "mods/dependency/insanelib.pw.toml"
 hash = "41dadf381d02409f278eb334d65aa21b3b2c08d017bf375503a48be65c8f7a57"
-metafile = true
-
-[[files]]
-file = "mods/dependency/jupiter.pw.toml"
-hash = "23df9f3a6888f45941cb277de3bbabe3318babc26ba24d06cfecb585e62544c1"
 metafile = true
 
 [[files]]
@@ -548,6 +538,16 @@ hash = "299e98cb4a57004a2779f2858ccd9f4c7c1630b7d5ac2a1188142a85551c39d3"
 metafile = true
 
 [[files]]
+file = "mods/entities/bens-sharks.pw.toml"
+hash = "67f39bea37c98b056d1eb2665e5024a71808a95cd511d3f5c4457a43ded386db"
+metafile = true
+
+[[files]]
+file = "mods/entities/better-animations-collection.pw.toml"
+hash = "42703aee31a9f16b20cbcbbca486187fe2811fd5fdaa9e389e7e5a7ec5eb0518"
+metafile = true
+
+[[files]]
 file = "mods/entities/chickensshed.pw.toml"
 hash = "e01bac9939dc410ea9dcb14d40a8a1a19372ea62552bc78f99a1b05cfbb8bf9e"
 metafile = true
@@ -645,6 +645,11 @@ metafile = true
 [[files]]
 file = "mods/equipment/epic-samurais.pw.toml"
 hash = "ff576613b431b912d64e33389714754d713ff018193542e80651d06d5121ef0d"
+metafile = true
+
+[[files]]
+file = "mods/equipment/gliders.pw.toml"
+hash = "b0527dec9d0e59d5cdc677a63d8c48b6669fb8fc8bc2ba550b681dcbe08aad87"
 metafile = true
 
 [[files]]
@@ -803,6 +808,11 @@ hash = "1074045ef1fa205b415ecf04a192eaacf8cf860c3d9842640f47f51d16be0e8d"
 metafile = true
 
 [[files]]
+file = "mods/miscellaneous/build-your-campfire.pw.toml"
+hash = "5f83aeb5a042100f509a1c26ca99be05d5d23f62ab5b8fd532c7947288708d5a"
+metafile = true
+
+[[files]]
 file = "mods/miscellaneous/catalogue.pw.toml"
 hash = "7b153ce3599bf752f8a77d8a3567c3876fbeae0cfeed050e0b86b8022271437a"
 metafile = true
@@ -858,6 +868,11 @@ hash = "5ebc96cc5f11e13162734e19581129bd2505547054ba440a8392bf41e3455aac"
 metafile = true
 
 [[files]]
+file = "mods/miscellaneous/fishermens-trap.pw.toml"
+hash = "f4078cefbcb68eb445cd9388c531eec7e6850e476648408e80ce53e4a7084d5e"
+metafile = true
+
+[[files]]
 file = "mods/miscellaneous/friendly-fire.pw.toml"
 hash = "02d1a4e4921454ab63a7f02b6d4813bfa8b23775de4b6b5971d16a5a0615e7fe"
 metafile = true
@@ -910,6 +925,11 @@ metafile = true
 [[files]]
 file = "mods/miscellaneous/leawind-third-person.pw.toml"
 hash = "bafbc9ddf758a0a710aa1e87d2932b4b736735e8f60971bf6995a397f7a70061"
+metafile = true
+
+[[files]]
+file = "mods/miscellaneous/map-atlases-forge.pw.toml"
+hash = "90d0cca3e9be2726222fec858d723590057d99769b3b77ce97682f27b6de61a8"
 metafile = true
 
 [[files]]
@@ -978,11 +998,6 @@ hash = "b8f6921b23b5707f2adbbab0515376dbeb4ca6fb2f76d5da6de18781faef3f73"
 metafile = true
 
 [[files]]
-file = "mods/miscellaneous/tooltips-reforged.pw.toml"
-hash = "5bdbe371280d869a4b4465c6374f7e348b9c2bd95b0d128d718a8917e2149fb4"
-metafile = true
-
-[[files]]
 file = "mods/miscellaneous/unlit-campfire.pw.toml"
 hash = "c0be60f73e24206ae16dc7c41d534721c0b0529898e809a0ee1c322dc9507d4a"
 metafile = true
@@ -990,16 +1005,6 @@ metafile = true
 [[files]]
 file = "mods/miscellaneous/vein-mining.pw.toml"
 hash = "aebad8093fb59d03eb81b34f8c266c3d804f9971b68e2448f7e985de309a9357"
-metafile = true
-
-[[files]]
-file = "mods/miscellaneous/xaeros-minimap.pw.toml"
-hash = "bb46ca87c02eb4fd1dc43688e820b9f402faad2427bb9ea1c7864f5bbac116a7"
-metafile = true
-
-[[files]]
-file = "mods/miscellaneous/xaeros-worldmap.pw.toml"
-hash = "b5ad282adbe2386865e1aff651c47e5b7b438c595fce3c87678f0a82e7c613c6"
 metafile = true
 
 [[files]]
@@ -1065,11 +1070,6 @@ metafile = true
 [[files]]
 file = "mods/performance/modernfix.pw.toml"
 hash = "59bdda628ef1cfefae3ee9645b32dcd0b76dac20aa0ee56c264944f132e875d3"
-metafile = true
-
-[[files]]
-file = "mods/performance/noisium.pw.toml"
-hash = "e30229126c2a1ae6d51aadb4d7624b826a716ec38c5db4e537d5a6efe1fd05fe"
 metafile = true
 
 [[files]]
@@ -1213,6 +1213,11 @@ hash = "09156450778933479ef213f23d27ee61694627d1a7c228140c73bf6d9238f5de"
 metafile = true
 
 [[files]]
+file = "mods/utilities/structurify.pw.toml"
+hash = "c3ac8eb15e63e971d81a5eebd870b72971ffa7529e50a5ae96892a317523d2c0"
+metafile = true
+
+[[files]]
 file = "mods/utilities/wavey-capes.pw.toml"
 hash = "271bc8cbc69f1dd41d34c9ca5492bf2621ba134e6be73c24a1453cb428c5d8ef"
 metafile = true
@@ -1303,6 +1308,11 @@ hash = "44cf97ba63bc714502c6e45b0f9b8f1b10055ad0294f1871cd850b5eb1caa3a9"
 metafile = true
 
 [[files]]
+file = "mods/world/simple-clouds.pw.toml"
+hash = "02e4e8f1b0bfa50e5d87f5990261aaccf78cbeaa328d79bd4d4a5644e1aefc4b"
+metafile = true
+
+[[files]]
 file = "mods/world/snowy-tents.pw.toml"
 hash = "6321ac2dc623f8d84400bebfe449a993846b263757bcd992a0690e66ec3ef727"
 metafile = true
@@ -1354,7 +1364,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0e3fcdfba792b90ee49e5f5f1c9844be3aa6a7174d141a21185cbb09cbc68254"
+hash = "2a79bf946ab36935a0f083c970c6013b17d9d7df0c66bb0b5c43312833a43dab"
 preserve = true
 
 [[files]]
@@ -1383,7 +1393,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "e133665233338ca1b86498a18717769a2b2304b718b32151bdb08e88acaaa08f"
+hash = "b56f7aba4c874dd871e6dd1b18c327324edb4f6fd7a837445c65197b2eae39b8"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
@@ -1407,11 +1417,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "3b05b966ad8012708764929ded584b1bbb80b065485c1b5ee8f5587ea18e92d7"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true
 
 [[files]]
@@ -1499,3 +1504,7 @@ hash = "b4b1a2b12abe8a98efd821d2e8e13166fd941c9b30c7ab7c460b8701a64ee008"
 [[files]]
 file = "scripts/tags.zs"
 hash = "1b3564e9f2c87e7e1416e43d68d9f812ea664b5a9e64e14d4f2a73c26efb89dc"
+
+[[files]]
+file = "seeds.txt"
+hash = "0cdfcc83586c529c111031dd370a17893c50403105003b451f63fc662eb68223"
