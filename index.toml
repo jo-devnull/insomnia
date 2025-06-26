@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".editorconfig"
-hash = "da597acefc6e909ec08ebd56eae12f474c1f87bdb75d95cb4a690ff932790f29"
-
-[[files]]
 file = "config/alexsmobsinteraction-client.toml"
 hash = "c6d5e83a56e7d7f611abb1c47ce59f1b96c6a18a3d6f49ca1f6365a48c0dd5f2"
 
@@ -52,6 +48,16 @@ file = "config/lmft.json"
 hash = "616b89227e557c16754a9d89ac5b28bf18da1607cea770e2b92eb95a91c6538e"
 
 [[files]]
+file = "config/map_atlases-client.toml"
+hash = "0cc01ddbd48eaa5fa3256773a852c59c62bcea060522edf2e62c1d3925667396"
+preserve = true
+
+[[files]]
+file = "config/map_atlases-common.toml"
+hash = "ba5dc2a9663bb1d840d67cfb63c841fe0669fd241ae61a42c041469ed6f3d701"
+preserve = true
+
+[[files]]
 file = "config/mca.json"
 hash = "29f9b3178bade07d7e1ab60d8cdf3f4880f559490ef0b8911c4a190b906134d9"
 
@@ -74,24 +80,14 @@ file = "config/rootoffear/common.toml"
 hash = "7d9b9e276400921d767a1c53493196290eaef248df253dc8dcd7589260431465"
 
 [[files]]
-file = "config/xaerominimap-common.txt"
-hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+file = "config/simpleclouds-client.toml"
+hash = "1d999ed1e19938f4e41b8a7a700cd61a2e1fbfbceba314716306b5c2571b0f8d"
+preserve = true
 
 [[files]]
-file = "config/xaerominimap.txt"
-hash = "9f4afef6c3307c3b418d9b897b912c7cbd33eacbceafd3a78c5f1abafc77f4b8"
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "3b07400bf5992a718a301558f96e0ae456b0e01de22fb056dd65209a8e8b2ab5"
-
-[[files]]
-file = "config/xaeroworldmap-common.txt"
-hash = "f5bb870d3638e4331f1b1baee637359cd2ac425d4f600b8723c2bf3b7d408196"
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "ef1cf9d7a1fc4848e9c064d8abb2a1826ca12ce19daeeb5624c9b3bf80723a53"
+file = "config/simpleclouds-common.toml"
+hash = "44fdcad40ea6615db65c106614c91cb6ef174cd253c8f47bedadc69f9a030323"
+preserve = true
 
 [[files]]
 file = "datapacks/@packdata/data/chovys_apocalypse_mod/weapon_attributes/aluminiumbat.json"

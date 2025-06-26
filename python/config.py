@@ -24,6 +24,9 @@ sources = [
     "config/parcool-client.toml",
     "config/xaero*.txt",
 
+    "config/simpleclouds*.toml",
+    "config/map_atlases*.toml",
+
     "emi.json",
     "options.txt",
 ]
