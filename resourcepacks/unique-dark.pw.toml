@@ -3,11 +3,11 @@ filename = "UniqueDark 1.20.1 (free).zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BaY1UdGV/versions/Xtnxaam2/UniqueDark%201.20.1%20%28free%29.zip"
+url = "https://cdn.modrinth.com/data/BaY1UdGV/versions/Tp72qPop/UniqueDark%201.20.1%20%28free%29.zip"
 hash-format = "sha512"
-hash = "6a8578d279d81aff46948d162bbef3b6a09a6c69dfc293630b2526c473a467490813af9d6e26b6dd1525263d90537d95c0b0684646f237f2774205cc744f1e95"
+hash = "9888554401d7f0b4c9fd758b01508102f9541665542a83953f5e7d77308ea635e72da079fff43ef2119d835be5e3ced80bd13cf782e8ff48e1db5534c34e4f20"
 
 [update]
 [update.modrinth]
 mod-id = "BaY1UdGV"
-version = "Xtnxaam2"
+version = "Tp72qPop"
