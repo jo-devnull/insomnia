@@ -68,13 +68,183 @@
     }
   ],
   "lookup_history": [
+    "item:minecraft:clay_ball",
+    "#item:alexscaves:sea_pig_digests",
+    "item:supplementaries:antique_ink",
+    "item:storagedrawers:oak_full_drawers_4",
+    "item:storagedrawers:oak_full_drawers_2",
+    "item:create:metal_girder",
+    "item:minecraft:grass_block",
+    {
+      "type": "item",
+      "id": "minecraft:bone_meal",
+      "amount": 64
+    },
+    "item:aquaculture:bobber",
+    "item:minecraft:packed_ice",
+    {
+      "type": "item",
+      "id": "aquaculture:fish_fillet_raw",
+      "amount": 18
+    },
+    {
+      "type": "item",
+      "id": "minecraft:cod",
+      "amount": 3
+    },
+    {
+      "type": "item",
+      "id": "minecraft:bread",
+      "amount": 7
+    },
+    "item:aquaculture:jellyfish",
+    {
+      "type": "item",
+      "id": "aquaculture:atlantic_herring",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "minecraft:kelp",
+      "amount": 5
+    },
+    "item:aquaculture:fishing_line",
+    "item:minecraft:nautilus_shell",
+    "item:aquaculture:gold_hook",
+    "item:aquaculture:iron_hook",
+    "item:aquaculture:iron_fishing_rod{Damage:0}",
+    "item:minecraft:fishing_rod{Damage:8,Enchantments:[{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:lure\",lvl:1s},{id:\"minecraft:luck_of_the_sea\",lvl:1s}]}",
+    "item:aquaculture:tackle_box",
+    "item:aquaculture:algae",
+    "#item:aquaculture:tackle_box_green",
+    "item:minecraft:green_dye",
+    {
+      "type": "item",
+      "id": "minecraft:lime_dye",
+      "amount": 6
+    },
+    {
+      "type": "item",
+      "id": "minecraft:sea_pickle",
+      "amount": 23
+    },
+    "item:aquaculture:neptunes_bounty",
+    "item:aquaculture:worm_farm",
+    "item:minecraft:diorite",
+    "item:farmersdelight:sandy_shrub",
+    "item:ecologics:seashell_block",
+    "item:ecologics:seashell",
+    {
+      "type": "item",
+      "id": "aquaculture:fish_fillet_cooked",
+      "amount": 22
+    },
+    "item:minecraft:pufferfish",
+    "item:minecraft:salmon",
+    "item:miners_delight:squid",
+    "item:create:wrench",
+    {
+      "type": "item",
+      "id": "minecraft:feather",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "minecraft:prismarine_shard",
+      "amount": 6
+    },
+    "item:farmersdelight:straw",
+    "item:farmersdelight:canvas_rug",
+    "item:farmersdelight:canvas",
+    "item:fishermens_trap:fishtrap",
+    "item:minecraft:leather",
+    {
+      "type": "item",
+      "id": "minecraft:tuff",
+      "amount": 26
+    },
+    {
+      "type": "item",
+      "id": "minecraft:oak_fence",
+      "amount": 9
+    },
+    "item:create:copper_diving_boots{Damage:0}",
+    "item:create:sticky_mechanical_piston",
+    "item:create:weighted_ejector",
+    "item:create:cogwheel",
+    "item:petrolsparts:double_cardan_shaft",
+    "item:create:water_wheel",
+    "item:create:hand_crank",
+    "item:create:copper_diving_helmet{Damage:0}",
+    "item:create:copper_backtank{Air:900}",
+    "item:create:andesite_alloy",
+    {
+      "type": "item",
+      "id": "create:shaft",
+      "amount": 6
+    },
+    "item:alexscaves:diving_boots{Damage:0}",
+    "item:alexscaves:hood_of_darkness{Damage:0}",
+    "item:minecraft:gravel",
+    "item:minecraft:andesite",
+    {
+      "type": "item",
+      "id": "minecraft:andesite_stairs",
+      "amount": 5
+    },
+    {
+      "type": "item",
+      "id": "minecraft:andesite_wall",
+      "amount": 5
+    },
+    {
+      "type": "item",
+      "id": "minecraft:scute",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "minecraft:spruce_fence",
+      "amount": 4
+    },
+    "item:redeco:polished_spruce_planks",
+    {
+      "type": "item",
+      "id": "minecraft:spruce_slab",
+      "amount": 10
+    },
+    "item:minecraft:spruce_sign",
+    {
+      "type": "item",
+      "id": "minecraft:spruce_trapdoor",
+      "amount": 9
+    },
+    {
+      "type": "item",
+      "id": "minecraft:spruce_stairs",
+      "amount": 4
+    },
+    "item:notreepunching:flint_axe{Damage:0}",
+    {
+      "type": "item",
+      "id": "minecraft:wheat",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "farmersdelight:rope",
+      "amount": 12
+    },
+    "item:vc_gliders:reinforced_paper",
+    "item:vc_gliders:paraglider_wood{Damage:0}",
+    "item:aquaculture:goldfish",
+    "item:aquaculture:neptunium_nugget",
     "item:copycats:copycat_slab",
     "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]}}",
     "item:toolbelt:belt",
     "item:minecraft:redstone",
     "item:minecraft:clock",
     "item:sereneseasons:calendar",
-    "item:notreepunching:flint_axe{Damage:0}",
     "item:minecraft:stick",
     "item:minecraft:wooden_shovel{Damage:0}",
     {
@@ -94,14 +264,12 @@
       "amount": 14
     },
     "item:minecraft:potion{Potion:\"minecraft:awkward\"}",
-    "item:minecraft:pufferfish",
     "item:minecraft:podzol",
     {
       "type": "item",
       "id": "minecraft:carrot",
       "amount": 8
     },
-    "item:create:metal_girder",
     "item:minecraft:dirt_path",
     "item:minecraft:coarse_dirt",
     "item:minecraft:dirt",
@@ -109,11 +277,6 @@
     "item:minecraft:moss_block",
     "item:minecraft:bowl",
     "item:vc_gliders:reinforced_paper_iron",
-    {
-      "type": "item",
-      "id": "minecraft:feather",
-      "amount": 3
-    },
     "item:createdieselgenerators:wire_cutters{Damage:0}",
     "item:farmersdelight:cooking_pot",
     {
@@ -121,33 +284,12 @@
       "id": "minecraft:brick",
       "amount": 4
     },
-    "item:farmersdelight:straw",
-    "item:farmersdelight:canvas",
-    "item:fishermens_trap:fishtrap",
-    {
-      "type": "item",
-      "id": "minecraft:sea_pickle",
-      "amount": 3
-    },
     "item:supplementaries:wind_vane",
     "item:minecraft:brown_carpet",
-    {
-      "type": "item",
-      "id": "minecraft:prismarine_shard",
-      "amount": 3
-    },
-    "item:aquaculture:jellyfish",
     "item:minecraft:dandelion",
-    "item:create:andesite_alloy",
-    "item:create:copper_backtank{Air:900}",
-    "item:create:copper_diving_helmet{Damage:0}",
-    "item:create:copper_diving_boots{Damage:0}",
     "item:alexscaves:diving_helmet{Damage:0}",
     "item:aquamirae:three_bolt_helmet{Damage:0}",
     "item:minecraft:iron_block",
-    "item:aquaculture:tackle_box",
-    "item:aquaculture:worm_farm",
-    "item:aquaculture:iron_hook",
     "item:travelersbackpack:backpack_tank",
     "item:travelersbackpack:hose",
     "item:travelersbackpack:blank_upgrade",
@@ -155,20 +297,65 @@
     "item:supplementaries:slice_map"
   ],
   "craft_history": [
-    "toolbelt:belt",
-    "minecraft:iron_shovel",
-    "minecraft:iron_ingot_from_nuggets",
-    "minecraft:barrel",
-    "notreepunching:generated/minecraft_oak_planks",
-    "notreepunching:sticks_from_logs_with_flint_axe",
+    "aquaculture:bobber",
     "minecraft:iron_axe",
+    "create:crafting/materials/andesite_alloy_from_zinc",
+    "create:crafting/materials/zinc_nugget_from_decompacting",
+    "minecraft:gold_ingot_from_nuggets",
+    "storagedrawers:oak_full_drawers_4",
+    "minecraft:chest",
+    "notreepunching:generated/ecologics_coconut_planks",
+    "notreepunching:generated/minecraft_oak_planks",
+    "minecraft:bone_block",
+    "minecraft:bone_meal_from_bone_block",
+    "minecraft:raw_iron",
+    "chovys_apocalypse_mod:kniferep",
+    "aquaculture:fishing_line",
+    "aquaculture:diamond_fishing_rod",
+    "aquaculture:gold_hook",
+    "aquaculture:iron_hook",
+    "minecraft:melon_seeds",
+    "minecraft:iron_hoe",
+    "minecraft:gold_nugget",
+    "minecraft:iron_nugget",
+    "aquaculture:tackle_box",
+    "minecraft:iron_block",
+    "minecraft:bone_meal",
+    "aquaculture:worm_farm",
+    "minecraft:barrel",
+    "minecraft:iron_pickaxe",
+    "minecraft:iron_shovel",
+    "ecologics:sandcastle",
     "minecraft:crafting_table",
+    "aquaculture:sushi",
+    "notreepunching:string_from_web_with_knife",
+    "create:crafting/kinetics/cogwheel",
+    "create:crafting/kinetics/large_cogwheel",
+    "petrolsparts:crafting/double_cardan_shaft_4",
+    "petrolsparts:crafting/double_cardan_shaft_3",
+    "create:crafting/kinetics/shaft",
+    "minecraft:bucket",
+    "create:crafting/kinetics/large_water_wheel",
+    "create:crafting/kinetics/water_wheel",
+    "create:crafting/materials/zinc_ingot_from_compacting",
+    "create:crafting/kinetics/hand_crank",
+    "create:crafting/materials/andesite_alloy_from_block",
+    "create:crafting/appliances/copper_diving_helmet",
+    "create:crafting/appliances/copper_backtank",
+    "minecraft:copper_block",
+    "notreepunching:sticks_from_planks_with_flint_axe",
+    "minecraft:shears",
+    "notreepunching:generated/minecraft_spruce_planks",
+    "minecraft:spruce_boat",
+    "notreepunching:sticks_from_logs_with_flint_axe",
     "notreepunching:flint_axe",
+    "notreepunching:flint_from_gravel",
+    "aquaculture:gold_nugget_from_gold_fish",
+    "toolbelt:belt",
+    "minecraft:iron_ingot_from_nuggets",
     "minecraft:bricks",
     "notreepunching:leather_from_helmet_with_knife",
     "notreepunching:leather_from_boots_with_knife",
-    "notreepunching:string_from_web_with_knife",
-    "minecraft:shears",
     "notreepunching:leather_from_chestplate_with_knife"
   ],
   "recipe_defaults": {

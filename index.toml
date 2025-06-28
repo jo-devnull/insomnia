@@ -194,7 +194,7 @@ hash = "a1f36d1b8d78c26f9136625d9bf3549e59d9a545136096d184d44c156fdc584a"
 
 [[files]]
 file = "emi.json"
-hash = "be464525f1213f68588657ec59dec6e2752abcb173f5379a53e9178dd7084f28"
+hash = "4df3f85356225bf681cc16c6f0b73eee030c4e778ee1d2007242d48c0c0519f5"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/decoration/visuality-forge.pw.toml"
-hash = "5875bcd51b3f043c7b880755e51043defc5b88be6f09042cca6e624581c61c02"
+hash = "e57ebfa8a3dbf661c8fb3bcab7774a4dc2916a2cf19fa8eecd644db318f223ad"
 metafile = true
 
 [[files]]
@@ -846,11 +846,6 @@ metafile = true
 [[files]]
 file = "mods/miscellaneous/better-bundle.pw.toml"
 hash = "a71d7f7687f310296c0cba5d5168c59b67ccf2ff2179e4539ac98a4f17b7ede0"
-metafile = true
-
-[[files]]
-file = "mods/miscellaneous/biome-music.pw.toml"
-hash = "1074045ef1fa205b415ecf04a192eaacf8cf860c3d9842640f47f51d16be0e8d"
 metafile = true
 
 [[files]]
@@ -1420,7 +1415,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "78a03131b8421f8421e92d81254808b3b0c5d404748c3f8abedf1a9ffb294539"
+hash = "c3553f1fd8d7717342b3c014b68cf903560a212f91786d904c3b8243c43a046c"
 preserve = true
 
 [[files]]

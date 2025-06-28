@@ -11,3 +11,8 @@ hash = "b9e980655580abc4cd60dddc3ddde4650768086280417c4ebd66c4487919a4b905ea246f
 [update.modrinth]
 mod-id = "z13R7Et1"
 version = "MyhpSYT4"
+
+[option]
+optional = true
+default = true
+description = "Desativar esse mode pode aumentar a performance"
