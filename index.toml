@@ -118,6 +118,10 @@ file = "datapacks/@packdata/data/modpack/recipes/wooden_shovel.json"
 hash = "4ff19cd29b3105b8a7ac7c298d5cb6695f1d6464e720e778b705e37b7800a1c8"
 
 [[files]]
+file = "datapacks/@packdata/data/modpack/structures/base.nbt"
+hash = "6a5b2ac069e4a8368e1b25d61b02049eaeddeb04dbae14ef0c37d70900ab4650"
+
+[[files]]
 file = "datapacks/@packdata/data/modpack/structures/offshore_platform.nbt"
 hash = "8ebc0ddddef002ad212f0d054b74c44c9216ac4fcc3d7ce62cf6691d04a3b741"
 
@@ -194,7 +198,7 @@ hash = "a1f36d1b8d78c26f9136625d9bf3549e59d9a545136096d184d44c156fdc584a"
 
 [[files]]
 file = "emi.json"
-hash = "4df3f85356225bf681cc16c6f0b73eee030c4e778ee1d2007242d48c0c0519f5"
+hash = "2965ccbab8c70d9aa40d842b99b782ecdfeb8cb5b6eef057c2ec2527d1556f0d"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
@@ -666,11 +670,6 @@ metafile = true
 [[files]]
 file = "mods/entities/mutant-monsters.pw.toml"
 hash = "43ba3d22e3402a7e8e1982a8b274384e673f49986c5733eb652a8a2760011f89"
-metafile = true
-
-[[files]]
-file = "mods/entities/oceanic-realms.pw.toml"
-hash = "0ecc9e6790e4f66565b454e0a84e25231e9fd22c3671cdfd132c40a4a9bb20f9"
 metafile = true
 
 [[files]]
@@ -1194,6 +1193,11 @@ hash = "37e62cba77419139139b6f2e452be38c6623356a77e843ea1b2163dcf18e626c"
 metafile = true
 
 [[files]]
+file = "mods/utilities/biome-replacer.pw.toml"
+hash = "5055d1ed33c455b2f42c63cf932032962e6035279a277d0564568387363b3d28"
+metafile = true
+
+[[files]]
 file = "mods/utilities/client-tweaks.pw.toml"
 hash = "1fb9dacc5a03396c8ca66b73448b12a0131c1a2ae72e2aac0a92ccc4b693f35e"
 metafile = true
@@ -1355,7 +1359,7 @@ metafile = true
 
 [[files]]
 file = "mods/world/simple-clouds.pw.toml"
-hash = "02e4e8f1b0bfa50e5d87f5990261aaccf78cbeaa328d79bd4d4a5644e1aefc4b"
+hash = "5bbfd549c3605bbc5ccc5e6872b04d89a222206d3c05b1c9d62b33ed8eacd99e"
 metafile = true
 
 [[files]]
@@ -1366,6 +1370,11 @@ metafile = true
 [[files]]
 file = "mods/world/tectonic.pw.toml"
 hash = "267f3e914b9ce8cd743f13efd3c433a57f74e657c70e376b319360d12ba16255"
+metafile = true
+
+[[files]]
+file = "mods/world/terralith.pw.toml"
+hash = "1b81bad0fe3a28327ce59145facea944482f23c4a0ae3641b5a78afda33b0d0a"
 metafile = true
 
 [[files]]
@@ -1415,7 +1424,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c3553f1fd8d7717342b3c014b68cf903560a212f91786d904c3b8243c43a046c"
+hash = "c510bf37dabc87a21f54a4d080f12bffb220d4d1d704698bdc7520ad023f7a0e"
 preserve = true
 
 [[files]]
