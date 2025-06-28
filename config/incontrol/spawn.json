@@ -1,8 +1,15 @@
 [
   {
     "result": "deny",
-    "mob": ["artifacts:mimic"],
+    "mob": ["artifacts:mimic", "minecraft:drowned"],
     "when": "onjoin"
+  },
+  {
+    "result": "deny",
+    "hostile": true,
+    "biometags": ["minecraft:is_ocean"],
+    "dimension": "overworld",
+    "minheight": 62
   },
   {
     "result": "default",
@@ -20,7 +27,7 @@
     "result": "default",
     "hostile": true,
     "dimension": "overworld",
-    "weather": "thunder"
+    "storm": true
   },
   {
     "result": "default",
@@ -32,14 +39,14 @@
     "result": "default",
     "hostile": true,
     "dimension": "overworld",
-    "during": ["blood_moon", "eclipse_moon"]
+    "lunar": ["blood_moon", "eclipse_moon"]
   },
   {
     "result": "default",
     "hostile": true,
     "dimension": "overworld",
     "mob": ["minecraft:zombie", "minecraft:skeleton", "minecraft:drowned"],
-    "during": "crimson_moon"
+    "lunar": "crimson_moon"
   },
   {
     "result": "default",

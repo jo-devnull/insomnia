@@ -1,4 +1,182 @@
 {
+  "favorites": [
+    {
+      "stack": "#item:category:functional_blocks"
+    },
+    {
+      "stack": "#item:category:basic_tools"
+    },
+    {
+      "stack": "#item:category:heavy_tools"
+    },
+    {
+      "stack": "#item:category:weapons"
+    },
+    {
+      "stack": "#item:category:armor"
+    },
+    {
+      "stack": "#item:category:archery"
+    },
+    {
+      "stack": "#item:category:cooking"
+    },
+    {
+      "stack": "#item:category:foods"
+    },
+    {
+      "stack": "#item:category:brewing"
+    },
+    {
+      "stack": "#item:category:enchanting"
+    },
+    {
+      "stack": "#item:category:witchcraft"
+    },
+    {
+      "stack": "#item:category:furniture"
+    },
+    {
+      "stack": "#item:category:decoration"
+    },
+    {
+      "stack": "#item:category:block_decoration"
+    },
+    {
+      "stack": "#item:category:storage"
+    },
+    {
+      "stack": "#item:category:carpentry"
+    },
+    {
+      "stack": "#item:category:masonry"
+    },
+    {
+      "stack": "#item:category:metalworking"
+    },
+    {
+      "stack": "#item:category:engineering"
+    },
+    {
+      "stack": "#item:category:farming"
+    },
+    {
+      "stack": "#item:category:fishing"
+    },
+    {
+      "stack": "#item:category:transport"
+    }
+  ],
+  "lookup_history": [
+    "item:copycats:copycat_slab",
+    "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]}}",
+    "item:toolbelt:belt",
+    "item:minecraft:redstone",
+    "item:minecraft:clock",
+    "item:sereneseasons:calendar",
+    "item:notreepunching:flint_axe{Damage:0}",
+    "item:minecraft:stick",
+    "item:minecraft:wooden_shovel{Damage:0}",
+    {
+      "type": "item",
+      "id": "minecraft:apple",
+      "amount": 5
+    },
+    "item:minecraft:rotten_flesh",
+    {
+      "type": "item",
+      "id": "minecraft:iron_nugget",
+      "amount": 18
+    },
+    {
+      "type": "item",
+      "id": "minecraft:melon_slice",
+      "amount": 14
+    },
+    "item:minecraft:potion{Potion:\"minecraft:awkward\"}",
+    "item:minecraft:pufferfish",
+    "item:minecraft:podzol",
+    {
+      "type": "item",
+      "id": "minecraft:carrot",
+      "amount": 8
+    },
+    "item:create:metal_girder",
+    "item:minecraft:dirt_path",
+    "item:minecraft:coarse_dirt",
+    "item:minecraft:dirt",
+    "item:minecraft:spruce_sapling",
+    "item:minecraft:moss_block",
+    "item:minecraft:bowl",
+    "item:vc_gliders:reinforced_paper_iron",
+    {
+      "type": "item",
+      "id": "minecraft:feather",
+      "amount": 3
+    },
+    "item:createdieselgenerators:wire_cutters{Damage:0}",
+    "item:farmersdelight:cooking_pot",
+    {
+      "type": "item",
+      "id": "minecraft:brick",
+      "amount": 4
+    },
+    "item:farmersdelight:straw",
+    "item:farmersdelight:canvas",
+    "item:fishermens_trap:fishtrap",
+    {
+      "type": "item",
+      "id": "minecraft:sea_pickle",
+      "amount": 3
+    },
+    "item:supplementaries:wind_vane",
+    "item:minecraft:brown_carpet",
+    {
+      "type": "item",
+      "id": "minecraft:prismarine_shard",
+      "amount": 3
+    },
+    "item:aquaculture:jellyfish",
+    "item:minecraft:dandelion",
+    "item:create:andesite_alloy",
+    "item:create:copper_backtank{Air:900}",
+    "item:create:copper_diving_helmet{Damage:0}",
+    "item:create:copper_diving_boots{Damage:0}",
+    "item:alexscaves:diving_helmet{Damage:0}",
+    "item:aquamirae:three_bolt_helmet{Damage:0}",
+    "item:minecraft:iron_block",
+    "item:aquaculture:tackle_box",
+    "item:aquaculture:worm_farm",
+    "item:aquaculture:iron_hook",
+    "item:travelersbackpack:backpack_tank",
+    "item:travelersbackpack:hose",
+    "item:travelersbackpack:blank_upgrade",
+    "item:minecraft:recovery_compass",
+    "item:supplementaries:slice_map"
+  ],
+  "craft_history": [
+    "toolbelt:belt",
+    "minecraft:iron_shovel",
+    "minecraft:iron_ingot_from_nuggets",
+    "minecraft:barrel",
+    "notreepunching:generated/minecraft_oak_planks",
+    "notreepunching:sticks_from_logs_with_flint_axe",
+    "minecraft:iron_axe",
+    "minecraft:crafting_table",
+    "notreepunching:flint_axe",
+    "minecraft:bricks",
+    "notreepunching:leather_from_helmet_with_knife",
+    "notreepunching:leather_from_boots_with_knife",
+    "notreepunching:string_from_web_with_knife",
+    "minecraft:shears",
+    "notreepunching:leather_from_chestplate_with_knife"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
   "hidden_stacks": [
     "item:minecraft:goat_horn{instrument:\"minecraft:sing_goat_horn\"}",
     "item:minecraft:goat_horn{instrument:\"minecraft:seek_goat_horn\"}",
@@ -75,73 +253,5 @@
     "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]},Tier:2}",
     "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]},Tier:3}",
     "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]},Tier:4}"
-  ],
-  "favorites": [
-    {
-      "stack": "#item:category:functional_blocks"
-    },
-    {
-      "stack": "#item:category:basic_tools"
-    },
-    {
-      "stack": "#item:category:heavy_tools"
-    },
-    {
-      "stack": "#item:category:weapons"
-    },
-    {
-      "stack": "#item:category:armor"
-    },
-    {
-      "stack": "#item:category:archery"
-    },
-    {
-      "stack": "#item:category:cooking"
-    },
-    {
-      "stack": "#item:category:foods"
-    },
-    {
-      "stack": "#item:category:brewing"
-    },
-    {
-      "stack": "#item:category:enchanting"
-    },
-    {
-      "stack": "#item:category:witchcraft"
-    },
-    {
-      "stack": "#item:category:furniture"
-    },
-    {
-      "stack": "#item:category:decoration"
-    },
-    {
-      "stack": "#item:category:block_decoration"
-    },
-    {
-      "stack": "#item:category:storage"
-    },
-    {
-      "stack": "#item:category:carpentry"
-    },
-    {
-      "stack": "#item:category:masonry"
-    },
-    {
-      "stack": "#item:category:metalworking"
-    },
-    {
-      "stack": "#item:category:engineering"
-    },
-    {
-      "stack": "#item:category:farming"
-    },
-    {
-      "stack": "#item:category:fishing"
-    },
-    {
-      "stack": "#item:category:transport"
-    }
   ]
 }
