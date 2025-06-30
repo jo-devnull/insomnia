@@ -119,7 +119,7 @@ hash = "4ff19cd29b3105b8a7ac7c298d5cb6695f1d6464e720e778b705e37b7800a1c8"
 
 [[files]]
 file = "datapacks/@packdata/data/modpack/structures/base.nbt"
-hash = "6a5b2ac069e4a8368e1b25d61b02049eaeddeb04dbae14ef0c37d70900ab4650"
+hash = "dccee21134f6e1f445f88930c264597336aa14179a329cee53e8acc5574a5128"
 
 [[files]]
 file = "datapacks/@packdata/data/modpack/structures/offshore_platform.nbt"
@@ -198,7 +198,7 @@ hash = "a1f36d1b8d78c26f9136625d9bf3549e59d9a545136096d184d44c156fdc584a"
 
 [[files]]
 file = "emi.json"
-hash = "bb1a98ea7177d378b9dd121564a4733d44968f801158828f68e253e7ef0f1ffe"
+hash = "81ed20a379819d5c8ab19bf6ab594df37f87cd30a6f36f53d38a96e8c29a544b"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
@@ -1298,11 +1298,6 @@ hash = "bb7a8612e10cb0583fb61a8052379850066d74084f3b1690e98277cf5381adb5"
 metafile = true
 
 [[files]]
-file = "mods/world/continents.pw.toml"
-hash = "e7feda3f75c293bd42370c193b69ab5fcaffd090783c0ba83151a03cc85e0d63"
-metafile = true
-
-[[files]]
 file = "mods/world/deeperdarker.pw.toml"
 hash = "fb6294dd36241ee6918da9c2e4363ec352b4f502c2ad5e1cc7a591a9944fc340"
 metafile = true
@@ -1315,6 +1310,11 @@ metafile = true
 [[files]]
 file = "mods/world/feur-extension-fossil.pw.toml"
 hash = "50abdda14a892886114b243f4463443fe8b5e8784d2049d9b3c6743e4bb57177"
+metafile = true
+
+[[files]]
+file = "mods/world/geophilic-reforged.pw.toml"
+hash = "05bea433c6be340360d7e4cadac271fbd277409eb30d8fef36d3ab9bb7225e0b"
 metafile = true
 
 [[files]]
@@ -1424,7 +1424,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "89d3c5ee300dbe224dab8cd5dff675dc717e57db00456252ed2ae1e4d6938eb6"
+hash = "fade9b96e6e3fcb4d766ec0ce89b7b64b7cc43750d35ef978772bfc3094504e0"
 preserve = true
 
 [[files]]

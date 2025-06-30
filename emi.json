@@ -68,6 +68,11 @@
     }
   ],
   "lookup_history": [
+    "item:minecraft:campfire",
+    "item:minecraft:end_rod",
+    "item:minecraft:smoker",
+    "item:minecraft:furnace",
+    "#item:forge:tomato",
     "item:zoniex:distorted_vertebrae",
     "item:create:polished_rose_quartz",
     "item:create:rose_quartz",
@@ -173,7 +178,6 @@
       "id": "minecraft:oak_planks",
       "amount": 2
     },
-    "item:minecraft:end_rod",
     "item:xtraarrows:flint_life_steal_arrow",
     {
       "type": "item",
@@ -413,6 +417,13 @@
     "item:supplementaries:slice_map"
   ],
   "craft_history": [
+    "better_campfires:campfire_stick",
+    "minecraft:oak_boat",
+    "minecraft:bricks",
+    "notreepunching:leather_from_chestplate_with_knife",
+    "notreepunching:leather_from_boots_with_knife",
+    "sanitydim:garland",
+    "minecraft:bone_meal",
     "travelersbackpack:crafting_upgrade",
     "minecraft:chest",
     "notreepunching:generated/minecraft_oak_planks",
@@ -424,13 +435,10 @@
     "travelersbackpack:iron_tier_upgrade",
     "travelersbackpack:blank_upgrade",
     "minecraft:raw_iron",
-    "notreepunching:leather_from_chestplate_with_knife",
     "notreepunching:leather_from_leggings_with_knife",
-    "better_campfires:campfire_stick",
     "cold_sweat:sewing_table",
     "minecraft:white_wool_from_string",
     "notreepunching:leather_from_helmet_with_knife",
-    "notreepunching:leather_from_boots_with_knife",
     "minecraft:shield",
     "createdieselgenerators:crafting/wire_cutters",
     "create:crafting/kinetics/depot",
@@ -469,7 +477,6 @@
     "minecraft:iron_nugget",
     "aquaculture:tackle_box",
     "minecraft:iron_block",
-    "minecraft:bone_meal",
     "aquaculture:worm_farm",
     "minecraft:iron_shovel",
     "ecologics:sandcastle",
@@ -495,8 +502,7 @@
     "notreepunching:flint_axe",
     "notreepunching:flint_from_gravel",
     "aquaculture:gold_nugget_from_gold_fish",
-    "minecraft:iron_ingot_from_nuggets",
-    "minecraft:bricks"
+    "minecraft:iron_ingot_from_nuggets"
   ],
   "recipe_defaults": {
     "added": [],
