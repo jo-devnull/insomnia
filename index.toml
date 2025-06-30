@@ -10,7 +10,7 @@ hash = "89a9290be73ad0a806bc04d3edb126dab52f27b8a0604bda4b633f7ec046182a"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "14e93b96221f97d203c78d4b509e99ebb142c1cc0b9aedc9c70418168d4e6828"
+hash = "ab47aab8d8f4f0ed6268c827184f044b4b15362a28fb08799d3b3aa588877245"
 preserve = true
 
 [[files]]
@@ -81,7 +81,7 @@ hash = "7d9b9e276400921d767a1c53493196290eaef248df253dc8dcd7589260431465"
 
 [[files]]
 file = "config/simpleclouds-client.toml"
-hash = "6d8fb1d44a361846e759de305f8e795c1d638874b97f28d3b1cb397bf4b37f44"
+hash = "76b963b9675a8f0efdecc9d104f28791aa3d235544f33956e100244facde9452"
 preserve = true
 
 [[files]]
@@ -310,6 +310,11 @@ metafile = true
 [[files]]
 file = "mods/decoration/minecraft-cursor.pw.toml"
 hash = "cb777bee6aad45b1a686dfea6e07ff06b7fbbb91924d6c08c94c9a55fd394e05"
+metafile = true
+
+[[files]]
+file = "mods/decoration/oculus.pw.toml"
+hash = "d027f4ccd45b46fa7adb3b0c027f18fd24a2a4ed7e3ddaee74bdfc9bf4820b93"
 metafile = true
 
 [[files]]
@@ -758,11 +763,6 @@ hash = "ff8c339e8f0cde12c640e123f267329310f5d604445ca8bb810cf18bab98a5e2"
 metafile = true
 
 [[files]]
-file = "mods/mechanics/create-air-forge.pw.toml"
-hash = "59f4cc690213efd2803e3a7098fda41f19b4e8757932baad52af8a03c4d03920"
-metafile = true
-
-[[files]]
 file = "mods/mechanics/domestication-innovation.pw.toml"
 hash = "39d0177c9959d75cfe7e537df6d24b46db03ed8f377d51f9481bf4541a9f427b"
 metafile = true
@@ -780,11 +780,6 @@ metafile = true
 [[files]]
 file = "mods/mechanics/lunar.pw.toml"
 hash = "26f25259717d2a254769a95c845427dca18be0684e0a7f59db35fe960f423395"
-metafile = true
-
-[[files]]
-file = "mods/mechanics/new-thin-air.pw.toml"
-hash = "a7fff7f56fd6bf83ef59d5cae0e0b0b9bd9bbd2e9157bca029c1a8bd15948259"
 metafile = true
 
 [[files]]
@@ -949,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/miscellaneous/insomniatweaks.pw.toml"
-hash = "9730ba1a98df0181813cead9f26556f4fa71b377d589a339e20df8c6022ef045"
+hash = "220a566e4ad5eab3500343feb24d4b481fdbf10ab7c6c15b62b795af60712e88"
 metafile = true
 
 [[files]]
@@ -1085,6 +1080,16 @@ metafile = true
 [[files]]
 file = "mods/performance/chloride.pw.toml"
 hash = "70b7ddaf2bdcde7ce794728113a9fcfa641aabe3a0dc306e73c9585f2db39e1b"
+metafile = true
+
+[[files]]
+file = "mods/performance/colorwheel-patcher.pw.toml"
+hash = "c8b6201c622de4c856574ddb52de6859553461a2838a56dd32f47c69668129f4"
+metafile = true
+
+[[files]]
+file = "mods/performance/colorwheel.pw.toml"
+hash = "0762b00708c2c435776f8307900c6992fb6ad34cad594245458ba3157f42753b"
 metafile = true
 
 [[files]]
@@ -1378,11 +1383,6 @@ hash = "44cf97ba63bc714502c6e45b0f9b8f1b10055ad0294f1871cd850b5eb1caa3a9"
 metafile = true
 
 [[files]]
-file = "mods/world/simple-clouds.pw.toml"
-hash = "5bbfd549c3605bbc5ccc5e6872b04d89a222206d3c05b1c9d62b33ed8eacd99e"
-metafile = true
-
-[[files]]
 file = "mods/world/snowy-tents.pw.toml"
 hash = "6321ac2dc623f8d84400bebfe449a993846b263757bcd992a0690e66ec3ef727"
 metafile = true
@@ -1444,7 +1444,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0518f731ebc87058eff46b687b8843978f919cd4a858dc97d8afa0c195b8caff"
+hash = "7d52b0860ada1cae49abb64c2133cdaf8a8e707092b62caf0d4c845b07db79e4"
 preserve = true
 
 [[files]]
@@ -1473,7 +1473,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "63dbbb0b3e6441cf0e879d9d6297e0ccc0afd0ded3a7d90da143c2b06d6b7a4b"
+hash = "0035052af88fbe05598668651b3ee77dd21ef6bcf99846445b556a29e4775790"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
@@ -1588,3 +1588,8 @@ hash = "1b3564e9f2c87e7e1416e43d68d9f812ea664b5a9e64e14d4f2a73c26efb89dc"
 [[files]]
 file = "seeds.txt"
 hash = "0cdfcc83586c529c111031dd370a17893c50403105003b451f63fc662eb68223"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "d9218675ba3ce152f751e02a358435ef524b334901e58679ff2caad599695349"
+metafile = true
