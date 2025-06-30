@@ -45,5 +45,5 @@ immersive_aircraft {
 }
 
 vc_gliders {
-  "#curios:gliders"
+  "#curios:glider"
 }

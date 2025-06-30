@@ -198,7 +198,7 @@ hash = "a1f36d1b8d78c26f9136625d9bf3549e59d9a545136096d184d44c156fdc584a"
 
 [[files]]
 file = "emi.json"
-hash = "81ed20a379819d5c8ab19bf6ab594df37f87cd30a6f36f53d38a96e8c29a544b"
+hash = "18df5a3af47d7209bf3a2c9289ef8529d3617fb5e85f8c9a08811cdf9ce25640"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
@@ -683,6 +683,11 @@ hash = "da8d6540171c3b437dc4c7385ee311f116cb2f8e1d7abfa239f20137d8216514"
 metafile = true
 
 [[files]]
+file = "mods/entities/untitled-duck-mod-forge.pw.toml"
+hash = "1d8aef27a56026239c5993f457327b59d5ce16c7572862973b960c1c8ff9b8bb"
+metafile = true
+
+[[files]]
 file = "mods/entities/zoniex.pw.toml"
 hash = "719390c934f1e9f7ea70d15e0d2c143ba7709d0a497970bf8c61823d96a3d458"
 metafile = true
@@ -753,6 +758,11 @@ hash = "ff8c339e8f0cde12c640e123f267329310f5d604445ca8bb810cf18bab98a5e2"
 metafile = true
 
 [[files]]
+file = "mods/mechanics/create-air-forge.pw.toml"
+hash = "59f4cc690213efd2803e3a7098fda41f19b4e8757932baad52af8a03c4d03920"
+metafile = true
+
+[[files]]
 file = "mods/mechanics/domestication-innovation.pw.toml"
 hash = "39d0177c9959d75cfe7e537df6d24b46db03ed8f377d51f9481bf4541a9f427b"
 metafile = true
@@ -770,6 +780,11 @@ metafile = true
 [[files]]
 file = "mods/mechanics/lunar.pw.toml"
 hash = "26f25259717d2a254769a95c845427dca18be0684e0a7f59db35fe960f423395"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/new-thin-air.pw.toml"
+hash = "a7fff7f56fd6bf83ef59d5cae0e0b0b9bd9bbd2e9157bca029c1a8bd15948259"
 metafile = true
 
 [[files]]
@@ -1045,6 +1060,11 @@ metafile = true
 [[files]]
 file = "mods/performance/accelerated-decay.pw.toml"
 hash = "f627222b24ca3289c74dc80a963be4058ae8359f199729176ee4bc6724a44d57"
+metafile = true
+
+[[files]]
+file = "mods/performance/asyncparticles.pw.toml"
+hash = "8f5cbdb3f6b22cb5a6b47715c0aefec69fe061ff61f36b268c4c681dd78dca8c"
 metafile = true
 
 [[files]]
@@ -1424,7 +1444,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "fade9b96e6e3fcb4d766ec0ce89b7b64b7cc43750d35ef978772bfc3094504e0"
+hash = "5c70d236bab0e077c4c2f575f27fb1397747bc114b063763044a8e91f84f0ed0"
 preserve = true
 
 [[files]]
@@ -1453,7 +1473,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "9e22695235279898402a6ab01408f127b3d3f71686ee1ea1ab5a13750b099afd"
+hash = "fc21ba3cf4f989749dbcef3518d06783362cbf3f15092887eecf5813b2153e9b"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"

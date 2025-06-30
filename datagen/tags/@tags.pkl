@@ -14,14 +14,14 @@ functional_blocks = new ItemTag {
 
 basic_tools = new ItemTag {
   title = "Ferramentas Básicas"
-  icon = "minecraft:item/shears"
+  icon = "redeco:item/hammer"
   mod = import("./basic_tools.pkl").toMap()
 }
 
 
 heavy_tools = new ItemTag {
   title = "Ferramentas Pesadas"
-  icon = "minecraft:item/iron_axe"
+  icon = "create_ironworks:item/steel_pickaxe"
   mod = import("./heavy_tools.pkl").toMap()
 }
 
@@ -29,20 +29,14 @@ heavy_tools = new ItemTag {
 
 weapons = new ItemTag {
   title = "Armas Brancas"
-  icon = "minecraft:item/netherite_sword"
+  icon = "aquamirae:item/fin_cutter"
   mod = import("./weapons.pkl").toMap()
 }
 
 armor = new ItemTag {
   title = "Armadura"
-  icon = "minecraft:item/diamond_chestplate"
+  icon = "deeperdarker:item/warden_chestplate"
   mod = import("./armor.pkl").toMap()
-}
-
-archery = new ItemTag {
-  title = "Arquearia"
-  icon  = "minecraft:item/bow"
-  mod   = import("./archery.pkl").toMap()
 }
 
 // armory = new ItemTag {
@@ -55,13 +49,13 @@ archery = new ItemTag {
 
 cooking = new ItemTag {
   title = "Culinária"
-  icon = "minecraft:item/smoker"
+  icon = "farmersdelight:item/stove"
   mod = import("./cooking.pkl").toMap()
 }
 
 foods = new ItemTag {
   title = "Comida"
-  icon = "minecraft:item/cooked_beef"
+  icon = "create:item/honeyed_apple"
   mod = import("./foods.pkl").toMap()
 }
 
@@ -75,7 +69,7 @@ brewing = new ItemTag {
 
 enchanting = new ItemTag {
   title = "Encantamento"
-  icon = "minecraft:item/enchanting_table"
+  icon = "minecraft:item/bookshelf"
   mod = import("./enchanting.pkl").toMap()
 }
 
@@ -89,47 +83,29 @@ witchcraft = new ItemTag {
 
 furniture = new ItemTag {
   title = "Mobília"
-  icon = "handcrafted:item/cherry_table"
+  icon = "minecraft:item/yellow_bed"
   mod = import("./furniture.pkl").toMap()
 }
 
 decoration = new ItemTag {
   title = "Decoração"
-  icon = "minecraft:item/flower_pot"
+  icon = "supplementaries:item/present_red"
   mod = import("./decoration.pkl").toMap()
 }
 
 block_decoration = new ItemTag {
   title = "Blocos Decorativos"
-  icon = "minecraft:item/glass"
+  icon = "scguns:item/niter_glass"
   mod = import("./block_decoration.pkl").toMap()
 }
 
 storage = new ItemTag {
   title = "Armazenamento"
-  icon = "farmersdelight:item/oak_cabinet"
+  icon = "storagedrawers:item/oak_fulls_drawer_4"
   mod = import("./storage.pkl").toMap()
 }
 
 // Professions
-
-carpentry = new ItemTag {
-  title = "Carpintaria"
-  icon = "minecraft:item/oak_planks"
-  mod = import("./carpentry.pkl").toMap()
-}
-
-masonry = new ItemTag {
-  title = "Alvenaria"
-  icon = "minecraft:item/reinforced_deepslate"
-  mod = import("./masonry.pkl").toMap()
-}
-
-metalworking = new ItemTag {
-  title = "Metalurgia"
-  icon = "minecraft:item/oxidized_copper"
-  mod = import("./metalworking.pkl").toMap()
-}
 
 engineering = new ItemTag {
   title = "Engenharia"
@@ -137,15 +113,39 @@ engineering = new ItemTag {
   mod = import("./engineering.pkl").toMap()
 }
 
+carpentry = new ItemTag {
+  title = "Carpintaria"
+  icon = "ecologics:item/azalea_door"
+  mod = import("./carpentry.pkl").toMap()
+}
+
+masonry = new ItemTag {
+  title = "Alvenaria"
+  icon = "minecraft:item/bricks"
+  mod = import("./masonry.pkl").toMap()
+}
+
+metalworking = new ItemTag {
+  title = "Metalurgia"
+  icon = "create:item/industrial_iron_block"
+  mod = import("./metalworking.pkl").toMap()
+}
+
 farming = new ItemTag {
   title = "Agricultura"
-  icon = "minecraft:item/potato"
+  icon = "farmersdelight:item/tomato"
   mod = import("./farming.pkl").toMap()
+}
+
+archery = new ItemTag {
+  title = "Arquearia"
+  icon  = "alexscaves:item/dreadbow"
+  mod   = import("./archery.pkl").toMap()
 }
 
 fishing = new ItemTag {
   title = "Pescaria"
-  icon = "minecraft:item/fishing_rod"
+  icon = "aquaculture:item/iron_fishing_rod"
   mod = import("./fishing.pkl").toMap()
 }
 

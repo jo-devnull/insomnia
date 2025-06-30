@@ -11,6 +11,10 @@ create {
   "whisk"
   "honey_bucket"
   "chocolate_bucket"
+  "blaze_burner"
+  "mechanical_mixer"
+  "spout"
+  "depot"
 }
 
 brewinandchewin {
@@ -26,4 +30,5 @@ farmersdelight {
   "skillet"
   "cutting_board"
   "basket"
+  "#farmersdelight:cabinets"
 }

@@ -4,3 +4,30 @@ minecraft {
   "#c:entity_water_buckets"
   "#minecraft:fishes"
 }
+
+fishermans_trap {
+  "fishtrap"
+}
+
+aquaculture {
+  "worm"
+  "fishing_line"
+  "bobber"
+  "oak_fish_mount"
+  "spruce_fish_mount"
+  "birch_fish_mount"
+  "jungle_fish_mount"
+  "acacia_fish_mount"
+  "dark_oak_fish_mount"
+  "tackle_box"
+  "worm_farm"
+  "iron_hook"
+  "gold_hook"
+  "diamond_hook"
+  "light_hook"
+  "heavy_hook"
+  "double_hook"
+  "redstone_hook"
+  "note_hook"
+  "nether_star_hook"
+}
