@@ -1444,7 +1444,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "5c70d236bab0e077c4c2f575f27fb1397747bc114b063763044a8e91f84f0ed0"
+hash = "0518f731ebc87058eff46b687b8843978f919cd4a858dc97d8afa0c195b8caff"
 preserve = true
 
 [[files]]
@@ -1473,7 +1473,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "fc21ba3cf4f989749dbcef3518d06783362cbf3f15092887eecf5813b2153e9b"
+hash = "63dbbb0b3e6441cf0e879d9d6297e0ccc0afd0ded3a7d90da143c2b06d6b7a4b"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
