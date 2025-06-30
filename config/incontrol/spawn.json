@@ -5,13 +5,6 @@
     "when": "onjoin"
   },
   {
-    "result": "deny",
-    "hostile": true,
-    "biometags": ["minecraft:is_ocean"],
-    "dimension": "overworld",
-    "minheight": 62
-  },
-  {
     "result": "default",
     "hostile": true,
     "biometags": ["forge:caves", "minecraft:is_cave", "c:caves", "c:is_cave"],
@@ -24,10 +17,11 @@
     "dimension": "overworld"
   },
   {
-    "result": "default",
+    "result": "allow",
+    "storm": true,
+    "minheight": 50,
     "hostile": true,
-    "dimension": "overworld",
-    "storm": true
+    "dimension": "overworld"
   },
   {
     "result": "default",
@@ -38,8 +32,8 @@
   {
     "result": "default",
     "hostile": true,
-    "dimension": "overworld",
-    "lunar": ["blood_moon", "eclipse_moon"]
+    "lunar": ["blood_moon", "eclipse_moon"],
+    "dimension": "overworld"
   },
   {
     "result": "default",

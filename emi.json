@@ -68,13 +68,161 @@
     }
   ],
   "lookup_history": [
-    "item:aquamirae:wisteria_niveis",
+    "item:zoniex:distorted_vertebrae",
+    "item:create:polished_rose_quartz",
+    "item:create:rose_quartz",
+    {
+      "type": "item",
+      "id": "minecraft:quartz",
+      "amount": 4
+    },
+    "item:minecraft:quartz_block",
+    {
+      "type": "item",
+      "id": "alexscaves:cave_tablet",
+      "nbt": "{CaveBiome:\"alexscaves:candy_cavity\"}",
+      "amount": 7
+    },
+    "item:minecraft:cobblestone",
+    "item:minecraft:gravel",
+    "item:minecraft:iron_nugget",
+    {
+      "type": "item",
+      "id": "minecraft:iron_ingot",
+      "amount": 29
+    },
+    {
+      "type": "item",
+      "id": "aquamirae:esca",
+      "amount": 2
+    },
+    "item:create:metal_girder",
+    "item:create:industrial_iron_block",
+    {
+      "type": "item",
+      "id": "minecraft:cobbled_deepslate",
+      "amount": 40
+    },
+    "item:minecraft:deepslate",
+    "item:create:framed_glass",
+    "item:toolbelt:pouch",
+    "item:thirstcanteen:leather_canteen",
+    "item:create:brass_ingot",
+    "item:create:brass_block",
+    "item:createdieselgenerators:diesel_engine",
+    "item:travelersbackpack:crafting_upgrade",
+    "item:toolbelt:belt",
+    "item:travelersbackpack:blank_upgrade",
+    "item:minecraft:smithing_table",
+    {
+      "type": "item",
+      "id": "minecraft:brick",
+      "amount": 4
+    },
+    "item:aquamirae:fin",
+    "item:minecraft:paper",
+    "item:vc_gliders:reinforced_paper",
+    "item:vc_gliders:paraglider_wood{Damage:0}",
+    "item:minecraft:feather",
+    "item:minecraft:chain",
+    "item:parcool:zipline_rope",
+    "item:parcool:wooden_zipline_hook",
+    "item:cold_sweat:sewing_table",
+    "item:aquamirae:anglers_fang",
+    "item:aquamirae:spinefish",
+    "item:simplyswords:iron_halberd{Damage:0,Enchantments:[{id:\"minecraft:vanishing_curse\",lvl:1s}]}",
+    "item:minecraft:skeleton_skull",
+    "item:minecraft:shield{Damage:0}",
+    "item:aquamirae:sharp_bones",
+    {
+      "type": "item",
+      "id": "aquamirae:wisteria_niveis",
+      "amount": 2
+    },
+    "item:create:iron_sheet",
+    "item:createdieselgenerators:engine_silencer",
+    "item:createdieselgenerators:wire_cutters{Damage:0}",
+    "item:createdieselgenerators:hammer{Damage:0}",
+    {
+      "type": "item",
+      "id": "minecraft:spruce_slab",
+      "amount": 3
+    },
+    {
+      "type": "item",
+      "id": "minecraft:stick",
+      "amount": 4
+    },
+    "item:create:depot",
+    {
+      "type": "item",
+      "id": "xtraarrows:bat_skin",
+      "amount": 2
+    },
+    "item:simplyswords:soulrender{Damage:2200,nether_power:\"no_socket\",runic_power:\"no_socket\"}",
+    "item:create:andesite_alloy_block",
+    "item:create:zinc_block",
+    "item:samurai_dynasty:steel_ingot",
+    {
+      "type": "item",
+      "id": "minecraft:oak_log",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "minecraft:oak_planks",
+      "amount": 2
+    },
+    "item:minecraft:end_rod",
+    "item:xtraarrows:flint_life_steal_arrow",
+    {
+      "type": "item",
+      "id": "farmersdelight:tomato",
+      "amount": 4
+    },
+    "item:alexsmobs:serrated_shark_tooth",
+    {
+      "type": "item",
+      "id": "arphex:burning_glands",
+      "amount": 6
+    },
+    "item:minecraft:crying_obsidian",
+    {
+      "type": "item",
+      "id": "minecraft:nether_bricks",
+      "amount": 9
+    },
+    "item:minecraft:muddy_mangrove_roots",
+    "item:benssharks:sucker",
+    {
+      "type": "item",
+      "id": "minecraft:glowstone_dust",
+      "amount": 2
+    },
+    "item:minecraft:amethyst_block",
+    "item:minecraft:spyglass",
+    "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]}}",
+    "item:minecraft:lily_pad",
+    "item:minecraft:scute",
+    "item:arphex:roach_nymph",
+    "item:arphex:green_scarab",
+    "item:arphex:chitin_armour_boots{Damage:0,Enchantments:[{id:\"minecraft:protection\",lvl:1s}],insulation:[]}",
+    "item:better_campfires:campfire_stick",
+    {
+      "type": "item",
+      "id": "minecraft:glistering_melon_slice",
+      "amount": 11
+    },
+    {
+      "type": "item",
+      "id": "supplementaries:flax",
+      "amount": 2
+    },
     "item:minecraft:clay_ball",
     "#item:alexscaves:sea_pig_digests",
     "item:supplementaries:antique_ink",
     "item:storagedrawers:oak_full_drawers_4",
     "item:storagedrawers:oak_full_drawers_2",
-    "item:create:metal_girder",
     "item:minecraft:grass_block",
     {
       "type": "item",
@@ -146,11 +294,6 @@
     "item:create:wrench",
     {
       "type": "item",
-      "id": "minecraft:feather",
-      "amount": 2
-    },
-    {
-      "type": "item",
       "id": "minecraft:prismarine_shard",
       "amount": 6
     },
@@ -186,7 +329,6 @@
     },
     "item:alexscaves:diving_boots{Damage:0}",
     "item:alexscaves:hood_of_darkness{Damage:0}",
-    "item:minecraft:gravel",
     "item:minecraft:andesite",
     {
       "type": "item",
@@ -200,20 +342,10 @@
     },
     {
       "type": "item",
-      "id": "minecraft:scute",
-      "amount": 2
-    },
-    {
-      "type": "item",
       "id": "minecraft:spruce_fence",
       "amount": 4
     },
     "item:redeco:polished_spruce_planks",
-    {
-      "type": "item",
-      "id": "minecraft:spruce_slab",
-      "amount": 10
-    },
     "item:minecraft:spruce_sign",
     {
       "type": "item",
@@ -236,17 +368,12 @@
       "id": "farmersdelight:rope",
       "amount": 12
     },
-    "item:vc_gliders:reinforced_paper",
-    "item:vc_gliders:paraglider_wood{Damage:0}",
     "item:aquaculture:goldfish",
     "item:aquaculture:neptunium_nugget",
     "item:copycats:copycat_slab",
-    "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]}}",
-    "item:toolbelt:belt",
     "item:minecraft:redstone",
     "item:minecraft:clock",
     "item:sereneseasons:calendar",
-    "item:minecraft:stick",
     "item:minecraft:wooden_shovel{Damage:0}",
     {
       "type": "item",
@@ -254,11 +381,6 @@
       "amount": 5
     },
     "item:minecraft:rotten_flesh",
-    {
-      "type": "item",
-      "id": "minecraft:iron_nugget",
-      "amount": 18
-    },
     {
       "type": "item",
       "id": "minecraft:melon_slice",
@@ -278,13 +400,7 @@
     "item:minecraft:moss_block",
     "item:minecraft:bowl",
     "item:vc_gliders:reinforced_paper_iron",
-    "item:createdieselgenerators:wire_cutters{Damage:0}",
     "item:farmersdelight:cooking_pot",
-    {
-      "type": "item",
-      "id": "minecraft:brick",
-      "amount": 4
-    },
     "item:supplementaries:wind_vane",
     "item:minecraft:brown_carpet",
     "item:minecraft:dandelion",
@@ -293,23 +409,55 @@
     "item:minecraft:iron_block",
     "item:travelersbackpack:backpack_tank",
     "item:travelersbackpack:hose",
-    "item:travelersbackpack:blank_upgrade",
     "item:minecraft:recovery_compass",
     "item:supplementaries:slice_map"
   ],
   "craft_history": [
+    "travelersbackpack:crafting_upgrade",
+    "minecraft:chest",
+    "notreepunching:generated/minecraft_oak_planks",
+    "toolbelt:pouch",
+    "toolbelt:belt",
+    "travelersbackpack:gold_tier_upgrade",
+    "travelersbackpack:diamond_tier_upgrade",
+    "minecraft:smithing_table",
+    "travelersbackpack:iron_tier_upgrade",
+    "travelersbackpack:blank_upgrade",
+    "minecraft:raw_iron",
+    "notreepunching:leather_from_chestplate_with_knife",
+    "notreepunching:leather_from_leggings_with_knife",
+    "better_campfires:campfire_stick",
+    "cold_sweat:sewing_table",
+    "minecraft:white_wool_from_string",
+    "notreepunching:leather_from_helmet_with_knife",
+    "notreepunching:leather_from_boots_with_knife",
+    "minecraft:shield",
+    "createdieselgenerators:crafting/wire_cutters",
+    "create:crafting/kinetics/depot",
+    "createdieselgenerators:crafting/hammer",
+    "minecraft:gold_ingot_from_nuggets",
+    "minecraft:iron_chestplate",
+    "minecraft:iron_pickaxe",
+    "notreepunching:sticks_from_logs_with_flint_axe",
+    "minecraft:torch",
+    "notreepunching:sticks_from_planks_with_flint_axe",
+    "minecraft:spyglass",
+    "travelersbackpack:standard_no_tanks",
+    "travelersbackpack:white_sleeping_bag",
+    "minecraft:diamond_pickaxe",
+    "minecraft:diamond_shovel",
+    "notreepunching:string_from_web_with_knife",
+    "minecraft:gold_ingot_from_gold_block",
+    "minecraft:barrel",
+    "supplementaries:strings",
     "aquaculture:bobber",
     "minecraft:iron_axe",
     "create:crafting/materials/andesite_alloy_from_zinc",
     "create:crafting/materials/zinc_nugget_from_decompacting",
-    "minecraft:gold_ingot_from_nuggets",
     "storagedrawers:oak_full_drawers_4",
-    "minecraft:chest",
     "notreepunching:generated/ecologics_coconut_planks",
-    "notreepunching:generated/minecraft_oak_planks",
     "minecraft:bone_block",
     "minecraft:bone_meal_from_bone_block",
-    "minecraft:raw_iron",
     "chovys_apocalypse_mod:kniferep",
     "aquaculture:fishing_line",
     "aquaculture:diamond_fishing_rod",
@@ -323,13 +471,10 @@
     "minecraft:iron_block",
     "minecraft:bone_meal",
     "aquaculture:worm_farm",
-    "minecraft:barrel",
-    "minecraft:iron_pickaxe",
     "minecraft:iron_shovel",
     "ecologics:sandcastle",
     "minecraft:crafting_table",
     "aquaculture:sushi",
-    "notreepunching:string_from_web_with_knife",
     "create:crafting/kinetics/cogwheel",
     "create:crafting/kinetics/large_cogwheel",
     "petrolsparts:crafting/double_cardan_shaft_4",
@@ -344,20 +489,14 @@
     "create:crafting/appliances/copper_diving_helmet",
     "create:crafting/appliances/copper_backtank",
     "minecraft:copper_block",
-    "notreepunching:sticks_from_planks_with_flint_axe",
     "minecraft:shears",
     "notreepunching:generated/minecraft_spruce_planks",
     "minecraft:spruce_boat",
-    "notreepunching:sticks_from_logs_with_flint_axe",
     "notreepunching:flint_axe",
     "notreepunching:flint_from_gravel",
     "aquaculture:gold_nugget_from_gold_fish",
-    "toolbelt:belt",
     "minecraft:iron_ingot_from_nuggets",
-    "minecraft:bricks",
-    "notreepunching:leather_from_helmet_with_knife",
-    "notreepunching:leather_from_boots_with_knife",
-    "notreepunching:leather_from_chestplate_with_knife"
+    "minecraft:bricks"
   ],
   "recipe_defaults": {
     "added": [],

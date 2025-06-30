@@ -12,7 +12,7 @@ clientSideSpeedModifier = 1.0
 #Specifies the render Y offset for the clouds.
 #Default: 128
 #Range: 0 ~ 2048
-clientSideCloudHeight = 128
+clientSideCloudHeight = 256
 #Specifies the allowed dimensions that Simple Clouds is active in.
 dimensionWhitelist = ["minecraft:overworld"]
 #Specifies if the dimension whitelist should instead be use as a blacklist.
@@ -73,7 +73,7 @@ showVivecraftNotice = true
 [performance]
 	#EXPERIMENTAL. Uses a slightly modified algorithm that removes sync calls between chunk generator compute dispatches at the cost of higher memory usage. May result in a performance boost.
 	#Default: false
-	concurrentComputeDispatches = false
+	concurrentComputeDispatches = true
 	#Specifies if faces that are not visible to the camera should be tested during mesh generation. Settings this to off can improve performance at the cost of visual issues with shadows and storm fog.
 	#Default: false
 	testSidesThatAreOccluded = false
@@ -83,7 +83,7 @@ showVivecraftNotice = true
 	#Specifies the quality of the level of detail. A lower setting makes clouds lower quality faster.
 	#Default: HIGH
 	#Allowed Values: LOW, MEDIUM, HIGH
-	levelOfDetail = "LOW"
+	levelOfDetail = "MEDIUM"
 	#Culls cloud chunks not visible to the player. Generally should not be disabled, but can fix visual issues when looking around fast with higher frames per mesh generation values.
 	#Default: true
 	frustumCulling = true
@@ -100,11 +100,11 @@ showVivecraftNotice = true
 		#How the amount of frames used to generate the entire mesh is calculated. Static will use the 'Frames To Generate Mesh' option. Dynamic will calculate it automatically depending on your FPS. Target FPS will target a certain perceived framerate for mesh generation.
 		#Default: TARGET_FPS
 		#Allowed Values: STATIC, DYNAMIC, TARGET_FPS
-		generationInterval = "TARGET_FPS"
+		generationInterval = "STATIC"
 		#Specifies how many frames it should take to generate the entire cloud mesh. Higher values will improve performance at the cost of stuttery cloud movement.
 		#Default: 5
 		#Range: 1 ~ 32
-		framesToGenerateMesh = 5
+		framesToGenerateMesh = 7
 		#Used to set the target FPS with the 'Target FPS' option in 'Generation Interval'.
 		#Default: 30
 		#Range: 1 ~ 1000
