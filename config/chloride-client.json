@@ -1,7 +1,7 @@
 {
   "modpackMode": false,
-  "fullScreen": "FULLSCREEN",
-  "fpsDisplayMode": "SIMPLE",
+  "fullScreen": "WINDOWED",
+  "fpsDisplayMode": "ADVANCED",
   "fpsDisplayAlign": "LEFT",
   "fpsDisplayVAlign": "TOP",
   "fpsDisplaySystemMode": "OFF",

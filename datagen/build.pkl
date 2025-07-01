@@ -82,6 +82,10 @@ output {
     ...buildMisc()
     ...buildWalkers()
 
+    ["./config/incontrol/spawn.json"] = (json) {
+      value = import("misc/mobspawn.pkl").rules
+    }
+
     ["./resourcepacks/@insomnia/pack.mcmeta"] = (json) {
       value {
         pack {

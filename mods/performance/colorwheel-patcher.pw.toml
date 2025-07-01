@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 6709278
 project-id = 1285475
+
+[option]
+optional = true
+default = true
+description = "Ative com o mod Oculus para ter melhor performance com shaders"

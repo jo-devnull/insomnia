@@ -10,7 +10,7 @@ hash = "89a9290be73ad0a806bc04d3edb126dab52f27b8a0604bda4b633f7ec046182a"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "ab47aab8d8f4f0ed6268c827184f044b4b15362a28fb08799d3b3aa588877245"
+hash = "b6c9c0a6a05b2f4efc2b65d95a6efc8247408f7c5095823259d5d86025079535"
 preserve = true
 
 [[files]]
@@ -37,7 +37,7 @@ hash = "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "a64b378768a0ea8856793fea8cdaf29ce5f1f00429e506004168d8cf72f87529"
+hash = "b82516f5aea35a80d1c238e75f176b87c97c6e91c719ee936a4fbd7bd1a11f4c"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -483,6 +483,11 @@ hash = "7d1ffb8e0b569479c0066fd64e7f123272fcacc6b273638ff2fe9e3ed4b784a0"
 metafile = true
 
 [[files]]
+file = "mods/dependency/octo-lib.pw.toml"
+hash = "35c6567d51723d5f11bb3e1c9e85efaa27bdf98759ba7b1f968a68d98d3682ad"
+metafile = true
+
+[[files]]
 file = "mods/dependency/petrolpark.pw.toml"
 hash = "499b014fe894aa7803f2d1affbb2225d447c5ebc7106f9ba9dd445a969f46441"
 metafile = true
@@ -698,11 +703,6 @@ hash = "719390c934f1e9f7ea70d15e0d2c143ba7709d0a497970bf8c61823d96a3d458"
 metafile = true
 
 [[files]]
-file = "mods/equipment/artifacts.pw.toml"
-hash = "69c237616a459fb90f53af83b42522c99d489f08a6eb21b3f03c3ce8bf2df419"
-metafile = true
-
-[[files]]
 file = "mods/equipment/epic-samurais.pw.toml"
 hash = "ff576613b431b912d64e33389714754d713ff018193542e80651d06d5121ef0d"
 metafile = true
@@ -793,8 +793,18 @@ hash = "494fe45c926a327ef6982ace5bd9100a05098d536296d6608ba4f111c4c5dccc"
 metafile = true
 
 [[files]]
+file = "mods/mechanics/rac-compat.pw.toml"
+hash = "3f012a3a1066f30fb3ae11eb1c0ceeb49727f8d9cd47c6e2326f0e2dba07b996"
+metafile = true
+
+[[files]]
 file = "mods/mechanics/redstonepen.pw.toml"
 hash = "2d83876af0af619c2950ef491e1e9f5d564016a4adaab2fdb82113312140ece2"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/relics-mod.pw.toml"
+hash = "41c027aee3ce18bbf1f3556523d0f3c70769bd2b15cf7d655c64dcdffe5146cd"
 metafile = true
 
 [[files]]
@@ -944,7 +954,7 @@ metafile = true
 
 [[files]]
 file = "mods/miscellaneous/insomniatweaks.pw.toml"
-hash = "220a566e4ad5eab3500343feb24d4b481fdbf10ab7c6c15b62b795af60712e88"
+hash = "a69b3c34600fc6aa37fc5a91bce9fb6e46b61469207d4b466a688409087ca87f"
 metafile = true
 
 [[files]]
@@ -1084,7 +1094,7 @@ metafile = true
 
 [[files]]
 file = "mods/performance/colorwheel-patcher.pw.toml"
-hash = "c8b6201c622de4c856574ddb52de6859553461a2838a56dd32f47c69668129f4"
+hash = "11a7a5a460ba801184d4f002ad8c9eceee11ff2f6f88be8934e2f1822e5622d8"
 metafile = true
 
 [[files]]
@@ -1444,7 +1454,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "7d52b0860ada1cae49abb64c2133cdaf8a8e707092b62caf0d4c845b07db79e4"
+hash = "1075851bd12eaf104644b4b5f33454a467f640792958b578b55c8d6b47464044"
 preserve = true
 
 [[files]]
@@ -1473,7 +1483,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "0035052af88fbe05598668651b3ee77dd21ef6bcf99846445b556a29e4775790"
+hash = "6d1f94e0899fa9b24fbc427f34394fa552814100c18e746f0cc8d63852be558d"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
