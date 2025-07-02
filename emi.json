@@ -1,4 +1,125 @@
 {
+  "favorites": [
+    {
+      "stack": "#item:category:functional_blocks"
+    },
+    {
+      "stack": "#item:category:basic_tools"
+    },
+    {
+      "stack": "#item:category:heavy_tools"
+    },
+    {
+      "stack": "#item:category:weapons"
+    },
+    {
+      "stack": "#item:category:armor"
+    },
+    {
+      "stack": "#item:category:cooking"
+    },
+    {
+      "stack": "#item:category:foods"
+    },
+    {
+      "stack": "#item:category:brewing"
+    },
+    {
+      "stack": "#item:category:enchanting"
+    },
+    {
+      "stack": "#item:category:witchcraft"
+    },
+    {
+      "stack": "#item:category:furniture"
+    },
+    {
+      "stack": "#item:category:decoration"
+    },
+    {
+      "stack": "#item:category:block_decoration"
+    },
+    {
+      "stack": "#item:category:storage"
+    },
+    {
+      "stack": "#item:category:engineering"
+    },
+    {
+      "stack": "#item:category:carpentry"
+    },
+    {
+      "stack": "#item:category:masonry"
+    },
+    {
+      "stack": "#item:category:metalworking"
+    },
+    {
+      "stack": "#item:category:farming"
+    },
+    {
+      "stack": "#item:category:archery"
+    },
+    {
+      "stack": "#item:category:fishing"
+    },
+    {
+      "stack": "#item:category:transport"
+    }
+  ],
+  "lookup_history": [
+    "item:immersive_armors:warrior_helmet{Damage:0}",
+    "item:immersive_armors:heavy_chestplate{Damage:0}",
+    "item:immersive_armors:warrior_chestplate{Damage:0}",
+    "item:immersive_armors:warrior_leggings{Damage:0}",
+    "item:create_ironworks:brass_armor_chestplate{Damage:0}",
+    "item:create_ironworks:rose_quartz_armor_chestplate{Damage:0}",
+    "item:irons_spellbooks:shadowwalker_chestplate{Damage:0,ISB_Spells:{data:[],maxSpells:1,mustEquip:1b,spellWheel:1b}}",
+    "item:create:brass_ingot",
+    "item:aquamirae:abyssal_brigantine{Damage:0}",
+    "item:aquamirae:oxygen_tank",
+    "item:aquamirae:three_bolt_suit{Damage:0}",
+    "item:aquamirae:three_bolt_helmet{Damage:0}",
+    "item:aquamirae:three_bolt_boots{Damage:0}",
+    "item:aquamirae:three_bolt_leggings{Damage:0}",
+    "item:immersive_armors:steampunk_boots{Damage:0}",
+    "item:minecraft:piston",
+    "item:thirstcanteen:leather_canteen",
+    "item:minecraft:green_dye",
+    "item:thirstcanteen:military_bottle",
+    "item:arphex:necrotic_fang",
+    "item:minecraft:bundle",
+    {
+      "type": "item",
+      "id": "minecraft:deepslate_iron_ore",
+      "amount": 3
+    },
+    "item:relics:reflection_necklace{abilities:{explode:{points:0,stats:{capacity:54.37071d,damage:0.44079d,stun:0.17519d}}}}"
+  ],
+  "craft_history": [
+    "immersive_armors:warrior_helmet",
+    "minecraft:leather_helmet",
+    "immersive_armors:heavy_chestplate",
+    "minecraft:iron_block",
+    "immersive_armors:warrior_leggings",
+    "minecraft:leather_leggings",
+    "immersive_armors:steampunk_boots",
+    "terralith:piston_alt",
+    "create:crafting/materials/andesite_alloy_from_zinc",
+    "thirstcanteen:leather_canteen",
+    "create:crafting/materials/zinc_nugget_from_decompacting",
+    "minecraft:clay",
+    "minecraft:spruce_boat",
+    "travelersbackpack:white_sleeping_bag",
+    "minecraft:white_wool_from_string",
+    "notreepunching:string_from_wool_with_knife"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
   "hidden_stacks": [
     "item:minecraft:goat_horn{instrument:\"minecraft:sing_goat_horn\"}",
     "item:minecraft:goat_horn{instrument:\"minecraft:seek_goat_horn\"}",
@@ -75,73 +196,5 @@
     "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]},Tier:2}",
     "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]},Tier:3}",
     "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]},Tier:4}"
-  ],
-  "favorites": [
-    {
-      "stack": "#item:category:functional_blocks"
-    },
-    {
-      "stack": "#item:category:basic_tools"
-    },
-    {
-      "stack": "#item:category:heavy_tools"
-    },
-    {
-      "stack": "#item:category:weapons"
-    },
-    {
-      "stack": "#item:category:armor"
-    },
-    {
-      "stack": "#item:category:cooking"
-    },
-    {
-      "stack": "#item:category:foods"
-    },
-    {
-      "stack": "#item:category:brewing"
-    },
-    {
-      "stack": "#item:category:enchanting"
-    },
-    {
-      "stack": "#item:category:witchcraft"
-    },
-    {
-      "stack": "#item:category:furniture"
-    },
-    {
-      "stack": "#item:category:decoration"
-    },
-    {
-      "stack": "#item:category:block_decoration"
-    },
-    {
-      "stack": "#item:category:storage"
-    },
-    {
-      "stack": "#item:category:engineering"
-    },
-    {
-      "stack": "#item:category:carpentry"
-    },
-    {
-      "stack": "#item:category:masonry"
-    },
-    {
-      "stack": "#item:category:metalworking"
-    },
-    {
-      "stack": "#item:category:farming"
-    },
-    {
-      "stack": "#item:category:archery"
-    },
-    {
-      "stack": "#item:category:fishing"
-    },
-    {
-      "stack": "#item:category:transport"
-    }
   ]
 }

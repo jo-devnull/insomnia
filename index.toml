@@ -198,7 +198,7 @@ hash = "a1f36d1b8d78c26f9136625d9bf3549e59d9a545136096d184d44c156fdc584a"
 
 [[files]]
 file = "emi.json"
-hash = "18df5a3af47d7209bf3a2c9289ef8529d3617fb5e85f8c9a08811cdf9ce25640"
+hash = "f5341373f407c7a99ea1dcd317574b265e52a2c31187c833347649ff4dee7794"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
@@ -868,6 +868,11 @@ hash = "a71d7f7687f310296c0cba5d5168c59b67ccf2ff2179e4539ac98a4f17b7ede0"
 metafile = true
 
 [[files]]
+file = "mods/miscellaneous/biome-music.pw.toml"
+hash = "1074045ef1fa205b415ecf04a192eaacf8cf860c3d9842640f47f51d16be0e8d"
+metafile = true
+
+[[files]]
 file = "mods/miscellaneous/build-your-campfire.pw.toml"
 hash = "5f83aeb5a042100f509a1c26ca99be05d5d23f62ab5b8fd532c7947288708d5a"
 metafile = true
@@ -1454,7 +1459,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "1075851bd12eaf104644b4b5f33454a467f640792958b578b55c8d6b47464044"
+hash = "dd92f5f05c6efc47452b5bdf705a93ba7c2931ee81c7819d11f0007780bdd314"
 preserve = true
 
 [[files]]
