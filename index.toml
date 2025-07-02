@@ -473,6 +473,11 @@ hash = "c759fe90a1d9bde0fb351500a377cb19229b90a0a1e9c531c6d86bae55aacd26"
 metafile = true
 
 [[files]]
+file = "mods/dependency/lexiconfig.pw.toml"
+hash = "39a6e2b591e1446d38e914747f1275e14fa2386983fcb22e4749bd51a41aac48"
+metafile = true
+
+[[files]]
 file = "mods/dependency/mru.pw.toml"
 hash = "3113fbe1e52772349b6517158fb332ad9b95e8c13ff397c2a0cec3d1624b13d9"
 metafile = true
@@ -1040,6 +1045,16 @@ metafile = true
 [[files]]
 file = "mods/miscellaneous/rrls.pw.toml"
 hash = "c3de6983cc6cc682588f8fc8447b8dc26f8630e977ff0452f377f61409484092"
+metafile = true
+
+[[files]]
+file = "mods/miscellaneous/simple-radio.pw.toml"
+hash = "96de260c3e6da882adaf7e5e07ac61cbf2c86ce641d43789b4710383796f5615"
+metafile = true
+
+[[files]]
+file = "mods/miscellaneous/simple-voice-chat.pw.toml"
+hash = "a772d73bd77d13770e6febd043781dbe13a8b881ba0c6d2be68182bf43ed5ab7"
 metafile = true
 
 [[files]]
