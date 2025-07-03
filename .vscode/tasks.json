@@ -68,13 +68,14 @@
         "cooking",
         "decoration",
         "dependency",
-        "entities",
+        "mobs",
         "equipment",
         "mechanics",
-        "miscellaneous",
+        "misc",
         "performance",
         "technology",
         "utilities",
+        "structures",
         "world"
       ]
     }

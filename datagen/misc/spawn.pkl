@@ -18,7 +18,6 @@ const basicMobs {
   "minecraft:spider"
   "minecraft:creeper"
   "minecraft:drowned"
-  "minecraft:zombie"
   "minecraft:skeleton"
 }
 

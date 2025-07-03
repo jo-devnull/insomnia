@@ -1,0 +1,13 @@
+name = "Doctor Who:  Weeping Angels"
+filename = "../weeping_angels-46.1.5-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0a5b6691b9ac3adc67984f063d85eb5e2f9a06ba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6003157
+project-id = 291249
