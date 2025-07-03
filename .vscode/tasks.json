@@ -17,8 +17,8 @@
         "id": "beaker",
         "color": "terminal.ansiYellow"
       },
-      "dependsOn": ["data.gen", "data.gen.zip", "packwiz.refresh"],
-      "dependsOrder": "sequence",
+      "type": "shell",
+      "command": "python ./python/datagen.py",
       "problemMatcher": []
     },
     {
@@ -49,18 +49,6 @@
         "${input:modspec}"
       ]
     },
-    {
-      "hide": true,
-      "label": "data.gen",
-      "type": "shell",
-      "command": "pkl eval -m . datagen/build.pkl"
-    },
-    {
-      "hide": true,
-      "label": "data.gen.zip",
-      "type": "shell",
-      "command": "python ./python/datagen.py"
-    }
   ],
   "inputs": [
     {

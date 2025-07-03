@@ -57,12 +57,6 @@ function buildTags() = new Mapping<String, FileOutput> {
   }
 }
 
-function buildWalkers() = new Mapping<String, FileOutput> {
-  for (key, trait in import("misc/walkers.pkl").traits) {
-    ["\(path.data)/shapeshifting/\(key)"] = (json) { value = trait }
-  }
-}
-
 function buildMisc() = new Mapping<String, FileOutput> {
   for (key, tag in import("misc/tags.pkl").toMap()) {
     ["\(path.data)/modpack/tags/\(tag.path).json"] = (json) {
@@ -80,10 +74,9 @@ output {
     ...buildTags()
     ...buildLang()
     ...buildMisc()
-    ...buildWalkers()
 
     ["./config/incontrol/spawn.json"] = (json) {
-      value = import("misc/mobspawn.pkl").rules
+      value = import("misc/spawn.pkl").rules
     }
 
     ["./resourcepacks/@insomnia/pack.mcmeta"] = (json) {

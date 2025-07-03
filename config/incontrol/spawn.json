@@ -4,18 +4,37 @@
     "hostile": true,
     "dimension": "overworld",
     "mod": [
+      "jeg",
       "alexsmobs",
-      "alexscaves"
+      "alexscaves",
+      "goat_man",
+      "benssharks",
+      "aquamirae",
+      "fromtheshadows",
+      "weeping_angels"
     ]
+  },
+  {
+    "result": "deny",
+    "hostile": true,
+    "dimension": "overworld",
+    "mob": [
+      "minecraft:spider",
+      "minecraft:creeper",
+      "minecraft:drowned",
+      "minecraft:zombie",
+      "minecraft:skeleton"
+    ],
+    "mincount": {
+      "amount": 16,
+      "hostile": true,
+      "perplayer": true
+    }
   },
   {
     "result": "default",
     "hostile": true,
     "dimension": "overworld",
-    "mod": [
-      "minecraft",
-      "zoniex"
-    ],
     "biometags": [
       "forge:caves",
       "minecraft:is_cave",
@@ -24,58 +43,9 @@
     ]
   },
   {
-    "result": "deny",
-    "hostile": true,
-    "dimension": "overworld",
-    "mod": "minecraft",
-    "minheight": 54,
-    "biome": [
-      "minecraft:beach",
-      "minecraft:desert",
-      "minecraft:badlands",
-      "minecraft:wooded_badlands",
-      "minecraft:windswept_savanna",
-      "minecraft:eroded_badlands",
-      "biomesoplenty:dead_forest",
-      "biomesoplenty:old_growth_dead_forest",
-      "biomesoplenty:dryland",
-      "biomesoplenty:volcano",
-      "biomesoplenty:volcano_plains",
-      "biomesoplenty:wasteland",
-      "biomesoplenty:wasteland_steppe",
-      "terralith:ancient_sands",
-      "terralith:ashen_savanna",
-      "terralith:caldera",
-      "terralith:volcanic_crater",
-      "terralith:volcanic_peaks"
-    ],
-    "mob": [
-      "minecraft:spider",
-      "minecraft:creeper",
-      "minecraft:drowned",
-      "minecraft:zombie",
-      "minecraft:skeleton"
-    ]
-  },
-  {
-    "result": "allow",
-    "hostile": true,
-    "dimension": "overworld",
-    "mod": [
-      "minecraft",
-      "zoniex"
-    ],
-    "minheight": 54,
-    "weather": "thunder"
-  },
-  {
     "result": "default",
     "hostile": true,
     "dimension": "overworld",
-    "mod": [
-      "minecraft",
-      "zoniex"
-    ],
     "minheight": 54,
     "lunar": [
       "blood_moon",
@@ -87,10 +57,6 @@
     "result": "default",
     "hostile": true,
     "dimension": "overworld",
-    "mod": [
-      "minecraft",
-      "zoniex"
-    ],
     "structuretags": [
       "modpack:unsafe"
     ]
@@ -99,10 +65,6 @@
     "result": "default",
     "hostile": true,
     "dimension": "overworld",
-    "mod": [
-      "minecraft",
-      "zoniex"
-    ],
     "biometags": [
       "modpack:unsafe"
     ]
@@ -111,10 +73,6 @@
     "result": "deny",
     "hostile": true,
     "dimension": "overworld",
-    "mod": [
-      "minecraft",
-      "zoniex"
-    ],
     "minheight": 54
   }
 ]

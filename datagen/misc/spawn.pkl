@@ -1,0 +1,69 @@
+const default {
+  result = "default"
+  hostile = true
+  dimension = "overworld"
+}
+
+const allow = (default) {
+  result = "allow"
+}
+
+const deny = (default) {
+  result = "deny"
+}
+
+const surfaceLevel = 54
+
+const basicMobs {
+  "minecraft:spider"
+  "minecraft:creeper"
+  "minecraft:drowned"
+  "minecraft:zombie"
+  "minecraft:skeleton"
+}
+
+rules {
+  (default) {
+    mod {
+      "jeg"
+      "alexsmobs"
+      "alexscaves"
+      "goat_man"
+      "benssharks"
+      "aquamirae"
+      "fromtheshadows"
+      "weeping_angels"
+    }
+  }
+
+  (deny) {
+    mob = basicMobs
+
+    mincount {
+      amount = 16
+      hostile = true
+      perplayer = true
+    }
+  }
+
+  (default) {
+    biometags { "forge:caves" "minecraft:is_cave" "c:caves" "c:is_cave" }
+  }
+
+  (default) {
+    minheight = surfaceLevel
+    lunar { "blood_moon" "eclipse_moon" "crimson_moon" }
+  }
+
+  (default) {
+    structuretags { "modpack:unsafe" }
+  }
+
+  (default) {
+    biometags { "modpack:unsafe" }
+  }
+
+  (deny) {
+    minheight = surfaceLevel
+  }
+}

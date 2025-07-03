@@ -37,7 +37,7 @@ hash = "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "b82516f5aea35a80d1c238e75f176b87c97c6e91c719ee936a4fbd7bd1a11f4c"
+hash = "e398cd8b3054fbad31135c4a012697b8285c416f1fa53bae1307a370e98795ed"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -198,7 +198,7 @@ hash = "a1f36d1b8d78c26f9136625d9bf3549e59d9a545136096d184d44c156fdc584a"
 
 [[files]]
 file = "emi.json"
-hash = "f5341373f407c7a99ea1dcd317574b265e52a2c31187c833347649ff4dee7794"
+hash = "18df5a3af47d7209bf3a2c9289ef8529d3617fb5e85f8c9a08811cdf9ce25640"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
@@ -313,11 +313,6 @@ hash = "cb777bee6aad45b1a686dfea6e07ff06b7fbbb91924d6c08c94c9a55fd394e05"
 metafile = true
 
 [[files]]
-file = "mods/decoration/oculus.pw.toml"
-hash = "d027f4ccd45b46fa7adb3b0c027f18fd24a2a4ed7e3ddaee74bdfc9bf4820b93"
-metafile = true
-
-[[files]]
 file = "mods/decoration/particular-reforged.pw.toml"
 hash = "f2447533e7f2179e9d1f4b9bfcfda7ecd282958073da264568d97a0ad8350739"
 metafile = true
@@ -360,11 +355,6 @@ metafile = true
 [[files]]
 file = "mods/dependency/architectury-api.pw.toml"
 hash = "3fddf86237a091014cac839a20d72a08012314bab262a065a08a28d5bd630283"
-metafile = true
-
-[[files]]
-file = "mods/dependency/assets-protector.pw.toml"
-hash = "f5e884ddfcacc3efacecfb3b7db17b59f5a333b4284f73cf93676bb6124300db"
 metafile = true
 
 [[files]]
@@ -478,18 +468,8 @@ hash = "39a6e2b591e1446d38e914747f1275e14fa2386983fcb22e4749bd51a41aac48"
 metafile = true
 
 [[files]]
-file = "mods/dependency/mru.pw.toml"
-hash = "3113fbe1e52772349b6517158fb332ad9b95e8c13ff397c2a0cec3d1624b13d9"
-metafile = true
-
-[[files]]
 file = "mods/dependency/obscure-api.pw.toml"
 hash = "7d1ffb8e0b569479c0066fd64e7f123272fcacc6b273638ff2fe9e3ed4b784a0"
-metafile = true
-
-[[files]]
-file = "mods/dependency/octo-lib.pw.toml"
-hash = "35c6567d51723d5f11bb3e1c9e85efaa27bdf98759ba7b1f968a68d98d3682ad"
 metafile = true
 
 [[files]]
@@ -540,11 +520,6 @@ metafile = true
 [[files]]
 file = "mods/dependency/sinytra-connector.pw.toml"
 hash = "85a77e410ea95f985771de13cab956ff0df2733775877facd98856e481d13f57"
-metafile = true
-
-[[files]]
-file = "mods/dependency/smartbrainlib.pw.toml"
-hash = "76883f12e28cdff887052ab29bd2207bf3c9483dbf093fbb6a1ab2a8c35ce9d6"
 metafile = true
 
 [[files]]
@@ -623,11 +598,6 @@ hash = "519bc107537b71d4a04d6f3de19972b514c6c530026e39f89f431cebd7b34895"
 metafile = true
 
 [[files]]
-file = "mods/entities/distant-friends.pw.toml"
-hash = "7ed31863d3d316f77207e80eed4751b6edfa94e3af8bffa9b4445deb90cacff5"
-metafile = true
-
-[[files]]
 file = "mods/entities/ecologics.pw.toml"
 hash = "d806a7c3c9fbbfb5049605bd1cd4c0a466daab7231f69f64734a7e9a0c31016e"
 metafile = true
@@ -650,11 +620,6 @@ metafile = true
 [[files]]
 file = "mods/entities/kobolds.pw.toml"
 hash = "e9f17f9c45f5f599dec6f14c141a519a63a49691066b999d31274feb3b23257a"
-metafile = true
-
-[[files]]
-file = "mods/entities/legendary-monsters.pw.toml"
-hash = "2f2e3c73b9155de2dc86889426552fae0956a25915186a92928b33d876428e9a"
 metafile = true
 
 [[files]]
@@ -815,11 +780,6 @@ metafile = true
 [[files]]
 file = "mods/mechanics/sanity-descent-into-madness.pw.toml"
 hash = "deb0431d84cc149e188d9cbbfbf71c2348bd6b18109448516b83a75146d3317f"
-metafile = true
-
-[[files]]
-file = "mods/mechanics/scorched-guns.pw.toml"
-hash = "88ebf9fde248e63c50718e768886ca01dc8646bbd4f9945068e849822617d5a5"
 metafile = true
 
 [[files]]
@@ -1110,16 +1070,6 @@ metafile = true
 [[files]]
 file = "mods/performance/chloride.pw.toml"
 hash = "70b7ddaf2bdcde7ce794728113a9fcfa641aabe3a0dc306e73c9585f2db39e1b"
-metafile = true
-
-[[files]]
-file = "mods/performance/colorwheel-patcher.pw.toml"
-hash = "11a7a5a460ba801184d4f002ad8c9eceee11ff2f6f88be8934e2f1822e5622d8"
-metafile = true
-
-[[files]]
-file = "mods/performance/colorwheel.pw.toml"
-hash = "0762b00708c2c435776f8307900c6992fb6ad34cad594245458ba3157f42753b"
 metafile = true
 
 [[files]]
@@ -1474,7 +1424,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "dd92f5f05c6efc47452b5bdf705a93ba7c2931ee81c7819d11f0007780bdd314"
+hash = "ec21bc46d9ed42b4ff5fa0ad720cdbdc0c2b82ddbe39890421ef8f31dc2151c0"
 preserve = true
 
 [[files]]
@@ -1503,7 +1453,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "6d1f94e0899fa9b24fbc427f34394fa552814100c18e746f0cc8d63852be558d"
+hash = "120abb9e2110cb77034106395c15c1c62bea32adc8961e8434018a6081673ba5"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
