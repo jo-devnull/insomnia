@@ -211,7 +211,7 @@ hash = "a1f36d1b8d78c26f9136625d9bf3549e59d9a545136096d184d44c156fdc584a"
 
 [[files]]
 file = "emi.json"
-hash = "82270f2ec320d86d3581171e94d26bc43593eca20a80c3095137aec313074be6"
+hash = "82bab43af393a10c4747a2c515cf50d53bd2602cb32d81d0a56a8ee4272d27b3"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
@@ -283,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/decoration/coastal-waves.pw.toml"
 hash = "da6099920705651b1287347fc49b223d178294f2972d156f2c8ccf217e01ec5d"
+metafile = true
+
+[[files]]
+file = "mods/decoration/comforts.pw.toml"
+hash = "01c7d62bedc56693e2ea397dc8046661eebe19a82865859b829deeaf83853ed7"
 metafile = true
 
 [[files]]
@@ -1528,7 +1533,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "2e7266fe00899a98b7bba7e6a42bc67c9cbe23cb2488dc53327991631ab3f7ef"
+hash = "92290cde27ad4254e7293b57b1d7def67d0fd58e991a702d9dd13d2b8d5eba31"
 
 [[files]]
 file = "resourcepacks/TZP-Reduced.zip"

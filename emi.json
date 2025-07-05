@@ -1,88 +1,4 @@
 {
-  "favorites": [
-    {
-      "stack": "#item:category:functional_blocks"
-    },
-    {
-      "stack": "#item:category:basic_tools"
-    },
-    {
-      "stack": "#item:category:heavy_tools"
-    },
-    {
-      "stack": "#item:category:weapons"
-    },
-    {
-      "stack": "#item:category:armor"
-    },
-    {
-      "stack": "#item:category:cooking"
-    },
-    {
-      "stack": "#item:category:foods"
-    },
-    {
-      "stack": "#item:category:brewing"
-    },
-    {
-      "stack": "#item:category:enchanting"
-    },
-    {
-      "stack": "#item:category:witchcraft"
-    },
-    {
-      "stack": "#item:category:furniture"
-    },
-    {
-      "stack": "#item:category:decoration"
-    },
-    {
-      "stack": "#item:category:block_decoration"
-    },
-    {
-      "stack": "#item:category:storage"
-    },
-    {
-      "stack": "#item:category:engineering"
-    },
-    {
-      "stack": "#item:category:carpentry"
-    },
-    {
-      "stack": "#item:category:masonry"
-    },
-    {
-      "stack": "#item:category:metalworking"
-    },
-    {
-      "stack": "#item:category:farming"
-    },
-    {
-      "stack": "#item:category:archery"
-    },
-    {
-      "stack": "#item:category:fishing"
-    },
-    {
-      "stack": "#item:category:transport"
-    }
-  ],
-  "lookup_history": [
-    "item:minecraft:map",
-    "item:minecraft:filled_map",
-    "item:map_atlases:atlas",
-    "item:cold_sweat:smokestack",
-    "item:cold_sweat:boiler",
-    "item:cold_sweat:hearth",
-    "item:create:brass_door"
-  ],
-  "craft_history": [],
-  "recipe_defaults": {
-    "added": [],
-    "tags": {},
-    "resolutions": {},
-    "disabled": []
-  },
   "hidden_stacks": [
     "item:minecraft:goat_horn{instrument:\"minecraft:sing_goat_horn\"}",
     "item:minecraft:goat_horn{instrument:\"minecraft:seek_goat_horn\"}",
@@ -155,5 +71,73 @@
     "item:minecraft:suspicious_stew{Effects:[{EffectDuration:200,EffectId:3,\"forge:effect_id\":\"minecraft:haste\"}]}",
     "item:minecraft:suspicious_stew{Effects:[{EffectDuration:300,EffectId:24,\"forge:effect_id\":\"minecraft:glowing\"}]}",
     "item:create:builders_tea"
+  ],
+  "favorites": [
+    {
+      "stack": "#item:category:functional_blocks"
+    },
+    {
+      "stack": "#item:category:basic_tools"
+    },
+    {
+      "stack": "#item:category:heavy_tools"
+    },
+    {
+      "stack": "#item:category:weapons"
+    },
+    {
+      "stack": "#item:category:armor"
+    },
+    {
+      "stack": "#item:category:cooking"
+    },
+    {
+      "stack": "#item:category:foods"
+    },
+    {
+      "stack": "#item:category:brewing"
+    },
+    {
+      "stack": "#item:category:enchanting"
+    },
+    {
+      "stack": "#item:category:witchcraft"
+    },
+    {
+      "stack": "#item:category:furniture"
+    },
+    {
+      "stack": "#item:category:decoration"
+    },
+    {
+      "stack": "#item:category:block_decoration"
+    },
+    {
+      "stack": "#item:category:storage"
+    },
+    {
+      "stack": "#item:category:engineering"
+    },
+    {
+      "stack": "#item:category:carpentry"
+    },
+    {
+      "stack": "#item:category:masonry"
+    },
+    {
+      "stack": "#item:category:metalworking"
+    },
+    {
+      "stack": "#item:category:farming"
+    },
+    {
+      "stack": "#item:category:archery"
+    },
+    {
+      "stack": "#item:category:fishing"
+    },
+    {
+      "stack": "#item:category:transport"
+    }
   ]
 }
