@@ -71,7 +71,7 @@
 	zoom_scroll_speed = 1.0
 	#Global scale of the entire world map GUI. Keep at 1 for pixel perfect consistency
 	#Range: 0.0 ~ 20.0
-	scale = 1.75
+	scale = 1.6
 	#Global scale of the entire world map GUI when opening from lectern. Keep at 1 for pixel perfect consistency
 	#Range: 0.0 ~ 20.0
 	lectern_scale = 1.0

@@ -29,9 +29,11 @@ rules {
       "goat_man"
       "benssharks"
       "aquamirae"
-      "fromtheshadows"
-      "weeping_angels"
     }
+  }
+
+  (default) {
+    mob { "fromtheshadows:nehemoth" }
   }
 
   (default) {

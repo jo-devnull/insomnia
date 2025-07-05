@@ -9,9 +9,15 @@
       "alexscaves",
       "goat_man",
       "benssharks",
-      "aquamirae",
-      "fromtheshadows",
-      "weeping_angels"
+      "aquamirae"
+    ]
+  },
+  {
+    "result": "default",
+    "hostile": true,
+    "dimension": "overworld",
+    "mob": [
+      "fromtheshadows:nehemoth"
     ]
   },
   {
