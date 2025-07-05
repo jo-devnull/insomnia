@@ -90,3 +90,13 @@ waystones {
   "sandy_waystone"
   "sharestone"
 }
+
+jeg {
+  "scrap_workbench"
+  "gunmetal_workbench"
+  "gunnite_workbench"
+  "recycler"
+  "scrap_bin"
+  "schematic_station"
+  "blueprint_workbench"
+}

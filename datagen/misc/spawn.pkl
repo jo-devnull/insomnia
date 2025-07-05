@@ -14,8 +14,7 @@ const deny = (default) {
 
 const surfaceLevel = 54
 
-const basicMobs {
-  "minecraft:spider"
+const reducedSpawns {
   "minecraft:creeper"
   "minecraft:drowned"
   "minecraft:skeleton"
@@ -35,34 +34,27 @@ rules {
     }
   }
 
-  (deny) {
-    mob = basicMobs
-
-    mincount {
-      amount = 16
-      hostile = true
-      perplayer = true
-    }
-  }
-
   (default) {
-    biometags { "forge:caves" "minecraft:is_cave" "c:caves" "c:is_cave" }
-  }
-
-  (default) {
-    minheight = surfaceLevel
     lunar { "blood_moon" "eclipse_moon" "crimson_moon" }
   }
 
-  (default) {
-    structuretags { "modpack:unsafe" }
-  }
-
-  (default) {
-    biometags { "modpack:unsafe" }
+  (deny) {
+    mob = reducedSpawns
+    random = 0.6
   }
 
   (deny) {
-    minheight = surfaceLevel
+    random = 0.5
+    continue = true
+  }
+
+  (default) {
+    biometags = "modpack:unsafe"
+  }
+
+  (deny) {
+    minheight = 54
   }
 }
+
+phases = new Listing {}

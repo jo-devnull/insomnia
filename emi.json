@@ -70,11 +70,7 @@
     "item:minecraft:suspicious_stew{Effects:[{EffectDuration:120,EffectId:24,\"forge:effect_id\":\"minecraft:glowing\"}]}",
     "item:minecraft:suspicious_stew{Effects:[{EffectDuration:200,EffectId:3,\"forge:effect_id\":\"minecraft:haste\"}]}",
     "item:minecraft:suspicious_stew{Effects:[{EffectDuration:300,EffectId:24,\"forge:effect_id\":\"minecraft:glowing\"}]}",
-    "item:create:builders_tea",
-    "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]},Tier:1}",
-    "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]},Tier:2}",
-    "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]},Tier:3}",
-    "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]},Tier:4}"
+    "item:create:builders_tea"
   ],
   "favorites": [
     {

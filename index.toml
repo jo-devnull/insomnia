@@ -24,7 +24,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "9bb948bc842a6d84cf288842af94ab22b95e9566789fa7e70ccf05de94dadf38"
+hash = "248cf07d175361a4c5ea731c4ec1b8f28452f4635f79b5bfed05f42e26f00b4f"
 preserve = true
 
 [[files]]
@@ -33,11 +33,11 @@ hash = "29a8e56da3425d99c3b09cee7ed0e12b91a69205afd4280df2235131b3f08671"
 
 [[files]]
 file = "config/incontrol/phases.json"
-hash = "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f"
+hash = "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "e398cd8b3054fbad31135c4a012697b8285c416f1fa53bae1307a370e98795ed"
+hash = "78d16ef6eb37da4c589ff62dc97360a48e6c6de245a3c2feed8d929e1cd26909"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -90,6 +90,10 @@ hash = "44fdcad40ea6615db65c106614c91cb6ef174cd253c8f47bedadc69f9a030323"
 preserve = true
 
 [[files]]
+file = "credits.txt"
+hash = "f7190c70f0cf66f23ffb738f008d19bb467558f95bd88f53451daef3cf071340"
+
+[[files]]
 file = "datapacks/@packdata/data/chovys_apocalypse_mod/weapon_attributes/aluminiumbat.json"
 hash = "fe30163fbfcebb82f080dbe29cecc43facd06c790c6fd4cc391d80120601fb82"
 
@@ -127,39 +131,39 @@ hash = "8ebc0ddddef002ad212f0d054b74c44c9216ac4fcc3d7ce62cf6691d04a3b741"
 
 [[files]]
 file = "datapacks/@packdata/data/moremobvariants/variants/zombie/alex.json"
-hash = "7c7eda71b414e3fde44886e507417b5ef9225f23408f3a7ceaedd36867e7dbc4"
-
-[[files]]
-file = "datapacks/@packdata/data/moremobvariants/variants/zombie/ari.json"
-hash = "7c7eda71b414e3fde44886e507417b5ef9225f23408f3a7ceaedd36867e7dbc4"
-
-[[files]]
-file = "datapacks/@packdata/data/moremobvariants/variants/zombie/default.json"
 hash = "7ed8570487db72933ab13132cb9ace91bb71fdf574d6f0306784857d644737ed"
 
 [[files]]
+file = "datapacks/@packdata/data/moremobvariants/variants/zombie/ari.json"
+hash = "7ed8570487db72933ab13132cb9ace91bb71fdf574d6f0306784857d644737ed"
+
+[[files]]
+file = "datapacks/@packdata/data/moremobvariants/variants/zombie/default.json"
+hash = "acc119b9a3ce5788ff1c5bcd14879aa32440fece904ea86f90fe4e24c392827d"
+
+[[files]]
 file = "datapacks/@packdata/data/moremobvariants/variants/zombie/efe.json"
-hash = "7c7eda71b414e3fde44886e507417b5ef9225f23408f3a7ceaedd36867e7dbc4"
+hash = "7ed8570487db72933ab13132cb9ace91bb71fdf574d6f0306784857d644737ed"
 
 [[files]]
 file = "datapacks/@packdata/data/moremobvariants/variants/zombie/kai.json"
-hash = "7c7eda71b414e3fde44886e507417b5ef9225f23408f3a7ceaedd36867e7dbc4"
+hash = "7ed8570487db72933ab13132cb9ace91bb71fdf574d6f0306784857d644737ed"
 
 [[files]]
 file = "datapacks/@packdata/data/moremobvariants/variants/zombie/makena.json"
-hash = "7c7eda71b414e3fde44886e507417b5ef9225f23408f3a7ceaedd36867e7dbc4"
+hash = "7ed8570487db72933ab13132cb9ace91bb71fdf574d6f0306784857d644737ed"
 
 [[files]]
 file = "datapacks/@packdata/data/moremobvariants/variants/zombie/noor.json"
-hash = "7c7eda71b414e3fde44886e507417b5ef9225f23408f3a7ceaedd36867e7dbc4"
+hash = "7ed8570487db72933ab13132cb9ace91bb71fdf574d6f0306784857d644737ed"
 
 [[files]]
 file = "datapacks/@packdata/data/moremobvariants/variants/zombie/sunny.json"
-hash = "7c7eda71b414e3fde44886e507417b5ef9225f23408f3a7ceaedd36867e7dbc4"
+hash = "7ed8570487db72933ab13132cb9ace91bb71fdf574d6f0306784857d644737ed"
 
 [[files]]
 file = "datapacks/@packdata/data/moremobvariants/variants/zombie/zuri.json"
-hash = "7c7eda71b414e3fde44886e507417b5ef9225f23408f3a7ceaedd36867e7dbc4"
+hash = "7ed8570487db72933ab13132cb9ace91bb71fdf574d6f0306784857d644737ed"
 
 [[files]]
 file = "datapacks/@packdata/data/superflat/dimension/superflat.json"
@@ -172,6 +176,11 @@ hash = "d4c025c754d3d10e1d855436a2e2626969b83d38f7b63523a0e064e26aeeb049"
 [[files]]
 file = "datapacks/@packdata/pack.mcmeta"
 hash = "fd15bf8b2e9c1a9c6f4163a6622aab52b85a579ae0c973e7eb4b6f4acf4d790d"
+
+[[files]]
+file = "datapacks/cherry-villages.pw.toml"
+hash = "9d53f223cf25d390ae132f6c27829a2b4f165b911e2e00aa9d3ab138b316ef9e"
+metafile = true
 
 [[files]]
 file = "datapacks/create-immersive-aircrafts-data-pack.pw.toml"
@@ -198,7 +207,7 @@ hash = "a1f36d1b8d78c26f9136625d9bf3549e59d9a545136096d184d44c156fdc584a"
 
 [[files]]
 file = "emi.json"
-hash = "18df5a3af47d7209bf3a2c9289ef8529d3617fb5e85f8c9a08811cdf9ce25640"
+hash = "82bab43af393a10c4747a2c515cf50d53bd2602cb32d81d0a56a8ee4272d27b3"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
@@ -288,11 +297,6 @@ hash = "5324b18b89fe568c6396c78558e7c3c84b51c9a635a619a722a77a6c07ecd06a"
 metafile = true
 
 [[files]]
-file = "mods/decoration/doomsday-decoration.pw.toml"
-hash = "d0a1455fc83c3788acb3466b7d0fc2e804bdcb77c4ff6ac05a4a88425762a7ba"
-metafile = true
-
-[[files]]
 file = "mods/decoration/dripsounds.pw.toml"
 hash = "f74f9c9149ae92dfc0344d9e7ff15fcbb3cc13618339ba7fae165b39ea9f0f5a"
 metafile = true
@@ -305,11 +309,6 @@ metafile = true
 [[files]]
 file = "mods/decoration/handcrafted.pw.toml"
 hash = "cab1eecd0d27269c0573fa77ef4c2461812f50aa941cceec389e50d5ad655f6f"
-metafile = true
-
-[[files]]
-file = "mods/decoration/horror-elements-mod.pw.toml"
-hash = "4a2b3ba98977b2058da7253e7fe41714e9bb770ff3be4ccf94fc0f84af661029"
 metafile = true
 
 [[files]]
@@ -340,11 +339,6 @@ metafile = true
 [[files]]
 file = "mods/decoration/redeco.pw.toml"
 hash = "f448d9d20cd08f7638c203a75c5a7a8dcff9ca91fea20e90d02fd0a25ad3d7a1"
-metafile = true
-
-[[files]]
-file = "mods/decoration/refurbished-furniture.pw.toml"
-hash = "9ec2123699f654bbe4e005fb857328e1f54a785b3aae68c05efc1080dada7e08"
 metafile = true
 
 [[files]]
@@ -383,6 +377,11 @@ hash = "897d3320497c8e5a6e4580ab5d5b3f3eff82a946a01fd3700c2980e6319086d4"
 metafile = true
 
 [[files]]
+file = "mods/dependency/baguettelib.pw.toml"
+hash = "b44265efcbe4776f02abfe9b12041866005cae79f9f91c1a582d3092548e69e1"
+metafile = true
+
+[[files]]
 file = "mods/dependency/balm.pw.toml"
 hash = "96725533c2d01df3ed8a8eb8e216dcda14dc19df23311bf4f6c50b2c9f8b23f4"
 metafile = true
@@ -415,6 +414,16 @@ metafile = true
 [[files]]
 file = "mods/dependency/coroutil.pw.toml"
 hash = "1acfc19a797701396df4dac209d395ed8f11e2cab4c05729579d628776fbc40f"
+metafile = true
+
+[[files]]
+file = "mods/dependency/corpse-x-curios-api-compat.pw.toml"
+hash = "423852d5b79689027a1378e97be8e2e4333e93f7475527f1a92647d87bcca672"
+metafile = true
+
+[[files]]
+file = "mods/dependency/corpse.pw.toml"
+hash = "35684a2dfef7938a4a3ee0a75fbd73ad0b4a5f3d56f08f56b16882eaa71143e3"
 metafile = true
 
 [[files]]
@@ -488,6 +497,11 @@ hash = "39a6e2b591e1446d38e914747f1275e14fa2386983fcb22e4749bd51a41aac48"
 metafile = true
 
 [[files]]
+file = "mods/dependency/necronomicon.pw.toml"
+hash = "56e05d629cc424940dd92b90973cb839d20cdec8dab3913d81e96c89578351d8"
+metafile = true
+
+[[files]]
 file = "mods/dependency/obscure-api.pw.toml"
 hash = "7d1ffb8e0b569479c0066fd64e7f123272fcacc6b273638ff2fe9e3ed4b784a0"
 metafile = true
@@ -553,8 +567,8 @@ hash = "aed56fd5774483a69795337fc17af9695287f9e81bad576a4f607a0d2ba86b33"
 metafile = true
 
 [[files]]
-file = "mods/dependency/sona-survival-101.pw.toml"
-hash = "03352792fe1a0e8905681a0e67212cc0df3263e9ea729648e72bd96584ba07ce"
+file = "mods/dependency/sophisticated-core.pw.toml"
+hash = "3922e0fd46828302bf9743a1152ea96b295e31f896a646018113345a725b38b1"
 metafile = true
 
 [[files]]
@@ -565,11 +579,6 @@ metafile = true
 [[files]]
 file = "mods/dependency/terrablender.pw.toml"
 hash = "33f55d6944dd3448368cb0a10c4f07cfde529afac04ce7a74d66ef80aa227de5"
-metafile = true
-
-[[files]]
-file = "mods/dependency/the-lost-cities.pw.toml"
-hash = "eebf5adce4bcf1383a5d1a62ed7f5ed47908d2c0f12c9bb33419cd62ee83c7ae"
 metafile = true
 
 [[files]]
@@ -603,11 +612,6 @@ hash = "9b610eb4821f2c0964f266764f5888196c5bd37e256ad52fb8394590ecd63e87"
 metafile = true
 
 [[files]]
-file = "mods/equipment/minetraps.pw.toml"
-hash = "88026316e16f46e5cd0ff8ed70474c6551dacdac49721dbe21962264466b35fc"
-metafile = true
-
-[[files]]
 file = "mods/equipment/more-bows-restrung.pw.toml"
 hash = "9808c609356761f828fb17be1e609103f36edeb744791a4221f2884fd5eb86d5"
 metafile = true
@@ -623,6 +627,16 @@ hash = "9363cd05dd71c3ac14296d15f51eda098ad5805488ead7ca7d97edfb8ff83f17"
 metafile = true
 
 [[files]]
+file = "mods/equipment/sophisticated-backpacks.pw.toml"
+hash = "d871cb72291283ce0e231a4d6adc983e787428322a03eed4e9f1991e98e289a9"
+metafile = true
+
+[[files]]
+file = "mods/equipment/timeless-and-classics-zero.pw.toml"
+hash = "92e85571e52be99224e608f79b25650e1f0d42137a651e4a04f5929dea2fe5da"
+metafile = true
+
+[[files]]
 file = "mods/equipment/tool-belt.pw.toml"
 hash = "e3c9f7b2fa7cf8f6dd20ad1bbcd56fac72d3f45a8b5d5d0a982f526201bc7130"
 metafile = true
@@ -630,11 +644,6 @@ metafile = true
 [[files]]
 file = "mods/equipment/xtra-arrows.pw.toml"
 hash = "e37eebb216aeee121038c6767be44d3ba0b4b42d0b463e9c5732b5b8c7170267"
-metafile = true
-
-[[files]]
-file = "mods/equipment/zombie-survival-kit.pw.toml"
-hash = "bd5b7b9e4d1023c7626856c1c92c7413a712cc90ccbddab37c0d20b7f71ed96a"
 metafile = true
 
 [[files]]
@@ -678,6 +687,11 @@ hash = "26f25259717d2a254769a95c845427dca18be0684e0a7f59db35fe960f423395"
 metafile = true
 
 [[files]]
+file = "mods/mechanics/map-atlases-forge.pw.toml"
+hash = "90d0cca3e9be2726222fec858d723590057d99769b3b77ce97682f27b6de61a8"
+metafile = true
+
+[[files]]
 file = "mods/mechanics/no-tree-punching.pw.toml"
 hash = "be5a7395477ef416b0e767d237b778dee2692792171b52be2a01fdc347ec24ff"
 metafile = true
@@ -710,11 +724,6 @@ metafile = true
 [[files]]
 file = "mods/mechanics/thirst-was-taken.pw.toml"
 hash = "f5985fc19fb581b890c2bba4c6dfa7a186560d0e3bf6a0365ea346d745a1ac28"
-metafile = true
-
-[[files]]
-file = "mods/mechanics/travelersbackpack.pw.toml"
-hash = "8c270cfd303cf28f420badae772f6f1bf74ca3211b296028b861baaa3d5f38ba"
 metafile = true
 
 [[files]]
@@ -958,16 +967,6 @@ hash = "aebad8093fb59d03eb81b34f8c266c3d804f9971b68e2448f7e985de309a9357"
 metafile = true
 
 [[files]]
-file = "mods/misc/xaeros-minimap.pw.toml"
-hash = "bb46ca87c02eb4fd1dc43688e820b9f402faad2427bb9ea1c7864f5bbac116a7"
-metafile = true
-
-[[files]]
-file = "mods/misc/xaeros-world-map.pw.toml"
-hash = "b5ad282adbe2386865e1aff651c47e5b7b438c595fce3c87678f0a82e7c613c6"
-metafile = true
-
-[[files]]
 file = "mods/mobs/alexs-mobs-interaction.pw.toml"
 hash = "612d87aaa6ff189f7476d6bcc4decb42b7563845d1521f285fe78793dac2e1cb"
 metafile = true
@@ -1025,6 +1024,11 @@ metafile = true
 [[files]]
 file = "mods/mobs/enderman-overhaul.pw.toml"
 hash = "0bcd045fb5b2b083cf30a09eb78399d1d297d06072b9ad0ce842e4f5d9ee4d32"
+metafile = true
+
+[[files]]
+file = "mods/mobs/entity-texture-features-fabric.pw.toml"
+hash = "646d5d20fac3213143edbc46c8a1d206e723e9381e75b35816943dfc191eaecf"
 metafile = true
 
 [[files]]
@@ -1113,11 +1117,6 @@ hash = "a88c49b2a2a537f9464394351a782c07e869b1051d2c28377af7eaed3baecaed"
 metafile = true
 
 [[files]]
-file = "mods/performance/canary.pw.toml"
-hash = "5aac46f87fc0acee47016437c02438cf3c0a0b9f40be58f1bf47e079237cc4b8"
-metafile = true
-
-[[files]]
 file = "mods/performance/chloride.pw.toml"
 hash = "70b7ddaf2bdcde7ce794728113a9fcfa641aabe3a0dc306e73c9585f2db39e1b"
 metafile = true
@@ -1178,6 +1177,11 @@ hash = "b8607fdb2e342ad58b3b778341d35c0f751ff283877fe529f22fe355a9152c10"
 metafile = true
 
 [[files]]
+file = "mods/performance/servercore.pw.toml"
+hash = "9324dc8bb73b1e477ce45cbe30a44b6e2618856e14ece966c30a16ea6f731c5e"
+metafile = true
+
+[[files]]
 file = "mods/performance/structure-essentials-forge-fabric.pw.toml"
 hash = "ba5348a4944d6f09515d866c459c96d1333af58d2a90517d0c5533828bd9802b"
 metafile = true
@@ -1205,11 +1209,6 @@ metafile = true
 [[files]]
 file = "mods/structures/hobbit-house.pw.toml"
 hash = "09ddcfebc37184220cef9ff78b185614a5f6aa818d617d054726f58507fe3ef4"
-metafile = true
-
-[[files]]
-file = "mods/structures/keerdm-zombie-apocolypse-essentials.pw.toml"
-hash = "475b8588f75fa2f0545d0fb6d726c3ddcb655a65de9e6df9565496b9ae602258"
 metafile = true
 
 [[files]]
@@ -1270,6 +1269,11 @@ metafile = true
 [[files]]
 file = "mods/technology/create-diesel-generators.pw.toml"
 hash = "eadaf33603cd9f0fc1888a033f774bf59c0359b7c09b000aaec07f63fb4dcc5b"
+metafile = true
+
+[[files]]
+file = "mods/technology/create-immersive-tacz-integration.pw.toml"
+hash = "5a8f396cb6bebc38ada5c54ec69857eff4a68795de09af91ef52a9bd8c303d8b"
 metafile = true
 
 [[files]]
@@ -1413,11 +1417,6 @@ hash = "2a1c410990b5bcecd786578ddbc94003c4ac77b00416adf05225d4215d244009"
 metafile = true
 
 [[files]]
-file = "mods/world/chaoszpack-lostcities.pw.toml"
-hash = "89de4de2e8315af5ec8429db476281b7c136d49b2d26ff6f36bfeef40add9a98"
-metafile = true
-
-[[files]]
 file = "mods/world/deeperdarker.pw.toml"
 hash = "fb6294dd36241ee6918da9c2e4363ec352b4f502c2ad5e1cc7a591a9944fc340"
 metafile = true
@@ -1468,18 +1467,13 @@ hash = "1b81bad0fe3a28327ce59145facea944482f23c4a0ae3641b5a78afda33b0d0a"
 metafile = true
 
 [[files]]
-file = "mods/world/the-lost-cities.pw.toml"
-hash = "3d876be7b600ddfed82b527121294fedb49616980eefdb92f26042d3f3f98472"
-metafile = true
-
-[[files]]
 file = "mods/world/yungs-cave-biomes.pw.toml"
 hash = "379eff87cd328fe5d717cf44e581d584e9cdbea71ce4a8cc13cc92fd30c5e42a"
 metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4a7d02c89c7dbb12872b419218053c56dbb7a3c40fb45f55220c0e095f882d07"
+hash = "fc53972c1c2389ead9b6e0231a2dcc180d7849296256e898ab9c6681272b71c8"
 preserve = true
 
 [[files]]
@@ -1499,6 +1493,18 @@ file = "resourcepacks/@InsomniaUI/assets/emi/textures/gui/container/grindstone.p
 hash = "8ba6fcdca4c7f27524ed717d2eff47be415945dc1768a169fc6957ddf9756d68"
 
 [[files]]
+file = "resourcepacks/@InsomniaUI/assets/minecraft/lang/pt_br.json"
+hash = "1f6c92d3ce1afe0c61ca786699683435660a5fe956d461ccbedb4b9da42f4b4f"
+
+[[files]]
+file = "resourcepacks/@InsomniaUI/assets/minecraft/textures/gui/interfaces/cancel_text.png"
+hash = "c6b917d11c22a39b5fbeea779eb90652f82bd790517721dc792269fd369d642f"
+
+[[files]]
+file = "resourcepacks/@InsomniaUI/assets/minecraft/textures/gui/interfaces/done_text.png"
+hash = "4b903f51d9cf9f06e6da00de273b7b1b751ff586b84128e6e2ddfaf5a2670e14"
+
+[[files]]
 file = "resourcepacks/@InsomniaUI/assets/minecraft/textures/gui/widgets.png"
 hash = "eed850e24c0caa985f55665308fe7b682c656f7c1764e427f0edd5ec1eae70f7"
 
@@ -1508,7 +1514,11 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "e8ce10e4e29f50267efe72f529448058d4aa5ade1d92fe6a0f21ce6c21441736"
+hash = "9119eba239d943d395f2d1b11e35a343e9959d7fba4f9c59cdbd7085fd126eea"
+
+[[files]]
+file = "resourcepacks/TZP-Reduced.zip"
+hash = "1b38dfeb43626c731952d913b2c85c37d42cdcce522aad53fcc29953ff764cf2"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
@@ -1562,11 +1572,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/smooth-drawers.pw.toml"
 hash = "2cba577f71e47ce43ebd1dba336248815aa64e415407820be75828d347d32e60"
-metafile = true
-
-[[files]]
-file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-20.pw.toml"
-hash = "5d6a9c4d995bc6a2cac09b738242f5f85df0fb70e39a90b1fb1319f5b6d7c2de"
 metafile = true
 
 [[files]]

@@ -125,3 +125,24 @@ createdieselgenerators {
   "asphalt_stairs"
   "asphalt_slab"
 }
+
+createdeco {
+  for (type in List("verdant", "red", "dean", "pearl", "umber", "scarlet", "dusk", "blue")) {
+    "\(type)_bricks"
+    "short_\(type)_bricks"
+    "tiled_\(type)_bricks"
+    "long_\(type)_bricks"
+    "corner_\(type)_bricks"
+    "cracked_\(type)_bricks"
+    "mossy_\(type)_bricks"
+
+    for (block in List("stairs", "slab", "wall")) {
+      "\(type)_brick_\(block)"
+      "short_\(type)_brick_\(block)"
+      "tiled_\(type)_brick_\(block)"
+      "long_\(type)_brick_\(block)"
+      "cracked_\(type)_brick_\(block)"
+      "mossy_\(type)_brick_\(block)"
+    }
+  }
+}

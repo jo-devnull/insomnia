@@ -100,3 +100,28 @@ create {
   "waxed_weathered_copper_tiles"
   "waxed_oxidized_copper_tiles"
 }
+
+createdeco {
+  for (material in List(
+    "andesite",
+    "brass",
+    "iron",
+    "copper",
+    "industrial_iron",
+    "zinc"
+  )) {
+    "\(material)_bars"
+    "\(material)_bars_overlay"
+    "\(material)_catwalk"
+    "\(material)_catwalk_stairs"
+    "\(material)_catwalk_railing"
+    "\(material)_support_wedge"
+    "\(material)_facade"
+    "\(material)_hull"
+    "\(material)_support"
+    "\(material)_sheet_metal"
+    "\(material)_door"
+    "\(material)_trapdoor"
+    "locked_\(material)_door"
+  }
+}

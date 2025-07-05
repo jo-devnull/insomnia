@@ -79,6 +79,10 @@ output {
       value = import("misc/spawn.pkl").rules
     }
 
+    ["./config/incontrol/phases.json"] = (json) {
+      value = import("misc/spawn.pkl").phases
+    }
+
     ["./resourcepacks/@insomnia/pack.mcmeta"] = (json) {
       value {
         pack {

@@ -46,6 +46,7 @@ def link_dir(path: Path, target: Path):
         target.rmdir()
 
     print(f"linking dir: {target}")
+    target.parent.mkdir(parents=True, exist_ok=True)
     target.symlink_to(ROOT / path, target_is_directory=True)
 
 for pattern in sources:

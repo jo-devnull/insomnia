@@ -95,7 +95,7 @@ decoration = new ItemTag {
 
 block_decoration = new ItemTag {
   title = "Blocos Decorativos"
-  icon = "scguns:item/niter_glass"
+  icon = "minecraft:item/lime_stained_glass"
   mod = import("./block_decoration.pkl").toMap()
 }
 

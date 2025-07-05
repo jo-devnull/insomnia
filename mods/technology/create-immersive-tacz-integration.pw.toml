@@ -1,0 +1,13 @@
+name = "Create: Immersive Tacz Integration"
+filename = "../createimmersivetacz-1.2-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dccf84d5939a55d47bdafec7dc804c2982a8cc40"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6605477
+project-id = 1152431
