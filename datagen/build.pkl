@@ -68,12 +68,21 @@ function buildMisc() = new Mapping<String, FileOutput> {
   }
 }
 
+function buildRecipes() = new Mapping<String, FileOutput> {
+  for (key, recipe in import("misc/recipes.pkl").toMap()) {
+    ["\(path.data)/modpack/recipes/\(key).json"] = (json) {
+      value = recipe
+    }
+  }
+}
+
 output {
   files {
     ...buildEmi()
     ...buildTags()
     ...buildLang()
     ...buildMisc()
+    // ...buildRecipes()
 
     ["./config/incontrol/spawn.json"] = (json) {
       value = import("misc/spawn.pkl").rules

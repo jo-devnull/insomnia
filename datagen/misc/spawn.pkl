@@ -41,6 +41,11 @@ rules {
   }
 
   (deny) {
+    mob { "minecraft:drowned" }
+    random = 0.75
+  }
+
+  (deny) {
     mob = reducedSpawns
     random = 0.6
   }

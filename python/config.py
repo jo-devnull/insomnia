@@ -1,5 +1,5 @@
-import os
 import sys
+import shutil
 
 from glob import glob
 from pathlib import Path
@@ -11,21 +11,23 @@ CONFIG.mkdir(exist_ok=True)
 
 sources = [
     "datapacks/@packdata/",
+    "resourcepacks/@InsomniaUI/",
+    "resourcepacks/@insomnia.zip",
 
     "config/almostunified/**/*.json",
     "config/rootoffear/**/*.toml",
     "config/incontrol/**/*.json",
+    "config/sanitydim/**/*.toml",
+    "config/enhancedai/**/*.toml",
 
     "config/emi.css",
-    "config/mca.json",
     "config/embeddium-options.json",
     "config/chloride-client.json",
     "config/resourcepackoverrides.json",
     "config/parcool-client.toml",
     "config/xaero*.txt",
-
-    "config/simpleclouds*.toml",
-    "config/map_atlases*.toml",
+    "config/notreepunching.toml"
+    "config/structurify.json"
 
     "emi.json",
     "options.txt",
@@ -43,7 +45,10 @@ def link_file(path: Path, target: Path):
 def link_dir(path: Path, target: Path):
     if target.exists():
         print(f'Directory {target} already exists. Removing...')
-        target.rmdir()
+        if target.is_symlink():
+            target.unlink()
+        else:
+            shutil.rmtree(target)
 
     print(f"linking dir: {target}")
     target.parent.mkdir(parents=True, exist_ok=True)

@@ -89,6 +89,9 @@
       "stack": "#item:category:armor"
     },
     {
+      "stack": "#item:category:armory"
+    },
+    {
       "stack": "#item:category:cooking"
     },
     {

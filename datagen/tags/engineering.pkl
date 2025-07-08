@@ -141,3 +141,14 @@ createdieselgenerators {
   "burner"
   "chemical_turret"
 }
+
+petrolsparts {
+  "coaxial_gear"
+  "large_coaxial_gear"
+  "double_cardan_shaft"
+  "differential"
+  "planetary_gearset"
+  "colossal_cogwheel"
+  "pneumatic_tube"
+  "hydraulic_transmission"
+}

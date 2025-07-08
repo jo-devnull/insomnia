@@ -32,6 +32,22 @@ hash = "8eed34d051506b92cbc757a61b8b598b1dc6c6ee060025e095f681fba52b24aa"
 preserve = true
 
 [[files]]
+file = "config/enhancedai/Mobs/Break Anger/break_anger_config.json"
+hash = "1ef8dc64a4aead2829923f15a78907e94b33ffb70471416fac0b50c10b14165c"
+
+[[files]]
+file = "config/enhancedai/Mobs/Flee/custom_flee.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/enhancedai/Mobs/Targeting/custom_hostile.json"
+hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
+
+[[files]]
+file = "config/enhancedai/common.toml"
+hash = "a49a0b55ce8681aa22e925a4feb4e63d2782b007ecf6c6b807998caf9e0c511e"
+
+[[files]]
 file = "config/global_data_and_resourcepacks.toml"
 hash = "29a8e56da3425d99c3b09cee7ed0e12b91a69205afd4280df2235131b3f08671"
 
@@ -41,7 +57,7 @@ hash = "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "96b9f913e84b69fda2d387e7358463a93eb7dd5245ebc3cf03c349074adc399d"
+hash = "31e8298772abaf30c0e92066aa6f09fc8ec36249b952982cfb3246a34622107a"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -62,8 +78,8 @@ hash = "55e90428375be393d55a4de04549fedc3f6e7177ec0bedfb089288c48008fb1d"
 preserve = true
 
 [[files]]
-file = "config/mca.json"
-hash = "29f9b3178bade07d7e1ab60d8cdf3f4880f559490ef0b8911c4a190b906134d9"
+file = "config/notreepunching.toml"
+hash = "d4ba161e86898376bc32edd89d2baef3ed961380cef2779209c8ea9fec611939"
 
 [[files]]
 file = "config/parcool-client.toml"
@@ -72,30 +88,52 @@ preserve = true
 
 [[files]]
 file = "config/particle_core_config.toml"
-hash = "b241a76a0aa325bbbf79c634afa28a2faab3a154323ffc78e5a21fe0831cf0c4"
+hash = "03c02e1f58a91bd6483b635affa4ab4d120fe77018f9bb2b0fb90c64fd67385c"
 preserve = true
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "b55834a4636fb28fc8f71297cd3d9d31a01d78790adaa5a057a98f4a1d6d68f6"
+hash = "3340088155ae66cf7565608a2567fc2c23622b2454055a50bcf26678492098cb"
 
 [[files]]
 file = "config/rootoffear/common.toml"
 hash = "7d9b9e276400921d767a1c53493196290eaef248df253dc8dcd7589260431465"
 
 [[files]]
-file = "config/simpleclouds-client.toml"
-hash = "76b963b9675a8f0efdecc9d104f28791aa3d235544f33956e100244facde9452"
-preserve = true
+file = "config/sanitydim/default.toml"
+hash = "cf4aa71dd1790f4711cb6cc32f63ec6232247a310d61beb9f07ad1c727f6087a"
 
 [[files]]
-file = "config/simpleclouds-common.toml"
-hash = "44fdcad40ea6615db65c106614c91cb6ef174cd253c8f47bedadc69f9a030323"
-preserve = true
+file = "config/sanitydim/dimension/example.toml"
+hash = "d1a64dd1237d7f7424a3006f22a2a06f6a578983d997474f600563c1164c9c03"
+
+[[files]]
+file = "config/structurify.json"
+hash = "eead7f548049a7cd8defee57495c998634338f0074a2843cea5bc355c2df9c7b"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "9f4afef6c3307c3b418d9b897b912c7cbd33eacbceafd3a78c5f1abafc77f4b8"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "502e9294a180b94ab1475691f2b32e550c5beb234302d638248f9fd947764411"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "1e6488ee00b4079eb7c6cdb70118a378befa7fa04421efd6c92adfaf104f4222"
 
 [[files]]
 file = "credits.txt"
-hash = "f7190c70f0cf66f23ffb738f008d19bb467558f95bd88f53451daef3cf071340"
+hash = "40f0fad5f77a9d92ab94ece824f4f419b6c8f71c52250c73c8fd7b4f38861fbe"
 
 [[files]]
 file = "datapacks/@packdata/data/chovys_apocalypse_mod/weapon_attributes/aluminiumbat.json"
@@ -143,7 +181,7 @@ hash = "7ed8570487db72933ab13132cb9ace91bb71fdf574d6f0306784857d644737ed"
 
 [[files]]
 file = "datapacks/@packdata/data/moremobvariants/variants/zombie/default.json"
-hash = "acc119b9a3ce5788ff1c5bcd14879aa32440fece904ea86f90fe4e24c392827d"
+hash = "7ed8570487db72933ab13132cb9ace91bb71fdf574d6f0306784857d644737ed"
 
 [[files]]
 file = "datapacks/@packdata/data/moremobvariants/variants/zombie/efe.json"
@@ -210,8 +248,12 @@ file = "defaultconfigs/undeadnights-server.toml"
 hash = "a1f36d1b8d78c26f9136625d9bf3549e59d9a545136096d184d44c156fdc584a"
 
 [[files]]
+file = "defaultconfigs/unlitcampfire-server.toml"
+hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
+
+[[files]]
 file = "emi.json"
-hash = "82bab43af393a10c4747a2c515cf50d53bd2602cb32d81d0a56a8ee4272d27b3"
+hash = "1376dd7e2ebff40c181ecea4287897c1b52e38f974b034ad4c487bf11a466874"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
@@ -283,11 +325,6 @@ metafile = true
 [[files]]
 file = "mods/decoration/coastal-waves.pw.toml"
 hash = "da6099920705651b1287347fc49b223d178294f2972d156f2c8ccf217e01ec5d"
-metafile = true
-
-[[files]]
-file = "mods/decoration/comforts.pw.toml"
-hash = "01c7d62bedc56693e2ea397dc8046661eebe19a82865859b829deeaf83853ed7"
 metafile = true
 
 [[files]]
@@ -696,11 +733,6 @@ hash = "26f25259717d2a254769a95c845427dca18be0684e0a7f59db35fe960f423395"
 metafile = true
 
 [[files]]
-file = "mods/mechanics/map-atlases-forge.pw.toml"
-hash = "90d0cca3e9be2726222fec858d723590057d99769b3b77ce97682f27b6de61a8"
-metafile = true
-
-[[files]]
 file = "mods/mechanics/no-tree-punching.pw.toml"
 hash = "be5a7395477ef416b0e767d237b778dee2692792171b52be2a01fdc347ec24ff"
 metafile = true
@@ -731,6 +763,11 @@ hash = "deb0431d84cc149e188d9cbbfbf71c2348bd6b18109448516b83a75146d3317f"
 metafile = true
 
 [[files]]
+file = "mods/mechanics/sleep-tight.pw.toml"
+hash = "63f7f86ee5559a633e668c866490e37e6e42c7e30c9d6fd32f85db27b0c6ffaa"
+metafile = true
+
+[[files]]
 file = "mods/mechanics/thirst-was-taken.pw.toml"
 hash = "f5985fc19fb581b890c2bba4c6dfa7a186560d0e3bf6a0365ea346d745a1ac28"
 metafile = true
@@ -758,6 +795,16 @@ metafile = true
 [[files]]
 file = "mods/mechanics/woodwalkers.pw.toml"
 hash = "11a44346d36239723ae06f1b8d6ec2ca6c00d1bdbb9ba80292572175625e0a27"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/xaeros-minimap.pw.toml"
+hash = "bb46ca87c02eb4fd1dc43688e820b9f402faad2427bb9ea1c7864f5bbac116a7"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/xaeros-world-map.pw.toml"
+hash = "b5ad282adbe2386865e1aff651c47e5b7b438c595fce3c87678f0a82e7c613c6"
 metafile = true
 
 [[files]]
@@ -896,6 +943,11 @@ hash = "bafbc9ddf758a0a710aa1e87d2932b4b736735e8f60971bf6995a397f7a70061"
 metafile = true
 
 [[files]]
+file = "mods/misc/loot-integrations.pw.toml"
+hash = "515712ce282bb51fa48dfb91203f20dd45ee85c3850e8e54aa755820ef5290f6"
+metafile = true
+
+[[files]]
 file = "mods/misc/mastercutter.pw.toml"
 hash = "a5214cae44a37bd91b62320f3f715362a32159d6bf16db707c68f25d85bcd69d"
 metafile = true
@@ -976,6 +1028,11 @@ hash = "aebad8093fb59d03eb81b34f8c266c3d804f9971b68e2448f7e985de309a9357"
 metafile = true
 
 [[files]]
+file = "mods/misc/yung-structures-addon-for-loot-integrations.pw.toml"
+hash = "1f1e27891554df392483ea2e724d42234743ca23742cc44f5447524a3f792f59"
+metafile = true
+
+[[files]]
 file = "mods/mobs/alexs-mobs-interaction.pw.toml"
 hash = "612d87aaa6ff189f7476d6bcc4decb42b7563845d1521f285fe78793dac2e1cb"
 metafile = true
@@ -1033,11 +1090,6 @@ metafile = true
 [[files]]
 file = "mods/mobs/enderman-overhaul.pw.toml"
 hash = "0bcd045fb5b2b083cf30a09eb78399d1d297d06072b9ad0ce842e4f5d9ee4d32"
-metafile = true
-
-[[files]]
-file = "mods/mobs/entity-texture-features-fabric.pw.toml"
-hash = "646d5d20fac3213143edbc46c8a1d206e723e9381e75b35816943dfc191eaecf"
 metafile = true
 
 [[files]]
@@ -1241,6 +1293,11 @@ hash = "02e8112b75bf9eafb93abe770dbf38b092f63dde85692ba3061c71cd07bd1955"
 metafile = true
 
 [[files]]
+file = "mods/structures/simply-houses.pw.toml"
+hash = "b2cef172c837758e7276f71392b9e40e512bc074dc8ff08af0f28a52dbca6388"
+metafile = true
+
+[[files]]
 file = "mods/structures/underground-villages-stoneholm.pw.toml"
 hash = "61b4f1c02929727e727f3178ac1f00f8074a9710f612fbd19c8d39c42daaa7ab"
 metafile = true
@@ -1291,11 +1348,6 @@ hash = "eadaf33603cd9f0fc1888a033f774bf59c0359b7c09b000aaec07f63fb4dcc5b"
 metafile = true
 
 [[files]]
-file = "mods/technology/create-immersive-tacz-integration.pw.toml"
-hash = "5a8f396cb6bebc38ada5c54ec69857eff4a68795de09af91ef52a9bd8c303d8b"
-metafile = true
-
-[[files]]
 file = "mods/technology/create-ironworks.pw.toml"
 hash = "0291f5d37f57e582db17868b3868c0a2d4691bdef5543d0549451e11bcc822ec"
 metafile = true
@@ -1318,6 +1370,11 @@ metafile = true
 [[files]]
 file = "mods/technology/dynamic-village.pw.toml"
 hash = "7fcb62c416e5a006df425ccc89426aa8e31babf617c61d32d3930cefde7b33cf"
+metafile = true
+
+[[files]]
+file = "mods/technology/numismatics.pw.toml"
+hash = "ceb8ee435db7b2ed81964f7d53ac3a0d609c5ae145d684a9f94422d168173f78"
 metafile = true
 
 [[files]]
@@ -1492,7 +1549,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "776005c2f14471e7146cc100ca6dc91bfc2f538c3887d720e8a95f6b7c88301e"
+hash = "0851fcce99c6ee67c63c4ad422adc4f62461b4a555428a2480424ba332c4d553"
 preserve = true
 
 [[files]]
@@ -1533,11 +1590,11 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "92290cde27ad4254e7293b57b1d7def67d0fd58e991a702d9dd13d2b8d5eba31"
+hash = "22e7f122aecccea5218442f72cb832a356017dfaeb9843fb5ccdcf85f6558d57"
 
 [[files]]
-file = "resourcepacks/TZP-Reduced.zip"
-hash = "1b38dfeb43626c731952d913b2c85c37d42cdcce522aad53fcc29953ff764cf2"
+file = "resourcepacks/TZP-MMV-Patch.zip"
+hash = "7d14122e8ff2fe0b3e7d9c8e1bead716dc5392ec6a63d62c457e3cd35bb44d90"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"

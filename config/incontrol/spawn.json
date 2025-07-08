@@ -35,6 +35,15 @@
     "hostile": true,
     "dimension": "overworld",
     "mob": [
+      "minecraft:drowned"
+    ],
+    "random": 0.75
+  },
+  {
+    "result": "deny",
+    "hostile": true,
+    "dimension": "overworld",
+    "mob": [
       "minecraft:creeper",
       "minecraft:drowned",
       "minecraft:skeleton"

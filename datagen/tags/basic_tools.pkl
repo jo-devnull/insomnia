@@ -103,12 +103,9 @@ notreepunching {
   "fire_starter"
 }
 
-travelersbackpack {
-  "standard"
-  "backpack_tank"
-  "hose"
-  "blank_upgrade"
-  "white_sleeping_bag"
+sophisticatedbackpack {
+  "backpack"
+  "upgrade_base"
 }
 
 thirstcanteen {
@@ -117,6 +114,7 @@ thirstcanteen {
   "dragon_bottle"
 }
 
-map_atlases {
-  "atlas"
+redstonepen {
+  "pen"
+  "quill"
 }

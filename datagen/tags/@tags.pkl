@@ -39,11 +39,11 @@ armor = new ItemTag {
   mod = import("./armor.pkl").toMap()
 }
 
-// armory = new ItemTag {
-//   title = "Armas de Fogo"
-//   icon = "minecraft:item/missing"
-//   mod = import("./armory.pkl").toMap()
-// }
+armory = new ItemTag {
+  title = "Armas de Fogo"
+  icon = "jeg:item/combat_pistol"
+  mod = import("./armory.pkl").toMap()
+}
 
 // Cooking
 

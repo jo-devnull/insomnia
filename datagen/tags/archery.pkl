@@ -3,3 +3,11 @@ minecraft {
   "#forge:bows"
   "#minecraft:arrows"
 }
+
+benssharks {
+  "maelstrom_bow"
+}
+
+jeg {
+  "compound_bow"
+}
