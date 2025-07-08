@@ -1,6 +1,7 @@
 name = "Glowing Emissive Ores"
 filename = "GEO - v1.71.0.zip"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/l8XRSfMu/versions/fNr2lPg6/GEO%20-%20v1.71.0.zip"

@@ -1,13 +1,13 @@
 name = "Unique Dark"
-filename = "UniqueDark 1.20.1 (free).zip"
+filename = "Unique Dark - Lite - 1.20.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BaY1UdGV/versions/Tp72qPop/UniqueDark%201.20.1%20%28free%29.zip"
+url = "https://cdn.modrinth.com/data/BaY1UdGV/versions/BdxzdiOJ/Unique%20Dark%20-%20Lite%20-%201.20.1.zip"
 hash-format = "sha512"
-hash = "9888554401d7f0b4c9fd758b01508102f9541665542a83953f5e7d77308ea635e72da079fff43ef2119d835be5e3ced80bd13cf782e8ff48e1db5534c34e4f20"
+hash = "0089bcf143ede9d158261885f1b8d8eeeeffe185987e428367e1d57b1f6e5c73e40675778fe66d8437ac7bd1afb29ba5cabc4262e5053a3e902f164e7c14e68d"
 
 [update]
 [update.modrinth]
 mod-id = "BaY1UdGV"
-version = "Tp72qPop"
+version = "BdxzdiOJ"

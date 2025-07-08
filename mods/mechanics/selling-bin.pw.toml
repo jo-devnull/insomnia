@@ -1,0 +1,13 @@
+name = "Selling Bin"
+filename = "../SellingBin-mc1.20.1-v1.0.9-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b81fca9710ed6116a29e684f3a556d56049aef0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5801905
+project-id = 922334

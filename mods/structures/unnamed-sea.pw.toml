@@ -1,13 +1,13 @@
 name = "Unnamed Sea"
-filename = "../u_sea-1.2.1+mc1.19-1.21.6.jar"
+filename = "../u_sea-1.2.2+mc1.19-1.21.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2a8fg8M6/versions/2FwYMTc5/u_sea-1.2.1%2Bmc1.19-1.21.6.jar"
+url = "https://cdn.modrinth.com/data/2a8fg8M6/versions/YZ8Jw0P3/u_sea-1.2.2%2Bmc1.19-1.21.7.jar"
 hash-format = "sha512"
-hash = "a161f76ffd52eaceae5f74fa52d29cec307979e316fcc38e23831ec3ec8fe3e5fd7933951fc94a1f637dfedc9c9d0cbcf14016d25dcb879baf22eab26a469c0b"
+hash = "5d8f10124cf13588ea082f8151c5b9f0d2adefdbbb77ad4b463ef191c840f54f9e3cd30bdd86ff5cb6f19f2cc19fcb2f47cdd950c04194d2434d63c9930a3067"
 
 [update]
 [update.modrinth]
 mod-id = "2a8fg8M6"
-version = "2FwYMTc5"
+version = "YZ8Jw0P3"
