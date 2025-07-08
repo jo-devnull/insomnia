@@ -45,7 +45,7 @@ hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "a49a0b55ce8681aa22e925a4feb4e63d2782b007ecf6c6b807998caf9e0c511e"
+hash = "b905e181adc760244c4853aa95b5c8c3404f24ed5336194b623546a756e5aa39"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
@@ -495,6 +495,11 @@ metafile = true
 [[files]]
 file = "mods/dependency/entitytexturefeatures.pw.toml"
 hash = "f5923ee01db2aa51c19c68884bd681e44962bd6ef725625943556cd97cb840fd"
+metafile = true
+
+[[files]]
+file = "mods/dependency/flib.pw.toml"
+hash = "4cccebfbecdbd817f92da6e8f3f7240a30411294555d54f17ac651472f1b8eef"
 metafile = true
 
 [[files]]
@@ -1528,6 +1533,11 @@ hash = "5fe6d0cd9fb5c7a639f765598c3dbc10b4ac22e58535496eb3e6f9e55dff0dbd"
 metafile = true
 
 [[files]]
+file = "mods/world/ocean-floor-clay-sand-and-dirt.pw.toml"
+hash = "28667ea5b794ef9177c579ea0fcd904d86e41af3ee47f7d0a53b5aed49236a83"
+metafile = true
+
+[[files]]
 file = "mods/world/serene-seasons.pw.toml"
 hash = "44cf97ba63bc714502c6e45b0f9b8f1b10055ad0294f1871cd850b5eb1caa3a9"
 metafile = true
@@ -1554,7 +1564,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ab2ac21e73cc1fb408f402072120f55a2813992001c5059b953b2c5350841e4d"
+hash = "454cc64b05f338df296e267c2fe5b1a51c52863d8c52262711cd239ceb6ad5bf"
 preserve = true
 
 [[files]]
