@@ -103,7 +103,7 @@ notreepunching {
   "fire_starter"
 }
 
-sophisticatedbackpack {
+sophisticatedbackpacks {
   "backpack"
   "upgrade_base"
 }

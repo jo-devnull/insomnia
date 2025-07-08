@@ -1,5 +1,9 @@
 [
   {
+    "result": "deny",
+    "dimension": "superflat:superflat"
+  },
+  {
     "result": "default",
     "hostile": true,
     "dimension": "overworld",

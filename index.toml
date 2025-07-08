@@ -28,7 +28,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "8eed34d051506b92cbc757a61b8b598b1dc6c6ee060025e095f681fba52b24aa"
+hash = "9bb948bc842a6d84cf288842af94ab22b95e9566789fa7e70ccf05de94dadf38"
 preserve = true
 
 [[files]]
@@ -57,7 +57,7 @@ hash = "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "31e8298772abaf30c0e92066aa6f09fc8ec36249b952982cfb3246a34622107a"
+hash = "4c18393f666d8520b0dea7fd1cc9c766ef89cdda643f56fbdbdd28548ba2fcd2"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -253,7 +253,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "1376dd7e2ebff40c181ecea4287897c1b52e38f974b034ad4c487bf11a466874"
+hash = "e6a1adf2651cafb52ca4e911a9eb83e0a376880e6a824d0a17de58dc4331d0b7"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
@@ -1549,7 +1549,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0851fcce99c6ee67c63c4ad422adc4f62461b4a555428a2480424ba332c4d553"
+hash = "ab2ac21e73cc1fb408f402072120f55a2813992001c5059b953b2c5350841e4d"
 preserve = true
 
 [[files]]
@@ -1590,7 +1590,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "22e7f122aecccea5218442f72cb832a356017dfaeb9843fb5ccdcf85f6558d57"
+hash = "f6ec80e06b78cb727ba7c925ba14144a0a0214875b7fdae595ebcfe6415b58f3"
 
 [[files]]
 file = "resourcepacks/TZP-MMV-Patch.zip"

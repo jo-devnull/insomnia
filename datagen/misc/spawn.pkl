@@ -21,6 +21,11 @@ const reducedSpawns {
 }
 
 rules {
+  new {
+    result = "deny"
+    dimension = "superflat:superflat"
+  }
+
   (default) {
     mod {
       "jeg"

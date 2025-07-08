@@ -39,7 +39,12 @@ jeg {
   "flare"
   "terror_armada_flare"
 
-  "#jeg:ammo"
+  "handmade_shell"
+  "pistol_ammo"
+  "rifle_ammo"
+  "shotgun_shell"
+  "blaze_round"
+  "spectre_round"
 
   "scrap_workbench"
   "gunmetal_workbench"
