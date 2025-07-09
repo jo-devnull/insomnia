@@ -14,7 +14,7 @@ hash = "a29120a7deb7e407656c7b614fcca376b412249ba43e503e1fd962ffb4df6779"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "80ca830d1a257fbfc797ee2fe683fe246e71baebfd007ae82ad3f508041e9169"
+hash = "6550e9f20509b86ce4c602aa211785e1eda939075352be5005f0fa7b933c23e6"
 preserve = true
 
 [[files]]
@@ -478,6 +478,11 @@ hash = "49fbe9277b120af93f7847dfbfefd66db405e76883ade53e9a46996b83c737c3"
 metafile = true
 
 [[files]]
+file = "mods/dependency/craterlib.pw.toml"
+hash = "3773d609afccf7d2533c0b878173ca9052aa2d0a6777e7da9ff6160b35e70ceb"
+metafile = true
+
+[[files]]
 file = "mods/dependency/creativecore.pw.toml"
 hash = "140c2c3103cbcc6a3ec138296b3af0c595bba915300fe8d12eadc4b97f896293"
 metafile = true
@@ -765,11 +770,6 @@ metafile = true
 [[files]]
 file = "mods/mechanics/sanity-descent-into-madness.pw.toml"
 hash = "deb0431d84cc149e188d9cbbfbf71c2348bd6b18109448516b83a75146d3317f"
-metafile = true
-
-[[files]]
-file = "mods/mechanics/selling-bin.pw.toml"
-hash = "0b1c0bc4403b0dcdcc4fa0d18f2dbed118914ed06c91413c74c4f8fd12f901b6"
 metafile = true
 
 [[files]]
@@ -1253,6 +1253,11 @@ hash = "cc43278e450570a9fdcf4a29a7c216ef54a20ff24d25b41bad2b090dc7e9247d"
 metafile = true
 
 [[files]]
+file = "mods/performance/radium.pw.toml"
+hash = "256acc1cdee0fbb80b41592579db2477972844c43c95bad0dc78a499a3644213"
+metafile = true
+
+[[files]]
 file = "mods/performance/saturn.pw.toml"
 hash = "b8607fdb2e342ad58b3b778341d35c0f751ff283877fe529f22fe355a9152c10"
 metafile = true
@@ -1383,11 +1388,6 @@ hash = "7fcb62c416e5a006df425ccc89426aa8e31babf617c61d32d3930cefde7b33cf"
 metafile = true
 
 [[files]]
-file = "mods/technology/numismatics.pw.toml"
-hash = "ceb8ee435db7b2ed81964f7d53ac3a0d609c5ae145d684a9f94422d168173f78"
-metafile = true
-
-[[files]]
 file = "mods/technology/petrols-parts.pw.toml"
 hash = "a469f2ed53ea7a19b27e5cf96f70b8f524a69ce7acf1f37cdb2ccc74ce1eb86c"
 metafile = true
@@ -1463,8 +1463,8 @@ hash = "78324512494470a947c12b4a96699fcdcbaba2dcc4fd86d858a61ff73a6e75b0"
 metafile = true
 
 [[files]]
-file = "mods/utilities/skinrestorer.pw.toml"
-hash = "ec7ebc31a693c41482a4edcb413fdf6a43f2fccb320980f86ca4ebc745982ce6"
+file = "mods/utilities/simple-discord-rpc.pw.toml"
+hash = "3989f3a74f9d11e4e4ff2701dde77c21d83f41d893e1763a6f743981557eb6cb"
 metafile = true
 
 [[files]]
@@ -1473,8 +1473,8 @@ hash = "09156450778933479ef213f23d27ee61694627d1a7c228140c73bf6d9238f5de"
 metafile = true
 
 [[files]]
-file = "mods/utilities/structurify.pw.toml"
-hash = "c3ac8eb15e63e971d81a5eebd870b72971ffa7529e50a5ae96892a317523d2c0"
+file = "mods/utilities/sparsestructures.pw.toml"
+hash = "79305ae0675801e67ec6dbd41b00a3e760394173f15db6487d143abd8cfad30c"
 metafile = true
 
 [[files]]
@@ -1533,11 +1533,6 @@ hash = "5fe6d0cd9fb5c7a639f765598c3dbc10b4ac22e58535496eb3e6f9e55dff0dbd"
 metafile = true
 
 [[files]]
-file = "mods/world/ocean-floor-clay-sand-and-dirt.pw.toml"
-hash = "28667ea5b794ef9177c579ea0fcd904d86e41af3ee47f7d0a53b5aed49236a83"
-metafile = true
-
-[[files]]
 file = "mods/world/serene-seasons.pw.toml"
 hash = "44cf97ba63bc714502c6e45b0f9b8f1b10055ad0294f1871cd850b5eb1caa3a9"
 metafile = true
@@ -1564,7 +1559,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "454cc64b05f338df296e267c2fe5b1a51c52863d8c52262711cd239ceb6ad5bf"
+hash = "c8a9b2964b5e91dae4d3f99102713e73bac04b5c7bddb54214c335786a6fd737"
 preserve = true
 
 [[files]]
@@ -1605,7 +1600,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "968e3e02de7844bc61f072fadef552646c1bf8d4a12336de779a9a35e0c35ba4"
+hash = "828b29d1f5ac870cc8b4fd87129c4bf8f512c596176d09622f15cf9f643f6341"
 
 [[files]]
 file = "resourcepacks/TZP-MMV-Patch.zip"
@@ -1718,7 +1713,7 @@ hash = "1b3564e9f2c87e7e1416e43d68d9f812ea664b5a9e64e14d4f2a73c26efb89dc"
 
 [[files]]
 file = "seeds.txt"
-hash = "0cdfcc83586c529c111031dd370a17893c50403105003b451f63fc662eb68223"
+hash = "cb80fd62e4ab00c7979d9de6ee055ca8c8e393d39e057d8946a3bc7cf7ce0a43"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

@@ -34,7 +34,7 @@ sources = [
 ]
 
 def link_file(path: Path, target: Path):
-    if target.exists():
+    if target.exists(follow_symlinks=False):
         print(f'File {target} already exists. Removing...')
         target.unlink()
 
@@ -43,7 +43,7 @@ def link_file(path: Path, target: Path):
     target.symlink_to(ROOT / path)
 
 def link_dir(path: Path, target: Path):
-    if target.exists():
+    if target.exists(follow_symlinks=False):
         print(f'Directory {target} already exists. Removing...')
         if target.is_symlink():
             target.unlink()
