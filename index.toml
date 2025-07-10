@@ -14,7 +14,7 @@ hash = "a29120a7deb7e407656c7b614fcca376b412249ba43e503e1fd962ffb4df6779"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "6550e9f20509b86ce4c602aa211785e1eda939075352be5005f0fa7b933c23e6"
+hash = "ee5d89f0a863e9cf60dcbb611712023eb0b2e83bec06ce650bdbe4aa072f0463"
 preserve = true
 
 [[files]]
@@ -28,7 +28,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "9bb948bc842a6d84cf288842af94ab22b95e9566789fa7e70ccf05de94dadf38"
+hash = "8eed34d051506b92cbc757a61b8b598b1dc6c6ee060025e095f681fba52b24aa"
 preserve = true
 
 [[files]]
@@ -1168,11 +1168,6 @@ hash = "1d8aef27a56026239c5993f457327b59d5ce16c7572862973b960c1c8ff9b8bb"
 metafile = true
 
 [[files]]
-file = "mods/mobs/weeping-angels-mod.pw.toml"
-hash = "8cf7165710126bc70f90e3b47ee60bc271c9ee252a262b5ae8f8a230d3a9d17b"
-metafile = true
-
-[[files]]
 file = "mods/mobs/zoniex.pw.toml"
 hash = "719390c934f1e9f7ea70d15e0d2c143ba7709d0a497970bf8c61823d96a3d458"
 metafile = true
@@ -1559,7 +1554,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c8a9b2964b5e91dae4d3f99102713e73bac04b5c7bddb54214c335786a6fd737"
+hash = "93349427b4d0bfe54705fd83e39eafb74f3e24cce91b463001144bfd07dd9978"
 preserve = true
 
 [[files]]
@@ -1601,10 +1596,6 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 [[files]]
 file = "resourcepacks/@insomnia.zip"
 hash = "828b29d1f5ac870cc8b4fd87129c4bf8f512c596176d09622f15cf9f643f6341"
-
-[[files]]
-file = "resourcepacks/TZP-MMV-Patch.zip"
-hash = "7d14122e8ff2fe0b3e7d9c8e1bead716dc5392ec6a63d62c457e3cd35bb44d90"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
