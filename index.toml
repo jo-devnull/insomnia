@@ -28,7 +28,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "8eed34d051506b92cbc757a61b8b598b1dc6c6ee060025e095f681fba52b24aa"
+hash = "7b7622b915e04b4767cc62e7aba54edf9c8c66345facc2803a9c7cb1743fcf51"
 preserve = true
 
 [[files]]
@@ -93,7 +93,7 @@ preserve = true
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "3340088155ae66cf7565608a2567fc2c23622b2454055a50bcf26678492098cb"
+hash = "78547bb51acc195fee57d02d269fc8911d5218c970ed6e4dc159c70c0d6ca5da"
 
 [[files]]
 file = "config/rootoffear/common.toml"
@@ -129,7 +129,7 @@ hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "1e6488ee00b4079eb7c6cdb70118a378befa7fa04421efd6c92adfaf104f4222"
+hash = "99971455628a78a7df05c736d65bd6bd7a19458490b8fdd60d71badb50402463"
 
 [[files]]
 file = "credits.txt"
@@ -173,11 +173,11 @@ hash = "8ebc0ddddef002ad212f0d054b74c44c9216ac4fcc3d7ce62cf6691d04a3b741"
 
 [[files]]
 file = "datapacks/@packdata/data/moremobvariants/variants/zombie/alex.json"
-hash = "7ed8570487db72933ab13132cb9ace91bb71fdf574d6f0306784857d644737ed"
+hash = "7c7eda71b414e3fde44886e507417b5ef9225f23408f3a7ceaedd36867e7dbc4"
 
 [[files]]
 file = "datapacks/@packdata/data/moremobvariants/variants/zombie/ari.json"
-hash = "7ed8570487db72933ab13132cb9ace91bb71fdf574d6f0306784857d644737ed"
+hash = "7c7eda71b414e3fde44886e507417b5ef9225f23408f3a7ceaedd36867e7dbc4"
 
 [[files]]
 file = "datapacks/@packdata/data/moremobvariants/variants/zombie/default.json"
@@ -185,31 +185,31 @@ hash = "7ed8570487db72933ab13132cb9ace91bb71fdf574d6f0306784857d644737ed"
 
 [[files]]
 file = "datapacks/@packdata/data/moremobvariants/variants/zombie/efe.json"
-hash = "7ed8570487db72933ab13132cb9ace91bb71fdf574d6f0306784857d644737ed"
+hash = "7c7eda71b414e3fde44886e507417b5ef9225f23408f3a7ceaedd36867e7dbc4"
 
 [[files]]
 file = "datapacks/@packdata/data/moremobvariants/variants/zombie/kai.json"
-hash = "7ed8570487db72933ab13132cb9ace91bb71fdf574d6f0306784857d644737ed"
+hash = "7c7eda71b414e3fde44886e507417b5ef9225f23408f3a7ceaedd36867e7dbc4"
 
 [[files]]
 file = "datapacks/@packdata/data/moremobvariants/variants/zombie/makena.json"
-hash = "7ed8570487db72933ab13132cb9ace91bb71fdf574d6f0306784857d644737ed"
+hash = "7c7eda71b414e3fde44886e507417b5ef9225f23408f3a7ceaedd36867e7dbc4"
 
 [[files]]
 file = "datapacks/@packdata/data/moremobvariants/variants/zombie/noor.json"
-hash = "7ed8570487db72933ab13132cb9ace91bb71fdf574d6f0306784857d644737ed"
+hash = "7c7eda71b414e3fde44886e507417b5ef9225f23408f3a7ceaedd36867e7dbc4"
 
 [[files]]
 file = "datapacks/@packdata/data/moremobvariants/variants/zombie/sunny.json"
-hash = "7ed8570487db72933ab13132cb9ace91bb71fdf574d6f0306784857d644737ed"
+hash = "7c7eda71b414e3fde44886e507417b5ef9225f23408f3a7ceaedd36867e7dbc4"
 
 [[files]]
 file = "datapacks/@packdata/data/moremobvariants/variants/zombie/zuri.json"
-hash = "7ed8570487db72933ab13132cb9ace91bb71fdf574d6f0306784857d644737ed"
+hash = "7c7eda71b414e3fde44886e507417b5ef9225f23408f3a7ceaedd36867e7dbc4"
 
 [[files]]
 file = "datapacks/@packdata/data/superflat/dimension/superflat.json"
-hash = "60464090d397d47355ba8f7ffe5eae1a9e83ea584cfd614c5ce24568fd090069"
+hash = "ebb2fd8a6b957c453aa78136ccc4f74bd1fc3b167d66cd925b6e9024d40f3798"
 
 [[files]]
 file = "datapacks/@packdata/data/walkers/tags/entity_types/flying.json"
@@ -495,6 +495,11 @@ metafile = true
 [[files]]
 file = "mods/dependency/curios.pw.toml"
 hash = "94fadcc6d98788b11d63d2017ccd51d2aa70a8ba4e73a6478c6b1e06e20ba27b"
+metafile = true
+
+[[files]]
+file = "mods/dependency/entity-texture-features-fabric.pw.toml"
+hash = "646d5d20fac3213143edbc46c8a1d206e723e9381e75b35816943dfc191eaecf"
 metafile = true
 
 [[files]]
@@ -1113,11 +1118,6 @@ hash = "1af8599f07435f305b246131e20ea07ba2e6d7432440976cd02409e7e18043a4"
 metafile = true
 
 [[files]]
-file = "mods/mobs/goatman.pw.toml"
-hash = "1ab4edeca1bc7595130516c3e6842b5a71243b2760319d133bc9cdce3a467939"
-metafile = true
-
-[[files]]
 file = "mods/mobs/guard-ribbits.pw.toml"
 hash = "72559253c64d022cb68f9270f783ba632ff0ab3b46d5a8bb92c17b416bfdbea4"
 metafile = true
@@ -1554,7 +1554,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "93349427b4d0bfe54705fd83e39eafb74f3e24cce91b463001144bfd07dd9978"
+hash = "3ff89fefd212ded2450e0c5745e20199e91f16527cfc79bff7878f557fc06348"
 preserve = true
 
 [[files]]
@@ -1596,6 +1596,10 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 [[files]]
 file = "resourcepacks/@insomnia.zip"
 hash = "828b29d1f5ac870cc8b4fd87129c4bf8f512c596176d09622f15cf9f643f6341"
+
+[[files]]
+file = "resourcepacks/TZP-Reduced.zip"
+hash = "c5d966656f29d854b5606b788c96f329256ec95388d604276351a09389629560"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"

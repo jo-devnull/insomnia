@@ -24,7 +24,7 @@
                     "height": 8
                 },
                 {
-                    "block": "minecraft:grass_block",
+                    "block": "create:industrial_iron_block",
                     "height": 1
                 }
             ],
