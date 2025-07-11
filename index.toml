@@ -1128,11 +1128,6 @@ hash = "e9f17f9c45f5f599dec6f14c141a519a63a49691066b999d31274feb3b23257a"
 metafile = true
 
 [[files]]
-file = "mods/mobs/migamigos.pw.toml"
-hash = "2c1ff9c0b150990d0d070476f8a726ab58086fd9021418d850774e421724d96b"
-metafile = true
-
-[[files]]
 file = "mods/mobs/more-mob-variants.pw.toml"
 hash = "dc120cee5bfc34accc5a9389e3858355ee802a8b79927cb92cc6b7341c48a144"
 metafile = true
@@ -1554,7 +1549,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "3ff89fefd212ded2450e0c5745e20199e91f16527cfc79bff7878f557fc06348"
+hash = "5aa3cd2eae7816925731b25c0ddde347b2c31c2a0e9d7e9d17f8e3fd22fcdb49"
 preserve = true
 
 [[files]]
