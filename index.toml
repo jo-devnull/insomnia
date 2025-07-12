@@ -952,11 +952,6 @@ hash = "32699857668d237d2d718a8b9af1554eb7f7da215b987cf8430dd12b7cce95f5"
 metafile = true
 
 [[files]]
-file = "mods/misc/itemphysic.pw.toml"
-hash = "32699857668d237d2d718a8b9af1554eb7f7da215b987cf8430dd12b7cce95f5"
-metafile = true
-
-[[files]]
 file = "mods/misc/jade-addons-forge.pw.toml"
 hash = "f1970bfcb5e27a8278d8a7a7a59e73d73e2c8543977e4809736bd20194076719"
 metafile = true
@@ -1563,11 +1558,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-<<<<<<< HEAD
-hash = "68408b76d970849a63f563464c826c6425026cb70d2de1bc3da2201f90b96940"
-=======
-hash = "9659ccb198c77c66338e1a5a37f5029a198f1fea5843f2b5423d63875542a0a9"
->>>>>>> dbbea7f8f11feae345a50c5a14fa030bea6cac45
+hash = "537eab6ae96145714e5c85eb121eedb254ce167a5db2df3452fe8ee152b8a026"
 preserve = true
 
 [[files]]
