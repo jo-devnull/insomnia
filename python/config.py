@@ -27,9 +27,9 @@ sources = [
     "config/parcool-client.toml",
     "config/xaero*.txt",
     "config/notreepunching.toml"
-    "config/structurify.json"
+    "config/structurify.json",
 
-    "scripts/*.zs"
+    "scripts/*.zs",
     "emi.json",
     "options.txt",
 ]

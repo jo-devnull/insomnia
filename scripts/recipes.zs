@@ -6,6 +6,8 @@ craftingTable.removeByName("notreepunching:iron_knife");
 craftingTable.removeByName("notreepunching:gold_knife");
 craftingTable.removeByName("notreepunching:diamond_knife");
 
-blastFurnace.removeByName("samurai_dynasty:steel_ingot_from_blasting_iron_ingot");
+blastFurnace
+  .removeByName("samurai_dynasty:steel_ingot_from_blasting_iron_ingot");
 
-<recipetype:create:mixing>.removeByName(["samurai_dynasty:steel_ingot_create_compat"]);
+<recipetype:create:mixing>
+  .removeByName(["samurai_dynasty:steel_ingot_create_compat"]);

@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "none",
+  "ingredients": [
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 128
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersdelight:raw_pasta",
+      "count": 3
+    }
+  ]
+}

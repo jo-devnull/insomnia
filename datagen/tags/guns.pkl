@@ -53,6 +53,26 @@ jeg {
   "scrap_bin"
   "schematic_station"
   "blueprint_workbench"
+
+  "reflexive_sight"
+  "monocle_sight"
+  "holographic_sight"
+  "combat_scope"
+  "telescopic_sight"
+  "makeshift_stock"
+  "light_stock"
+  "tactical_stock"
+  "weighted_stock"
+  "silencer"
+  "explosive_muzzle"
+  "trumpet"
+  "light_grip"
+  "vertical_grip"
+  "angled_grip"
+  "extended_mag"
+  "drum_mag"
+  "flashlight"
+  "laser_pointer"
 }
 
 tacz {

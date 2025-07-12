@@ -152,12 +152,16 @@ file = "datapacks/@packdata/data/chovys_apocalypse_mod/weapon_attributes/pitchfo
 hash = "e5b85bc5dbdd39ad3cbfff0d42191ee47b30698b0e682653fdb3a05d3c594b13"
 
 [[files]]
+file = "datapacks/@packdata/data/farmersdelight/recipes/cutting/tag_dough.json"
+hash = "8a95dd39f97fca762a7d4ea285062f4813c6f006194e164e802b77b599a9ffe9"
+
+[[files]]
 file = "datapacks/@packdata/data/fromtheshadows/forge/biome_modifier/nether_spawns.json"
 hash = "c51f11ddbda1479e1f0ecd6c5521607f99f58a2371967ef22d5f2f2b0b1d39d7"
 
 [[files]]
 file = "datapacks/@packdata/data/fromtheshadows/forge/biome_modifier/spawns.json"
-hash = "7fed2aa5b899dd1f8a0e77c03fd11431a13c69db88ed26d42c65f14c48828726"
+hash = "eb2d711f3798c67bd8a381c9ce39ea00a462bb4637f21090ab7e6d316e6ca374"
 
 [[files]]
 file = "datapacks/@packdata/data/modpack/recipes/wooden_shovel.json"
@@ -253,7 +257,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "e6a1adf2651cafb52ca4e911a9eb83e0a376880e6a824d0a17de58dc4331d0b7"
+hash = "6d9a8621721dbdc1019af15f6db65a33901fe02dac924ad1341ce28f8bdf9d7f"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
@@ -948,6 +952,11 @@ hash = "5c001be9230f3b607814fbfac0d87672d451a52193247e49843da0b44a7bbff7"
 metafile = true
 
 [[files]]
+file = "mods/misc/itemphysic.pw.toml"
+hash = "32699857668d237d2d718a8b9af1554eb7f7da215b987cf8430dd12b7cce95f5"
+metafile = true
+
+[[files]]
 file = "mods/misc/jade-addons-forge.pw.toml"
 hash = "f1970bfcb5e27a8278d8a7a7a59e73d73e2c8543977e4809736bd20194076719"
 metafile = true
@@ -1554,7 +1563,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b2c874ff1f30c4795e8037c1cb2e89a9981ce0fd2cc616fc2df9c719ec56d890"
+hash = "68408b76d970849a63f563464c826c6425026cb70d2de1bc3da2201f90b96940"
 preserve = true
 
 [[files]]
@@ -1595,7 +1604,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "828b29d1f5ac870cc8b4fd87129c4bf8f512c596176d09622f15cf9f643f6341"
+hash = "7b3f98c2faeb7fac8d35c7a317aff834ef5107d27aa2a71d6b8185eda0bf0c87"
 
 [[files]]
 file = "resourcepacks/TZP-Reduced.zip"
@@ -1700,7 +1709,7 @@ hash = "8d50f8b8a87585cc411546cf3176b2e6b0227fa108ac67123ca4cf0ac4b41836"
 
 [[files]]
 file = "scripts/recipes.zs"
-hash = "b4b1a2b12abe8a98efd821d2e8e13166fd941c9b30c7ab7c460b8701a64ee008"
+hash = "0f80ad04cdeb8eb264425833867bd1c20e35e1aa5e8289e501a35542d99ce274"
 
 [[files]]
 file = "scripts/tags.zs"
