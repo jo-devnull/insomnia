@@ -943,8 +943,8 @@ hash = "0e1e0b229d27ff6da663064203fe9fe9afa16f6512f74fa2c178f45af39654ce"
 metafile = true
 
 [[files]]
-file = "mods/misc/itemphysic-lite.pw.toml"
-hash = "5c001be9230f3b607814fbfac0d87672d451a52193247e49843da0b44a7bbff7"
+file = "mods/misc/itemphysic.pw.toml"
+hash = "32699857668d237d2d718a8b9af1554eb7f7da215b987cf8430dd12b7cce95f5"
 metafile = true
 
 [[files]]
@@ -1554,7 +1554,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b2c874ff1f30c4795e8037c1cb2e89a9981ce0fd2cc616fc2df9c719ec56d890"
+hash = "9659ccb198c77c66338e1a5a37f5029a198f1fea5843f2b5423d63875542a0a9"
 preserve = true
 
 [[files]]
