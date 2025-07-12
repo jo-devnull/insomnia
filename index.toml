@@ -28,7 +28,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "7b7622b915e04b4767cc62e7aba54edf9c8c66345facc2803a9c7cb1743fcf51"
+hash = "b79a5ffd857f393479296bfefe52a3ac41fe77c002a7d199e818d77a008917e8"
 preserve = true
 
 [[files]]
@@ -45,7 +45,7 @@ hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "b905e181adc760244c4853aa95b5c8c3404f24ed5336194b623546a756e5aa39"
+hash = "5afb53527738e5de8f7c383b1179dd6f99b0fd6a3ccbcc1b9fba0ae8cd75b602"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
@@ -828,6 +828,11 @@ hash = "5a528e8afe62e2f4978c5b06e9cd68585c6adb90f5bb8f25badab5caeb5b7154"
 metafile = true
 
 [[files]]
+file = "mods/misc/armor-damage-limit.pw.toml"
+hash = "9ee19b29e99cae23b0c026b1e5e11d9e0de61e0e5b35f417099611f3b6639605"
+metafile = true
+
+[[files]]
 file = "mods/misc/automobility.pw.toml"
 hash = "4e969399064d3cd8962adc2f8a52b1172aaa5f69fc97b56557213c14f48155ee"
 metafile = true
@@ -1549,7 +1554,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "5aa3cd2eae7816925731b25c0ddde347b2c31c2a0e9d7e9d17f8e3fd22fcdb49"
+hash = "b2c874ff1f30c4795e8037c1cb2e89a9981ce0fd2cc616fc2df9c719ec56d890"
 preserve = true
 
 [[files]]
@@ -1699,7 +1704,7 @@ hash = "b4b1a2b12abe8a98efd821d2e8e13166fd941c9b30c7ab7c460b8701a64ee008"
 
 [[files]]
 file = "scripts/tags.zs"
-hash = "1b3564e9f2c87e7e1416e43d68d9f812ea664b5a9e64e14d4f2a73c26efb89dc"
+hash = "665cd93ed5ab9d02fe50dc1e6b1dc7b23d722ba95ccd3e075158f321a99b6b58"
 
 [[files]]
 file = "seeds.txt"

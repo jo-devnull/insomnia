@@ -42,7 +42,9 @@ import crafttweaker.api.item.ItemDefinition;
 
 <tag:entity_types:friendlyfire:player_protection>.add(
   <entitytype:minecraft:player>,
-  <entitytype:minecraft:villager>
+  <entitytype:minecraft:villager>,
+  <entitytype:minecraft:iron_golem>,
+  <entitytype:all_bark_all_bite:dog>
 );
 
 <tag:entity_types:friendlyfire:player_protection>.add(

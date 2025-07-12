@@ -845,7 +845,7 @@
 			Maximum = 3.0
 
 [Villagers]
-	"Enable Villager Attacking" = true
+	"Enable Villager Attacking" = false
 
 	[Villagers."Villager Attacking"]
 		#If true, when attacked, villagers will call other villagers for help and attack back. Attack damage can't be changed via config due to limitation so use mods like Mobs Properties Randomness to change the damage. Base damage is 4

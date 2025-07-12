@@ -29,6 +29,7 @@ sources = [
     "config/notreepunching.toml"
     "config/structurify.json"
 
+    "scripts/*.zs"
     "emi.json",
     "options.txt",
 ]
