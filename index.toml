@@ -257,7 +257,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "7f60ec498b5fa6dc6de6940fedc76e5aff113ea0abfa439a553baa788de5e59d"
+hash = "38dbaf86a277d695de4ffc326255514a2326915ca43ebd5ac48d4550671c6ad8"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
@@ -1412,6 +1412,11 @@ hash = "71614f2245e63d471017579ebd2d5a6c8203e4f5e1414fe8dc0cadc8d87184a7"
 metafile = true
 
 [[files]]
+file = "mods/utilities/easylan.pw.toml"
+hash = "d34ce6eebdcf9c6f64845765bd422837ba0bc87f68a8f9ff852b0bbba1d123e4"
+metafile = true
+
+[[files]]
 file = "mods/utilities/emi.pw.toml"
 hash = "3f60f75ca887ddd610a546cc652551a97a70bd07431b9db70e73e77fa6c37d3b"
 metafile = true
@@ -1548,7 +1553,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "75cdb12e3d62748fcfde935297c3d53bdad4b1447d77004a4d013805e6fdc5b2"
+hash = "aafbbd96ab007b37c1cde112418901046802b4fd0f89c5d76ce9173a83dcf715"
 preserve = true
 
 [[files]]
@@ -1589,7 +1594,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "7b3f98c2faeb7fac8d35c7a317aff834ef5107d27aa2a71d6b8185eda0bf0c87"
+hash = "36ff2f608f98028ae7b2fb7408d762ed0cf542c4e3dd65b7afef8823ae7a98f1"
 
 [[files]]
 file = "resourcepacks/TZP-Reduced.zip"

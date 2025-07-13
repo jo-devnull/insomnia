@@ -1,185 +1,4 @@
 {
-  "favorites": [
-    {
-      "stack": "#item:category:functional_blocks"
-    },
-    {
-      "stack": "#item:category:basic_tools"
-    },
-    {
-      "stack": "#item:category:heavy_tools"
-    },
-    {
-      "stack": "#item:category:weapons"
-    },
-    {
-      "stack": "#item:category:armor"
-    },
-    {
-      "stack": "#item:category:guns"
-    },
-    {
-      "stack": "#item:category:cooking"
-    },
-    {
-      "stack": "#item:category:foods"
-    },
-    {
-      "stack": "#item:category:brewing"
-    },
-    {
-      "stack": "#item:category:enchanting"
-    },
-    {
-      "stack": "#item:category:witchcraft"
-    },
-    {
-      "stack": "#item:category:furniture"
-    },
-    {
-      "stack": "#item:category:decoration"
-    },
-    {
-      "stack": "#item:category:block_decoration"
-    },
-    {
-      "stack": "#item:category:storage"
-    },
-    {
-      "stack": "#item:category:engineering"
-    },
-    {
-      "stack": "#item:category:carpentry"
-    },
-    {
-      "stack": "#item:category:masonry"
-    },
-    {
-      "stack": "#item:category:metalworking"
-    },
-    {
-      "stack": "#item:category:farming"
-    },
-    {
-      "stack": "#item:category:archery"
-    },
-    {
-      "stack": "#item:category:fishing"
-    },
-    {
-      "stack": "#item:category:transport"
-    }
-  ],
-  "lookup_history": [
-    "item:minecraft:dried_kelp",
-    {
-      "type": "item",
-      "id": "farmersdelight:fried_egg",
-      "amount": 3
-    },
-    "item:createfood:butter",
-    {
-      "type": "item",
-      "id": "createfood:raw_macaroni",
-      "amount": 5
-    },
-    "item:alexsmobs:raccoon_tail",
-    "item:domesticationinnovation:drum",
-    "item:createfood:pasta",
-    "item:farmersdelight:raw_pasta",
-    {
-      "type": "item",
-      "id": "minecraft:salmon",
-      "amount": 3
-    },
-    "item:minecraft:glow_berries",
-    "item:aquaculture:fish_bones",
-    {
-      "type": "item",
-      "id": "create:wheat_flour",
-      "amount": 39
-    },
-    "item:farmersdelight:wheat_dough",
-    "item:create:dough",
-    "item:irons_spellbooks:ruined_book",
-    "item:irons_spellbooks:netherite_spell_book{ISB_Spells:{data:[],maxSpells:12,mustEquip:1b,spellWheel:1b}}",
-    "item:irons_spellbooks:blood_vial",
-    "item:irons_spellbooks:magic_cloth",
-    "item:irons_spellbooks:diamond_spell_book{ISB_Spells:{data:[],maxSpells:10,mustEquip:1b,spellWheel:1b}}",
-    "item:irons_spellbooks:gold_spell_book{ISB_Spells:{data:[],maxSpells:8,mustEquip:1b,spellWheel:1b}}",
-    "item:irons_spellbooks:hogskin",
-    "item:vc_gliders:paraglider_gold{Damage:0}",
-    "item:vc_gliders:paraglider_wood{Damage:0}",
-    "item:alexscaves:radgill",
-    {
-      "type": "item",
-      "id": "minecraft:rabbit_hide",
-      "amount": 3
-    },
-    "item:vc_gliders:reinforced_paper_gold",
-    "item:minecraft:paper",
-    "item:untitledduckmod:duck_egg",
-    "item:minecraft:saddle",
-    "item:domesticationinnovation:pet_bed_white",
-    "item:domesticationinnovation:collar_tag",
-    "item:minecraft:wheat",
-    "item:minecraft:hay_block",
-    {
-      "type": "item",
-      "id": "minecraft:skeleton_skull",
-      "amount": 2
-    },
-    "item:jeg:gunmetal_ingot",
-    "item:jeg:shotgun_shell",
-    "item:alexsmobs:fish_oil",
-    "item:farmersdelight:canvas",
-    "item:minecraft:book",
-    {
-      "type": "item",
-      "id": "alexsmobs:bear_fur",
-      "amount": 2
-    },
-    "item:minecraft:green_dye",
-    "item:samurai_dynasty:steel_ingot",
-    "#item:forge:ingots/steel",
-    "item:samurai_dynasty:kitsune_hide",
-    "item:samurai_dynasty:kitsune_tail",
-    "item:jeg:minigun{Damage:0}"
-  ],
-  "craft_history": [
-    "domesticationinnovation:drum",
-    "aquaculture:bonemeal_from_fish_bones",
-    "vc_gliders:paraglider_gold",
-    "vc_gliders:reinforced_paper_gold",
-    "vc_gliders:reinforced_paper",
-    "immersive_weathering:paper_from_birch_bark",
-    "minecraft:iron_axe",
-    "better_campfires:firewood",
-    "vanillabackport:saddle",
-    "sanitydim:garland",
-    "minecraft:white_bed",
-    "domesticationinnovation:pet_bed_white",
-    "minecraft:white_wool_from_string",
-    "notreepunching:string_from_web_with_knife",
-    "domesticationinnovation:collar_tag",
-    "minecraft:chain",
-    "minecraft:cobblestone_slab",
-    "notreepunching:leather_from_leggings_with_knife",
-    "farmersdelight:cutting_board",
-    "minecraft:pumpkin_seeds",
-    "alexsmobs:animal_dictionary",
-    "farmersdelight:book_from_canvas",
-    "minecraft:spruce_planks",
-    "farmersdelight:paper_from_tree_bark",
-    "farmersdelight:canvas",
-    "alexsmobs:falconry_glove"
-  ],
-  "recipe_defaults": {
-    "added": [],
-    "tags": {},
-    "resolutions": {},
-    "disabled": []
-  },
   "hidden_stacks": [
     "item:minecraft:goat_horn{instrument:\"minecraft:sing_goat_horn\"}",
     "item:minecraft:goat_horn{instrument:\"minecraft:seek_goat_horn\"}",
@@ -256,5 +75,76 @@
     "item:tacz:workbench_c",
     "item:tacz:modern_kinetic_gun",
     "item:tacz:ammo"
+  ],
+  "favorites": [
+    {
+      "stack": "#item:category:functional_blocks"
+    },
+    {
+      "stack": "#item:category:basic_tools"
+    },
+    {
+      "stack": "#item:category:heavy_tools"
+    },
+    {
+      "stack": "#item:category:weapons"
+    },
+    {
+      "stack": "#item:category:armor"
+    },
+    {
+      "stack": "#item:category:guns"
+    },
+    {
+      "stack": "#item:category:cooking"
+    },
+    {
+      "stack": "#item:category:foods"
+    },
+    {
+      "stack": "#item:category:brewing"
+    },
+    {
+      "stack": "#item:category:enchanting"
+    },
+    {
+      "stack": "#item:category:witchcraft"
+    },
+    {
+      "stack": "#item:category:furniture"
+    },
+    {
+      "stack": "#item:category:decoration"
+    },
+    {
+      "stack": "#item:category:block_decoration"
+    },
+    {
+      "stack": "#item:category:storage"
+    },
+    {
+      "stack": "#item:category:engineering"
+    },
+    {
+      "stack": "#item:category:carpentry"
+    },
+    {
+      "stack": "#item:category:masonry"
+    },
+    {
+      "stack": "#item:category:metalworking"
+    },
+    {
+      "stack": "#item:category:farming"
+    },
+    {
+      "stack": "#item:category:archery"
+    },
+    {
+      "stack": "#item:category:fishing"
+    },
+    {
+      "stack": "#item:category:transport"
+    }
   ]
 }
