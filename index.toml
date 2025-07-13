@@ -257,7 +257,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "6d9a8621721dbdc1019af15f6db65a33901fe02dac924ad1341ce28f8bdf9d7f"
+hash = "7f60ec498b5fa6dc6de6940fedc76e5aff113ea0abfa439a553baa788de5e59d"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
@@ -804,16 +804,6 @@ metafile = true
 [[files]]
 file = "mods/mechanics/waystones.pw.toml"
 hash = "7664782a269a7876fe1be8ca967b3901f6514443a973cc5a7966d53641411a81"
-metafile = true
-
-[[files]]
-file = "mods/mechanics/woodwalkers-spellbooks.pw.toml"
-hash = "121ee9166c8c5852b145c37963812e9ae4996889d4517ce34439daa5bf4f732f"
-metafile = true
-
-[[files]]
-file = "mods/mechanics/woodwalkers.pw.toml"
-hash = "11a44346d36239723ae06f1b8d6ec2ca6c00d1bdbb9ba80292572175625e0a27"
 metafile = true
 
 [[files]]
@@ -1558,7 +1548,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "537eab6ae96145714e5c85eb121eedb254ce167a5db2df3452fe8ee152b8a026"
+hash = "75cdb12e3d62748fcfde935297c3d53bdad4b1447d77004a4d013805e6fdc5b2"
 preserve = true
 
 [[files]]
@@ -1708,7 +1698,7 @@ hash = "0f80ad04cdeb8eb264425833867bd1c20e35e1aa5e8289e501a35542d99ce274"
 
 [[files]]
 file = "scripts/tags.zs"
-hash = "665cd93ed5ab9d02fe50dc1e6b1dc7b23d722ba95ccd3e075158f321a99b6b58"
+hash = "f9eb186fe80c2605061312bdb39dacc16881bc324e5e213c4e8779032c352d62"
 
 [[files]]
 file = "seeds.txt"
