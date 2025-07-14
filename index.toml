@@ -13,8 +13,12 @@ file = "config/biome_replacer.properties"
 hash = "a29120a7deb7e407656c7b614fcca376b412249ba43e503e1fd962ffb4df6779"
 
 [[files]]
+file = "config/biomemusic.json"
+hash = "ba8fe1b293d95e63195417289a75c4a1976aaeab87285978dba1db22059c2e1e"
+
+[[files]]
 file = "config/chloride-client.json"
-hash = "ee5d89f0a863e9cf60dcbb611712023eb0b2e83bec06ce650bdbe4aa072f0463"
+hash = "9c17151dbc9505e15e27d2161db7e0fb7b4108f87349b4b992550e09e5e20308"
 preserve = true
 
 [[files]]
@@ -28,7 +32,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "b79a5ffd857f393479296bfefe52a3ac41fe77c002a7d199e818d77a008917e8"
+hash = "609d821ee8eb330c6acacda8abcbca3ea9427800c05f3b9d91b581bfec823cd6"
 preserve = true
 
 [[files]]
@@ -257,7 +261,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "38dbaf86a277d695de4ffc326255514a2326915ca43ebd5ac48d4550671c6ad8"
+hash = "5fe8e896f26e39dbbdcc80ba117f313bb204929405aa06e79f9e1c519f5c2d9c"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
@@ -342,18 +346,8 @@ hash = "6a0bea26ce3b8059e6fc2aa52aff59e33e6e508240b992a77667449bc8198d38"
 metafile = true
 
 [[files]]
-file = "mods/decoration/curious-lanterns.pw.toml"
-hash = "5324b18b89fe568c6396c78558e7c3c84b51c9a635a619a722a77a6c07ecd06a"
-metafile = true
-
-[[files]]
 file = "mods/decoration/dripsounds.pw.toml"
 hash = "f74f9c9149ae92dfc0344d9e7ff15fcbb3cc13618339ba7fae165b39ea9f0f5a"
-metafile = true
-
-[[files]]
-file = "mods/decoration/forge-cit.pw.toml"
-hash = "e411de7544240fe8614c53ccac5be724770a0f26fcbaf23ac39b98ed21c5750c"
 metafile = true
 
 [[files]]
@@ -517,6 +511,11 @@ hash = "4cccebfbecdbd817f92da6e8f3f7240a30411294555d54f17ac651472f1b8eef"
 metafile = true
 
 [[files]]
+file = "mods/dependency/forge-cit.pw.toml"
+hash = "e411de7544240fe8614c53ccac5be724770a0f26fcbaf23ac39b98ed21c5750c"
+metafile = true
+
+[[files]]
 file = "mods/dependency/forgeendertech.pw.toml"
 hash = "e03ab507436170398969e0bfc41d0bd42038aca36ca7936319984b76ed48129e"
 metafile = true
@@ -559,6 +558,11 @@ metafile = true
 [[files]]
 file = "mods/dependency/lexiconfig.pw.toml"
 hash = "39a6e2b591e1446d38e914747f1275e14fa2386983fcb22e4749bd51a41aac48"
+metafile = true
+
+[[files]]
+file = "mods/dependency/lithostitched.pw.toml"
+hash = "0f0dbe4a5596db1fa2b8a02e475d2bd167bd7412760ca60dc1ac15f6cbbe2259"
 metafile = true
 
 [[files]]
@@ -737,11 +741,6 @@ hash = "39d0177c9959d75cfe7e537df6d24b46db03ed8f377d51f9481bf4541a9f427b"
 metafile = true
 
 [[files]]
-file = "mods/mechanics/enhanced-ai.pw.toml"
-hash = "9f1961890ab0dea574875fbb31fcbe1f7a875db290af55bfd8285903587ffa1c"
-metafile = true
-
-[[files]]
 file = "mods/mechanics/irons-spells-n-spellbooks.pw.toml"
 hash = "adbdf7bdf1ccfafda76be696f8bde9d2a7ac36f699d035ff9a02609672d8576a"
 metafile = true
@@ -859,6 +858,11 @@ metafile = true
 [[files]]
 file = "mods/misc/controlling.pw.toml"
 hash = "b60a704def5b23aed6139adcd5ab9b467fdfcb791bb98807555575c7e9aadac1"
+metafile = true
+
+[[files]]
+file = "mods/misc/curious-lanterns.pw.toml"
+hash = "5324b18b89fe568c6396c78558e7c3c84b51c9a635a619a722a77a6c07ecd06a"
 metafile = true
 
 [[files]]
@@ -1122,6 +1126,11 @@ hash = "72559253c64d022cb68f9270f783ba632ff0ab3b46d5a8bb92c17b416bfdbea4"
 metafile = true
 
 [[files]]
+file = "mods/mobs/hostile-mobs-and-girls.pw.toml"
+hash = "23e45fb641172f98cfbc161fe8dc4b60a7851e6f0a830c930ceeb85ad004c3ca"
+metafile = true
+
+[[files]]
 file = "mods/mobs/kobolds.pw.toml"
 hash = "e9f17f9c45f5f599dec6f14c141a519a63a49691066b999d31274feb3b23257a"
 metafile = true
@@ -1202,6 +1211,11 @@ hash = "4b9930bbefbf7f91c53ccdea60cfbd8ae2e3b476f07f5cc948b2bd905f3d6fb7"
 metafile = true
 
 [[files]]
+file = "mods/performance/entityculling.pw.toml"
+hash = "083da33dc98ae98f2b235a1e2e81bd53cf7747901c79e50af03b500d1001f01d"
+metafile = true
+
+[[files]]
 file = "mods/performance/fast-paintings.pw.toml"
 hash = "55e7c7a9d4123f1883db7c1c1fb3941280513749ba263a89cb70105f65e34125"
 metafile = true
@@ -1219,6 +1233,11 @@ metafile = true
 [[files]]
 file = "mods/performance/flerovium.pw.toml"
 hash = "1030081398652516055089b569cc517808dae3e7f495d98be183179b9d0752ae"
+metafile = true
+
+[[files]]
+file = "mods/performance/immediatelyfast.pw.toml"
+hash = "1387e08ad725358a1a407208e0fb47056d1ff1810d03ad634e60545090b040f0"
 metafile = true
 
 [[files]]
@@ -1277,6 +1296,11 @@ hash = "bb7a8612e10cb0583fb61a8052379850066d74084f3b1690e98277cf5381adb5"
 metafile = true
 
 [[files]]
+file = "mods/structures/ct-overhaul-village.pw.toml"
+hash = "0acb8fe3c9ee1da5c6ab3e6af77597ef6d27a39be9b5ff5f93229e82804c4f0e"
+metafile = true
+
+[[files]]
 file = "mods/structures/desert-survival-house.pw.toml"
 hash = "385cca0c60f9b0ca2271fae591d4209457ee48e787494e4dd6d4cfbdb6b0e1ef"
 metafile = true
@@ -1284,6 +1308,11 @@ metafile = true
 [[files]]
 file = "mods/structures/hobbit-house.pw.toml"
 hash = "09ddcfebc37184220cef9ff78b185614a5f6aa818d617d054726f58507fe3ef4"
+metafile = true
+
+[[files]]
+file = "mods/structures/improved-village-placement.pw.toml"
+hash = "cc7911b8336310fce2491a0335d0e6fecba2859cd71f657573afb8bf49bdb6bb"
 metafile = true
 
 [[files]]
@@ -1299,6 +1328,11 @@ metafile = true
 [[files]]
 file = "mods/structures/simply-houses.pw.toml"
 hash = "b2cef172c837758e7276f71392b9e40e512bc074dc8ff08af0f28a52dbca6388"
+metafile = true
+
+[[files]]
+file = "mods/structures/structurify.pw.toml"
+hash = "fa9a39c29939078758f690ffb35e54585ed82ae869e4003f62a3009f0e507d9d"
 metafile = true
 
 [[files]]
@@ -1432,11 +1466,6 @@ hash = "f73a462bcbf9d62b599a09e313d6c551591f150ae87ee1fa44a1479179f8c986"
 metafile = true
 
 [[files]]
-file = "mods/utilities/jei.pw.toml"
-hash = "a41e90b308fbd0523ee6a4cda428c8efa0ee0ffc058d11f41ec5b9f8c1eeb904"
-metafile = true
-
-[[files]]
 file = "mods/utilities/lmft.pw.toml"
 hash = "6f0c8702e940a3067fc10f9c1cea497a81ce42be9e7e0dbd4891ae264318862e"
 metafile = true
@@ -1468,7 +1497,12 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/sparsestructures.pw.toml"
-hash = "79305ae0675801e67ec6dbd41b00a3e760394173f15db6487d143abd8cfad30c"
+hash = "8d6ab7523f0ac16250d5e5609bb056971265cc8e8b713783c865d93da5e21967"
+metafile = true
+
+[[files]]
+file = "mods/utilities/tmrv.pw.toml"
+hash = "e662579bb92a565bc3231985c48759b9fb72a17449c20fc115241565b18ff1aa"
 metafile = true
 
 [[files]]
@@ -1553,7 +1587,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "aafbbd96ab007b37c1cde112418901046802b4fd0f89c5d76ce9173a83dcf715"
+hash = "06d58edd34dacfa10ff33980758b9f2649de8a3f5296a3441f3c42e147b73b86"
 preserve = true
 
 [[files]]
