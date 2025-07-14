@@ -1,13 +1,13 @@
 name = "Untitled Duck Mod (Forge)"
-filename = "../untitledduckmod-0.8.1-forge-1.20.1.jar"
+filename = "../untitledduckmod-1.1.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2233e532ffdcd9a065d80e22c230bdd3039c0fd8"
+hash = "bab2dd9cb1449e1794cfaf58488e64428927a2d3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6198540
+file-id = 6754807
 project-id = 451789

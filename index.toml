@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/decoration/supplementaries.pw.toml"
-hash = "07bf39dbd4a7a85e7db8467a1f3a255ad889efcefaeb23efb25f1a8c4d3151bc"
+hash = "559af097d7b2564aa6c2e721189172c28ecd5030dc7a3789746b268644deb5e9"
 metafile = true
 
 [[files]]
@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/azurelib.pw.toml"
-hash = "897d3320497c8e5a6e4580ab5d5b3f3eff82a946a01fd3700c2980e6319086d4"
+hash = "71b012b3ca18138c8e357c164cf0f33832a2f4061743924690afd4c86076b598"
 metafile = true
 
 [[files]]
@@ -546,11 +546,6 @@ hash = "192304cde78e4604903cc41966cfd7d117ea5abe439b5f5b91a75db2f351a7ed"
 metafile = true
 
 [[files]]
-file = "mods/dependency/insanelib.pw.toml"
-hash = "8dceea5b68136ffd929138465370a6b47978384ebd09da1c0f26e083ef9f35d4"
-metafile = true
-
-[[files]]
 file = "mods/dependency/kotlin-for-forge.pw.toml"
 hash = "c759fe90a1d9bde0fb351500a377cb19229b90a0a1e9c531c6d86bae55aacd26"
 metafile = true
@@ -637,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/sophisticated-core.pw.toml"
-hash = "3922e0fd46828302bf9743a1152ea96b295e31f896a646018113345a725b38b1"
+hash = "f83961602491ecbe0d24ee2afbe35d181d5cf65fb99b527ed59737e5c20da42f"
 metafile = true
 
 [[files]]
@@ -697,7 +692,7 @@ metafile = true
 
 [[files]]
 file = "mods/equipment/sophisticated-backpacks.pw.toml"
-hash = "d871cb72291283ce0e231a4d6adc983e787428322a03eed4e9f1991e98e289a9"
+hash = "afb6808301d6ccecec403d62d420c3f0bcbd4bcf04f511bbb04aa1bdc4346437"
 metafile = true
 
 [[files]]
@@ -1017,12 +1012,12 @@ metafile = true
 
 [[files]]
 file = "mods/misc/simple-voice-chat.pw.toml"
-hash = "5a70ecdeed2081d02ecdefc0445aedcccb2f98cda8b6ea8a9f1c5c88bb105ab5"
+hash = "dca713b173597d3b7cf580a1e66cc4232b25e7f884b4fe7d86a7a960b66ef4f5"
 metafile = true
 
 [[files]]
 file = "mods/misc/sound-physics-remastered.pw.toml"
-hash = "0c683c6ea3141e32005408dbd4a8621673911611c988188c4959d95e5c3b9532"
+hash = "ed4349377e9761b56b477ba951cc8d4be94f3a08c4f959a55d46cb600e040b47"
 metafile = true
 
 [[files]]
@@ -1097,7 +1092,7 @@ metafile = true
 
 [[files]]
 file = "mods/mobs/critters-and-companions.pw.toml"
-hash = "519bc107537b71d4a04d6f3de19972b514c6c530026e39f89f431cebd7b34895"
+hash = "354f303fbf568174393051ae888f4ec161b5550982c86358f8a6e7f0850ef76d"
 metafile = true
 
 [[files]]
@@ -1162,12 +1157,12 @@ metafile = true
 
 [[files]]
 file = "mods/mobs/undead-nights.pw.toml"
-hash = "da8d6540171c3b437dc4c7385ee311f116cb2f8e1d7abfa239f20137d8216514"
+hash = "f0b8f2d455f396605fc673ea41d92a9bae480d4085b0da3225c9a4cd9aaae1e9"
 metafile = true
 
 [[files]]
 file = "mods/mobs/untitled-duck-mod-forge.pw.toml"
-hash = "1d8aef27a56026239c5993f457327b59d5ce16c7572862973b960c1c8ff9b8bb"
+hash = "c546a9ebf7ccc48c55f1f0d6e1080e926befd94209c1442e2aabe00a6627a87b"
 metafile = true
 
 [[files]]
@@ -1182,7 +1177,7 @@ metafile = true
 
 [[files]]
 file = "mods/performance/asyncparticles.pw.toml"
-hash = "b609608a42aab7d6d8c0411fd58c72c140fea5ff418ef0247f8b9b82e1536fd5"
+hash = "97c90a56d5d11aaf4113f73d2ffc7c5d5134a9980481d95fdfdd82519d600a37"
 metafile = true
 
 [[files]]
@@ -1247,7 +1242,7 @@ metafile = true
 
 [[files]]
 file = "mods/performance/modernfix.pw.toml"
-hash = "77e581193bd8965b83143c342ce16e2d8301303a6c22dfdac0ab814d4187d36e"
+hash = "9a3e3922c7fd8c0cbb955f20f6d6048139758db9659b123d3d8bf5714114ae65"
 metafile = true
 
 [[files]]
@@ -1695,7 +1690,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "ed8ca97e36406224ec87c27ba268da900689ec4754c3ab451aff92d635d01653"
+hash = "d6e8d79866a6edc103a09783f30cdd5b0e3fdc1e7abda0940f51c7c6e65bf4d9"
 metafile = true
 
 [[files]]
