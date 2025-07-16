@@ -34,11 +34,16 @@ rules {
       "goat_man"
       "benssharks"
       "aquamirae"
+      "fromtheshadows"
     }
   }
 
   (default) {
-    mob { "fromtheshadows:nehemoth" }
+    mob {
+      "fromtheshadows:nehemoth"
+      "minecraft:vindicator"
+      "minecraft:pillager"
+    }
   }
 
   (default) {

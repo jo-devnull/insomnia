@@ -13,7 +13,8 @@
       "alexscaves",
       "goat_man",
       "benssharks",
-      "aquamirae"
+      "aquamirae",
+      "fromtheshadows"
     ]
   },
   {
@@ -21,7 +22,9 @@
     "hostile": true,
     "dimension": "overworld",
     "mob": [
-      "fromtheshadows:nehemoth"
+      "fromtheshadows:nehemoth",
+      "minecraft:vindicator",
+      "minecraft:pillager"
     ]
   },
   {

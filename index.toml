@@ -18,7 +18,7 @@ hash = "ba8fe1b293d95e63195417289a75c4a1976aaeab87285978dba1db22059c2e1e"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "9c17151dbc9505e15e27d2161db7e0fb7b4108f87349b4b992550e09e5e20308"
+hash = "d8149f6419c961584300e92b23ef62160aa554affa423958b9746fd7c3688277"
 preserve = true
 
 [[files]]
@@ -32,7 +32,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "609d821ee8eb330c6acacda8abcbca3ea9427800c05f3b9d91b581bfec823cd6"
+hash = "6bfeb1214aeaf0cbc8060b4ce05c04af44bf8011319d69fd01bd7a788d751f48"
 preserve = true
 
 [[files]]
@@ -61,7 +61,7 @@ hash = "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "4c18393f666d8520b0dea7fd1cc9c766ef89cdda643f56fbdbdd28548ba2fcd2"
+hash = "8d4bc55603273be356c130ebced8e4a0a1af046ebd98df28346c711e6689c73c"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -105,7 +105,7 @@ hash = "7d9b9e276400921d767a1c53493196290eaef248df253dc8dcd7589260431465"
 
 [[files]]
 file = "config/sanitydim/default.toml"
-hash = "cf4aa71dd1790f4711cb6cc32f63ec6232247a310d61beb9f07ad1c727f6087a"
+hash = "e75f2257cdb937f249836879fe27270f2de95edbc842ef09b80755a198190f21"
 
 [[files]]
 file = "config/sanitydim/dimension/example.toml"
@@ -261,7 +261,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "5fe8e896f26e39dbbdcc80ba117f313bb204929405aa06e79f9e1c519f5c2d9c"
+hash = "14cf38690dda5a59403317cb0f912ebca8d275c35e3b10366ccb2206cb55e978"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
@@ -543,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/dependency/glitchcore.pw.toml"
 hash = "192304cde78e4604903cc41966cfd7d117ea5abe439b5f5b91a75db2f351a7ed"
+metafile = true
+
+[[files]]
+file = "mods/dependency/insanelib.pw.toml"
+hash = "ec1a4805a29bf8a54d37ca73ac8acdd478d256ae4edd42e7c5285011b007095e"
 metafile = true
 
 [[files]]
@@ -1106,6 +1111,11 @@ hash = "0bcd045fb5b2b083cf30a09eb78399d1d297d06072b9ad0ce842e4f5d9ee4d32"
 metafile = true
 
 [[files]]
+file = "mods/mobs/enhanced-ai.pw.toml"
+hash = "9f1961890ab0dea574875fbb31fcbe1f7a875db290af55bfd8285903587ffa1c"
+metafile = true
+
+[[files]]
 file = "mods/mobs/from-the-shadow-reborn.pw.toml"
 hash = "17d5782a06d7ef5b53a45faf6c0672d4fd994534ee55ee80af7f6fd5a45c05c9"
 metafile = true
@@ -1582,7 +1592,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "06d58edd34dacfa10ff33980758b9f2649de8a3f5296a3441f3c42e147b73b86"
+hash = "c629036441cea52366059acb5706569d4203c14cbbbfeb4e23ad78df780acae1"
 preserve = true
 
 [[files]]
@@ -1623,7 +1633,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "36ff2f608f98028ae7b2fb7408d762ed0cf542c4e3dd65b7afef8823ae7a98f1"
+hash = "fcb6c9f0801cf08dd1006508406317b20d3696aaf4e2f085387916560c5d5cd6"
 
 [[files]]
 file = "resourcepacks/TZP-Reduced.zip"
