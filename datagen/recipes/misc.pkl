@@ -1,0 +1,43 @@
+`data/hangglider/recipes/hang_glider.json` {
+  type = "minecraft:crafting_shaped"
+  category = "equipment"
+
+  pattern {
+    " s "
+    "wFw"
+  }
+
+  key {
+    s { item = "samurai_dynasty:steel_ingot" }
+    w { item = "hangglider:glider_wing" }
+    F { item = "hangglider:glider_framework" }
+  }
+
+  result {
+    item = "hangglider:hang_glider"
+  }
+
+  show_notification = true
+}
+
+`data/hangglider/recipes/glider_framework.json` {
+  type = "minecraft:crafting_shaped"
+  category = "equipment"
+
+  pattern {
+    " # "
+    "#=#"
+    "###"
+  }
+
+  key {
+    `=` { item = "samurai_dynasty:steel_ingot" }
+    `#` { item = "minecraft:iron_ingot" }
+  }
+
+  result {
+    item = "hangglider:glider_framework"
+  }
+
+  show_notification = true
+}

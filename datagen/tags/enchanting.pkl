@@ -6,3 +6,7 @@ minecraft {
   "book"
   "enchanted_book"
 }
+
+disenchanting_table {
+  "disenchanting_table"
+}

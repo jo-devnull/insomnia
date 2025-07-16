@@ -91,20 +91,7 @@ waystones {
   "sharestone"
 }
 
-jeg {
-  "scrap_workbench"
-  "gunmetal_workbench"
-  "gunnite_workbench"
-  "recycler"
-  "scrap_bin"
-  "schematic_station"
-  "blueprint_workbench"
-}
-
 tacz {
-  "gun_smithing_table"
-  "workbench_c"
-  "workbench_a"
   "target"
   "target_minecart"
 }

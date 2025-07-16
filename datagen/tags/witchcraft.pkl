@@ -87,10 +87,29 @@ irons_spellbooks {
   "cooldown_rune"
   "protection_rune"
   "nature_rune"
-  "scroll"
 }
 
 alexsmobs {
   "transmutation_table"
+}
 
+enchanted {
+  "altar"
+  "witch_oven"
+  "fume_funnel"
+  "fume_funnel_filtered"
+  "distillery"
+  "witch_cauldron"
+  "kettle"
+  "spinning_wheel"
+  "poppet_shelf"
+  "chalice"
+  "chalice_filled"
+  "candelabra"
+  "clay_jar"
+  "earmuffs"
+  "broom"
+  "enchanted_broomstick"
+
+  "#enchanted:chalks"
 }

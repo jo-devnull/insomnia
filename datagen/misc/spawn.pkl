@@ -28,10 +28,8 @@ rules {
 
   (default) {
     mod {
-      "jeg"
       "alexsmobs"
       "alexscaves"
-      "goat_man"
       "benssharks"
       "aquamirae"
       "fromtheshadows"
@@ -47,6 +45,7 @@ rules {
   }
 
   (default) {
+    random = 0.5
     lunar { "blood_moon" "eclipse_moon" "crimson_moon" }
   }
 

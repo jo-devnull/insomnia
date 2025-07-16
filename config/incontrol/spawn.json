@@ -8,10 +8,8 @@
     "hostile": true,
     "dimension": "overworld",
     "mod": [
-      "jeg",
       "alexsmobs",
       "alexscaves",
-      "goat_man",
       "benssharks",
       "aquamirae",
       "fromtheshadows"
@@ -31,6 +29,7 @@
     "result": "default",
     "hostile": true,
     "dimension": "overworld",
+    "random": 0.5,
     "lunar": [
       "blood_moon",
       "eclipse_moon",

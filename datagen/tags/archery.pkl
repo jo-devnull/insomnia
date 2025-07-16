@@ -7,7 +7,3 @@ minecraft {
 benssharks {
   "maelstrom_bow"
 }
-
-jeg {
-  "compound_bow"
-}

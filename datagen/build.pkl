@@ -69,9 +69,17 @@ function buildMisc() = new Mapping<String, FileOutput> {
 }
 
 function buildRecipes() = new Mapping<String, FileOutput> {
-  for (key, recipe in import("misc/recipes.pkl").toMap()) {
-    ["\(path.data)/modpack/recipes/\(key).json"] = (json) {
-      value = recipe
+  for (_, mod in import*("recipes/*.pkl").toMap()) {
+    for (key, recipe in mod.toMap()) {
+      when (key.contains("/")) {
+        ["./resourcepacks/@insomnia/\(key)"] = (json) {
+          value = recipe
+        }
+      } else {
+        ["\(path.data)/modpack/recipes/\(key).json"] = (json) {
+          value = recipe
+        }
+      }
     }
   }
 }
@@ -82,7 +90,7 @@ output {
     ...buildTags()
     ...buildLang()
     ...buildMisc()
-    // ...buildRecipes()
+    ...buildRecipes()
 
     ["./config/incontrol/spawn.json"] = (json) {
       value = import("misc/spawn.pkl").rules

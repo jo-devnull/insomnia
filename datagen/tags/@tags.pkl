@@ -41,7 +41,7 @@ armor = new ItemTag {
 
 guns = new ItemTag {
   title = "Armas de Fogo"
-  icon = "jeg:item/rifle_ammo"
+  icon = "tacz:item/target"
   mod = import("./guns.pkl").toMap()
 }
 

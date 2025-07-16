@@ -61,6 +61,21 @@ cold_sweat {
   "chamaleon_scale_boots"
 }
 
-chovys_apocalypse_mod {
-  "policevest_chestplate"
+cataclysm {
+  "bone_reptile_helmet"
+  "bone_reptile_chestplate"
+
+  "ignitium_helmet"
+  "ignitium_chestplate"
+  "ignitium_elytra_chestplate"
+  "ignitium_leggings"
+  "ignitium_boots"
+  
+  "cursium_helmet"
+  "cursium_chestplate"
+  "cursium_leggings"
+  "cursium_boots"
+
+  "monstrous_helm"
+  "bloom_stone_pauldrons"
 }

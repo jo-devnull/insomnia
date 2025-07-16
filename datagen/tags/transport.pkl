@@ -44,6 +44,11 @@ immersive_aircraft {
   "#immersive_aircraft:aircraft"
 }
 
-vc_gliders {
-  "#curios:glider"
+hangglider {
+  "hang_glider"
+  "reinfocerd_hang_glider"
+}
+
+enchanted {
+  "enchanted_broomstick"
 }

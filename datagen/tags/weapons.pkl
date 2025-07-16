@@ -16,19 +16,6 @@ aquamirae {
   "dagger_of_greed"
 }
 
-chovys_apocalypse_mod {
-  "fireaxe"
-  "sledgehammer"
-  "pitchfork"
-  "aluminiumbat"
-  "baseballbat"
-  "crowbar"
-  "katana"
-  "machete"
-  "militaryknife"
-  "riotshield"
-}
-
 samurai_dynasty {
   "katana"
   "wakizashi"
