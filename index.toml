@@ -261,7 +261,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "14cf38690dda5a59403317cb0f912ebca8d275c35e3b10366ccb2206cb55e978"
+hash = "704cf6d6b170617532aa1e77d8207a50a96a2a22754d694e6c9f85b6202c27cb"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/fzzy-config.pw.toml"
-hash = "93de81bddead9ea222ea6e1c5f33e4ca89c419c000aed42260128cd1d32f9b15"
+hash = "81b3ca880ab7dab84dd8d6192f555081725eee8df75645c5d48d5784bd1f190e"
 metafile = true
 
 [[files]]
@@ -677,7 +677,7 @@ metafile = true
 
 [[files]]
 file = "mods/equipment/just-enough-guns.pw.toml"
-hash = "9b610eb4821f2c0964f266764f5888196c5bd37e256ad52fb8394590ecd63e87"
+hash = "0ab122a70d5d24b9700d374f330cae341d61db42afccb1dbfbd0b92dd6d18abd"
 metafile = true
 
 [[files]]
@@ -713,6 +713,11 @@ metafile = true
 [[files]]
 file = "mods/equipment/xtra-arrows.pw.toml"
 hash = "e37eebb216aeee121038c6767be44d3ba0b4b42d0b463e9c5732b5b8c7170267"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/alekiships.pw.toml"
+hash = "05e297e90604cfbfb705bef5aba22b16c02d4d2b6d008436292d41234279e4eb"
 metafile = true
 
 [[files]]
@@ -1257,7 +1262,7 @@ metafile = true
 
 [[files]]
 file = "mods/performance/packet-fixer.pw.toml"
-hash = "1a4f3ffa688398ce07bfa3574b83db57f0cf6a49a6e3ca85c0eca9b1a2a18b8c"
+hash = "bbda1339c957472f3007af9169a717310e9cdc52127637d58dc631db82687b1f"
 metafile = true
 
 [[files]]
@@ -1387,7 +1392,7 @@ metafile = true
 
 [[files]]
 file = "mods/technology/create-diesel-generators.pw.toml"
-hash = "eadaf33603cd9f0fc1888a033f774bf59c0359b7c09b000aaec07f63fb4dcc5b"
+hash = "7a427dbe1085096d49b6f7b3d817188bc9251a6e7deb95e1d04067fb635c6641"
 metafile = true
 
 [[files]]
@@ -1592,7 +1597,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c629036441cea52366059acb5706569d4203c14cbbbfeb4e23ad78df780acae1"
+hash = "d5328e7f0333479757f214b9bf204c4e27e645d6a6f7299bb634349374e8de76"
 preserve = true
 
 [[files]]
@@ -1633,7 +1638,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "fcb6c9f0801cf08dd1006508406317b20d3696aaf4e2f085387916560c5d5cd6"
+hash = "656b392386b5b11aba6c11a9bca4de9eeab781e9710475561ee50ce2806185b5"
 
 [[files]]
 file = "resourcepacks/TZP-Reduced.zip"
