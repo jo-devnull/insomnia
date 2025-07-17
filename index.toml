@@ -261,7 +261,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "ba1aa6891347adff3f9d65595c32ba692173c0c49bb937b7d289bc0d249cccfe"
+hash = "2cacc27c49a137011f41959e0ef7dc27aa0d271e56894cb978a5d44a4930a8cc"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
@@ -706,6 +706,11 @@ hash = "58d27ee1a4f979d69cdf76d76cf0c24df222feb889c2629309f98fc215c1c927"
 metafile = true
 
 [[files]]
+file = "mods/equipment/simply-more.pw.toml"
+hash = "2b53501da84c9ca8062deb436931b2c8e44e7c5144a38ac37900836ca2bc0221"
+metafile = true
+
+[[files]]
 file = "mods/equipment/simply-swords.pw.toml"
 hash = "9363cd05dd71c3ac14296d15f51eda098ad5805488ead7ca7d97edfb8ff83f17"
 metafile = true
@@ -1018,6 +1023,11 @@ metafile = true
 [[files]]
 file = "mods/misc/polymorph.pw.toml"
 hash = "afb235d1c7d910384139e1316d4f03695bf1f37ecb23c22e098e1ca725a4321d"
+metafile = true
+
+[[files]]
+file = "mods/misc/responsive-shields.pw.toml"
+hash = "6567ad0aca62571be444a273fecaf30663be11bc393f28ed04ff7d636474a90c"
 metafile = true
 
 [[files]]
@@ -1622,7 +1632,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "bad35d6188d381f7b346e70b3cd231a72d34e2d12aac5e4b0ec7445e9703574e"
+hash = "43380d6fa72b8d8ea647cb2d157157dcf670bff59f4d2e0e361c3bb15f08876f"
 preserve = true
 
 [[files]]
