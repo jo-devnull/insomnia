@@ -11,8 +11,7 @@
       "alexsmobs",
       "alexscaves",
       "benssharks",
-      "aquamirae",
-      "fromtheshadows"
+      "aquamirae"
     ]
   },
   {
@@ -26,10 +25,16 @@
     ]
   },
   {
+    "result": "deny",
+    "hostile": true,
+    "dimension": "overworld",
+    "biometags": "modpack:safe",
+    "minheight": 40
+  },
+  {
     "result": "default",
     "hostile": true,
     "dimension": "overworld",
-    "random": 0.5,
     "lunar": [
       "blood_moon",
       "eclipse_moon",

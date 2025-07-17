@@ -1,0 +1,9 @@
+{
+  "parent": "simplyswords:iron_greataxe",
+
+  "attributes": {
+    "pose": "simplyswords:pose_two_handed_dragable",
+    "two_handed": true,
+    "category": "claymore"
+  }
+}

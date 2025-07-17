@@ -61,7 +61,7 @@ hash = "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "4877d38fb9b2574b2acf26ed517b5b88150922e5f88c5ee15de3b11cd8416b0d"
+hash = "c6934d549fd9b05c94f8d813a4aae4d49d8c45f1638275d9a49e928c670a885d"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -216,6 +216,30 @@ file = "datapacks/@packdata/data/moremobvariants/variants/zombie/zuri.json"
 hash = "7c7eda71b414e3fde44886e507417b5ef9225f23408f3a7ceaedd36867e7dbc4"
 
 [[files]]
+file = "datapacks/@packdata/data/simplymore/weapon_attributes/diamond_grandsword.json"
+hash = "a1fe62f8b65df5266692d9d613f9528177d89456fcf45baf658e8f6e0c1772ea"
+
+[[files]]
+file = "datapacks/@packdata/data/simplymore/weapon_attributes/gold_grandsword.json"
+hash = "a1fe62f8b65df5266692d9d613f9528177d89456fcf45baf658e8f6e0c1772ea"
+
+[[files]]
+file = "datapacks/@packdata/data/simplymore/weapon_attributes/iron_grandsword.json"
+hash = "a1fe62f8b65df5266692d9d613f9528177d89456fcf45baf658e8f6e0c1772ea"
+
+[[files]]
+file = "datapacks/@packdata/data/simplymore/weapon_attributes/mimicry_grandsword.json"
+hash = "a1fe62f8b65df5266692d9d613f9528177d89456fcf45baf658e8f6e0c1772ea"
+
+[[files]]
+file = "datapacks/@packdata/data/simplymore/weapon_attributes/netherite_grandsword.json"
+hash = "a1fe62f8b65df5266692d9d613f9528177d89456fcf45baf658e8f6e0c1772ea"
+
+[[files]]
+file = "datapacks/@packdata/data/simplymore/weapon_attributes/runic_grandsword.json"
+hash = "a1fe62f8b65df5266692d9d613f9528177d89456fcf45baf658e8f6e0c1772ea"
+
+[[files]]
 file = "datapacks/@packdata/data/superflat/dimension/superflat.json"
 hash = "ebb2fd8a6b957c453aa78136ccc4f74bd1fc3b167d66cd925b6e9024d40f3798"
 
@@ -261,7 +285,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "2cacc27c49a137011f41959e0ef7dc27aa0d271e56894cb978a5d44a4930a8cc"
+hash = "11ae25cff719071fc675c6338b27119ca7aa1dbb719dce077bc0add6ce542ba4"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
@@ -1351,16 +1375,6 @@ hash = "b2cef172c837758e7276f71392b9e40e512bc074dc8ff08af0f28a52dbca6388"
 metafile = true
 
 [[files]]
-file = "mods/structures/structurify.pw.toml"
-hash = "fa9a39c29939078758f690ffb35e54585ed82ae869e4003f62a3009f0e507d9d"
-metafile = true
-
-[[files]]
-file = "mods/structures/underground-villages-stoneholm.pw.toml"
-hash = "61b4f1c02929727e727f3178ac1f00f8074a9710f612fbd19c8d39c42daaa7ab"
-metafile = true
-
-[[files]]
 file = "mods/structures/unnamed-sea.pw.toml"
 hash = "415f8af01229274b70180d953f2be7f4d4d25ca05d6ca5d241dd7a0a8a9c980d"
 metafile = true
@@ -1541,11 +1555,6 @@ hash = "09156450778933479ef213f23d27ee61694627d1a7c228140c73bf6d9238f5de"
 metafile = true
 
 [[files]]
-file = "mods/utilities/sparsestructures.pw.toml"
-hash = "8d6ab7523f0ac16250d5e5609bb056971265cc8e8b713783c865d93da5e21967"
-metafile = true
-
-[[files]]
 file = "mods/utilities/tmrv.pw.toml"
 hash = "e662579bb92a565bc3231985c48759b9fb72a17449c20fc115241565b18ff1aa"
 metafile = true
@@ -1583,6 +1592,11 @@ metafile = true
 [[files]]
 file = "mods/world/feur-extension-fossil.pw.toml"
 hash = "50abdda14a892886114b243f4463443fe8b5e8784d2049d9b3c6743e4bb57177"
+metafile = true
+
+[[files]]
+file = "mods/world/geophilic-reforged.pw.toml"
+hash = "05bea433c6be340360d7e4cadac271fbd277409eb30d8fef36d3ab9bb7225e0b"
 metafile = true
 
 [[files]]
@@ -1632,7 +1646,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "43380d6fa72b8d8ea647cb2d157157dcf670bff59f4d2e0e361c3bb15f08876f"
+hash = "32efaa8c58f4ae97bf9164c2ce2b52967e05aae119ef441a3cc4cefe8d108fbf"
 preserve = true
 
 [[files]]
@@ -1673,7 +1687,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "a290009b329051ae233fab5f3e23b92099a3a3f2a60a8d68e256d8243dbd4791"
+hash = "0fd3aed064a9f36d7c8f6708cd133b412353130b122539c469484be3da2a46e1"
 
 [[files]]
 file = "resourcepacks/TZP-Reduced.zip"

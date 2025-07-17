@@ -32,7 +32,6 @@ rules {
       "alexscaves"
       "benssharks"
       "aquamirae"
-      "fromtheshadows"
     }
   }
 
@@ -44,8 +43,12 @@ rules {
     }
   }
 
+  (deny) {
+    biometags = "modpack:safe"
+    minheight = 40
+  }
+
   (default) {
-    random = 0.5
     lunar { "blood_moon" "eclipse_moon" "crimson_moon" }
   }
 

@@ -1,3 +1,17 @@
+safeBiomes {
+  path = "worldgen/biome/safe"
+
+  values {
+    "minecraft:meadow"
+    "minecraft:plains"
+    "minecraft:cherry_grove"
+    "minecraft:snowy_slopes"
+    "minecraft:frozen_peaks"
+    "biomesoplenty:coniferus_forest"
+    "terralith:forested_highlands"
+  }
+}
+
 unsafeBiomes {
   path = "worldgen/biome/unsafe"
 
