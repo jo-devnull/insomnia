@@ -32,7 +32,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "6bfeb1214aeaf0cbc8060b4ce05c04af44bf8011319d69fd01bd7a788d751f48"
+hash = "b79a5ffd857f393479296bfefe52a3ac41fe77c002a7d199e818d77a008917e8"
 preserve = true
 
 [[files]]
@@ -1005,6 +1005,26 @@ hash = "bafbc9ddf758a0a710aa1e87d2932b4b736735e8f60971bf6995a397f7a70061"
 metafile = true
 
 [[files]]
+file = "mods/misc/loot-integrations-better-archeology.pw.toml"
+hash = "ee88cded93e79fcbf4428166473f2ef6f19b17f7d7cb02cd2ff6bce3c6b2d33c"
+metafile = true
+
+[[files]]
+file = "mods/misc/loot-integrations-cataclysm.pw.toml"
+hash = "06e67d48ffca4348ec1af245533112f0215dd252d41177861f3cf48a97df8233"
+metafile = true
+
+[[files]]
+file = "mods/misc/loot-integrations-choicetheorems-overhauled.pw.toml"
+hash = "a9df292346c3543a6f7317758efc4df6c64945e598136f0ca5746b2b455b46d3"
+metafile = true
+
+[[files]]
+file = "mods/misc/loot-integrations-hopo-better-mineshaft-ruins.pw.toml"
+hash = "9de19ca342d003599d60d0260e07c90ad06b4e430196fa049635031a7fc9ea80"
+metafile = true
+
+[[files]]
 file = "mods/misc/loot-integrations.pw.toml"
 hash = "515712ce282bb51fa48dfb91203f20dd45ee85c3850e8e54aa755820ef5290f6"
 metafile = true
@@ -1355,11 +1375,6 @@ hash = "09ddcfebc37184220cef9ff78b185614a5f6aa818d617d054726f58507fe3ef4"
 metafile = true
 
 [[files]]
-file = "mods/structures/improved-village-placement.pw.toml"
-hash = "cc7911b8336310fce2491a0335d0e6fecba2859cd71f657573afb8bf49bdb6bb"
-metafile = true
-
-[[files]]
 file = "mods/structures/ruined-lighthouse.pw.toml"
 hash = "3e330d97426bc342ccdcfcedbb619671015843d6bc745ae3fdcdedcf79cfa0a0"
 metafile = true
@@ -1555,6 +1570,11 @@ hash = "09156450778933479ef213f23d27ee61694627d1a7c228140c73bf6d9238f5de"
 metafile = true
 
 [[files]]
+file = "mods/utilities/sparsestructures.pw.toml"
+hash = "8d6ab7523f0ac16250d5e5609bb056971265cc8e8b713783c865d93da5e21967"
+metafile = true
+
+[[files]]
 file = "mods/utilities/tmrv.pw.toml"
 hash = "e662579bb92a565bc3231985c48759b9fb72a17449c20fc115241565b18ff1aa"
 metafile = true
@@ -1646,7 +1666,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "32efaa8c58f4ae97bf9164c2ce2b52967e05aae119ef441a3cc4cefe8d108fbf"
+hash = "721735d604f9d57a5ab98512836c425b0725650efb610b59e466941058eacf6e"
 preserve = true
 
 [[files]]
