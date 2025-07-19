@@ -18,7 +18,7 @@ hash = "ba8fe1b293d95e63195417289a75c4a1976aaeab87285978dba1db22059c2e1e"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "9c17151dbc9505e15e27d2161db7e0fb7b4108f87349b4b992550e09e5e20308"
+hash = "4b2536972d82e7fe879a16dcdc3073574f61697cf3bda87a4a9f4e60c3666beb"
 preserve = true
 
 [[files]]
@@ -49,7 +49,7 @@ hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "5afb53527738e5de8f7c383b1179dd6f99b0fd6a3ccbcc1b9fba0ae8cd75b602"
+hash = "b911f9745fb362180bc2bf2ef1edd4b49028eda43e6381e047b7ad541b6a8d96"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
@@ -133,7 +133,7 @@ hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "99971455628a78a7df05c736d65bd6bd7a19458490b8fdd60d71badb50402463"
+hash = "3dbee599d1f172e48c56aa0361c77778c464c523671ff776512a9a5e276d36e8"
 
 [[files]]
 file = "credits.txt"
@@ -285,7 +285,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "11ae25cff719071fc675c6338b27119ca7aa1dbb719dce077bc0add6ce542ba4"
+hash = "04eb171ae09e0543f9d75e905f6912f7429cdef1ea5ebba4134ca6815d0068d7"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
@@ -397,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/decoration/particular-reforged.pw.toml"
 hash = "f2447533e7f2179e9d1f4b9bfcfda7ecd282958073da264568d97a0ad8350739"
+metafile = true
+
+[[files]]
+file = "mods/decoration/polytone.pw.toml"
+hash = "119dc43bcfb14b039b5e360ff8d74764f0b3e5a4e3ad1e8c0cc2b33793b95f3c"
 metafile = true
 
 [[files]]
@@ -1306,7 +1311,7 @@ metafile = true
 
 [[files]]
 file = "mods/performance/immediatelyfast.pw.toml"
-hash = "1387e08ad725358a1a407208e0fb47056d1ff1810d03ad634e60545090b040f0"
+hash = "0c9edf138973c48baa2bc4a1c9c39ee45c5573974d1dfc2eb2f89c102886ae55"
 metafile = true
 
 [[files]]
@@ -1666,7 +1671,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "721735d604f9d57a5ab98512836c425b0725650efb610b59e466941058eacf6e"
+hash = "4103e887747ff785d46bf897362e9db7e1c16f5c5a01b5aad9870a1666cdbff4"
 preserve = true
 
 [[files]]
@@ -1718,6 +1723,11 @@ file = "resourcepacks/VanillaTweaks.zip"
 hash = "622db52934292b831dd7a67bfc6ad22827fe00ce9fb228241c56a29362843aeb"
 
 [[files]]
+file = "resourcepacks/angels-weather.pw.toml"
+hash = "fe3ecc9a58e2506d502d8a8fa940b0328597c58ca87c95f884c8d01ca8c53f91"
+metafile = true
+
+[[files]]
 file = "resourcepacks/create-style-hopper.pw.toml"
 hash = "374fc3b531d1cff3d9dcafc73103797e44c5e27bce2ab414fab2695bde9d9284"
 metafile = true
@@ -1755,6 +1765,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/no-enchant-glint.pw.toml"
 hash = "d46c1e7989d2af9e8b115cf7923e4dbe449e32e1aa5b58492ac27f17bc985837"
+metafile = true
+
+[[files]]
+file = "resourcepacks/polytone.pw.toml"
+hash = "4c7c6b4dbb4b32ca91fa705126c00d350ba70c88e8ce1500c9928321bcc21b91"
 metafile = true
 
 [[files]]

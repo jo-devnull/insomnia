@@ -336,7 +336,7 @@
 	"Enable Witch Flee Target" = true
 	"Enable Witch Potion Throwing" = true
 	"Enable Thirsty Witches" = true
-	"Enable Dark Arts Witches" = true
+	"Enable Dark Arts Witches" = false
 
 	[Witches."Witch Flee Target"]
 		#Chance for a Witch to spawn with the ability to avoid the player
@@ -419,7 +419,7 @@
 	[Witches."Dark Arts Witches"]
 		#Chance for a witch to get the Dark Art AI (as soon as they have a target and are less than 10 blocks away from the target will summon a Villager and cast a lightning bolt on them
 		#Range: 0.0 ~ 1.0
-		"Dark Art Chance" = 0.333
+		"Dark Art Chance" = 0.0
 
 [Illagers]
 	"Enable Pillager Flee" = true
