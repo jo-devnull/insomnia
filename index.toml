@@ -96,6 +96,10 @@ hash = "03c02e1f58a91bd6483b635affa4ab4d120fe77018f9bb2b0fb90c64fd67385c"
 preserve = true
 
 [[files]]
+file = "config/prettyrain.json5"
+hash = "fc1ebdb9057b250030dd4c3b288134dfec8be7b95f4037a9f79edd991b5a5061"
+
+[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "78547bb51acc195fee57d02d269fc8911d5218c970ed6e4dc159c70c0d6ca5da"
 
@@ -288,34 +292,6 @@ file = "emi.json"
 hash = "04eb171ae09e0543f9d75e905f6912f7429cdef1ea5ebba4134ca6815d0068d7"
 
 [[files]]
-file = "journeymap/config/5.10/journeymap.core.config"
-hash = "1578c07cadfc1c75b915b7d47ec17c56b3c0aec903025edd63f417fa07c62f8e"
-
-[[files]]
-file = "journeymap/config/5.10/journeymap.fullmap.config"
-hash = "3d3d42fb4674aa6db94da4533a7dc07956796d139ffe562810a288bf73088c0a"
-
-[[files]]
-file = "journeymap/config/5.10/journeymap.minimap.config"
-hash = "f7033fad2f767b76e008e6b280d4e300236dd45d6c9c098fd9cb4a528fb40f22"
-
-[[files]]
-file = "journeymap/config/5.10/journeymap.minimap2.config"
-hash = "07608d8de1cedcf621c8ff24ccfdc611b13e4c58d5580535244607bd6562f296"
-
-[[files]]
-file = "journeymap/config/5.10/journeymap.topo.config"
-hash = "8f950f1d2fec134c0daa79191b88227d5976e4cf7dc71bbf732efc69a62f5b24"
-
-[[files]]
-file = "journeymap/config/5.10/journeymap.waypoint.config"
-hash = "3564851fbc00c4d297a11c69089d02c3cda033eede11b843f1e62da37cbf6ab2"
-
-[[files]]
-file = "journeymap/config/5.10/journeymap.webmap.config"
-hash = "2c939e2308e7d7d419af26ad342479690e8ae321c7af3ba64d8b0e897ccc8b5b"
-
-[[files]]
 file = "modlist.md"
 hash = "9f3b6c301c64e1d06bd61617d03bf588ede32fe183ba3fe33fea190c3ea0f439"
 
@@ -402,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/decoration/polytone.pw.toml"
 hash = "119dc43bcfb14b039b5e360ff8d74764f0b3e5a4e3ad1e8c0cc2b33793b95f3c"
+metafile = true
+
+[[files]]
+file = "mods/decoration/pretty-rain.pw.toml"
+hash = "b972791975aab662f1bb04610dfaa896e0d278883dca084246e70dd1ec1ff5b6"
 metafile = true
 
 [[files]]
@@ -722,6 +703,11 @@ metafile = true
 [[files]]
 file = "mods/equipment/immersive-armors.pw.toml"
 hash = "19456b7b8664dc6ea743d7355cc2e6ace9f9242509ad21624035c8acce315524"
+metafile = true
+
+[[files]]
+file = "mods/equipment/mace-backport.pw.toml"
+hash = "b0945e104e967131d667a45795b246078f8f38daf7410f8a51e758d837482ff2"
 metafile = true
 
 [[files]]
@@ -1671,7 +1657,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4103e887747ff785d46bf897362e9db7e1c16f5c5a01b5aad9870a1666cdbff4"
+hash = "f47002436032269b70c4e895601ccbb8e33738ac5696aefddec638807256d9d9"
 preserve = true
 
 [[files]]
@@ -1721,11 +1707,6 @@ hash = "c5d966656f29d854b5606b788c96f329256ec95388d604276351a09389629560"
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
 hash = "622db52934292b831dd7a67bfc6ad22827fe00ce9fb228241c56a29362843aeb"
-
-[[files]]
-file = "resourcepacks/angels-weather.pw.toml"
-hash = "fe3ecc9a58e2506d502d8a8fa940b0328597c58ca87c95f884c8d01ca8c53f91"
-metafile = true
 
 [[files]]
 file = "resourcepacks/create-style-hopper.pw.toml"

@@ -6,7 +6,7 @@ autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:false
+enableVsync:true
 entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
@@ -32,7 +32,7 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:0.5
-renderDistance:16
+renderDistance:18
 simulationDistance:12
 entityDistanceScaling:1.0
 guiScale:3
@@ -43,7 +43,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"true"
-resourcePacks:["vanilla","tacz_resources","mod_resources","Moonlight Mods Dynamic Assets","fabric","file/Fancy_Beds-v3.4.zip","file/Improved Crafting Table V1.0.zip","file/SmoothDrawers_1.20.1_v2.zip","file/VanillaTweaks.zip","file/waystones_1.20.zip","continuity:default","continuity:glass_pane_culling_fix","file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","file/xali\u0027s Framed Planks v1.3.0.zip","file/xali\u0027s Potions Addon v1.0.zip","file/xali\u0027s Potions v1.0.0.zip","file/3.3.1v_VisualEnchantments.zip","file/Detail-Brush-1.6-1.20.zip","file/Fast Better Grass.zip","file/No Enchant Glint 1.20.1.zip","file/Tool_Belt_Retextured_1.20.x_V3.zip","file/@insomnia.zip","file/Create_Style_Hopper_24_5_29.zip","file/Unique Dark - Lite - 1.20.1.zip","file/§6Immersive§8_§6Interfaces§8.zip","file/Angel\u0027s_Weather_v1.8.zip","file/@InsomniaUI","file/GEO - v1.71.0.zip","file/TZP-Reduced.zip"]
+resourcePacks:["vanilla","tacz_resources","mod_resources","Moonlight Mods Dynamic Assets","fabric","file/Fancy_Beds-v3.4.zip","file/Improved Crafting Table V1.0.zip","file/SmoothDrawers_1.20.1_v2.zip","file/VanillaTweaks.zip","file/waystones_1.20.zip","continuity:default","continuity:glass_pane_culling_fix","file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","file/xali\u0027s Framed Planks v1.3.0.zip","file/xali\u0027s Potions Addon v1.0.zip","file/xali\u0027s Potions v1.0.0.zip","file/3.3.1v_VisualEnchantments.zip","file/Detail-Brush-1.6-1.20.zip","file/Fast Better Grass.zip","file/No Enchant Glint 1.20.1.zip","file/Tool_Belt_Retextured_1.20.x_V3.zip","file/@insomnia.zip","file/Create_Style_Hopper_24_5_29.zip","file/Unique Dark - Lite - 1.20.1.zip","file/§6Immersive§8_§6Interfaces§8.zip","file/@InsomniaUI","file/GEO - v1.71.0.zip","file/TZP-Reduced.zip"]
 incompatibleResourcePacks:["file/SmoothDrawers_1.20.1_v2.zip","file/Create_Style_Hopper_24_5_29.zip","file/GEO - v1.71.0.zip"]
 lastServer:
 lang:pt_br
@@ -125,9 +125,6 @@ key_key.zoniex.zoniex_jump:key.keyboard.space
 key_key.modernfix.config:key.keyboard.unknown
 key_key.corpse.death_history:key.keyboard.o
 key_key.curios.open.desc:key.keyboard.unknown
-key_iris.keybind.reload:key.keyboard.r
-key_iris.keybind.toggleShaders:key.keyboard.k
-key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_key.arphex.space_press:key.keyboard.space
 key_key.jetpack.toggle_active.description:key.keyboard.g
 key_key.jetpack.toggle_hover.description:key.keyboard.h
