@@ -193,10 +193,10 @@ key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.sort:key.mouse.middle
 key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
 key_key.relics.ability_list:key.keyboard.left.alt
 key_key.carry.desc:key.keyboard.left.alt
 key_keybinds.bettercombat.feint:key.keyboard.unknown
@@ -220,8 +220,8 @@ key_key.mdf.c_action:key.keyboard.unknown
 key_key.mdf.v_action:key.keyboard.unknown
 key_key.mdf.r_action:key.keyboard.unknown
 key_key.mdf.blessing_menu:key.keyboard.unknown
-key_key.inventorysorter.sort:key.mouse.middle
 key_key.inventorysorter.itemout:key.mouse.102
+key_key.inventorysorter.sort:key.mouse.middle
 key_key.inventorysorter.itemin:key.mouse.100
 key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt
 key_key.tacz.inspect.desc:key.keyboard.h

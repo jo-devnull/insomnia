@@ -71,6 +71,16 @@
     }
   ],
   "lookup_history": [
+    "item:createdeco:long_red_bricks",
+    "item:createdeco:long_red_brick_stairs",
+    "item:biomesoplenty:redwood_stairs",
+    "item:create:industrial_iron_window_pane",
+    "item:create:weathered_iron_window",
+    "item:copycats:copycat_beam",
+    "item:create:industrial_iron_block",
+    "item:immersive_weathering:cracked_brick_wall",
+    "item:immersive_weathering:cracked_bricks",
+    "item:createdeco:short_red_bricks",
     "item:create:cut_crimsite_wall",
     "item:create:crimsite",
     "#item:create:stone_types/crimsite",
