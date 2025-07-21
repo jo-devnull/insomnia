@@ -7,7 +7,7 @@ safeBiomes {
     "minecraft:cherry_grove"
     "minecraft:snowy_slopes"
     "minecraft:frozen_peaks"
-    "biomesoplenty:coniferus_forest"
+    "biomesoplenty:coniferous_forest"
     "terralith:forested_highlands"
   }
 }
@@ -35,7 +35,7 @@ unsafeBiomes {
     "biomesoplenty:ominous_woods"
     "biomesoplenty:redwood_forest"
     "biomesoplenty:volcano"
-    "biomesoplenty:volcano_plains"
+    "biomesoplenty:volcanic_plains"
     "biomesoplenty:wasteland"
     "biomesoplenty:wasteland_steppe"
 

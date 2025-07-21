@@ -42,7 +42,7 @@ irons_spellbooks {
   "epic_ink"
   "legendary_ink"
 
-  "lesser_spell_slot_uggrade"
+  "lesser_spell_slot_upgrade"
 
   "upgrade_orb"
   "fire_upgrade_orb"

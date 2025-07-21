@@ -1,11 +1,17 @@
+var cookingMods = [
+  "bakery",
+  "candlelight",
+  "farm_and_charm",
+  "farmersdelight",
+  "meadow",
+  "miners_delight",
+  "rusticdelight"
+] as string[];
+
 for item in game.items {
-  if (item.registryName.namespace == "createfood") {
+  if (item.registryName.namespace in cookingMods) {
     if (item.isEdible) {
-      if (item.registryName.path.endsWith("bottle")) {
-        <tag:items:category:beverages>.add(item);
-      } else {
-        <tag:items:category:foods>.add(item);
-      }
+      <tag:items:category:foods>.add(item);
     }
   }
 

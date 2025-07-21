@@ -1,5 +1,5 @@
 minecraft {
-  "#forge:fruits"
+  "#forge:food"
   "#c:foods"
 }
 
@@ -8,10 +8,6 @@ create {
   "sweet_roll"
   "chocolate_glazed_berries"
   "honeyed_apple"
-}
-
-createfood {
-  // Added with CraftTweaker
 }
 
 brewinandchewin {
@@ -24,7 +20,7 @@ brewinandchewin {
   "scarlet_pierogi"
   "fiery_fondue"
   "pizza_slice"
-  "quinche_slice"
+  "quiche_slice"
   "ham_and_cheese_sandwich"
   "kimchi"
   "jerky"
@@ -34,4 +30,13 @@ brewinandchewin {
   "sweet_berry_jam"
   "glow_berry_marmalade"
   "apple_jelly"
+}
+
+ecologics {
+  "coconut_slice"
+  "crab_meat"
+  "tropical_stew"
+  "prickly_pear"
+  "cooked_prickly_pear"
+  "walnut"
 }

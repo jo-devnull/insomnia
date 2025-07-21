@@ -46,7 +46,7 @@ immersive_aircraft {
 
 hangglider {
   "hang_glider"
-  "reinfocerd_hang_glider"
+  "reinforced_hang_glider"
 }
 
 enchanted {

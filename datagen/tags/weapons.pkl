@@ -31,7 +31,7 @@ samurai_dynasty {
   "sai"
   "shuriken"
   "katana_netherite"
-  "wakizashi_neterite"
+  "wakizashi_netherite"
   "katana_oni"
   "katana_kitsune"
   "katana_kitsune_blue"

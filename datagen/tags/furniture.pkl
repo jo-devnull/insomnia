@@ -45,3 +45,33 @@ redeco {
     "\(color)_pet_bed"
   }
 }
+
+candlelight {
+  for (type in List(
+    "cobblestone",
+    "sandstone",
+    "stone_bricks",
+    "deepslate",
+    "granite",
+    "end",
+    "mud",
+    "quartz",
+    "red_nether_bricks",
+    "basalt",
+    "bamboo"
+  )) {
+    "\(type)_stove"
+    "\(type)_kitchen_sink"
+    "\(type)_counter"
+  }
+
+  for (wood in utils.VanillaWood) {
+    "\(wood)_cabinet"
+    "\(wood)_drawer"
+    "\(wood)_table"
+    "\(wood)_chair"
+    "\(wood)_shelf"
+    "\(wood)_big_table"
+  }
+}
+

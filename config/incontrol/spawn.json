@@ -18,6 +18,12 @@
     "result": "default",
     "hostile": true,
     "dimension": "overworld",
+    "spawner": true
+  },
+  {
+    "result": "default",
+    "hostile": true,
+    "dimension": "overworld",
     "mob": [
       "fromtheshadows:nehemoth",
       "minecraft:vindicator",

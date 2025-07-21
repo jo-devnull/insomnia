@@ -31,3 +31,11 @@ aquaculture {
   "note_hook"
   "nether_star_hook"
 }
+
+stardew_fishing {
+  "trap_bobber"
+  "cork_bobber"
+  "sonar_bobber"
+  "treasure_bobber"
+  "quality_bobber"
+}

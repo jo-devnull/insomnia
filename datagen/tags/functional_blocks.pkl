@@ -50,7 +50,7 @@ supplementaries {
   "sack"
   "wind_vane"
   "turn_table"
-  "sring_launcher"
+  "spring_launcher"
   "cannon"
   "faucet"
   "relayer"

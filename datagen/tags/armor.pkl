@@ -55,10 +55,10 @@ cold_sweat {
   "goat_fur_pants"
   "goat_fur_boots"
 
-  "chamaleon_scale_helmet"
-  "chamaleon_scale_chestplate"
-  "chamaleon_scale_leggings"
-  "chamaleon_scale_boots"
+  "chameleon_scale_helmet"
+  "chameleon_scale_chestplate"
+  "chameleon_scale_leggings"
+  "chameleon_scale_boots"
 }
 
 cataclysm {

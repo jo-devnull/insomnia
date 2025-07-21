@@ -21,10 +21,10 @@
                 },
                 {
                     "block": "minecraft:dirt",
-                    "height": 8
+                    "height": 4
                 },
                 {
-                    "block": "create:industrial_iron_block",
+                    "block": "minecraft:grass_block",
                     "height": 1
                 }
             ],

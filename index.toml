@@ -18,7 +18,7 @@ hash = "ba8fe1b293d95e63195417289a75c4a1976aaeab87285978dba1db22059c2e1e"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "4b2536972d82e7fe879a16dcdc3073574f61697cf3bda87a4a9f4e60c3666beb"
+hash = "eada0d3071498754c963a11273c350c831af5cc7855ac22c56039bb8d68bcf87"
 preserve = true
 
 [[files]]
@@ -32,7 +32,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "b79a5ffd857f393479296bfefe52a3ac41fe77c002a7d199e818d77a008917e8"
+hash = "6bfeb1214aeaf0cbc8060b4ce05c04af44bf8011319d69fd01bd7a788d751f48"
 preserve = true
 
 [[files]]
@@ -61,7 +61,7 @@ hash = "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "c6934d549fd9b05c94f8d813a4aae4d49d8c45f1638275d9a49e928c670a885d"
+hash = "4fa323aa8b414ce10b5fcba5115beadb7f1d40c26bf94e501426946e436dae34"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -245,7 +245,7 @@ hash = "a1fe62f8b65df5266692d9d613f9528177d89456fcf45baf658e8f6e0c1772ea"
 
 [[files]]
 file = "datapacks/@packdata/data/superflat/dimension/superflat.json"
-hash = "ebb2fd8a6b957c453aa78136ccc4f74bd1fc3b167d66cd925b6e9024d40f3798"
+hash = "6a73f3a9df16ad5113b464420a3adf0ba0d9be26c6df89a6d32dc5eaf042e89d"
 
 [[files]]
 file = "datapacks/@packdata/data/walkers/tags/entity_types/flying.json"
@@ -289,7 +289,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "04eb171ae09e0543f9d75e905f6912f7429cdef1ea5ebba4134ca6815d0068d7"
+hash = "7b7f050917cf64b779d8a5f4f7bd630dc92f2b97790d11fbed3d371d37618983"
 
 [[files]]
 file = "modlist.md"
@@ -301,8 +301,8 @@ hash = "ea5a875db565a7ff9e7775b9cdf4bc565bf35bf6bdb5091fad865cf8df7bb409"
 metafile = true
 
 [[files]]
-file = "mods/cooking/create-food.pw.toml"
-hash = "25c8ad51beefc9e01e57c50be27a24ba039029c080d13adf253758bffd605a6e"
+file = "mods/cooking/chefs-delight-forge.pw.toml"
+hash = "65e29476b35f038fd96348d50ec99035887df5867e1bb3352748304969e97d7d"
 metafile = true
 
 [[files]]
@@ -311,8 +311,33 @@ hash = "83230bbf28af5e7e832272d87635461bef0b2b71563235bb08b787f6579a6d23"
 metafile = true
 
 [[files]]
+file = "mods/cooking/lets-do-bakery-farm-charm-compat.pw.toml"
+hash = "291b933995baaba4154bbae909812ef0ed27b75b309bacf7478444a0a2cddd2a"
+metafile = true
+
+[[files]]
+file = "mods/cooking/lets-do-candlelight-farm-charm-compat.pw.toml"
+hash = "827e1ce38240b782dba780155d1f4a793446f1ddf033831f333b8a1d7b147bef"
+metafile = true
+
+[[files]]
+file = "mods/cooking/lets-do-farm-charm.pw.toml"
+hash = "421b8194ee8d0899080f1409c8f490551e632cb98f0729f124bbc825e97a3de7"
+metafile = true
+
+[[files]]
+file = "mods/cooking/lets-do-meadow.pw.toml"
+hash = "53f4400019b59f8e16a8d5bdfcf23055d16df60a881b4e783dae4f9114ed48af"
+metafile = true
+
+[[files]]
 file = "mods/cooking/miners-delight.pw.toml"
 hash = "9fde9c990dbfd29deb05b0471efd57164c7c1c0863740e8941ad6e3692abd6aa"
+metafile = true
+
+[[files]]
+file = "mods/cooking/rustic-delight.pw.toml"
+hash = "e035f04cffb92d72964564a98b22e3279f4a16c26822cb351eb241abd1e2ac26"
 metafile = true
 
 [[files]]
@@ -393,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/decoration/redeco.pw.toml"
 hash = "f448d9d20cd08f7638c203a75c5a7a8dcff9ca91fea20e90d02fd0a25ad3d7a1"
+metafile = true
+
+[[files]]
+file = "mods/decoration/sooty-chimneys.pw.toml"
+hash = "6e3ce61b785c5f3ce35055dbdace1457c4bb54b50f58e7bb1f1c2af2ee020bf2"
 metafile = true
 
 [[files]]
@@ -498,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/dependency/curios.pw.toml"
 hash = "94fadcc6d98788b11d63d2017ccd51d2aa70a8ba4e73a6478c6b1e06e20ba27b"
+metafile = true
+
+[[files]]
+file = "mods/dependency/do-api.pw.toml"
+hash = "a56b6b69b6524f32caf357f7363676a8543eee844ab33b973b9038582c9d8fa3"
 metafile = true
 
 [[files]]
@@ -643,6 +678,11 @@ metafile = true
 [[files]]
 file = "mods/dependency/selene.pw.toml"
 hash = "9ee630f75ee773de961f442d8eb091fa842dc0a2ff6ce6f0562b8194635f6e85"
+metafile = true
+
+[[files]]
+file = "mods/dependency/serene-seasons.pw.toml"
+hash = "b0667eabd0918e83e923521b1e14710a0cdc2f85f186860ce247505b0682cef2"
 metafile = true
 
 [[files]]
@@ -1063,6 +1103,11 @@ metafile = true
 [[files]]
 file = "mods/misc/responsive-shields.pw.toml"
 hash = "6567ad0aca62571be444a273fecaf30663be11bc393f28ed04ff7d636474a90c"
+metafile = true
+
+[[files]]
+file = "mods/misc/seasonal-lets-do.pw.toml"
+hash = "e0fdbb8709560b8e162f3f36b6681a1ae01e5c9431af729a7ab14a884fc903ec"
 metafile = true
 
 [[files]]
@@ -1657,7 +1702,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f47002436032269b70c4e895601ccbb8e33738ac5696aefddec638807256d9d9"
+hash = "ddb53ab16f4bffb40965f208da040a4259efbbc80eee996b4f9e5202f6323d97"
 preserve = true
 
 [[files]]
@@ -1698,7 +1743,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "0fd3aed064a9f36d7c8f6708cd133b412353130b122539c469484be3da2a46e1"
+hash = "446c37dc12e513f53b5755fb3b0a0e1639a663ed573942ede5c49cffd5031729"
 
 [[files]]
 file = "resourcepacks/TZP-Reduced.zip"
@@ -1749,11 +1794,6 @@ hash = "d46c1e7989d2af9e8b115cf7923e4dbe449e32e1aa5b58492ac27f17bc985837"
 metafile = true
 
 [[files]]
-file = "resourcepacks/polytone.pw.toml"
-hash = "4c7c6b4dbb4b32ca91fa705126c00d350ba70c88e8ce1500c9928321bcc21b91"
-metafile = true
-
-[[files]]
 file = "resourcepacks/shrimps-immersive-interfaces.pw.toml"
 hash = "20273c72d650770c0648eaddf56f2c8de4015046342ed290d21044e2f8acbb43"
 metafile = true
@@ -1800,7 +1840,7 @@ metafile = true
 
 [[files]]
 file = "scripts/categories.zs"
-hash = "43ce7257d431d41a7d3cf71a2a273b4aa32470af9eb970cdf12bcaf9fd2516b6"
+hash = "86d8e0d822f9c597df383cdf32ed88f83024ec365cdaaf38de63fe238fab65ff"
 
 [[files]]
 file = "scripts/misc.zs"

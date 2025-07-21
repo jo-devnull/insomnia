@@ -34,7 +34,7 @@ supplementaries {
   "statue"
   "globe"
   "globe_sepia"
-  "globet"
+  "goblet"
   "flag_purple"
   "sconce"
   "sconce_soul"

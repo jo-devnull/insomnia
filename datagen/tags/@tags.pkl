@@ -4,20 +4,39 @@ class ItemTag {
   mod: Map<String, unknown>
 }
 
-// Tools
-
 functional_blocks = new ItemTag {
   title = "Blocos Funcionais"
   icon = "minecraft:item/crafting_table"
   mod = import("./functional_blocks.pkl").toMap()
 }
 
+// Cooking
+
+cooking = new ItemTag {
+  title = "Culinária"
+  icon = "farmersdelight:item/stove"
+  mod = import("./cooking.pkl").toMap()
+}
+
+foods = new ItemTag {
+  title = "Comida"
+  icon = "create:item/honeyed_apple"
+  mod = import("./foods.pkl").toMap()
+}
+
+brewing = new ItemTag {
+  title = "Bebidas & Poções"
+  icon = "minecraft:item/potion"
+  mod = import("./brewing.pkl").toMap()
+}
+
+// Tools
+
 basic_tools = new ItemTag {
   title = "Ferramentas Básicas"
   icon = "redeco:item/hammer"
   mod = import("./basic_tools.pkl").toMap()
 }
-
 
 heavy_tools = new ItemTag {
   title = "Ferramentas Pesadas"
@@ -45,27 +64,7 @@ guns = new ItemTag {
   mod = import("./guns.pkl").toMap()
 }
 
-// Cooking
-
-cooking = new ItemTag {
-  title = "Culinária"
-  icon = "farmersdelight:item/stove"
-  mod = import("./cooking.pkl").toMap()
-}
-
-foods = new ItemTag {
-  title = "Comida"
-  icon = "create:item/honeyed_apple"
-  mod = import("./foods.pkl").toMap()
-}
-
 // Magic
-
-brewing = new ItemTag {
-  title = "Bebidas & Poções"
-  icon = "minecraft:item/potion"
-  mod = import("./brewing.pkl").toMap()
-}
 
 enchanting = new ItemTag {
   title = "Encantamento"
