@@ -61,7 +61,7 @@ hash = "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "acfcd875443ede58debe2a8b58924ca2a2e79c5d068ff1c1807cc7ede28d2876"
+hash = "4fa323aa8b414ce10b5fcba5115beadb7f1d40c26bf94e501426946e436dae34"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -275,7 +275,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "96126145e541737c2e2dccac9e703461f149b9c948eab987d92fe021c71c1536"
+hash = "76996dcaacdb8592101e632ab7baa89894ea72d82f7a5173aa5e55a1bb3c83d1"
 
 [[files]]
 file = "modlist.md"
@@ -769,11 +769,6 @@ metafile = true
 [[files]]
 file = "mods/equipment/simply-swords.pw.toml"
 hash = "9363cd05dd71c3ac14296d15f51eda098ad5805488ead7ca7d97edfb8ff83f17"
-metafile = true
-
-[[files]]
-file = "mods/equipment/starter-kit.pw.toml"
-hash = "586d7c42b823e594b3bf9c86760e6fd478ab6732079e66a31b3a55909c4fb991"
 metafile = true
 
 [[files]]
@@ -1718,7 +1713,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c50eb87758f7cb9e11bd012252c22f3274908671a65ad0daf44b3141938f42d9"
+hash = "2f50b7cc10cbae51b2b688c76175bedfe17f0d3168d2439f77ee2d783ab2e571"
 preserve = true
 
 [[files]]
@@ -1759,7 +1754,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "446c37dc12e513f53b5755fb3b0a0e1639a663ed573942ede5c49cffd5031729"
+hash = "500da792ea8aeae8b49b5dba1d99d3855d9a4b4a0cc3421717fda1890edafea9"
 
 [[files]]
 file = "resourcepacks/TZP-Reduced.zip"

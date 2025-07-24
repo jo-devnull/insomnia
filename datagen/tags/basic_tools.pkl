@@ -103,9 +103,10 @@ notreepunching {
   "fire_starter"
 }
 
-sophisticatedbackpacks {
-  "backpack"
-  "upgrade_base"
+travelersbackpack {
+  "standard"
+  "backpack_tank"
+  "blank_upgrade"
 }
 
 thirstcanteen {
