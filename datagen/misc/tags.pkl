@@ -64,14 +64,10 @@ unsafeStructures {
 
   values {
     "minecraft:pillager_outpost"
+    
     "irons_spellbooks:evoker_fort"
     "irons_spellbooks:mountain_tower"
     "irons_spellbooks:pyromancer_tower"
-    "scguns:asgharian_citadel"
-    "scguns:asgharian_tower"
-    "scguns:osgood_lab"
-    "scguns:osgood_lab_outpost"
-    "scguns:trench"
   }
 }
 

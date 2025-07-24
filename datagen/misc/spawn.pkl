@@ -53,7 +53,16 @@ rules {
   }
 
   (default) {
-    lunar { "blood_moon" "eclipse_moon" "crimson_moon" }
+    lunar {
+      "enhancedcelestials:super_blood_moon"
+    }
+  }
+
+  (default) {
+    biometags = "modpack:unsafe"
+    lunar {
+      "enhancedcelestials:blood_moon"
+    }
   }
 
   (deny) {
@@ -69,10 +78,6 @@ rules {
   (deny) {
     random = 0.5
     continue = true
-  }
-
-  (default) {
-    biometags = "modpack:unsafe"
   }
 
   (deny) {

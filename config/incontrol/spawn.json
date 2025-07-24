@@ -42,9 +42,16 @@
     "hostile": true,
     "dimension": "overworld",
     "lunar": [
-      "blood_moon",
-      "eclipse_moon",
-      "crimson_moon"
+      "enhancedcelestials:super_blood_moon"
+    ]
+  },
+  {
+    "result": "default",
+    "hostile": true,
+    "dimension": "overworld",
+    "biometags": "modpack:unsafe",
+    "lunar": [
+      "enhancedcelestials:blood_moon"
     ]
   },
   {
@@ -73,12 +80,6 @@
     "dimension": "overworld",
     "random": 0.5,
     "continue": true
-  },
-  {
-    "result": "default",
-    "hostile": true,
-    "dimension": "overworld",
-    "biometags": "modpack:unsafe"
   },
   {
     "result": "deny",

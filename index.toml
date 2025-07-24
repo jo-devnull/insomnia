@@ -32,7 +32,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "6bfeb1214aeaf0cbc8060b4ce05c04af44bf8011319d69fd01bd7a788d751f48"
+hash = "b79a5ffd857f393479296bfefe52a3ac41fe77c002a7d199e818d77a008917e8"
 preserve = true
 
 [[files]]
@@ -61,7 +61,7 @@ hash = "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "4fa323aa8b414ce10b5fcba5115beadb7f1d40c26bf94e501426946e436dae34"
+hash = "7f12f15eb5b4b61dd0810c494410a9666ff089d584fba256936a886907da3d19"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -437,6 +437,11 @@ hash = "e57ebfa8a3dbf661c8fb3bcab7774a4dc2916a2cf19fa8eecd644db318f223ad"
 metafile = true
 
 [[files]]
+file = "mods/dependency/apothic-attributes.pw.toml"
+hash = "8e02c7108e5c16d3d9d41e78dfd8568a2d59d8f5b37b414c0fffe1961d5a4bc7"
+metafile = true
+
+[[files]]
 file = "mods/dependency/architectury-api.pw.toml"
 hash = "3fddf86237a091014cac839a20d72a08012314bab262a065a08a28d5bd630283"
 metafile = true
@@ -642,6 +647,11 @@ hash = "499b014fe894aa7803f2d1affbb2225d447c5ebc7106f9ba9dd445a969f46441"
 metafile = true
 
 [[files]]
+file = "mods/dependency/placebo.pw.toml"
+hash = "e5c572c537d9502a5418bb03a9f6941a4999338a5ea53e1210a1f9aab9814aef"
+metafile = true
+
+[[files]]
 file = "mods/dependency/platform.pw.toml"
 hash = "ad3ca21ad405022a25ed35a2f5934f87a005dfa703bfffd5a5d5e62b465e5756"
 metafile = true
@@ -732,6 +742,11 @@ hash = "ff576613b431b912d64e33389714754d713ff018193542e80651d06d5121ef0d"
 metafile = true
 
 [[files]]
+file = "mods/equipment/fantasy-armor.pw.toml"
+hash = "6febc190f4d2e1ac6672c920e2ea43c8d9f52c377dee7fc9d6121bf6a4347078"
+metafile = true
+
+[[files]]
 file = "mods/equipment/hang-glider.pw.toml"
 hash = "ec3f41b31c5c175650012affcb25554b988345593986767752b451636d881962"
 metafile = true
@@ -762,6 +777,11 @@ hash = "58d27ee1a4f979d69cdf76d76cf0c24df222feb889c2629309f98fc215c1c927"
 metafile = true
 
 [[files]]
+file = "mods/equipment/simplehats.pw.toml"
+hash = "2c6e884b52626ec7fcef666d4c38fe5af4042373565c35ec2cef284f0df49f21"
+metafile = true
+
+[[files]]
 file = "mods/equipment/simply-more.pw.toml"
 hash = "2b53501da84c9ca8062deb436931b2c8e44e7c5144a38ac37900836ca2bc0221"
 metafile = true
@@ -774,6 +794,11 @@ metafile = true
 [[files]]
 file = "mods/equipment/timeless-and-classics-zero.pw.toml"
 hash = "92e85571e52be99224e608f79b25650e1f0d42137a651e4a04f5929dea2fe5da"
+metafile = true
+
+[[files]]
+file = "mods/equipment/to-tweaks-irons-spells.pw.toml"
+hash = "469c721ed1b3daea86d39230956d51d8f8aa634160831d1375777d1dedfafe57"
 metafile = true
 
 [[files]]
@@ -857,18 +882,8 @@ hash = "d6082b7e3ede1f1fa77df158c1679d063e7ad58250b96b918e5798f068137e7a"
 metafile = true
 
 [[files]]
-file = "mods/mechanics/rac-compat.pw.toml"
-hash = "3f012a3a1066f30fb3ae11eb1c0ceeb49727f8d9cd47c6e2326f0e2dba07b996"
-metafile = true
-
-[[files]]
 file = "mods/mechanics/redstonepen.pw.toml"
 hash = "2d83876af0af619c2950ef491e1e9f5d564016a4adaab2fdb82113312140ece2"
-metafile = true
-
-[[files]]
-file = "mods/mechanics/relics-mod.pw.toml"
-hash = "41c027aee3ce18bbf1f3556523d0f3c70769bd2b15cf7d655c64dcdffe5146cd"
 metafile = true
 
 [[files]]
@@ -1204,6 +1219,11 @@ metafile = true
 [[files]]
 file = "mods/mobs/better-animations-collection.pw.toml"
 hash = "42703aee31a9f16b20cbcbbca486187fe2811fd5fdaa9e389e7e5a7ec5eb0518"
+metafile = true
+
+[[files]]
+file = "mods/mobs/brazilian-expansion.pw.toml"
+hash = "2463483517e9919f98364f1c0e6ebc0871a9ebbe321bd891a3d2b4e8ecf2c00f"
 metafile = true
 
 [[files]]
@@ -1713,7 +1733,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2f50b7cc10cbae51b2b688c76175bedfe17f0d3168d2439f77ee2d783ab2e571"
+hash = "c32a9639b27dfd57a603457738a2801e7b4ad90d9b86f4496b5379ed326664ba"
 preserve = true
 
 [[files]]
@@ -1754,7 +1774,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "500da792ea8aeae8b49b5dba1d99d3855d9a4b4a0cc3421717fda1890edafea9"
+hash = "d559c46d1db16cdf38648142229fda33986dab419862d1a753f16251361a357b"
 
 [[files]]
 file = "resourcepacks/TZP-Reduced.zip"
