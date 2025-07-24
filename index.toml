@@ -23,7 +23,7 @@ preserve = true
 
 [[files]]
 file = "config/clienttweaks-common.toml"
-hash = "f82806d671af8eb43a2b2f19aa71d226796069936574d9984e3ef6ed59776def"
+hash = "f6a538fbda329bea19292131ca13165c49895261f59afccd33374cc974a21b35"
 
 [[files]]
 file = "config/embeddium-options.json"
@@ -61,7 +61,7 @@ hash = "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "4fa323aa8b414ce10b5fcba5115beadb7f1d40c26bf94e501426946e436dae34"
+hash = "acfcd875443ede58debe2a8b58924ca2a2e79c5d068ff1c1807cc7ede28d2876"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -70,16 +70,6 @@ hash = "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f"
 [[files]]
 file = "config/lmft.json"
 hash = "616b89227e557c16754a9d89ac5b28bf18da1607cea770e2b92eb95a91c6538e"
-
-[[files]]
-file = "config/map_atlases-client.toml"
-hash = "01c2d2c2efcb644ab1b6eb5606fc8fa456cd0484e30c69671bd4e74c828edaa5"
-preserve = true
-
-[[files]]
-file = "config/map_atlases-common.toml"
-hash = "55e90428375be393d55a4de04549fedc3f6e7177ec0bedfb089288c48008fb1d"
-preserve = true
 
 [[files]]
 file = "config/notreepunching.toml"
@@ -102,10 +92,6 @@ hash = "fc1ebdb9057b250030dd4c3b288134dfec8be7b95f4037a9f79edd991b5a5061"
 [[files]]
 file = "config/resourcepackoverrides.json"
 hash = "78547bb51acc195fee57d02d269fc8911d5218c970ed6e4dc159c70c0d6ca5da"
-
-[[files]]
-file = "config/rootoffear/common.toml"
-hash = "7d9b9e276400921d767a1c53493196290eaef248df253dc8dcd7589260431465"
 
 [[files]]
 file = "config/sanitydim/default.toml"
@@ -716,11 +702,6 @@ hash = "aed56fd5774483a69795337fc17af9695287f9e81bad576a4f607a0d2ba86b33"
 metafile = true
 
 [[files]]
-file = "mods/dependency/sophisticated-core.pw.toml"
-hash = "f83961602491ecbe0d24ee2afbe35d181d5cf65fb99b527ed59737e5c20da42f"
-metafile = true
-
-[[files]]
 file = "mods/dependency/stateobserver.pw.toml"
 hash = "6a2ae8885e6ac45f36f3b570c98d3d7952ebe2c0b0ab4fac48399b28b232ebdb"
 metafile = true
@@ -791,8 +772,8 @@ hash = "9363cd05dd71c3ac14296d15f51eda098ad5805488ead7ca7d97edfb8ff83f17"
 metafile = true
 
 [[files]]
-file = "mods/equipment/sophisticated-backpacks.pw.toml"
-hash = "ef9d19d7092027c49553cc56eed2a39c15e9ca20960a4c1eb9565eaf6d01c440"
+file = "mods/equipment/starter-kit.pw.toml"
+hash = "586d7c42b823e594b3bf9c86760e6fd478ab6732079e66a31b3a55909c4fb991"
 metafile = true
 
 [[files]]
@@ -803,6 +784,11 @@ metafile = true
 [[files]]
 file = "mods/equipment/tool-belt.pw.toml"
 hash = "e3c9f7b2fa7cf8f6dd20ad1bbcd56fac72d3f45a8b5d5d0a982f526201bc7130"
+metafile = true
+
+[[files]]
+file = "mods/equipment/travelersbackpack.pw.toml"
+hash = "b6bcf74267ac4b881fd31f0a2f5d6e6ab630b8cca45b752c2cb5d0ed53d4a938"
 metafile = true
 
 [[files]]
@@ -1022,7 +1008,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/insomniatweaks.pw.toml"
-hash = "d7dc714cb2d46883fb2ffcd00dc6f3e34d4059af5c0485c661838f1051218243"
+hash = "28c7a7e64c458866b8dc6bb93e3c55268aec31d36a12b715e1c7e0a7fdf7899e"
 metafile = true
 
 [[files]]

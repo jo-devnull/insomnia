@@ -11,7 +11,7 @@
 	#This option will hide your shield unless you are holding a weapon.
 	hideShieldUnlessHoldingWeapon = true
 	#This prevents torches from being placed from your offhand at all.
-	noOffhandTorchAtAll = true
+	noOffhandTorchAtAll = false
 	#This prevents torches from being placed from your offhand if you have a block in your main hand.
 	noOffhandTorchWithBlock = true
 	#This prevents torches from being placed from your offhand if you have food in your main hand.

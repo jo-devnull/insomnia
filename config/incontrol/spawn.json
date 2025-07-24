@@ -42,9 +42,8 @@
     "hostile": true,
     "dimension": "overworld",
     "lunar": [
-      "blood_moon",
-      "eclipse_moon",
-      "crimson_moon"
+      "enhancedcelestials:blood_moon",
+      "enhancedcelestials:eclipse_moon"
     ]
   },
   {
