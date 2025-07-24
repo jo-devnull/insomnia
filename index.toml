@@ -87,7 +87,7 @@ hash = "d4ba161e86898376bc32edd89d2baef3ed961380cef2779209c8ea9fec611939"
 
 [[files]]
 file = "config/parcool-client.toml"
-hash = "cb38087006380357694fae760dc3fa2855de5b2eb58c29c97da0228870bbc548"
+hash = "a761647ab054a756e796ec4754883bcd6d97e88123bcf8a829826fb6c0a73caf"
 preserve = true
 
 [[files]]
@@ -137,7 +137,7 @@ hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "ac1b68b8b9f3c28c41bf7b7d6cac01e6fa64f164b0cb4fc3fa0fb312355b6df0"
+hash = "6d4c549efe45ac79851d0df062908fc7b70ce335a7a6d9702cfa961a9c4b5b68"
 
 [[files]]
 file = "credits.txt"
@@ -289,7 +289,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "fea2592822855b2c92a0d8289aafef70d7bae10b5cee93cbbd85d1ba3b5e3f90"
+hash = "96126145e541737c2e2dccac9e703461f149b9c948eab987d92fe021c71c1536"
 
 [[files]]
 file = "modlist.md"
@@ -496,6 +496,11 @@ hash = "6ba37657adeb7b2954974dbd3a99cf93da506917c605f5ff5ebf9076db460b7c"
 metafile = true
 
 [[files]]
+file = "mods/dependency/corgilib.pw.toml"
+hash = "d68f01c3f7375838a4560bc99542cb3207895facfadb05ada1ecd49a923083ec"
+metafile = true
+
+[[files]]
 file = "mods/dependency/coroutil.pw.toml"
 hash = "1acfc19a797701396df4dac209d395ed8f11e2cab4c05729579d628776fbc40f"
 metafile = true
@@ -531,6 +536,11 @@ hash = "94fadcc6d98788b11d63d2017ccd51d2aa70a8ba4e73a6478c6b1e06e20ba27b"
 metafile = true
 
 [[files]]
+file = "mods/dependency/data-anchor.pw.toml"
+hash = "bc0944fd0377a9d158b381da3e1d77ad698771cab95d039f015f1371d47a4372"
+metafile = true
+
+[[files]]
 file = "mods/dependency/do-api.pw.toml"
 hash = "a56b6b69b6524f32caf357f7363676a8543eee844ab33b973b9038582c9d8fa3"
 metafile = true
@@ -543,6 +553,11 @@ metafile = true
 [[files]]
 file = "mods/dependency/entitytexturefeatures.pw.toml"
 hash = "f5923ee01db2aa51c19c68884bd681e44962bd6ef725625943556cd97cb840fd"
+metafile = true
+
+[[files]]
+file = "mods/dependency/faewulfslib.pw.toml"
+hash = "401e542f35a788f45bfe53b99d6233401a27179ff58cb15270b8306b69953154"
 metafile = true
 
 [[files]]
@@ -751,6 +766,11 @@ hash = "b0945e104e967131d667a45795b246078f8f38daf7410f8a51e758d837482ff2"
 metafile = true
 
 [[files]]
+file = "mods/equipment/measurements.pw.toml"
+hash = "f51783b8ab56bacd9728ffac2932cc015cb95b0fda7b11e83368c71a19c80bcb"
+metafile = true
+
+[[files]]
 file = "mods/equipment/more-bows-restrung.pw.toml"
 hash = "9808c609356761f828fb17be1e609103f36edeb744791a4221f2884fd5eb86d5"
 metafile = true
@@ -836,13 +856,13 @@ hash = "6db14a8cf45abd5360a737be822b620b55e535a69cb3d088d4818f802bd7e490"
 metafile = true
 
 [[files]]
-file = "mods/mechanics/irons-spells-n-spellbooks.pw.toml"
-hash = "adbdf7bdf1ccfafda76be696f8bde9d2a7ac36f699d035ff9a02609672d8576a"
+file = "mods/mechanics/enhanced-celestials.pw.toml"
+hash = "56114c2fb770ddd10c57111037d47bffe6d0c9bac006f3492f09468e173297a9"
 metafile = true
 
 [[files]]
-file = "mods/mechanics/lunar.pw.toml"
-hash = "c76f83ad4ff6b2644f6615decc1aceaee469cc27c5fb8b103ca1f7cb5eac1062"
+file = "mods/mechanics/irons-spells-n-spellbooks.pw.toml"
+hash = "adbdf7bdf1ccfafda76be696f8bde9d2a7ac36f699d035ff9a02609672d8576a"
 metafile = true
 
 [[files]]
@@ -1002,7 +1022,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/insomniatweaks.pw.toml"
-hash = "a69b3c34600fc6aa37fc5a91bce9fb6e46b61469207d4b466a688409087ca87f"
+hash = "d7dc714cb2d46883fb2ffcd00dc6f3e34d4059af5c0485c661838f1051218243"
 metafile = true
 
 [[files]]
@@ -1091,6 +1111,11 @@ hash = "f5c825f17af15693d96da83506fe030ac5cafd6777d063273e857b71edc2652d"
 metafile = true
 
 [[files]]
+file = "mods/misc/piggybacks.pw.toml"
+hash = "843169ece988a0b3fb750288da2249621d33b8af4efe4b761cf11df706052d74"
+metafile = true
+
+[[files]]
 file = "mods/misc/ping-wheel.pw.toml"
 hash = "64f0088ceed001e705bb98f3de9dfb05d53dc53cf52300ef6ba37977e9b7fb3c"
 metafile = true
@@ -1133,6 +1158,11 @@ metafile = true
 [[files]]
 file = "mods/misc/thirst-canteen.pw.toml"
 hash = "b8f6921b23b5707f2adbbab0515376dbeb4ca6fb2f76d5da6de18781faef3f73"
+metafile = true
+
+[[files]]
+file = "mods/misc/two-players-one-horse.pw.toml"
+hash = "ec13bd2b7d0d3aa2633259965a5bf6b6d7335e792ac2569c5fd8c069b81bb052"
 metafile = true
 
 [[files]]
@@ -1702,7 +1732,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "75271bc69a7d78e3cff6eb83f345aff6b55b8148dd44d05dfbaf9fb1cb1e3d7e"
+hash = "c50eb87758f7cb9e11bd012252c22f3274908671a65ad0daf44b3141938f42d9"
 preserve = true
 
 [[files]]
