@@ -44,7 +44,7 @@ caveModeToggleTimer:1000
 defaultCaveModeType:0
 biomeBlending:false
 trackedPlayers:true
-multipleImagesExport:false
+multipleImagesExport:true
 nightExport:false
 highlightsExport:false
 exportScaleDownSquare:90

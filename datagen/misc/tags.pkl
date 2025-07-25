@@ -1,5 +1,6 @@
-`data/modpack/tags/worldgen/biome/safe.json` {
+`data/modpack/tags/worldgen/biome/kinda_safe.json` {
   values {
+    "#minecraft:is_forest"
     "minecraft:meadow"
     "minecraft:plains"
     "minecraft:cherry_grove"
@@ -10,26 +11,17 @@
   }
 }
 
-`data/modpack/tags/worldgen/biome/unsafe.json` {
+`data/modpack/tags/worldgen/biome/always_unsafe.json` {
   values {
     "#minecraft:is_ocean"
     "#minecraft:is_cave"
 
-    "minecraft:dark_forest"
-    "minecraft:mushroom_fields"
-    "minecraft:desert"
-    "minecraft:badlands"
-    "minecraft:eroded_badlands"
-
-    "biomesoplenty:cold_desert"
     "biomesoplenty:dead_forest"
     "biomesoplenty:old_growth_dead_forest"
     "biomesoplenty:dryland"
     "biomesoplenty:fungal_jungle"
     "biomesoplenty:muskeg"
-    "biomesoplenty:mystic_grove"
     "biomesoplenty:ominous_woods"
-    "biomesoplenty:redwood_forest"
     "biomesoplenty:volcano"
     "biomesoplenty:volcanic_plains"
     "biomesoplenty:wasteland"
@@ -48,18 +40,7 @@
     "terralith:painted_mountains"
     "terralith:rocky_shrubland"
     "terralith:scarlet_mountains"
-    "terralith:volcanic_crater"
-    "terralith:volcanic_peaks"
     "terralith:warped_mesa"
     "terralith:white_mesa"
-  }
-}
-
-`data/modpack/tags/worldgen/structure/unsafe.json` {
-  values {
-    "minecraft:pillager_outpost"
-    "irons_spellbooks:evoker_fort"
-    "irons_spellbooks:mountain_tower"
-    "irons_spellbooks:pyromancer_tower"
   }
 }

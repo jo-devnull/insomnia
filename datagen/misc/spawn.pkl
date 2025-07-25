@@ -12,14 +12,6 @@ const deny = (default) {
   result = "deny"
 }
 
-const surfaceLevel = 54
-
-const reducedSpawns {
-  "minecraft:creeper"
-  "minecraft:drowned"
-  "minecraft:skeleton"
-}
-
 rules {
   new {
     result = "deny"
@@ -47,46 +39,29 @@ rules {
     }
   }
 
-  (deny) {
-    biometags = "modpack:safe"
-    minheight = 40
-  }
-
   (default) {
     lunar {
+      "enhancedcelestials:blood_moon"
       "enhancedcelestials:super_blood_moon"
     }
   }
 
+  
+  (deny) {
+    lunar {
+      "enhancedcelestials:blue_moon"
+    }
+    
+    minheight = 27
+  }
+
+  (deny) {
+    biometags = "modpack:kinda_safe"
+    minheight = 40
+  }
+
   (default) {
-    biometags = "modpack:unsafe"
-
-    lunar {
-      "enhancedcelestials:blood_moon"
-    }
-  }
-
-  (allow) {
-    maxheight = 50
-
-    lunar {
-      "enhancedcelestials:blood_moon"
-    }
-  }
-
-  (deny) {
-    mob { "minecraft:drowned" }
-    random = 0.75
-  }
-
-  (deny) {
-    mob = reducedSpawns
-    random = 0.6
-  }
-
-  (deny) {
-    random = 0.5
-    continue = true
+    biometags = "modpack:always_unsafe"
   }
 
   (deny) {

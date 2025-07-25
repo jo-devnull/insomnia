@@ -18,7 +18,7 @@ hash = "ba8fe1b293d95e63195417289a75c4a1976aaeab87285978dba1db22059c2e1e"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "eada0d3071498754c963a11273c350c831af5cc7855ac22c56039bb8d68bcf87"
+hash = "9c17151dbc9505e15e27d2161db7e0fb7b4108f87349b4b992550e09e5e20308"
 preserve = true
 
 [[files]]
@@ -56,7 +56,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "6bfeb1214aeaf0cbc8060b4ce05c04af44bf8011319d69fd01bd7a788d751f48"
+hash = "b79a5ffd857f393479296bfefe52a3ac41fe77c002a7d199e818d77a008917e8"
 preserve = true
 
 [[files]]
@@ -85,7 +85,7 @@ hash = "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "a3f6b85cfa19bb830374e992cea2e5605987e2d648108cca2ac2e8dc125d78f4"
+hash = "87ceb64fcb2dd86b0c2b285c0b1d29579f645c52cf9f09e3cca2e813b23a811b"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -143,7 +143,7 @@ hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "6d4c549efe45ac79851d0df062908fc7b70ce335a7a6d9702cfa961a9c4b5b68"
+hash = "a1d27e35356415a40749da1bf8dbd7954f0d890f8ed4bacefe499a85003f1814"
 
 [[files]]
 file = "credits.txt"
@@ -1627,6 +1627,11 @@ hash = "f73a462bcbf9d62b599a09e313d6c551591f150ae87ee1fa44a1479179f8c986"
 metafile = true
 
 [[files]]
+file = "mods/utilities/jei.pw.toml"
+hash = "067625372ead0f252dbd1703b03dcef13a1c110013d3da6842f3f27d94a903c9"
+metafile = true
+
+[[files]]
 file = "mods/utilities/lmft.pw.toml"
 hash = "6f0c8702e940a3067fc10f9c1cea497a81ce42be9e7e0dbd4891ae264318862e"
 metafile = true
@@ -1659,11 +1664,6 @@ metafile = true
 [[files]]
 file = "mods/utilities/sparsestructures.pw.toml"
 hash = "8d6ab7523f0ac16250d5e5609bb056971265cc8e8b713783c865d93da5e21967"
-metafile = true
-
-[[files]]
-file = "mods/utilities/tmrv.pw.toml"
-hash = "e662579bb92a565bc3231985c48759b9fb72a17449c20fc115241565b18ff1aa"
 metafile = true
 
 [[files]]
@@ -1753,7 +1753,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "db3686749d63814ce9410a068930c54344809bcbd3f7b8cf84efaf4f99e19da2"
+hash = "8ccb7e3079a373e682f2f11b569e45aa5139282f890eeb8b3ba1919c678f93dd"
 preserve = true
 
 [[files]]
@@ -1794,7 +1794,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "40a4095ada0d3c954e18323860f1353eade3bc60505f1c11e1d3f2e6ec8ec093"
+hash = "d5ae17891501e52c87d48d1209cd088f525f96e43e5857fb42238f63cdec39c7"
 
 [[files]]
 file = "resourcepacks/TZP-Reduced.zip"
