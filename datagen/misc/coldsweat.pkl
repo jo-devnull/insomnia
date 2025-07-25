@@ -1,0 +1,125 @@
+`item/insulator/alexsmobs/bear_fur` {
+  required_mods {
+    "alexsmobs"
+  }
+  
+  type = "item"
+
+  insulation {
+    heat = 0
+    cold = 2
+  }
+
+  item {
+    items {
+      "alexsmobs:bear_fur"
+    }
+  }
+
+  entity {}
+}
+
+`item/insulator/alexsmobs/kangaroo_hide` {
+  required_mods {
+    "alexsmobs"
+  }
+  
+  type = "item"
+
+  insulation {
+    heat = 3
+    cold = 0
+  }
+
+  item {
+    items {
+      "alexsmobs:kangaroo_hide"
+    }
+  }
+
+  entity {}
+}
+
+`item/insulator/alexsmobs/bison_fur` {
+  required_mods {
+    "alexsmobs"
+  }
+  
+  type = "item"
+
+  insulation {
+    heat = 0
+    cold = 3
+  }
+
+  item {
+    items {
+      "alexsmobs:bison_fur"
+    }
+  }
+
+  entity {}
+}
+
+`item/insulator/alexsmobs/crocodile_scute` {
+  required_mods {
+    "alexsmobs"
+  }
+  
+  type = "item"
+
+  insulation {
+    value = 4
+    adapt_speed = 0.0085
+  }
+
+  item {
+    items {
+      "alexsmobs:crocodile_scute"
+    }
+  }
+
+  entity {}
+}
+
+`item/insulator/irons_spellbooks/hogskin` {
+  required_mods {
+    "alexsmobs"
+  }
+  
+  type = "item"
+
+  insulation {
+    heat = 2
+    cold = 0
+  }
+
+  item {
+    items {
+      "irons_spellbooks:hogskin"
+    }
+  }
+
+  entity {}
+}
+
+`item/insulator/brazilian_expansion/iguana_skin` {
+  required_mods {
+    "brazilian_expansion"
+  }
+  
+  type = "item"
+
+  insulation {
+    value = 2
+    adapt_speed = 0.0085
+  }
+
+  item {
+    items {
+      "brazilian_expansion:iguana_skin"
+    }
+  }
+
+  entity {}
+}

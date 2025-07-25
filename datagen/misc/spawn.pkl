@@ -60,6 +60,15 @@ rules {
 
   (default) {
     biometags = "modpack:unsafe"
+
+    lunar {
+      "enhancedcelestials:blood_moon"
+    }
+  }
+
+  (allow) {
+    maxheight = 50
+
     lunar {
       "enhancedcelestials:blood_moon"
     }

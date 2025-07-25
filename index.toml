@@ -6,7 +6,7 @@ hash = "c6d5e83a56e7d7f611abb1c47ce59f1b96c6a18a3d6f49ca1f6365a48c0dd5f2"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "89a9290be73ad0a806bc04d3edb126dab52f27b8a0604bda4b633f7ec046182a"
+hash = "12a43b2f51d6e3fcc9903352eeb55167b0c27a72c5c4729378f89b1ab819a5e0"
 
 [[files]]
 file = "config/biome_replacer.properties"
@@ -26,13 +26,37 @@ file = "config/clienttweaks-common.toml"
 hash = "f6a538fbda329bea19292131ca13165c49895261f59afccd33374cc974a21b35"
 
 [[files]]
+file = "config/coldsweat/client.toml"
+hash = "1e192d5f31103703fc2f7f574a2fb8a7c99b496030ac9b101a2c1e63a3e9119b"
+
+[[files]]
+file = "config/coldsweat/disabled_mods.txt"
+hash = "ba113e5910eb54f230affbbf638aee153b3d3b0d4d920f6df44d309b57fdc36a"
+
+[[files]]
+file = "config/coldsweat/entity.toml"
+hash = "9132bca3d0fa1209525217428a4586924e6251527173667cff52cd20f92b9822"
+
+[[files]]
+file = "config/coldsweat/item.toml"
+hash = "fb0e7ec9519d900d4b8bb8eae97eed93ef4d89601ec8b6860dc17347a86afca5"
+
+[[files]]
+file = "config/coldsweat/main.toml"
+hash = "f7e6731b2df8e6df0f68a66a0b650d27256785827102de91f6ddd663b00160ac"
+
+[[files]]
+file = "config/coldsweat/world.toml"
+hash = "1fe71e7a66c9b3342ad1791539b86d083867a6c124a8bb07771c9953400fb246"
+
+[[files]]
 file = "config/embeddium-options.json"
 hash = "77bbc0fab2fc59f5b1882c3a1f535ad41c3133bb47a18b2dbebd751f44de23c8"
 preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "b79a5ffd857f393479296bfefe52a3ac41fe77c002a7d199e818d77a008917e8"
+hash = "6bfeb1214aeaf0cbc8060b4ce05c04af44bf8011319d69fd01bd7a788d751f48"
 preserve = true
 
 [[files]]
@@ -61,7 +85,7 @@ hash = "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "7f12f15eb5b4b61dd0810c494410a9666ff089d584fba256936a886907da3d19"
+hash = "a3f6b85cfa19bb830374e992cea2e5605987e2d648108cca2ac2e8dc125d78f4"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -100,10 +124,6 @@ hash = "e75f2257cdb937f249836879fe27270f2de95edbc842ef09b80755a198190f21"
 [[files]]
 file = "config/sanitydim/dimension/example.toml"
 hash = "d1a64dd1237d7f7424a3006f22a2a06f6a578983d997474f600563c1164c9c03"
-
-[[files]]
-file = "config/structurify.json"
-hash = "eead7f548049a7cd8defee57495c998634338f0074a2843cea5bc355c2df9c7b"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -1733,7 +1753,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c32a9639b27dfd57a603457738a2801e7b4ad90d9b86f4496b5379ed326664ba"
+hash = "db3686749d63814ce9410a068930c54344809bcbd3f7b8cf84efaf4f99e19da2"
 preserve = true
 
 [[files]]
@@ -1774,7 +1794,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "d559c46d1db16cdf38648142229fda33986dab419862d1a753f16251361a357b"
+hash = "40a4095ada0d3c954e18323860f1353eade3bc60505f1c11e1d3f2e6ec8ec093"
 
 [[files]]
 file = "resourcepacks/TZP-Reduced.zip"

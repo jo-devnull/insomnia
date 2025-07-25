@@ -8,7 +8,7 @@
   }
 
   key {
-    s { item = "samurai_dynasty:steel_ingot" }
+    s { item = "create:brass_ingot" }
     w { item = "hangglider:glider_wing" }
     F { item = "hangglider:glider_framework" }
   }
@@ -31,12 +31,32 @@
   }
 
   key {
-    `=` { item = "samurai_dynasty:steel_ingot" }
+    `=` { item = "create:brass_ingot" }
     `#` { item = "minecraft:iron_ingot" }
   }
 
   result {
     item = "hangglider:glider_framework"
+  }
+
+  show_notification = true
+}
+
+`data/mace_backport/recipes/mace_crafting_recipe.json` {
+  type = "minecraft:crafting_shaped"
+
+  pattern {
+    " # "
+    " / "
+  }
+
+  key {
+    `#` { item = "create_ironworks:steel_block" }
+    `/` { item = "create_aquatic_ambitions:prismarine_alloy_rod" }
+  }
+
+  result {
+    item = "mace_backport:mace"
   }
 
   show_notification = true

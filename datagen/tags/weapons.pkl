@@ -48,3 +48,7 @@ samurai_dynasty {
   "kama_netherite"
   "sai_netherite"
 }
+
+mace_backport {
+  "mace"
+}

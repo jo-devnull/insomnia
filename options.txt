@@ -6,7 +6,7 @@ autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:true
+enableVsync:false
 entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
@@ -54,7 +54,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -193,7 +193,8 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
-key_key.relics.ability_list:key.keyboard.left.alt
+key_placebo.toggleTrails:key.keyboard.keypad.9
+key_placebo.toggleWings:key.keyboard.keypad.8
 key_key.carry.desc:key.keyboard.left.alt
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
@@ -216,9 +217,9 @@ key_key.mdf.c_action:key.keyboard.unknown
 key_key.mdf.v_action:key.keyboard.unknown
 key_key.mdf.r_action:key.keyboard.unknown
 key_key.mdf.blessing_menu:key.keyboard.unknown
-key_key.inventorysorter.sort:key.mouse.middle
-key_key.inventorysorter.itemin:key.mouse.100
 key_key.inventorysorter.itemout:key.mouse.102
+key_key.inventorysorter.itemin:key.mouse.100
+key_key.inventorysorter.sort:key.mouse.middle
 key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt
 key_key.tacz.inspect.desc:key.keyboard.h
 key_key.tacz.reload.desc:key.keyboard.r
@@ -295,8 +296,8 @@ key_key.irons_spellbooks.spell_quick_cast_13:key.keyboard.unknown
 key_key.irons_spellbooks.spell_quick_cast_14:key.keyboard.unknown
 key_key.irons_spellbooks.spell_quick_cast_15:key.keyboard.unknown
 key_key.pickup.item:key.keyboard.unknown
-soundCategory_master:0.8028169014084507
-soundCategory_music:0.0
+soundCategory_master:0.8098591549295775
+soundCategory_music:0.20892018779342736
 soundCategory_record:1.0
 soundCategory_weather:0.6056338028169014
 soundCategory_block:1.0

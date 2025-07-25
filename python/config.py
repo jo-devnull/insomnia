@@ -14,6 +14,7 @@ sources = [
     "resourcepacks/@InsomniaUI/",
     "resourcepacks/@insomnia.zip",
 
+    "config/coldsweat/",
     "config/almostunified/**/*.json",
     "config/rootoffear/**/*.toml",
     "config/incontrol/**/*.json",
@@ -36,7 +37,6 @@ sources = [
 
 def link_file(path: Path, target: Path):
     if target.exists(follow_symlinks=False):
-        print(f'File {target} already exists. Removing...')
         target.unlink()
 
     print(f"linking file: {target}")
@@ -45,7 +45,6 @@ def link_file(path: Path, target: Path):
 
 def link_dir(path: Path, target: Path):
     if target.exists(follow_symlinks=False):
-        print(f'Directory {target} already exists. Removing...')
         if target.is_symlink():
             target.unlink()
         else:

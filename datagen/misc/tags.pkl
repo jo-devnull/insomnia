@@ -1,6 +1,4 @@
-safeBiomes {
-  path = "worldgen/biome/safe"
-
+`data/modpack/tags/worldgen/biome/safe.json` {
   values {
     "minecraft:meadow"
     "minecraft:plains"
@@ -12,9 +10,7 @@ safeBiomes {
   }
 }
 
-unsafeBiomes {
-  path = "worldgen/biome/unsafe"
-
+`data/modpack/tags/worldgen/biome/unsafe.json` {
   values {
     "#minecraft:is_ocean"
     "#minecraft:is_cave"
@@ -59,15 +55,11 @@ unsafeBiomes {
   }
 }
 
-unsafeStructures {
-  path = "worldgen/structure/unsafe"
-
+`data/modpack/tags/worldgen/structure/unsafe.json` {
   values {
     "minecraft:pillager_outpost"
-    
     "irons_spellbooks:evoker_fort"
     "irons_spellbooks:mountain_tower"
     "irons_spellbooks:pyromancer_tower"
   }
 }
-

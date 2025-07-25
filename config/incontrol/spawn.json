@@ -55,6 +55,15 @@
     ]
   },
   {
+    "result": "allow",
+    "hostile": true,
+    "dimension": "overworld",
+    "maxheight": 50,
+    "lunar": [
+      "enhancedcelestials:blood_moon"
+    ]
+  },
+  {
     "result": "deny",
     "hostile": true,
     "dimension": "overworld",

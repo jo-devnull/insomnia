@@ -18,6 +18,7 @@ minecraft {
   "glow_item_frame"
   "painting"
   "#forge:heads"
+  "#forge:chimneys"
 }
 
 create {
@@ -66,4 +67,13 @@ redeco {
     "\(color)_fluffy_carpet"
     "\(color)_awning"
   }
+}
+
+chimes {
+  "bamboo_chimes"
+  "iron_chimes"
+  "carved_bamboo_chimes"
+  "copper_chimes"
+  "amethyst_chimes"
+  "glass_bells"
 }

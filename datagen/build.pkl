@@ -59,13 +59,16 @@ function buildTags() = new Mapping<String, FileOutput> {
 
 function buildMisc() = new Mapping<String, FileOutput> {
   for (key, tag in import("misc/tags.pkl").toMap()) {
-    ["\(path.data)/modpack/tags/\(tag.path).json"] = (json) {
-      value {
-        replace = false
-        values = tag.values
+      when (key.contains("/")) {
+        ["./resourcepacks/@insomnia/\(key)"] = (json) {
+          value = tag
+        }
+      } else {
+        ["\(path.data)/modpack/tags/\(key).json"] = (json) {
+          value = tag
+        }
       }
     }
-  }
 }
 
 function buildRecipes() = new Mapping<String, FileOutput> {
@@ -84,6 +87,14 @@ function buildRecipes() = new Mapping<String, FileOutput> {
   }
 }
 
+function buildColdsweat() = new Mapping<String, FileOutput> {
+  for (key, val in import("misc/coldsweat.pkl").toMap()) {
+    ["\(path.data)/modpack/cold_sweat/\(key).json"] = (json) {
+        value = val
+      }
+  }
+}
+
 output {
   files {
     ...buildEmi()
@@ -91,6 +102,7 @@ output {
     ...buildLang()
     ...buildMisc()
     ...buildRecipes()
+    ...buildColdsweat()
 
     ["./config/incontrol/spawn.json"] = (json) {
       value = import("misc/spawn.pkl").rules
