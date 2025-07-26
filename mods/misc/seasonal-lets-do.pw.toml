@@ -1,6 +1,6 @@
 name = "Seasonal Let's Do"
 filename = "../seasonal_lets_do-forge-1.2.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/yFIPn94r/versions/ZmTFYQF1/seasonal_lets_do-forge-1.2.0.jar"
