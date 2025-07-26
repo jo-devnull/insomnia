@@ -47,7 +47,11 @@ import crafttweaker.api.item.ItemDefinition;
   <entitytype:all_bark_all_bite:dog>,
   <entitytype:minecraft:horse>,
   <entitytype:alexsmobs:crow>,
-  <entitytype:alexsmobs:raccoon>
+  <entitytype:alexsmobs:raccoon>,
+  <entitytype:alexsmobs:raccoon>,
+  <entitytype:cataclysm_spellbooks:summoned_amethyst_crab>,
+  <entitytype:cataclysm_spellbooks:summoned_aptrgangr>,
+  <entitytype:cataclysm_spellbooks:summoned_coral_golem>
 );
 
 <tag:entity_types:friendlyfire:player_protection>.add(

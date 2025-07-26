@@ -1,4 +1,308 @@
 {
+  "favorites": [
+    {
+      "stack": "#item:category:functional_blocks"
+    },
+    {
+      "stack": "#item:category:cooking"
+    },
+    {
+      "stack": "#item:category:foods"
+    },
+    {
+      "stack": "#item:category:brewing"
+    },
+    {
+      "stack": "#item:category:basic_tools"
+    },
+    {
+      "stack": "#item:category:heavy_tools"
+    },
+    {
+      "stack": "#item:category:weapons"
+    },
+    {
+      "stack": "#item:category:armor"
+    },
+    {
+      "stack": "#item:category:guns"
+    },
+    {
+      "stack": "#item:category:enchanting"
+    },
+    {
+      "stack": "#item:category:witchcraft"
+    },
+    {
+      "stack": "#item:category:furniture"
+    },
+    {
+      "stack": "#item:category:decoration"
+    },
+    {
+      "stack": "#item:category:block_decoration"
+    },
+    {
+      "stack": "#item:category:storage"
+    },
+    {
+      "stack": "#item:category:engineering"
+    },
+    {
+      "stack": "#item:category:carpentry"
+    },
+    {
+      "stack": "#item:category:masonry"
+    },
+    {
+      "stack": "#item:category:metalworking"
+    },
+    {
+      "stack": "#item:category:farming"
+    },
+    {
+      "stack": "#item:category:archery"
+    },
+    {
+      "stack": "#item:category:fishing"
+    },
+    {
+      "stack": "#item:category:transport"
+    }
+  ],
+  "lookup_history": [
+    "item:create_ironworks:iron_paxel{Damage:126}",
+    "item:minecraft:soul_soil",
+    "item:minecraft:soul_sand",
+    "item:meadow:enzian",
+    "item:meadow:eriophorum",
+    "item:meadow:fire_lily",
+    "item:minecraft:scute",
+    {
+      "type": "item",
+      "id": "notreepunching:andesite_loose_rock",
+      "amount": 5
+    },
+    "item:irons_spellbooks:mana_ring",
+    "item:irons_spellbooks:arcane_ingot",
+    "item:irons_spellbooks:divine_pearl",
+    "item:irons_spellbooks:scroll{ISB_Spells:{data:[{id:\"traveloptics:nullflare\",index:0,level:5,locked:1b}],maxSpells:1,mustEquip:0b,spellWheel:0b}}",
+    "item:travelersbackpack:tanks_upgrade",
+    "item:travelersbackpack:backpack_tank",
+    "item:travelersbackpack:wolf{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]}}",
+    "item:travelersbackpack:bee{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]}}",
+    "item:travelersbackpack:chicken{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]}}",
+    "item:travelersbackpack:squid{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]}}",
+    "item:travelersbackpack:pig{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]}}",
+    "item:travelersbackpack:cow{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]}}",
+    "item:travelersbackpack:fox{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]}}",
+    "item:travelersbackpack:horse{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]}}",
+    "item:toolbelt:pouch",
+    "item:toolbelt:belt",
+    "item:travelersbackpack:netherite{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]}}",
+    "item:travelersbackpack:cake{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]}}",
+    "item:travelersbackpack:quartz{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]}}",
+    "item:travelersbackpack:coal{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]}}",
+    "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]}}",
+    "item:minecraft:hopper",
+    "item:minecraft:composter",
+    {
+      "type": "item",
+      "id": "immersive_weathering:spruce_bark",
+      "amount": 32
+    },
+    "item:morebows:iron_bow{Damage:0}",
+    "item:morebows:stone_bow{Damage:0}",
+    "item:morebows:ender_bow{Damage:0}",
+    "item:alexscaves:dreadbow{Damage:0}",
+    "item:cataclysm:cursed_bow",
+    "item:benssharks:maelstrom_bow{Damage:0}",
+    "item:aquaculture:neptunium_bow{Damage:0}",
+    "item:morebows:frost_bow{Damage:0}",
+    "item:morebows:flame_bow{Damage:0}",
+    "item:morebows:multi_bow{Damage:0}",
+    "item:minecraft:enchanting_table",
+    "item:minecraft:chiseled_bookshelf",
+    "item:farmersdelight:spruce_cabinet",
+    "item:minecraft:spruce_trapdoor",
+    "item:farmersdelight:oak_cabinet",
+    "item:storagedelight:oak_drawer",
+    {
+      "type": "item",
+      "id": "minecraft:glow_ink_sac",
+      "amount": 3
+    },
+    "item:minecraft:bundle{Items:[{Count:1b,id:\"alexsmobs:guster_eye\"},{Count:1b,id:\"travelersbackpack:blank_upgrade\"},{Count:3b,id:\"minecraft:glow_ink_sac\"},{Count:5b,id:\"betterarcheology:artifact_shards\"},{Count:1b,id:\"irons_spellbooks:scroll\",tag:{ISB_Spells:{data:[{id:\"irons_spellbooks:ball_lightning\",index:0,level:3,locked:1b}],maxSpells:1,mustEquip:0b,spellWheel:0b}}},{Count:1b,id:\"minecraft:poisonous_potato\"},{Count:3b,id:\"minecraft:ender_pearl\"},{Count:1b,id:\"irons_spellbooks:scroll\",tag:{ISB_Spells:{data:[{id:\"irons_spellbooks:chain_creeper\",index:0,level:1,locked:1b}],maxSpells:1,mustEquip:0b,spellWheel:0b}}},{Count:1b,id:\"irons_spellbooks:scroll\",tag:{ISB_Spells:{data:[{id:\"irons_spellbooks:chain_lightning\",index:0,level:3,locked:1b}],maxSpells:1,mustEquip:0b,spellWheel:0b}}},{Count:1b,id:\"minecraft:name_tag\"},{Count:1b,id:\"simplyswords:runic_tablet\"}]}",
+    "item:disenchanting_table:disenchanting_table",
+    {
+      "type": "item",
+      "id": "benssharks:shark_fin",
+      "amount": 3
+    },
+    {
+      "type": "item",
+      "id": "minecraft:experience_bottle",
+      "amount": 5
+    },
+    "item:minecraft:writable_book",
+    "item:betterarcheology:artifact_shards",
+    "item:minecraft:clock",
+    {
+      "type": "item",
+      "id": "minecraft:quartz",
+      "amount": 9
+    },
+    "item:minecraft:rabbit_foot",
+    {
+      "type": "item",
+      "id": "minecraft:phantom_membrane",
+      "amount": 4
+    },
+    "item:alexsmobs:guster_eye",
+    "item:betterarcheology:iron_brush{Damage:0}",
+    "item:minecraft:heart_of_the_sea",
+    "item:minecraft:conduit",
+    {
+      "type": "item",
+      "id": "minecraft:hay_block",
+      "amount": 6
+    },
+    {
+      "type": "item",
+      "id": "farm_and_charm:corn",
+      "amount": 36
+    },
+    "item:create:goggles",
+    "item:minecraft:chainmail_chestplate{Damage:107,insulation:[]}",
+    "item:alexsmobs:kangaroo_hide",
+    "item:createdeco:iron_support_wedge",
+    "item:createdeco:brass_support_wedge",
+    "item:createdeco:andesite_support_wedge",
+    "item:createdeco:industrial_iron_ingot",
+    "item:create:industrial_iron_block",
+    "item:create:industrial_iron_window",
+    "item:create:industrial_iron_window_pane",
+    "item:immersive_weathering:stone_brick",
+    "item:minecraft:cracked_stone_bricks",
+    "item:sootychimneys:brick_chimney",
+    "item:immersive_weathering:cracked_brick_wall",
+    {
+      "type": "item",
+      "id": "minecraft:brick_wall",
+      "amount": 10
+    },
+    "item:minecraft:bricks",
+    "item:notreepunching:clay_brick",
+    "item:minecraft:brick",
+    "item:minecraft:iron_bars",
+    "item:immersive_weathering:waxed_iron_bars",
+    "item:copycats:copycat_slab",
+    "item:petrolsparts:double_cardan_shaft",
+    "item:create:depot",
+    "item:create:encased_fan",
+    "item:copycats:copycat_half_panel",
+    {
+      "type": "item",
+      "id": "copycats:copycat_trapdoor",
+      "amount": 4
+    },
+    "item:immersive_weathering:cracked_brick_stairs",
+    "item:copycats:copycat_board",
+    "item:create:gearbox",
+    "item:create:propeller",
+    "item:create:metal_bracket",
+    "item:create:vertical_gearbox",
+    "item:create:encased_chain_drive",
+    "item:create:mechanical_mixer",
+    "item:create:whisk",
+    "item:create:mechanical_press",
+    "item:create:wrench",
+    "item:create:large_water_wheel",
+    "item:create:water_wheel",
+    "item:create:brass_ingot",
+    "item:create:brass_block",
+    "item:createdieselgenerators:diesel_engine",
+    "item:minecraft:stone",
+    "item:minecraft:stone_bricks"
+  ],
+  "craft_history": [
+    "minecraft:iron_helmet",
+    "minecraft:iron_leggings",
+    "minecraft:iron_boots",
+    "better_campfires:firewood",
+    "minecraft:fishing_rod",
+    "create_ironworks:tools/paxel/iron",
+    "irons_spellbooks:mana_ring",
+    "irons_spellbooks:arcane_ingot",
+    "travelersbackpack:wolf",
+    "notreepunching:iron_saw",
+    "toolbelt:pouch",
+    "toolbelt:belt",
+    "minecraft:hopper",
+    "minecraft:chest",
+    "minecraft:composter",
+    "morebows:iron_bow",
+    "minecraft:iron_ingot_from_nuggets",
+    "minecraft:chiseled_bookshelf",
+    "farmersdelight:spruce_cabinet",
+    "crafting:bundle",
+    "minecraft:emerald",
+    "minecraft:gold_ingot_from_gold_block",
+    "minecraft:torch",
+    "minecraft:bow",
+    "notreepunching:leather_from_chestplate_with_knife",
+    "notreepunching:leather_from_helmet_with_knife",
+    "minecraft:furnace",
+    "minecraft:crafting_table",
+    "notreepunching:sticks_from_logs_with_saw",
+    "minecraft:glass_bottle",
+    "minecraft:spruce_boat",
+    "minecraft:bread",
+    "create:crafting/kinetics/goggles",
+    "travelersbackpack:gold_tier_upgrade",
+    "createdeco:iron_support_wedge",
+    "immersive_weathering:stone_bricks_from_brick",
+    "minecraft:brick_chimney",
+    "minecraft:bricks",
+    "notreepunching:clay_brick_from_blocks",
+    "notreepunching:clay_tool",
+    "minecraft:iron_bars",
+    "create:crafting/kinetics/belt_connector",
+    "petrolsparts:crafting/double_cardan_shaft_4",
+    "petrolsparts:crafting/double_cardan_shaft_3",
+    "petrolsparts:crafting/double_cardan_shaft_2",
+    "create:crafting/kinetics/depot",
+    "create:crafting/kinetics/gearbox",
+    "create:crafting/kinetics/cogwheel",
+    "create:crafting/kinetics/encased_fan",
+    "create:crafting/kinetics/propeller",
+    "create:crafting/kinetics/basin",
+    "create:crafting/kinetics/metal_bracket",
+    "minecraft:iron_nugget",
+    "create:crafting/kinetics/vertical_gearbox",
+    "create:crafting/kinetics/encased_chain_drive",
+    "create:crafting/kinetics/mechanical_mixer",
+    "minecraft:iron_ingot_from_iron_block",
+    "minecraft:iron_block",
+    "create:crafting/kinetics/whisk",
+    "create:crafting/kinetics/wrench",
+    "create:crafting/kinetics/large_cogwheel_from_little",
+    "create:crafting/kinetics/shaft",
+    "create:crafting/kinetics/hand_crank",
+    "create:crafting/kinetics/mechanical_press",
+    "create:crafting/materials/zinc_ingot_from_compacting",
+    "create:crafting/materials/andesite_alloy_from_zinc",
+    "create:crafting/materials/zinc_nugget_from_decompacting",
+    "minecraft:iron_shovel",
+    "create:crafting/kinetics/large_water_wheel",
+    "create:crafting/kinetics/water_wheel"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
   "hidden_stacks": [
     "item:minecraft:goat_horn{instrument:\"minecraft:sing_goat_horn\"}",
     "item:minecraft:goat_horn{instrument:\"minecraft:seek_goat_horn\"}",
@@ -116,77 +420,17 @@
     "item:tacz:modern_kinetic_gun{GunCurrentAmmoCount:30,GunFireMode:\"AUTO\",GunId:\"tacz:minigun\",HasBulletInBarrel:1b}",
     "item:tacz:modern_kinetic_gun{GunCurrentAmmoCount:75,GunFireMode:\"AUTO\",GunId:\"tacz:m249\",HasBulletInBarrel:1b}",
     "item:tacz:modern_kinetic_gun{GunCurrentAmmoCount:1,GunFireMode:\"SEMI\",GunId:\"tacz:rpg7\",HasBulletInBarrel:1b}",
-    "item:create:copper_backtank"
-  ],
-  "favorites": [
-    {
-      "stack": "#item:category:functional_blocks"
-    },
-    {
-      "stack": "#item:category:cooking"
-    },
-    {
-      "stack": "#item:category:foods"
-    },
-    {
-      "stack": "#item:category:brewing"
-    },
-    {
-      "stack": "#item:category:basic_tools"
-    },
-    {
-      "stack": "#item:category:heavy_tools"
-    },
-    {
-      "stack": "#item:category:weapons"
-    },
-    {
-      "stack": "#item:category:armor"
-    },
-    {
-      "stack": "#item:category:guns"
-    },
-    {
-      "stack": "#item:category:enchanting"
-    },
-    {
-      "stack": "#item:category:witchcraft"
-    },
-    {
-      "stack": "#item:category:furniture"
-    },
-    {
-      "stack": "#item:category:decoration"
-    },
-    {
-      "stack": "#item:category:block_decoration"
-    },
-    {
-      "stack": "#item:category:storage"
-    },
-    {
-      "stack": "#item:category:engineering"
-    },
-    {
-      "stack": "#item:category:carpentry"
-    },
-    {
-      "stack": "#item:category:masonry"
-    },
-    {
-      "stack": "#item:category:metalworking"
-    },
-    {
-      "stack": "#item:category:farming"
-    },
-    {
-      "stack": "#item:category:archery"
-    },
-    {
-      "stack": "#item:category:fishing"
-    },
-    {
-      "stack": "#item:category:transport"
-    }
+    "item:create:copper_backtank",
+    "item:brazilian_expansion:falconry_glove",
+    "item:brazilian_expansion:potted_cattleya",
+    "item:brazilian_expansion:potted_orchid",
+    "item:brazilian_expansion:potted_snapdragon",
+    "item:brazilian_expansion:potted_samauma",
+    "item:brazilian_expansion:potted_chestnut",
+    "item:brazilian_expansion:tame_capivara_icon",
+    "item:brazilian_expansion:electric_eel_icon",
+    "item:brazilian_expansion:stingray_icon",
+    "item:brazilian_expansion:potted_cupuacu",
+    "item:brazilian_expansion:potted_acai"
   ]
 }

@@ -1,0 +1,15 @@
+name = "insomnia-tweaks"
+filename = "../insomnia-0.2.7-BETA.jar"
+side = "both"
+
+[download]
+url = "https://github.com/jo-devnull/insomnia-tweaks/releases/download/v0.2.7-BETA/insomnia-0.2.7-BETA.jar"
+hash-format = "sha256"
+hash = "2e407e743631a0e62e3f499641d59ca4ede5d1b963cadcad14c0e749ad4e059f"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "jo-devnull/insomnia-tweaks"
+tag = "v0.2.7-BETA"

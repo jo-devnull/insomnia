@@ -56,7 +56,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "b79a5ffd857f393479296bfefe52a3ac41fe77c002a7d199e818d77a008917e8"
+hash = "7b7622b915e04b4767cc62e7aba54edf9c8c66345facc2803a9c7cb1743fcf51"
 preserve = true
 
 [[files]]
@@ -131,7 +131,7 @@ hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "d230241eda214a5a67d95401ae42d8eaec4b04137d0707588826d46f5075caa4"
+hash = "beeaed48c66555ef80d0e2b61836b68f3c39968be2ec802005315ef2f488f029"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
@@ -295,7 +295,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "76996dcaacdb8592101e632ab7baa89894ea72d82f7a5173aa5e55a1bb3c83d1"
+hash = "5d3f76d5afc1ea01eec147ad24f7a43de2f3ded5c16ae8131639d199b87bb3e5"
 
 [[files]]
 file = "modlist.md"
@@ -1037,8 +1037,8 @@ hash = "d27f3fe7da40ac6be06d617228c5d7901024e995656f84143d71133c7fc58ea9"
 metafile = true
 
 [[files]]
-file = "mods/misc/insomniatweaks.pw.toml"
-hash = "28c7a7e64c458866b8dc6bb93e3c55268aec31d36a12b715e1c7e0a7fdf7899e"
+file = "mods/misc/insomnia-tweaks.pw.toml"
+hash = "9c310b889081e07df55d806b06b00a6461a450a5d480e05574e650c71f738319"
 metafile = true
 
 [[files]]
@@ -1753,7 +1753,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "8ccb7e3079a373e682f2f11b569e45aa5139282f890eeb8b3ba1919c678f93dd"
+hash = "bdc3bb06dab2f4d219d584657f4c9bc84fdea79fd6cc7a85699852d77a47e644"
 preserve = true
 
 [[files]]
@@ -1903,7 +1903,7 @@ hash = "0f80ad04cdeb8eb264425833867bd1c20e35e1aa5e8289e501a35542d99ce274"
 
 [[files]]
 file = "scripts/tags.zs"
-hash = "f9eb186fe80c2605061312bdb39dacc16881bc324e5e213c4e8779032c352d62"
+hash = "f37824406b172ef300912cde4e6b0611fb22b1db83eae00a6fe5f55faef36f68"
 
 [[files]]
 file = "seeds.txt"

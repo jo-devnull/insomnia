@@ -39,8 +39,8 @@ showFlowers:true
 keepWaypointNames:true
 waypointsDistanceExp:0
 waypointsDistanceMin:0.0
-defaultWaypointTPCommandFormat:/tp @s {x} {y} {z}
-defaultWaypointTPCommandRotationFormat:/tp @s {x} {y} {z} {yaw} ~
+defaultWaypointTPCommandFormat:/none
+defaultWaypointTPCommandRotationFormat:/none
 arrowScale:1.5
 arrowColour:0
 smoothDots:true
