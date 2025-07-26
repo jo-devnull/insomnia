@@ -29,36 +29,6 @@ import crafttweaker.api.item.ItemDefinition;
 <tag:items:notreepunching:weak_saws>
   .add(<tag:items:minecraft:axes>);
 
-<tag:items:notreepunching:mattocks>.add(
-  <item:create_ironworks:copper_paxel>,
-  <item:create_ironworks:gold_paxel>,
-  <item:create_ironworks:iron_paxel>,
-  <item:create_ironworks:bronze_paxel>,
-  <item:create_ironworks:brass_paxel>,
-  <item:create_ironworks:steel_paxel>,
-  <item:create_ironworks:diamond_paxel>,
-  <item:create_ironworks:netherite_paxel>
-);
-
-<tag:entity_types:friendlyfire:player_protection>.add(
-  <entitytype:minecraft:player>,
-  <entitytype:minecraft:villager>,
-  <entitytype:minecraft:iron_golem>,
-  <entitytype:all_bark_all_bite:dog>,
-  <entitytype:minecraft:horse>,
-  <entitytype:alexsmobs:crow>,
-  <entitytype:alexsmobs:raccoon>,
-  <entitytype:alexsmobs:raccoon>,
-  <entitytype:cataclysm_spellbooks:summoned_amethyst_crab>,
-  <entitytype:cataclysm_spellbooks:summoned_aptrgangr>,
-  <entitytype:cataclysm_spellbooks:summoned_coral_golem>
-);
-
-<tag:entity_types:friendlyfire:player_protection>.add(
-  <tag:entity_types:migamigos:amigo>,
-  <tag:entity_types:irons_spellbooks:summons>
-);
-
 <tag:entity_types:migamigos:undead>.add(
   <entitytype:undeadnights:horde_zombie>,
   <entitytype:undeadnights:demolition_zombie>

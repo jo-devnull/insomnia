@@ -44,3 +44,78 @@
     "terralith:white_mesa"
   }
 }
+
+`data/friendlyfire/tags/entity_types/player_protection.json` {
+  replace = false
+
+  values {
+    "#migamigos:amigo"
+    "#irons_spellbooks:summons"
+
+    "minecraft:allay"
+    "minecraft:wolf"
+    "minecraft:parrot"
+    "minecraft:panda"
+    "minecraft:player"
+    "minecraft:villager"
+    "minecraft:iron_golem"
+    "minecraft:horse"
+    "minecraft:axolotl"
+    "minecraft:bee"
+    "minecraft:cat"
+    "minecraft:camel"
+    "minecraft:chicken"
+    "minecraft:cow"
+    "minecraft:dolphin"
+    "minecraft:donkey"
+    "minecraft:fox"
+    "minecraft:frog"
+    "minecraft:goat"
+    "minecraft:llama"
+    "minecraft:wandering_trader"
+    "minecraft:mule"
+    "minecraft:pig"
+    "minecraft:rabbit"
+    "minecraft:sheep"
+    "minecraft:sniffer"
+    "minecraft:snow_golem"
+    "minecraft:tadpole"
+    "minecraft:turtle"
+
+    "all_bark_all_bite:dog"
+    
+    "alexsmobs:crow"
+    "alexsmobs:raccoon"
+    "alexsmobs:bald_eagle"
+    "alexsmobs:flutter"
+    "alexsmobs:gorilla"
+    "alexsmobs:hummingbird"
+    "alexsmobs:komodo_dragon"
+    "alexsmobs:leafcutter_ant"
+    "alexsmobs:mantis_shrimp"
+    "alexsmobs:mimic_octopus"
+    "alexsmobs:moose"
+    "alexsmobs:orca"
+    "alexsmobs:platypus"
+    "alexsmobs:rain_frog"
+    "alexsmobs:rhinoceros"
+    "alexsmobs:seal"
+    "alexsmobs:sunbird"
+    "alexsmobs:tasmanian_devil"
+    "alexsmobs:toucan"
+
+    "untitledduckmod:duck"
+    "untitledduckmod:goose"
+
+    "crittersandcompanions:dragonfly"
+    "crittersandcompanions:dumbo_octopus"
+    "crittersandcompanions:ferret"
+    "crittersandcompanions:jumping_spider"
+    "crittersandcompanions:red_panda"
+    "crittersandcompanions:otter"
+
+    "cataclysm_spellbooks:summoned_amethyst_crab"
+    "cataclysm_spellbooks:summoned_aptrgangr"
+    "cataclysm_spellbooks:summoned_coral_gole"
+  }
+}

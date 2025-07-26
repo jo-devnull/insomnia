@@ -24,6 +24,10 @@ rules {
       "alexscaves"
       "benssharks"
       "aquamirae"
+      "mowziesmobs"
+      "cataclysm"
+      "cataclysm_spellbooks"
+      "traveloptics"
     }
   }
 
