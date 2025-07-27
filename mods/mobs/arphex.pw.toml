@@ -1,13 +1,13 @@
 name = "Arthropod Phobia Expansions + Horror Bosses (Spiders, Arachnophobia)"
-filename = "../ArPhEx-4.6-forge-1.20.1.jar"
+filename = "../ArPhEx-4.5.5-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "aab223c63c6dff077c5439c7afeca355b79e7028"
+hash = "f711369ba5c7a0f4542710f6d4f679812258214d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6807953
+file-id = 6701116
 project-id = 967672

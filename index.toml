@@ -271,7 +271,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "b6f81b00ca8c3aabaf5f9c8ec3d547f71ba9d16dfcec1ab5ec576435b9eaf410"
+hash = "b6ea4dbca84c259dbe5dfde060cdc22b67cf609c2bad3e787266cafb96fe87f0"
 
 [[files]]
 file = "modlist.md"
@@ -343,11 +343,6 @@ hash = "da6099920705651b1287347fc49b223d178294f2972d156f2c8ccf217e01ec5d"
 metafile = true
 
 [[files]]
-file = "mods/decoration/continuity.pw.toml"
-hash = "0efc0f9068bb045b10a7f6fe1ff1c536fe9c5016acc56cd905d936b24b4194cc"
-metafile = true
-
-[[files]]
 file = "mods/decoration/create-deco.pw.toml"
 hash = "6a0bea26ce3b8059e6fc2aa52aff59e33e6e508240b992a77667449bc8198d38"
 metafile = true
@@ -384,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/decoration/polytone.pw.toml"
-hash = "8b3bb020f5cbcfd2a62a9e31c59fed2575771622e361aff86b3b25b8278f3c49"
+hash = "3463e9d165a7bae069aa991ee3a92a18e434649da01592a021531d45f4a67265"
 metafile = true
 
 [[files]]
@@ -424,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/decoration/visual-workbench.pw.toml"
-hash = "07ce56f1b08eb940528df1f201d746deba0d1baa9f78116b76e640bf9b246f96"
+hash = "0656bf0e828c3de761c373b87455e1aa3ebad8eda995a132c2757cade776a185"
 metafile = true
 
 [[files]]
@@ -439,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/azurelib.pw.toml"
-hash = "bd268598484403281ad09d1ec5ba9b685ac743d02d43edd034aa8885e06d4a04"
+hash = "71b012b3ca18138c8e357c164cf0f33832a2f4061743924690afd4c86076b598"
 metafile = true
 
 [[files]]
@@ -558,11 +553,6 @@ hash = "e03ab507436170398969e0bfc41d0bd42038aca36ca7936319984b76ed48129e"
 metafile = true
 
 [[files]]
-file = "mods/dependency/forgified-fabric-api.pw.toml"
-hash = "d3f89b6e2a393035585df86d95db71fd1e9f583c0f5078c0fff1f64963f65b68"
-metafile = true
-
-[[files]]
 file = "mods/dependency/framework.pw.toml"
 hash = "0cffc76ec37d7aebf4fcb3d8262ce2042205e6cd664d513940ec17a7b8f519ea"
 metafile = true
@@ -634,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/petrolpark.pw.toml"
-hash = "9962358907d25636944f741f73803f4151d4c4f22697fb4e9e9f2ab50ab6eb96"
+hash = "499b014fe894aa7803f2d1affbb2225d447c5ebc7106f9ba9dd445a969f46441"
 metafile = true
 
 [[files]]
@@ -685,11 +675,6 @@ metafile = true
 [[files]]
 file = "mods/dependency/serene-seasons.pw.toml"
 hash = "b0667eabd0918e83e923521b1e14710a0cdc2f85f186860ce247505b0682cef2"
-metafile = true
-
-[[files]]
-file = "mods/dependency/sinytra-connector.pw.toml"
-hash = "85a77e410ea95f985771de13cab956ff0df2733775877facd98856e481d13f57"
 metafile = true
 
 [[files]]
@@ -1129,7 +1114,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/sound-physics-remastered.pw.toml"
-hash = "02673ce4dcb872ed321745d0150fcd96ab272b9361aaa2e969cafc615856aae9"
+hash = "ed4349377e9761b56b477ba951cc8d4be94f3a08c4f959a55d46cb600e040b47"
 metafile = true
 
 [[files]]
@@ -1194,7 +1179,7 @@ metafile = true
 
 [[files]]
 file = "mods/mobs/arphex.pw.toml"
-hash = "110f365eff64c46577b74fc4d539614ed677a0e0f32bd517de99ef711b55df2a"
+hash = "90e1c280d038af95f87c054aa024a5afd0592af88016cd04c2d7a27837a941f7"
 metafile = true
 
 [[files]]
@@ -1214,7 +1199,7 @@ metafile = true
 
 [[files]]
 file = "mods/mobs/critters-and-companions.pw.toml"
-hash = "c1766455e1b15375360ad20c5fd961c276532fffab620fe0d0846a0209f019e5"
+hash = "354f303fbf568174393051ae888f4ec161b5550982c86358f8a6e7f0850ef76d"
 metafile = true
 
 [[files]]
@@ -1299,7 +1284,7 @@ metafile = true
 
 [[files]]
 file = "mods/performance/asyncparticles.pw.toml"
-hash = "309fba17cc07f7700c3c500c357aa140e8b1d0dc851567e6dfaae07a7d3fd07a"
+hash = "de95500599151762df92d3403bf5bc1418487b4dccd45bd371db8104b28662b6"
 metafile = true
 
 [[files]]
@@ -1479,7 +1464,7 @@ metafile = true
 
 [[files]]
 file = "mods/technology/create-diesel-generators.pw.toml"
-hash = "35b47f6f1d833488a80fdde0b64fc14274a46875c35fc4a320e805c336558bc3"
+hash = "7a427dbe1085096d49b6f7b3d817188bc9251a6e7deb95e1d04067fb635c6641"
 metafile = true
 
 [[files]]
@@ -1534,7 +1519,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/biome-replacer.pw.toml"
-hash = "5acd45a5f81522749f087fa630afa0922d331b8d0c4fb6b786cfb6929f629bd8"
+hash = "e71026e23bb26ea1052dcb2214f03d16bfa8eb43074c77ca3d8236f3dec24f76"
 metafile = true
 
 [[files]]
@@ -1714,7 +1699,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "d81a86a8e667eae2896d5e5a97e0ecc6c8600c717a14dcd9f1d19024276045a2"
+hash = "2774c825883053838a6c58778c4530637d4b28fe99da47128181b733234ea189"
 preserve = true
 
 [[files]]

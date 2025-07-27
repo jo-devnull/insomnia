@@ -71,6 +71,12 @@
     }
   ],
   "lookup_history": [
+    {
+      "type": "item",
+      "id": "minecraft:coal_block",
+      "amount": 4
+    },
+    "item:alexsmobs:crocodile_scute",
     "item:alexsmobs:rattlesnake_rattle",
     {
       "type": "item",
@@ -84,6 +90,8 @@
     }
   ],
   "craft_history": [
+    "minecraft:emerald",
+    "minecraft:gold_ingot_from_gold_block",
     "minecraft:dark_oak_boat"
   ],
   "recipe_defaults": {
