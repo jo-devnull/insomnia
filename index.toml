@@ -26,30 +26,6 @@ file = "config/clienttweaks-common.toml"
 hash = "f6a538fbda329bea19292131ca13165c49895261f59afccd33374cc974a21b35"
 
 [[files]]
-file = "config/coldsweat/client.toml"
-hash = "1e192d5f31103703fc2f7f574a2fb8a7c99b496030ac9b101a2c1e63a3e9119b"
-
-[[files]]
-file = "config/coldsweat/disabled_mods.txt"
-hash = "ba113e5910eb54f230affbbf638aee153b3d3b0d4d920f6df44d309b57fdc36a"
-
-[[files]]
-file = "config/coldsweat/entity.toml"
-hash = "b84dfc1a7c3394de62b194abee1f7d5220e6f25742d469c1851695a31313c19c"
-
-[[files]]
-file = "config/coldsweat/item.toml"
-hash = "f489851483c566b4c1caa60e30be125a5c57f7d9120bbc43168050461dc3762f"
-
-[[files]]
-file = "config/coldsweat/main.toml"
-hash = "f7e6731b2df8e6df0f68a66a0b650d27256785827102de91f6ddd663b00160ac"
-
-[[files]]
-file = "config/coldsweat/world.toml"
-hash = "3d9bd5bba8decdb99595d8bdc096099273d21c4540e8e6e31e942cc470e2d4cc"
-
-[[files]]
 file = "config/embeddium-options.json"
 hash = "77bbc0fab2fc59f5b1882c3a1f535ad41c3133bb47a18b2dbebd751f44de23c8"
 preserve = true
@@ -295,7 +271,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "b803cc2cb5fe01d9a535764381c71437bf4df6ae5655e03677506f1724c448e6"
+hash = "b6f81b00ca8c3aabaf5f9c8ec3d547f71ba9d16dfcec1ab5ec576435b9eaf410"
 
 [[files]]
 file = "modlist.md"
@@ -454,11 +430,6 @@ metafile = true
 [[files]]
 file = "mods/decoration/visuality-forge.pw.toml"
 hash = "e57ebfa8a3dbf661c8fb3bcab7774a4dc2916a2cf19fa8eecd644db318f223ad"
-metafile = true
-
-[[files]]
-file = "mods/dependency/apothic-attributes.pw.toml"
-hash = "8e02c7108e5c16d3d9d41e78dfd8568a2d59d8f5b37b414c0fffe1961d5a4bc7"
 metafile = true
 
 [[files]]
@@ -817,11 +788,6 @@ hash = "92e85571e52be99224e608f79b25650e1f0d42137a651e4a04f5929dea2fe5da"
 metafile = true
 
 [[files]]
-file = "mods/equipment/to-tweaks-irons-spells.pw.toml"
-hash = "469c721ed1b3daea86d39230956d51d8f8aa634160831d1375777d1dedfafe57"
-metafile = true
-
-[[files]]
 file = "mods/equipment/tool-belt.pw.toml"
 hash = "e3c9f7b2fa7cf8f6dd20ad1bbcd56fac72d3f45a8b5d5d0a982f526201bc7130"
 metafile = true
@@ -1038,7 +1004,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/insomnia-tweaks.pw.toml"
-hash = "9c310b889081e07df55d806b06b00a6461a450a5d480e05574e650c71f738319"
+hash = "e0252dd517126b6cc32cb220bb63695d5ac3488781e6d76f87ece1bce4cfdfdf"
 metafile = true
 
 [[files]]
@@ -1748,7 +1714,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "312a3b947d15fec4133a5dfc7eb8780235de546946e62b77a63e0b24a1e46dbc"
+hash = "d81a86a8e667eae2896d5e5a97e0ecc6c8600c717a14dcd9f1d19024276045a2"
 preserve = true
 
 [[files]]
