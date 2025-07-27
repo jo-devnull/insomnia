@@ -18,7 +18,7 @@ hash = "ba8fe1b293d95e63195417289a75c4a1976aaeab87285978dba1db22059c2e1e"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "9c17151dbc9505e15e27d2161db7e0fb7b4108f87349b4b992550e09e5e20308"
+hash = "4b2536972d82e7fe879a16dcdc3073574f61697cf3bda87a4a9f4e60c3666beb"
 preserve = true
 
 [[files]]
@@ -32,7 +32,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "7b7622b915e04b4767cc62e7aba54edf9c8c66345facc2803a9c7cb1743fcf51"
+hash = "bda8f3c8bffe4e503cc6e9df44cfadc3516bd7b5f4b282364ea044c8a330960c"
 preserve = true
 
 [[files]]
@@ -271,7 +271,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "b6ea4dbca84c259dbe5dfde060cdc22b67cf609c2bad3e787266cafb96fe87f0"
+hash = "d85857c1fe25e791ce6f3399dd0e20aaf2e3a8da51d0b003492d01b96e715811"
 
 [[files]]
 file = "modlist.md"
@@ -1478,11 +1478,6 @@ hash = "0291f5d37f57e582db17868b3868c0a2d4691bdef5543d0549451e11bcc822ec"
 metafile = true
 
 [[files]]
-file = "mods/technology/create-jetpack.pw.toml"
-hash = "09898218dad23bd13ebef1efe7d7f14bc3993734305ccef7049e39ad7961ffaf"
-metafile = true
-
-[[files]]
 file = "mods/technology/create-sifting.pw.toml"
 hash = "765dc08b077576a31d37e2f4777bda4bafd52ede36a866c874b5419fde6e1f34"
 metafile = true
@@ -1699,7 +1694,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2774c825883053838a6c58778c4530637d4b28fe99da47128181b733234ea189"
+hash = "db44b8bd3822169ffe23d0c5ac2d5b7571f574e84e598f1f9d685f95b27cef8f"
 preserve = true
 
 [[files]]
