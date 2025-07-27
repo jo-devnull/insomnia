@@ -1,130 +1,4 @@
 {
-  "favorites": [
-    {
-      "stack": "#item:category:functional_blocks"
-    },
-    {
-      "stack": "#item:category:cooking"
-    },
-    {
-      "stack": "#item:category:foods"
-    },
-    {
-      "stack": "#item:category:brewing"
-    },
-    {
-      "stack": "#item:category:basic_tools"
-    },
-    {
-      "stack": "#item:category:heavy_tools"
-    },
-    {
-      "stack": "#item:category:weapons"
-    },
-    {
-      "stack": "#item:category:armor"
-    },
-    {
-      "stack": "#item:category:guns"
-    },
-    {
-      "stack": "#item:category:enchanting"
-    },
-    {
-      "stack": "#item:category:witchcraft"
-    },
-    {
-      "stack": "#item:category:furniture"
-    },
-    {
-      "stack": "#item:category:decoration"
-    },
-    {
-      "stack": "#item:category:block_decoration"
-    },
-    {
-      "stack": "#item:category:storage"
-    },
-    {
-      "stack": "#item:category:engineering"
-    },
-    {
-      "stack": "#item:category:carpentry"
-    },
-    {
-      "stack": "#item:category:masonry"
-    },
-    {
-      "stack": "#item:category:metalworking"
-    },
-    {
-      "stack": "#item:category:farming"
-    },
-    {
-      "stack": "#item:category:archery"
-    },
-    {
-      "stack": "#item:category:fishing"
-    },
-    {
-      "stack": "#item:category:transport"
-    }
-  ],
-  "lookup_history": [
-    {
-      "type": "item",
-      "id": "immersive_weathering:weeds",
-      "amount": 4
-    },
-    "item:xtraarrows:tnt_arrow_lining",
-    "item:xtraarrows:flint_explosive_arrow",
-    "item:xtraarrows:diamond_arrow",
-    "item:xtraarrows:golden_arrow",
-    "item:xtraarrows:iron_arrow",
-    "item:minecraft:arrow",
-    "item:minecraft:blaze_powder",
-    "item:immersive_armors:robe_boots{Damage:0}",
-    "item:immersive_armors:divine_boots{Damage:0}",
-    "item:immersive_armors:divine_helmet{Damage:170,insulation:[],set_bonus:3}",
-    "item:minecraft:tnt",
-    "item:betterarcheology:iron_brush{Damage:0}",
-    "item:cataclysm:khopesh{Damage:455}",
-    "item:traveloptics:augment_sacred_void_epic",
-    "item:cataclysm:ancient_metal_block",
-    "item:cataclysm:ancient_metal_ingot",
-    {
-      "type": "item",
-      "id": "cataclysm:koboleton_bone",
-      "amount": 3
-    },
-    "item:cataclysm:kobolediator_skull",
-    {
-      "type": "item",
-      "id": "traveloptics:augment_balance_epic",
-      "amount": 2
-    }
-  ],
-  "craft_history": [
-    "minecraft:iron_boots",
-    "minecraft:spruce_fence",
-    "minecraft:dark_oak_wood",
-    "minecraft:spruce_planks",
-    "minecraft:bread",
-    "minecraft:wheat",
-    "minecraft:chest",
-    "minecraft:torch",
-    "create_ironworks:tools/paxel/iron",
-    "shieldexp:iron_shield",
-    "minecraft:tnt",
-    "better_campfires:firewood",
-    "betterarcheology:iron_brush"
-  ],
-  "recipe_defaults": {
-    "added": [],
-    "tags": {},
-    "resolutions": {},
-    "disabled": []
-  },
   "hidden_stacks": [
     "item:minecraft:goat_horn{instrument:\"minecraft:sing_goat_horn\"}",
     "item:minecraft:goat_horn{instrument:\"minecraft:seek_goat_horn\"}",
@@ -254,5 +128,76 @@
     "item:brazilian_expansion:stingray_icon",
     "item:brazilian_expansion:potted_cupuacu",
     "item:brazilian_expansion:potted_acai"
+  ],
+  "favorites": [
+    {
+      "stack": "#item:category:functional_blocks"
+    },
+    {
+      "stack": "#item:category:cooking"
+    },
+    {
+      "stack": "#item:category:foods"
+    },
+    {
+      "stack": "#item:category:brewing"
+    },
+    {
+      "stack": "#item:category:basic_tools"
+    },
+    {
+      "stack": "#item:category:heavy_tools"
+    },
+    {
+      "stack": "#item:category:weapons"
+    },
+    {
+      "stack": "#item:category:armor"
+    },
+    {
+      "stack": "#item:category:guns"
+    },
+    {
+      "stack": "#item:category:enchanting"
+    },
+    {
+      "stack": "#item:category:witchcraft"
+    },
+    {
+      "stack": "#item:category:furniture"
+    },
+    {
+      "stack": "#item:category:decoration"
+    },
+    {
+      "stack": "#item:category:block_decoration"
+    },
+    {
+      "stack": "#item:category:storage"
+    },
+    {
+      "stack": "#item:category:engineering"
+    },
+    {
+      "stack": "#item:category:carpentry"
+    },
+    {
+      "stack": "#item:category:masonry"
+    },
+    {
+      "stack": "#item:category:metalworking"
+    },
+    {
+      "stack": "#item:category:farming"
+    },
+    {
+      "stack": "#item:category:archery"
+    },
+    {
+      "stack": "#item:category:fishing"
+    },
+    {
+      "stack": "#item:category:transport"
+    }
   ]
 }

@@ -52,6 +52,7 @@
     "#migamigos:amigo"
     "#irons_spellbooks:summons"
 
+    "migamigos:claymore"
     "minecraft:allay"
     "minecraft:wolf"
     "minecraft:parrot"
@@ -116,6 +117,13 @@
 
     "cataclysm_spellbooks:summoned_amethyst_crab"
     "cataclysm_spellbooks:summoned_aptrgangr"
-    "cataclysm_spellbooks:summoned_coral_gole"
+    "cataclysm_spellbooks:summoned_coral_golem"
+    "cataclysm_spellbooks:summoned_coralssus"
+    "cataclysm_spellbooks:summoned_draugur"
+    "cataclysm_spellbooks:summoned_koboleton"
+
+    "traveloptics:summoned_wedjet"
+    "traveloptics:summoned_koboleton"
+    "traveloptics:aqua_grandmaster"
   }
 }

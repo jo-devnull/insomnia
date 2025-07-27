@@ -35,11 +35,11 @@ hash = "ba113e5910eb54f230affbbf638aee153b3d3b0d4d920f6df44d309b57fdc36a"
 
 [[files]]
 file = "config/coldsweat/entity.toml"
-hash = "9132bca3d0fa1209525217428a4586924e6251527173667cff52cd20f92b9822"
+hash = "b84dfc1a7c3394de62b194abee1f7d5220e6f25742d469c1851695a31313c19c"
 
 [[files]]
 file = "config/coldsweat/item.toml"
-hash = "fb0e7ec9519d900d4b8bb8eae97eed93ef4d89601ec8b6860dc17347a86afca5"
+hash = "f489851483c566b4c1caa60e30be125a5c57f7d9120bbc43168050461dc3762f"
 
 [[files]]
 file = "config/coldsweat/main.toml"
@@ -47,7 +47,7 @@ hash = "f7e6731b2df8e6df0f68a66a0b650d27256785827102de91f6ddd663b00160ac"
 
 [[files]]
 file = "config/coldsweat/world.toml"
-hash = "1fe71e7a66c9b3342ad1791539b86d083867a6c124a8bb07771c9953400fb246"
+hash = "3d9bd5bba8decdb99595d8bdc096099273d21c4540e8e6e31e942cc470e2d4cc"
 
 [[files]]
 file = "config/embeddium-options.json"
@@ -295,7 +295,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "11fbe522548200a190f7d25ed5e0bde6d6987ff6cf55b1a344216f1e7d542930"
+hash = "b803cc2cb5fe01d9a535764381c71437bf4df6ae5655e03677506f1724c448e6"
 
 [[files]]
 file = "modlist.md"
@@ -858,7 +858,7 @@ metafile = true
 
 [[files]]
 file = "mods/mechanics/cold-sweat.pw.toml"
-hash = "2c6c926c54ff0544cb42c565e0ad0144f66e09595b846b4b0904d7d6191a0070"
+hash = "f762008c91f3b55b1d04d321ec72a438420eb29bd5a4c6eefae8048c5766bf40"
 metafile = true
 
 [[files]]
@@ -1229,11 +1229,6 @@ metafile = true
 [[files]]
 file = "mods/mobs/arphex.pw.toml"
 hash = "110f365eff64c46577b74fc4d539614ed677a0e0f32bd517de99ef711b55df2a"
-metafile = true
-
-[[files]]
-file = "mods/mobs/bens-sharks.pw.toml"
-hash = "67f39bea37c98b056d1eb2665e5024a71808a95cd511d3f5c4457a43ded386db"
 metafile = true
 
 [[files]]
@@ -1753,7 +1748,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "939adda01ed0220dd73d2cc18356f1ba76ff85e83929b895d7b09c511fa625de"
+hash = "312a3b947d15fec4133a5dfc7eb8780235de546946e62b77a63e0b24a1e46dbc"
 preserve = true
 
 [[files]]
@@ -1794,7 +1789,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "52d3ec4a9e0dff078f1e1c3a79c9665f32c0c51ae108d9c890dee9a6e646dc6d"
+hash = "e475d673de8e2e4f47a98c852956edfb9f34a9646652a3c60dbc2cf4ffde36b9"
 
 [[files]]
 file = "resourcepacks/TZP-Reduced.zip"
