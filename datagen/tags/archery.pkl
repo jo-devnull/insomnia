@@ -3,7 +3,3 @@ minecraft {
   "#forge:bows"
   "#minecraft:arrows"
 }
-
-benssharks {
-  "maelstrom_bow"
-}

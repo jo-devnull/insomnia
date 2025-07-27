@@ -235,7 +235,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "ffb5076b80ed77262e105d2feb24571bdf9d1b15e37ba11be9c42654809dd077"
+hash = "b014cebc767d81dd462c063637f8ace5b40e6a35ad0a7d14e3918ed35b6eae5d"
 
 [[files]]
 file = "modlist.md"
@@ -249,6 +249,11 @@ metafile = true
 [[files]]
 file = "mods/cooking/chefs-delight-forge.pw.toml"
 hash = "65e29476b35f038fd96348d50ec99035887df5867e1bb3352748304969e97d7d"
+metafile = true
+
+[[files]]
+file = "mods/cooking/dungeons-delight.pw.toml"
+hash = "b791f9836836122fe8a083f4a60633b2dda1a10ad9018399dd4bec3ffb06674b"
 metafile = true
 
 [[files]]
@@ -272,13 +277,13 @@ hash = "421b8194ee8d0899080f1409c8f490551e632cb98f0729f124bbc825e97a3de7"
 metafile = true
 
 [[files]]
-file = "mods/cooking/lets-do-meadow.pw.toml"
-hash = "53f4400019b59f8e16a8d5bdfcf23055d16df60a881b4e783dae4f9114ed48af"
+file = "mods/cooking/miners-delight.pw.toml"
+hash = "9fde9c990dbfd29deb05b0471efd57164c7c1c0863740e8941ad6e3692abd6aa"
 metafile = true
 
 [[files]]
-file = "mods/cooking/miners-delight.pw.toml"
-hash = "9fde9c990dbfd29deb05b0471efd57164c7c1c0863740e8941ad6e3692abd6aa"
+file = "mods/cooking/oceanic-delight.pw.toml"
+hash = "a648150bcac35136a22dca2192c629c29b9fdda16d7509253c3f92fbe49c2794"
 metafile = true
 
 [[files]]
@@ -579,6 +584,11 @@ metafile = true
 [[files]]
 file = "mods/dependency/resourceful-config.pw.toml"
 hash = "c1059f9ff9aa8bb2bc5bed258594a0a0e4fd786edd786d4a3967032893446053"
+metafile = true
+
+[[files]]
+file = "mods/dependency/runiclib.pw.toml"
+hash = "8425b1b4ea358784a302819bdf651d2880cb5a480470712de94a6804671bfd34"
 metafile = true
 
 [[files]]
