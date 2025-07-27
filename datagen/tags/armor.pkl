@@ -4,6 +4,7 @@ minecraft {
   "#forge:armor/chestplates"
   "#forge:armor/leggings"
   "#forge:armor/boots"
+  "#minecraft:trimmable_armor"
 }
 
 immersive_armors {

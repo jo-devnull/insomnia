@@ -71,47 +71,14 @@
     }
   ],
   "lookup_history": [
-    "item:legendarysurvivaloverhaul:thermometer",
-    "item:minecraft:apple",
-    "item:legendarysurvivaloverhaul:plaster",
-    "item:legendarysurvivaloverhaul:healing_herbs",
-    "item:legendarysurvivaloverhaul:bandage",
-    "item:legendarysurvivaloverhaul:medikit",
-    "item:legendarysurvivaloverhaul:cooler",
-    "item:legendarysurvivaloverhaul:sewing_table",
-    "item:legendarysurvivaloverhaul:heart_container",
-    "item:legendarysurvivaloverhaul:thermal_resistance_ring",
-    "item:legendarysurvivaloverhaul:heater",
-    "item:legendarysurvivaloverhaul:canteen{\"legendarysurvivaloverhaul:HydrationCapacity\":10,\"legendarysurvivaloverhaul:HydrationPurity\":\"normal\"}",
-    "item:meadow:wooden_bucket",
-    "item:legendarysurvivaloverhaul:canteen",
-    "item:legendarysurvivaloverhaul:large_canteen",
-    "item:legendarysurvivaloverhaul:desert_chestplate{Damage:0}",
-    "item:legendarysurvivaloverhaul:snow_leggings{Damage:0}",
-    "item:legendarysurvivaloverhaul:snow_chestplate{Damage:0}",
-    {
-      "type": "item",
-      "id": "minecraft:coal_block",
-      "amount": 4
-    },
-    "item:alexsmobs:crocodile_scute",
-    "item:alexsmobs:rattlesnake_rattle",
-    {
-      "type": "item",
-      "id": "rusticdelight:calamari",
-      "amount": 2
-    },
-    {
-      "type": "item",
-      "id": "cataclysm:coral_chunk",
-      "amount": 2
-    }
+    "item:legendarysurvivaloverhaul:cold_string",
+    "item:legendarysurvivaloverhaul:cooling_coat_1",
+    "item:minecraft:iron_chestplate{Damage:0}",
+    "item:immersive_armors:prismarine_leggings{Damage:0}",
+    "item:minecraft:iron_helmet",
+    "item:cataclysm:bone_reptile_chestplate{Damage:0}"
   ],
-  "craft_history": [
-    "minecraft:emerald",
-    "minecraft:gold_ingot_from_gold_block",
-    "minecraft:dark_oak_boat"
-  ],
+  "craft_history": [],
   "recipe_defaults": {
     "added": [],
     "tags": {},
@@ -235,17 +202,6 @@
     "item:tacz:modern_kinetic_gun{GunCurrentAmmoCount:30,GunFireMode:\"AUTO\",GunId:\"tacz:minigun\",HasBulletInBarrel:1b}",
     "item:tacz:modern_kinetic_gun{GunCurrentAmmoCount:75,GunFireMode:\"AUTO\",GunId:\"tacz:m249\",HasBulletInBarrel:1b}",
     "item:tacz:modern_kinetic_gun{GunCurrentAmmoCount:1,GunFireMode:\"SEMI\",GunId:\"tacz:rpg7\",HasBulletInBarrel:1b}",
-    "item:create:copper_backtank",
-    "item:brazilian_expansion:falconry_glove",
-    "item:brazilian_expansion:potted_cattleya",
-    "item:brazilian_expansion:potted_orchid",
-    "item:brazilian_expansion:potted_snapdragon",
-    "item:brazilian_expansion:potted_samauma",
-    "item:brazilian_expansion:potted_chestnut",
-    "item:brazilian_expansion:tame_capivara_icon",
-    "item:brazilian_expansion:electric_eel_icon",
-    "item:brazilian_expansion:stingray_icon",
-    "item:brazilian_expansion:potted_cupuacu",
-    "item:brazilian_expansion:potted_acai"
+    "item:create:copper_backtank"
   ]
 }

@@ -1,6 +1,9 @@
 minecraft {
   "#minecraft:axes"
   "#minecraft:swords"
+  "#c:weapons"
+  "#c:swords"
+  "#c:axes"
   "trident"
   "shield"
 }
