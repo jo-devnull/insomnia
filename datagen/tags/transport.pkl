@@ -24,10 +24,6 @@ create {
   "controls"
 }
 
-cold_sweat {
-  "insulated_minecart"
-}
-
 alexscaves {
   "submarine"
 }

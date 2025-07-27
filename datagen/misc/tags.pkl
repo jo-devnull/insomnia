@@ -121,9 +121,5 @@
     "cataclysm_spellbooks:summoned_coralssus"
     "cataclysm_spellbooks:summoned_draugur"
     "cataclysm_spellbooks:summoned_koboleton"
-
-    "traveloptics:summoned_wedjet"
-    "traveloptics:summoned_koboleton"
-    "traveloptics:aqua_grandmaster"
   }
 }

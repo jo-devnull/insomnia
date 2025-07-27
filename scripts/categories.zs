@@ -3,7 +3,8 @@ var cookingMods = [
   "candlelight",
   "farm_and_charm",
   "farmersdelight",
-  "meadow",
+  "oceanic_delight",
+  "dungeonsdelight",
   "miners_delight",
   "rusticdelight"
 ] as string[];

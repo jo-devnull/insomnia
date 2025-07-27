@@ -9,7 +9,7 @@ minecraft {
   "bookshelf"
   "chiseled_bookshelf"
   "oak_chest_boat"
-  "#c:shulker_boxes"
+  "#minecraft:shulker_boxes"
 }
 
 create {

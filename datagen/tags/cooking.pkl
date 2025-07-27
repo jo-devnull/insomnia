@@ -78,18 +78,3 @@ farm_and_charm {
   "cooking_pot"
   "roaster"
 }
-
-meadow {
-  "stove_tiles"
-  "stove_tiles_wood"
-  "stove_tiles_lid"
-  "stove_tiles_bench"
-
-  "cheese_form"
-  "fondue"
-  "cooking_cauldron"
-  "frame"
-  "woodcutter"
-  "wooden_cauldron"
-  "can"
-}

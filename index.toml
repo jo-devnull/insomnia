@@ -235,7 +235,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "b014cebc767d81dd462c063637f8ace5b40e6a35ad0a7d14e3918ed35b6eae5d"
+hash = "ae951156e94af4559173b0581fcdb7589950e5106ffbdae8c530d0b8a91e8834"
 
 [[files]]
 file = "modlist.md"
@@ -1664,7 +1664,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "aa0704363804058c7e52d428120ab7c628962767abda391da6bcf1435aaf5f47"
+hash = "67c696b5396ee51a22bbdcb1f4b6cd5c6a9c0e61b75f54daa3b4d424ce5f1562"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
@@ -1767,7 +1767,7 @@ metafile = true
 
 [[files]]
 file = "scripts/categories.zs"
-hash = "86d8e0d822f9c597df383cdf32ed88f83024ec365cdaaf38de63fe238fab65ff"
+hash = "ed23ab70ccca10cc81bb8fbb51c2d7e978fc03e234540ed2600b27014da63224"
 
 [[files]]
 file = "scripts/misc.zs"

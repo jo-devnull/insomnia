@@ -71,14 +71,9 @@
     }
   ],
   "lookup_history": [
-    "item:meadow:enzian",
-    "item:meadow:wooden_cauldron",
-    "item:legendarysurvivaloverhaul:cold_string",
-    "item:legendarysurvivaloverhaul:cooling_coat_1",
-    "item:minecraft:iron_chestplate{Damage:0}",
-    "item:immersive_armors:prismarine_leggings{Damage:0}",
-    "item:minecraft:iron_helmet{Damage:0}",
-    "item:cataclysm:bone_reptile_chestplate{Damage:0}"
+    "item:legendarysurvivaloverhaul:snow_chestplate{Damage:0}",
+    "item:legendarysurvivaloverhaul:canteen",
+    "item:legendarysurvivaloverhaul:heater"
   ],
   "craft_history": [],
   "recipe_defaults": {

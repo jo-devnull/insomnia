@@ -75,15 +75,6 @@ brewinandchewin {
   "coaster"
 }
 
-cold_sweat {
-  "thermolith"
-  "hearth"
-  "boiler"
-  "icebox"
-  "smokestack"
-  "sewing_table"
-}
-
 waystones {
   "waystone"
   "mossy_waystone"
@@ -94,4 +85,10 @@ waystones {
 tacz {
   "target"
   "target_minecart"
+}
+
+legendarysurvivaloverhaul {
+  "cooler"
+  "heater"
+  "sewing_table"
 }

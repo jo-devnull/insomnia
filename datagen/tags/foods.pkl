@@ -1,5 +1,5 @@
 minecraft {
-  "#forge:food"
+  "#salt:can_be_salted"
   "#c:foods"
 }
 

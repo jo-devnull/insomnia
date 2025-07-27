@@ -45,23 +45,6 @@ aquamirae {
   "three_bolt_boots"
 }
 
-cold_sweat {
-  "hoglin_headpiece"
-  "hoglin_tunic"
-  "hoglin_trousers"
-  "hoglin_hooves"
-
-  "goat_fur_cap"
-  "goat_fur_parka"
-  "goat_fur_pants"
-  "goat_fur_boots"
-
-  "chameleon_scale_helmet"
-  "chameleon_scale_chestplate"
-  "chameleon_scale_leggings"
-  "chameleon_scale_boots"
-}
-
 cataclysm {
   "bone_reptile_helmet"
   "bone_reptile_chestplate"
@@ -79,4 +62,16 @@ cataclysm {
 
   "monstrous_helm"
   "bloom_stone_pauldrons"
+}
+
+legendarysurvivaloverhaul {
+  "snow_boots"
+  "snow_helmet"
+  "snow_chestplate"
+  "snow_leggings"
+
+  "desert_boots"
+  "desert_helmet"
+  "desert_chestplate"
+  "desert_leggings"
 }
