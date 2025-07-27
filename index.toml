@@ -91,7 +91,7 @@ hash = "fc1ebdb9057b250030dd4c3b288134dfec8be7b95f4037a9f79edd991b5a5061"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "b55834a4636fb28fc8f71297cd3d9d31a01d78790adaa5a057a98f4a1d6d68f6"
+hash = "5c2e1a845ad8a057bb3719b72dbea13aaff9e494366fadeb2e0016dc251156c5"
 
 [[files]]
 file = "config/sanitydim/default.toml"
@@ -1661,6 +1661,11 @@ file = "resourcepacks/VanillaTweaks.zip"
 hash = "622db52934292b831dd7a67bfc6ad22827fe00ce9fb228241c56a29362843aeb"
 
 [[files]]
+file = "resourcepacks/bibliophilia.pw.toml"
+hash = "ce9beb4b2a835980a33512d0dfdb91eb740217da271590e94843ad6399daf621"
+metafile = true
+
+[[files]]
 file = "resourcepacks/create-style-hopper.pw.toml"
 hash = "374fc3b531d1cff3d9dcafc73103797e44c5e27bce2ab414fab2695bde9d9284"
 metafile = true
@@ -1723,6 +1728,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/visual-enchantments.pw.toml"
 hash = "fb40f1bfd9e4c4a4e392f3f518840b4d4d6f2c8f474a974a19cff11cb37f9e7a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/wide-mace.pw.toml"
+hash = "bad98e3a516065970a2679984e456fe53df0ef20e7f3e14f12f37035128eca55"
 metafile = true
 
 [[files]]

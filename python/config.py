@@ -14,9 +14,7 @@ sources = [
     "resourcepacks/@InsomniaUI/",
     "resourcepacks/@insomnia.zip",
 
-    "config/coldsweat/",
     "config/almostunified/**/*.json",
-    "config/rootoffear/**/*.toml",
     "config/incontrol/**/*.json",
     "config/sanitydim/**/*.toml",
     "config/enhancedai/**/*.toml",
