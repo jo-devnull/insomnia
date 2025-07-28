@@ -32,7 +32,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "c5c087cd6103421018b12ff1dbb3829debb8812584dca6d403aee1d610b05b5c"
+hash = "7b7622b915e04b4767cc62e7aba54edf9c8c66345facc2803a9c7cb1743fcf51"
 preserve = true
 
 [[files]]
@@ -243,7 +243,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "64acd232502c6165c7ff4b301f86bfd6d00d6a6cbd27773edfdeaa5160c31370"
+hash = "b26ca1ad1feda2d32a3965be61dbce5b574a883dc3d4bcfbc65869cfaac52c1e"
 
 [[files]]
 file = "modlist.md"
@@ -980,11 +980,6 @@ hash = "9de19ca342d003599d60d0260e07c90ad06b4e430196fa049635031a7fc9ea80"
 metafile = true
 
 [[files]]
-file = "mods/misc/loot-integrations-towns-and-towers.pw.toml"
-hash = "9fc2987a696715d71905a595c8ba37c3c06960c52e2cce9868e98191a0ea56e8"
-metafile = true
-
-[[files]]
 file = "mods/misc/loot-integrations.pw.toml"
 hash = "515712ce282bb51fa48dfb91203f20dd45ee85c3850e8e54aa755820ef5290f6"
 metafile = true
@@ -1075,8 +1070,18 @@ hash = "c0be60f73e24206ae16dc7c41d534721c0b0529898e809a0ee1c322dc9507d4a"
 metafile = true
 
 [[files]]
+file = "mods/misc/vanilla-loot-addon-for-loot-integrations.pw.toml"
+hash = "31c478e1101e333d6f036573db8e44e97ac2c2c337b807097d5e507bc7997367"
+metafile = true
+
+[[files]]
 file = "mods/misc/vein-mining.pw.toml"
 hash = "aebad8093fb59d03eb81b34f8c266c3d804f9971b68e2448f7e985de309a9357"
+metafile = true
+
+[[files]]
+file = "mods/misc/xaeros-minimap-world-map-waystones-compability.pw.toml"
+hash = "82cbddd6e922af2d763277ae187bdcc4d574da64354e15c8d732d6dd4c468d91"
 metafile = true
 
 [[files]]
@@ -1340,6 +1345,11 @@ hash = "ed777a15d6936154186c41529e7d5d9e30bcf46ce388779be1f48a711ae736dd"
 metafile = true
 
 [[files]]
+file = "mods/structures/camps_castles_carriages.pw.toml"
+hash = "794d3e00e0b9ac0749c1e8c9dd3f8566c71d4bb2e24dc7752fa7de8b6e00ac35"
+metafile = true
+
+[[files]]
 file = "mods/structures/ct-overhaul-village.pw.toml"
 hash = "0acb8fe3c9ee1da5c6ab3e6af77597ef6d27a39be9b5ff5f93229e82804c4f0e"
 metafile = true
@@ -1365,11 +1375,6 @@ hash = "b2cef172c837758e7276f71392b9e40e512bc074dc8ff08af0f28a52dbca6388"
 metafile = true
 
 [[files]]
-file = "mods/structures/towns-and-towers.pw.toml"
-hash = "bdb6eaac4e6c5fa7b50209d76b7983869f96d54f7402f0de0780bd1d05c68b31"
-metafile = true
-
-[[files]]
 file = "mods/structures/unnamed-sea.pw.toml"
 hash = "22f6be54b1bcac16fb346e62eb5d97f996cde51a718338b1b0b57b7f2facc61a"
 metafile = true
@@ -1377,6 +1382,11 @@ metafile = true
 [[files]]
 file = "mods/structures/yungs-better-dungeons.pw.toml"
 hash = "d3490ec29b13e5507f38c1a3dab646a1c1f42a3975289fe97cc21e7ebaa28eb9"
+metafile = true
+
+[[files]]
+file = "mods/structures/yungs-better-end-island.pw.toml"
+hash = "59d672196f2c91a513cf6702b57da83c8000d7dbdd4d586ce1323fb28bdd1a4b"
 metafile = true
 
 [[files]]
@@ -1397,6 +1407,11 @@ metafile = true
 [[files]]
 file = "mods/structures/yungs-better-strongholds.pw.toml"
 hash = "21144e3fc2c7ee6b547685b6508e0e074253b14442e2a307e84f416246b830da"
+metafile = true
+
+[[files]]
+file = "mods/structures/yungs-extras.pw.toml"
+hash = "e50bcd4e599c716a13d010c4c5f2edf213b04035ebd6ce59dc4143bf3de99a0d"
 metafile = true
 
 [[files]]
@@ -1646,7 +1661,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2dfa8aaba99b21d56b978e4267c477b70f7a7c8740d984197cc36831d15f47e7"
+hash = "6920f794f2794eb894b469cbeb44d3572b35204ebd806011b12ac7bef20eb0de"
 preserve = true
 
 [[files]]

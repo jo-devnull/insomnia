@@ -1,0 +1,13 @@
+name = "Camps. Castles. Carriages."
+filename = "../camps_castles_carriages-2.3.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/h9XxzZxe/versions/RBmuDEPI/camps_castles_carriages-2.3.4.jar"
+hash-format = "sha512"
+hash = "f8e87ddccb6b25b1b5bfe95ef48bb44e9c6cd4bf1905b9b58d2a24b437bd920cbace571ac2f45c36d374a56ef7eb12b6aff646cceadf331dccef5f4869161887"
+
+[update]
+[update.modrinth]
+mod-id = "h9XxzZxe"
+version = "RBmuDEPI"
