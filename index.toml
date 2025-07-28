@@ -1231,7 +1231,7 @@ metafile = true
 
 [[files]]
 file = "mods/performance/asyncparticles.pw.toml"
-hash = "de95500599151762df92d3403bf5bc1418487b4dccd45bd371db8104b28662b6"
+hash = "309fba17cc07f7700c3c500c357aa140e8b1d0dc851567e6dfaae07a7d3fd07a"
 metafile = true
 
 [[files]]
@@ -1646,7 +1646,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "84291857527a0b0fb481dccac34c78cb34a064bf0f2d51c3b1458eb05778597f"
+hash = "2dfa8aaba99b21d56b978e4267c477b70f7a7c8740d984197cc36831d15f47e7"
 preserve = true
 
 [[files]]
