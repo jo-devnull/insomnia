@@ -80,6 +80,8 @@
     "item:minecraft:arrow"
   ],
   "craft_history": [
+    "notreepunching:plant_string",
+    "notreepunching:plant_fiber_from_saplings_with_knife",
     "create_ironworks:tools/axe/copper",
     "notreepunching:sticks_from_planks_with_flint_axe",
     "create_ironworks:tools/pickaxe/copper",

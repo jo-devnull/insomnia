@@ -99,7 +99,7 @@ hash = "fc1ebdb9057b250030dd4c3b288134dfec8be7b95f4037a9f79edd991b5a5061"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "c5391f318ef5e13e65c27ed18658be1eaaeb3a7cbc4318080e164eb68d8ec857"
+hash = "d47ef59c6a174d1a232dc74da3150bcc7c51ea79c687a8673d20ff74592e69a1"
 
 [[files]]
 file = "config/sanitydim/default.toml"
@@ -243,7 +243,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "50ddd4174c6ce0bb29f75f9a34ed0fdc6259dfc068b9c63a44d872e1b45909fb"
+hash = "64acd232502c6165c7ff4b301f86bfd6d00d6a6cbd27773edfdeaa5160c31370"
 
 [[files]]
 file = "modlist.md"
@@ -347,16 +347,6 @@ metafile = true
 [[files]]
 file = "mods/decoration/minecraft-cursor.pw.toml"
 hash = "cb777bee6aad45b1a686dfea6e07ff06b7fbbb91924d6c08c94c9a55fd394e05"
-metafile = true
-
-[[files]]
-file = "mods/decoration/moremcmeta-emissive-forge.pw.toml"
-hash = "21c7c9a578ab5ec1b980e20c8f492c1ec0f8d71e9fd1cf125c793a63eec4a920"
-metafile = true
-
-[[files]]
-file = "mods/decoration/moremcmeta.pw.toml"
-hash = "f71031ccc174af97670f4731e216464c86603ae0a9fbe3960fb2e5e54dc55f78"
 metafile = true
 
 [[files]]
@@ -1656,7 +1646,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "59f9ea988ce523f313c632e778f40a5096ec63daf282b1c7899584c07689d99c"
+hash = "84291857527a0b0fb481dccac34c78cb34a064bf0f2d51c3b1458eb05778597f"
 preserve = true
 
 [[files]]
@@ -1704,11 +1694,6 @@ file = "resourcepacks/VanillaTweaks.zip"
 hash = "622db52934292b831dd7a67bfc6ad22827fe00ce9fb228241c56a29362843aeb"
 
 [[files]]
-file = "resourcepacks/animated-ore.pw.toml"
-hash = "8ffa3403658238fc5da4af736580ceb78ba89f049bad0918fcdb635757a10cfc"
-metafile = true
-
-[[files]]
 file = "resourcepacks/bibliophilia.pw.toml"
 hash = "ce9beb4b2a835980a33512d0dfdb91eb740217da271590e94843ad6399daf621"
 metafile = true
@@ -1736,6 +1721,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-waystones-texture.pw.toml"
 hash = "9e211b5199490a166526613d26e01fb42bc8ab488e82f9c496b5647665a6c748"
+metafile = true
+
+[[files]]
+file = "resourcepacks/glowing-emissive-ores.pw.toml"
+hash = "a67cb3dd523fe669eaab6a17141b9dd6836ccc517bd840ed926ce4e0fd488020"
 metafile = true
 
 [[files]]
