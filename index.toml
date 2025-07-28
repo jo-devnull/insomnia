@@ -310,6 +310,11 @@ hash = "b7de55c4390efff71e1e188cc42c05a1ff8edbdad2b05a2f191f90dfc76c9e7f"
 metafile = true
 
 [[files]]
+file = "mods/decoration/armourers-workshop.pw.toml"
+hash = "86f59052bcc278c1304d1069b6d0632a4c4a4c4746d4db5aef4d8a223dfeb46b"
+metafile = true
+
+[[files]]
 file = "mods/decoration/chimes.pw.toml"
 hash = "d7ff0085748ccfbd86524707d7dfe5a490ff84a02cd1307a0c8fb5e34f448343"
 metafile = true
@@ -687,11 +692,6 @@ metafile = true
 [[files]]
 file = "mods/equipment/shield-expansion.pw.toml"
 hash = "58d27ee1a4f979d69cdf76d76cf0c24df222feb889c2629309f98fc215c1c927"
-metafile = true
-
-[[files]]
-file = "mods/equipment/simplehats.pw.toml"
-hash = "2c6e884b52626ec7fcef666d4c38fe5af4042373565c35ec2cef284f0df49f21"
 metafile = true
 
 [[files]]
