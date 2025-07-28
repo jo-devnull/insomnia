@@ -14,6 +14,7 @@ sources = [
     "resourcepacks/@InsomniaUI/",
     "resourcepacks/@insomnia.zip",
 
+    "config/legendarysurvivaloverhaul/",
     "config/almostunified/**/*.json",
     "config/incontrol/**/*.json",
     "config/sanitydim/**/*.toml",

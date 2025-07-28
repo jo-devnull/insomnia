@@ -32,7 +32,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "bda8f3c8bffe4e503cc6e9df44cfadc3516bd7b5f4b282364ea044c8a330960c"
+hash = "c5c087cd6103421018b12ff1dbb3829debb8812584dca6d403aee1d610b05b5c"
 preserve = true
 
 [[files]]
@@ -68,6 +68,14 @@ file = "config/incontrol/spawner.json"
 hash = "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f"
 
 [[files]]
+file = "config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-client.toml"
+hash = "9c441fa4f2ecbec72a3ef9047f2a186c99f92e08e7c60de19e3d1caa723f44a5"
+
+[[files]]
+file = "config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-common.toml"
+hash = "e2bed886dab15fb07857c2a5b74d3a365ee4d930c345a07213b129b1c22a9a81"
+
+[[files]]
 file = "config/lmft.json"
 hash = "616b89227e557c16754a9d89ac5b28bf18da1607cea770e2b92eb95a91c6538e"
 
@@ -91,7 +99,7 @@ hash = "fc1ebdb9057b250030dd4c3b288134dfec8be7b95f4037a9f79edd991b5a5061"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "5c2e1a845ad8a057bb3719b72dbea13aaff9e494366fadeb2e0016dc251156c5"
+hash = "c5391f318ef5e13e65c27ed18658be1eaaeb3a7cbc4318080e164eb68d8ec857"
 
 [[files]]
 file = "config/sanitydim/default.toml"
@@ -235,7 +243,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "ae951156e94af4559173b0581fcdb7589950e5106ffbdae8c530d0b8a91e8834"
+hash = "50ddd4174c6ce0bb29f75f9a34ed0fdc6259dfc068b9c63a44d872e1b45909fb"
 
 [[files]]
 file = "modlist.md"
@@ -342,6 +350,16 @@ hash = "cb777bee6aad45b1a686dfea6e07ff06b7fbbb91924d6c08c94c9a55fd394e05"
 metafile = true
 
 [[files]]
+file = "mods/decoration/moremcmeta-emissive-forge.pw.toml"
+hash = "21c7c9a578ab5ec1b980e20c8f492c1ec0f8d71e9fd1cf125c793a63eec4a920"
+metafile = true
+
+[[files]]
+file = "mods/decoration/moremcmeta.pw.toml"
+hash = "f71031ccc174af97670f4731e216464c86603ae0a9fbe3960fb2e5e54dc55f78"
+metafile = true
+
+[[files]]
 file = "mods/decoration/particular-reforged.pw.toml"
 hash = "f2447533e7f2179e9d1f4b9bfcfda7ecd282958073da264568d97a0ad8350739"
 metafile = true
@@ -394,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/decoration/visuality-forge.pw.toml"
 hash = "e57ebfa8a3dbf661c8fb3bcab7774a4dc2916a2cf19fa8eecd644db318f223ad"
+metafile = true
+
+[[files]]
+file = "mods/decoration/wakes-reforged.pw.toml"
+hash = "e7b67b346bfc1848a0acb928825a223b24e7429683de46b65488ec2ddf7724f7"
 metafile = true
 
 [[files]]
@@ -529,6 +552,11 @@ metafile = true
 [[files]]
 file = "mods/dependency/insanelib.pw.toml"
 hash = "a1820287a8c6c009f03e8508d3db43575c1437ff5da5f55ab9dde93d998b16e4"
+metafile = true
+
+[[files]]
+file = "mods/dependency/kiwi.pw.toml"
+hash = "48f9220cb42525ba10f3705e67a25a40a400efbdf82cc2e3462cfe54b0c9cf67"
 metafile = true
 
 [[files]]
@@ -1602,6 +1630,11 @@ hash = "44cf97ba63bc714502c6e45b0f9b8f1b10055ad0294f1871cd850b5eb1caa3a9"
 metafile = true
 
 [[files]]
+file = "mods/world/snow-real-magic.pw.toml"
+hash = "baa27f661abb78daa47a855d6b9fa9e77f76c63c667eceaa960ac75485981e11"
+metafile = true
+
+[[files]]
 file = "mods/world/snowy-tents.pw.toml"
 hash = "6321ac2dc623f8d84400bebfe449a993846b263757bcd992a0690e66ec3ef727"
 metafile = true
@@ -1623,7 +1656,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "3688eb4f2e85c18e2d1663a54f11602f79cb07de355ae7609ce877d2291be8e4"
+hash = "59f9ea988ce523f313c632e778f40a5096ec63daf282b1c7899584c07689d99c"
 preserve = true
 
 [[files]]
@@ -1664,11 +1697,16 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "67c696b5396ee51a22bbdcb1f4b6cd5c6a9c0e61b75f54daa3b4d424ce5f1562"
+hash = "65f9c37696ed6613f43a531e0e8a19d5f5d3afceb923041d8b5fcf897c92cb99"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
 hash = "622db52934292b831dd7a67bfc6ad22827fe00ce9fb228241c56a29362843aeb"
+
+[[files]]
+file = "resourcepacks/animated-ore.pw.toml"
+hash = "8ffa3403658238fc5da4af736580ceb78ba89f049bad0918fcdb635757a10cfc"
+metafile = true
 
 [[files]]
 file = "resourcepacks/bibliophilia.pw.toml"
@@ -1698,11 +1736,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-waystones-texture.pw.toml"
 hash = "9e211b5199490a166526613d26e01fb42bc8ab488e82f9c496b5647665a6c748"
-metafile = true
-
-[[files]]
-file = "resourcepacks/glowing-emissive-ores.pw.toml"
-hash = "a67cb3dd523fe669eaab6a17141b9dd6836ccc517bd840ed926ce4e0fd488020"
 metafile = true
 
 [[files]]

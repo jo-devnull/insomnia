@@ -71,11 +71,23 @@
     }
   ],
   "lookup_history": [
-    "item:legendarysurvivaloverhaul:snow_chestplate{Damage:0}",
-    "item:legendarysurvivaloverhaul:canteen",
-    "item:legendarysurvivaloverhaul:heater"
+    "item:legendarysurvivaloverhaul:plaster",
+    "item:legendarysurvivaloverhaul:warm_string",
+    "item:legendarysurvivaloverhaul:heating_coat_1",
+    "item:minecraft:turtle_helmet{Coat:\"cooling1\",Damage:0}",
+    "item:legendarysurvivaloverhaul:sewing_table",
+    "item:minecraft:hopper",
+    "item:minecraft:arrow"
   ],
-  "craft_history": [],
+  "craft_history": [
+    "create_ironworks:tools/axe/copper",
+    "notreepunching:sticks_from_planks_with_flint_axe",
+    "create_ironworks:tools/pickaxe/copper",
+    "travelersbackpack:white_sleeping_bag",
+    "minecraft:glass_bottle",
+    "minecraft:furnace",
+    "better_campfires:firewood"
+  ],
   "recipe_defaults": {
     "added": [],
     "tags": {},

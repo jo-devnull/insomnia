@@ -87,14 +87,6 @@ function buildRecipes() = new Mapping<String, FileOutput> {
   }
 }
 
-function buildColdsweat() = new Mapping<String, FileOutput> {
-  for (key, val in import("misc/coldsweat.pkl").toMap()) {
-    ["\(path.data)/modpack/cold_sweat/\(key).json"] = (json) {
-        value = val
-      }
-  }
-}
-
 output {
   files {
     ...buildEmi()
@@ -102,7 +94,6 @@ output {
     ...buildLang()
     ...buildMisc()
     ...buildRecipes()
-    ...buildColdsweat()
 
     ["./config/incontrol/spawn.json"] = (json) {
       value = import("misc/spawn.pkl").rules
