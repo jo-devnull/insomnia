@@ -10,12 +10,10 @@
     "mod": [
       "alexsmobs",
       "alexscaves",
-      "benssharks",
       "aquamirae",
       "mowziesmobs",
       "cataclysm",
-      "cataclysm_spellbooks",
-      "traveloptics"
+      "cataclysm_spellbooks"
     ]
   },
   {
@@ -51,6 +49,20 @@
       "enhancedcelestials:blue_moon"
     ],
     "minheight": 27
+  },
+  {
+    "result": "deny",
+    "hostile": true,
+    "dimension": "overworld",
+    "mob": "minecraft:drowned",
+    "random": 0.75
+  },
+  {
+    "result": "deny",
+    "hostile": true,
+    "dimension": "overworld",
+    "mob": "upgrade_aquatic:thrasher",
+    "random": 0.98
   },
   {
     "result": "deny",

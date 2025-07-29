@@ -71,25 +71,114 @@
     }
   ],
   "lookup_history": [
-    "item:minecraft:dark_oak_fence_gate",
-    "item:legendarysurvivaloverhaul:plaster",
-    "item:legendarysurvivaloverhaul:warm_string",
-    "item:legendarysurvivaloverhaul:heating_coat_1",
-    "item:minecraft:turtle_helmet{Coat:\"cooling1\",Damage:0}",
-    "item:legendarysurvivaloverhaul:sewing_table",
+    "item:minecraft:compass",
+    "item:minecraft:saddle",
+    "item:minecraft:tropical_fish",
+    "item:minecraft:copper_ingot",
+    "item:dungeonsdelight:brined_flesh",
+    "item:supplementaries:slingshot{Damage:0}",
+    {
+      "type": "item",
+      "id": "minecraft:slime_ball",
+      "amount": 2
+    },
+    "item:stardew_fishing:trap_bobber{Damage:0}",
+    "item:stardew_fishing:cork_bobber{Damage:0}",
+    {
+      "type": "item",
+      "id": "minecraft:flint",
+      "amount": 6
+    },
+    {
+      "type": "item",
+      "id": "minecraft:book",
+      "amount": 45
+    },
+    {
+      "type": "item",
+      "id": "create_ironworks:tin_ingot",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "minecraft:rabbit_hide",
+      "amount": 3
+    },
+    {
+      "type": "item",
+      "id": "immersive_weathering:moss_clump",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "minecraft:moss_block",
+      "amount": 6
+    },
+    "item:legendarysurvivaloverhaul:canteen",
+    "item:legendarysurvivaloverhaul:large_canteen",
     "item:minecraft:hopper",
-    "item:minecraft:arrow"
+    {
+      "type": "item",
+      "id": "minecraft:diamond",
+      "amount": 3
+    },
+    "item:legendarysurvivaloverhaul:thermometer",
+    "item:minecraft:pumpkin",
+    {
+      "type": "item",
+      "id": "farmersdelight:pumpkin_slice",
+      "amount": 30
+    },
+    {
+      "type": "item",
+      "id": "ecologics:coconut_husk",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "minecraft:quartz",
+      "amount": 4
+    },
+    "item:minecraft:chiseled_quartz_block",
+    "item:better_campfires:firewood",
+    "item:notreepunching:fire_starter{Damage:0}",
+    "item:notreepunching:flint_axe{Damage:0}",
+    "item:notreepunching:flint_pickaxe{Damage:0}"
   ],
   "craft_history": [
+    "better_campfires:firewood",
+    "farmersdelight:pumpkin_from_slices",
+    "notreepunching:leather_from_leggings_with_knife",
+    "vanillabackport:saddle",
+    "notreepunching:leather_from_boots_with_knife",
+    "farmersdelight:iron_knife",
+    "farmersdelight:lead_from_straw",
+    "supplementaries:slingshot",
+    "minecraft:fishing_rod",
+    "minecraft:flint_and_steel",
+    "minecraft:glass_bottle",
+    "minecraft:hopper",
+    "minecraft:chest",
+    "travelersbackpack:white_sleeping_bag",
+    "legendarysurvivaloverhaul:plaster",
+    "notreepunching:string_from_wool_with_knife",
+    "minecraft:white_wool_from_string",
+    "minecraft:dark_oak_boat",
+    "notreepunching:generated/minecraft_dark_oak_planks",
+    "minecraft:crafting_table",
+    "notreepunching:sticks_from_logs_with_flint_axe",
+    "create_ironworks:tools/paxel/iron",
+    "minecraft:furnace",
+    "notreepunching:fire_starter",
+    "notreepunching:flint_pickaxe",
+    "notreepunching:generated/minecraft_spruce_planks",
     "notreepunching:plant_string",
     "notreepunching:plant_fiber_from_saplings_with_knife",
-    "create_ironworks:tools/axe/copper",
-    "notreepunching:sticks_from_planks_with_flint_axe",
-    "create_ironworks:tools/pickaxe/copper",
-    "travelersbackpack:white_sleeping_bag",
-    "minecraft:glass_bottle",
-    "minecraft:furnace",
-    "better_campfires:firewood"
+    "notreepunching:flint_axe",
+    "notreepunching:plant_fiber_from_small_flowers_with_knife",
+    "notreepunching:plant_fiber_from_tall_flowers_with_knife",
+    "farmersdelight:flint_knife",
+    "notreepunching:flint_from_gravel"
   ],
   "recipe_defaults": {
     "added": [],

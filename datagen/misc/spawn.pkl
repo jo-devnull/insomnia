@@ -12,6 +12,14 @@ const deny = (default) {
   result = "deny"
 }
 
+const customMobWeight {
+  // [<mod>:<entity>] = weight [0-1]
+  // maybe counter-intuitive but heigher
+  // weight means the entity spawns less
+  ["minecraft:drowned"] = 0.75
+  ["upgrade_aquatic:thrasher"] = 0.98
+}
+
 rules {
   new {
     result = "deny"
@@ -22,12 +30,10 @@ rules {
     mod {
       "alexsmobs"
       "alexscaves"
-      "benssharks"
       "aquamirae"
       "mowziesmobs"
       "cataclysm"
       "cataclysm_spellbooks"
-      "traveloptics"
     }
   }
 
@@ -49,7 +55,6 @@ rules {
       "enhancedcelestials:super_blood_moon"
     }
   }
-
   
   (deny) {
     lunar {
@@ -57,6 +62,13 @@ rules {
     }
     
     minheight = 27
+  }
+
+  for (mobName, weight in customMobWeight.toMap()) {
+    (deny) {
+      mob = mobName
+      random = weight
+    }
   }
 
   (deny) {

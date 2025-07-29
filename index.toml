@@ -61,7 +61,7 @@ hash = "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "eea0b81c64b32ae3fc7fa9f23174611eb3536418773fc08ab99984a701e0ac50"
+hash = "89fc277c6e56eba06a30a98ae852e125f1734d9375e2bc3852d25c660729871c"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -234,6 +234,10 @@ file = "defaultconfigs/hourglass-server.toml"
 hash = "43e45a88286d8aa87e0681915d1f2147cb6ea79f75c1c6428161ed16e3e4705e"
 
 [[files]]
+file = "defaultconfigs/travelersbackpack-server.toml"
+hash = "007f670b9f039f82f9803799d8b7267533086d3403727fceb162529b3c45c2e4"
+
+[[files]]
 file = "defaultconfigs/undeadnights-server.toml"
 hash = "a1f36d1b8d78c26f9136625d9bf3549e59d9a545136096d184d44c156fdc584a"
 
@@ -243,7 +247,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "b26ca1ad1feda2d32a3965be61dbce5b574a883dc3d4bcfbc65869cfaac52c1e"
+hash = "8c45564164c4f9878703ee5341d98fd159019a34a61b63a6a4d2b98a4b38d02b"
 
 [[files]]
 file = "modlist.md"
@@ -926,7 +930,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/insomnia-tweaks.pw.toml"
-hash = "e0252dd517126b6cc32cb220bb63695d5ac3488781e6d76f87ece1bce4cfdfdf"
+hash = "612d394dcc55048af188a54c18713a3e8f2f0e673c10b3cec9d8c64454e8ca88"
 metafile = true
 
 [[files]]
@@ -1661,7 +1665,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "6920f794f2794eb894b469cbeb44d3572b35204ebd806011b12ac7bef20eb0de"
+hash = "9ea683d767f856f8e52060cce9cbdf19f385f9a3942fa7a9d613fd216ebb4e1e"
 preserve = true
 
 [[files]]
@@ -1702,7 +1706,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "65f9c37696ed6613f43a531e0e8a19d5f5d3afceb923041d8b5fcf897c92cb99"
+hash = "dcf7ef3e6bf4183ec8bcd188b01a98f76987124cb28402d3cb510ff42a0f6fd4"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
