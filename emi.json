@@ -71,11 +71,83 @@
     }
   ],
   "lookup_history": [
-    "item:legendarysurvivaloverhaul:seasonal_calendar",
-    "item:minecraft:leather"
+    "item:create:tree_fertilizer",
+    "item:create:windmill_bearing",
+    "item:create:contraption_controls",
+    "item:create:andesite_door",
+    "item:redeco:polished_spruce_stairs",
+    "item:redeco:polished_spruce_planks",
+    {
+      "type": "item",
+      "id": "minecraft:stripped_spruce_wood",
+      "amount": 6
+    },
+    "item:minecraft:grass_block",
+    "item:farmersdelight:organic_compost",
+    "item:brewinandchewin:withering_dross",
+    {
+      "type": "item",
+      "id": "dungeonsdelight:rotbulb_crop",
+      "amount": 6
+    },
+    "item:dungeonsdelight:gunk",
+    {
+      "type": "item",
+      "id": "farmersdelight:straw",
+      "amount": 12
+    },
+    "item:farmersdelight:rich_soil",
+    "item:supplementaries:planter",
+    "item:minecraft:stripped_dark_oak_log",
+    {
+      "type": "item",
+      "id": "minecraft:oak_slab",
+      "amount": 24
+    },
+    "item:minecraft:coal_block",
+    "item:legendarysurvivaloverhaul:heater",
+    "item:farmersdelight:tree_bark",
+    [
+      "item:farmersdelight:organic_compost",
+      "item:farmersdelight:red_mushroom_colony",
+      "item:miners_delight:wild_cave_carrots",
+      "item:minecraft:podzol",
+      "item:minecraft:mycelium",
+      "item:farmersdelight:rich_soil",
+      "item:farmersdelight:brown_mushroom_colony",
+      "item:farmersdelight:rich_soil_farmland",
+      "#item:c:mushrooms"
+    ],
+    "item:minecraft:iron_trapdoor",
+    "item:create:item_hatch",
+    "item:minecraft:barrel",
+    "item:create:item_vault",
+    "item:legendarysurvivaloverhaul:cooler",
+    "item:minecraft:campfire"
   ],
   "craft_history": [
-    "legendarysurvivaloverhaul:seasonal_calendar"
+    "minecraft:stripped_mangrove_wood",
+    "create:crafting/kinetics/windmill_bearing",
+    "create:crafting/kinetics/andesite_door",
+    "minecraft:spruce_door",
+    "redeco:spruce_polished_planks",
+    "redeco:polished_spruce_stairs",
+    "minecraft:stripped_spruce_wood",
+    "legendarysurvivaloverhaul:healing_herbs",
+    "farmersdelight:organic_compost_from_tree_bark",
+    "farmersdelight:organic_compost_from_rotten_flesh",
+    "minecraft:lever",
+    "legendarysurvivaloverhaul:heater",
+    "better_campfires:new_campfire_recipe",
+    "better_campfires:firewood",
+    "notreepunching:sticks_from_planks_with_saw",
+    "notreepunching:iron_saw",
+    "minecraft:coal_block",
+    "minecraft:iron_axe",
+    "create:crafting/logistics/item_hatch",
+    "minecraft:iron_trapdoor",
+    "create:crafting/kinetics/item_vault",
+    "minecraft:barrel"
   ],
   "recipe_defaults": {
     "added": [],

@@ -119,5 +119,7 @@
     "cataclysm_spellbooks:summoned_coralssus"
     "cataclysm_spellbooks:summoned_draugur"
     "cataclysm_spellbooks:summoned_koboleton"
+
+    "legendarycreatures:ladybug"
   }
 }

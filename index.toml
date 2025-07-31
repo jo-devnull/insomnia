@@ -127,7 +127,7 @@ hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "b69f0657ad22b64f2f9257bf1dd252080456ab4cdf71195aa69cef1886050665"
+hash = "e926b5ec0b95b508bd739e5cf94467e6f7b7b193c15512c4789ee3d9cac161d3"
 
 [[files]]
 file = "credits.txt"
@@ -247,7 +247,35 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "c323a755692a46c55d6883f6d603ea7943cea7de87114aaeafb8bb6468117814"
+hash = "1d2283ba5f956ed50d44d6023fd51bfdd6d317cd6e0f39c110f23afe36daf472"
+
+[[files]]
+file = "journeymap/config/5.10/journeymap.core.config"
+hash = "eb0196ebed3aee82b8b226fe84f90ae47c9ff1ed2c8428197d96a07879b79e7e"
+
+[[files]]
+file = "journeymap/config/5.10/journeymap.fullmap.config"
+hash = "478e87f83653e45b91997436a58573094b7c80e651c605f409b7003eab1ae70d"
+
+[[files]]
+file = "journeymap/config/5.10/journeymap.minimap.config"
+hash = "8a49cd7b88c32527c8ad1cb0510ff38c72e0d3fe6fc69120be2afd0786f947b8"
+
+[[files]]
+file = "journeymap/config/5.10/journeymap.minimap2.config"
+hash = "a12036dd68f46f9c3b847a90c9ceb0e67e869d12608d5ca8906a6a6d06bcc2ef"
+
+[[files]]
+file = "journeymap/config/5.10/journeymap.topo.config"
+hash = "8f950f1d2fec134c0daa79191b88227d5976e4cf7dc71bbf732efc69a62f5b24"
+
+[[files]]
+file = "journeymap/config/5.10/journeymap.waypoint.config"
+hash = "3564851fbc00c4d297a11c69089d02c3cda033eede11b843f1e62da37cbf6ab2"
+
+[[files]]
+file = "journeymap/config/5.10/journeymap.webmap.config"
+hash = "2c939e2308e7d7d419af26ad342479690e8ae321c7af3ba64d8b0e897ccc8b5b"
 
 [[files]]
 file = "modlist.md"
@@ -311,11 +339,6 @@ metafile = true
 [[files]]
 file = "mods/decoration/amendments.pw.toml"
 hash = "b7de55c4390efff71e1e188cc42c05a1ff8edbdad2b05a2f191f90dfc76c9e7f"
-metafile = true
-
-[[files]]
-file = "mods/decoration/armourers-workshop.pw.toml"
-hash = "86f59052bcc278c1304d1069b6d0632a4c4a4c4746d4db5aef4d8a223dfeb46b"
 metafile = true
 
 [[files]]
@@ -784,6 +807,16 @@ hash = "adbdf7bdf1ccfafda76be696f8bde9d2a7ac36f699d035ff9a02609672d8576a"
 metafile = true
 
 [[files]]
+file = "mods/mechanics/journeymap-integration.pw.toml"
+hash = "a74fc9ef54a497ded21b60c47283b96cfb3fcdec3dc5d2d05f66071b8bcd5ca2"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/journeymap.pw.toml"
+hash = "af1de2f3e6565f818d97142a3ccbe1ab261f03b6d22ff17a6f7be2deb14f8292"
+metafile = true
+
+[[files]]
 file = "mods/mechanics/legendary-survival-overhaul.pw.toml"
 hash = "ccb9f387fc45c203fe1df0ff8b9ed2cc06ac2252bb2b1a8e46d93bb1b363276d"
 metafile = true
@@ -826,16 +859,6 @@ metafile = true
 [[files]]
 file = "mods/mechanics/waystones.pw.toml"
 hash = "a285e3da98b4d1544d9b893bead476dbf1d295395935350371b7ba4083b2083c"
-metafile = true
-
-[[files]]
-file = "mods/mechanics/xaeros-minimap.pw.toml"
-hash = "042e19cd59f7ddaf93288e7c42e735d8455fbca7911d9b072cdcb58cb08107c6"
-metafile = true
-
-[[files]]
-file = "mods/mechanics/xaeros-world-map.pw.toml"
-hash = "19f160a8034e7d40d432e1a1ce074728be6ec1c41f5ccc8ba8ad9cdcb8ef37d7"
 metafile = true
 
 [[files]]
@@ -1081,11 +1104,6 @@ metafile = true
 [[files]]
 file = "mods/misc/vein-mining.pw.toml"
 hash = "aebad8093fb59d03eb81b34f8c266c3d804f9971b68e2448f7e985de309a9357"
-metafile = true
-
-[[files]]
-file = "mods/misc/xaeros-minimap-world-map-waystones-compability.pw.toml"
-hash = "82cbddd6e922af2d763277ae187bdcc4d574da64354e15c8d732d6dd4c468d91"
 metafile = true
 
 [[files]]
@@ -1665,7 +1683,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b5f2a2e1af680b279ec6c7b920be25733f0100fbb838ac104508299bb5961614"
+hash = "a4bf7cbf2fe0d65affa3dd7c008b198ca43b439cacad3dadaa5b5a489fb03bc7"
 preserve = true
 
 [[files]]
@@ -1706,7 +1724,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "8b697861f477edbb9ec6307278def4741571cb35e5ca925b0f9365193eef3b04"
+hash = "789ac1cc177a44210e4a4fca52994f0983686ae9e5d1fe4934fd34d0e5f70291"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
