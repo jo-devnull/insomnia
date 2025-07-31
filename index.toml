@@ -847,6 +847,11 @@ hash = "63f7f86ee5559a633e668c866490e37e6e42c7e30c9d6fd32f85db27b0c6ffaa"
 metafile = true
 
 [[files]]
+file = "mods/mechanics/transmog.pw.toml"
+hash = "9b1d22d302f52a3d5791209ecea947662521fcb71cb6532e539dc5e5396b4a15"
+metafile = true
+
+[[files]]
 file = "mods/mechanics/treechop.pw.toml"
 hash = "28338683a820169965b741c5bf8c331b5c3d0e77ec0da681f6c64face100ca85"
 metafile = true
@@ -1683,7 +1688,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "a4bf7cbf2fe0d65affa3dd7c008b198ca43b439cacad3dadaa5b5a489fb03bc7"
+hash = "2ed2dba347cc3ec2dca3c440ca1e6bb276a9563d2426382a52a95fd9e3019404"
 preserve = true
 
 [[files]]
