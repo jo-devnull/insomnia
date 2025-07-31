@@ -2,15 +2,12 @@
     "schema_version": 2,
     "failed_reloads_per_session": 5,
     "default_packs": [
-        "file/Fancy_Beds-v3.4.zip",
+        "file/Fancy_Beds-v4.0.zip",
         "file/waystones_1.20.zip",
         "file/Improved Crafting Table V1.0.zip",
         "file/No Enchant Glint 1.20.1.zip",
         "file/SmoothDrawers_1.20.1_v2.zip",
         "file/VanillaTweaks.zip",
-
-        "file/GEO - v1.71.0.zip",
-        
         "file/Detail-Brush-1.6-1.20.zip",
         "file/Tool_Belt_Retextured_1.20.x_V3.zip",
         "file/3.3.1v_VisualEnchantments.zip",
@@ -42,15 +39,12 @@
         },
 
         "1": [
-            "file/Fancy_Beds-v3.4.zip",
+            "file/Fancy_Beds-v4.0.zip",
             "file/waystones_1.20.zip",
             "file/Improved Crafting Table V1.0.zip",
             "file/No Enchant Glint 1.20.1.zip",
             "file/SmoothDrawers_1.20.1_v2.zip",
             "file/VanillaTweaks.zip",
-
-            "file/GEO - v1.71.0.zip",
-
             "file/Tool_Belt_Retextured_1.20.x_V3.zip",
             "file/3.3.1v_VisualEnchantments.zip",
             "file/Create_Style_Hopper_24_5_29.zip",

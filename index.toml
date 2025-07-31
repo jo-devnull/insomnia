@@ -99,7 +99,7 @@ hash = "fc1ebdb9057b250030dd4c3b288134dfec8be7b95f4037a9f79edd991b5a5061"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "d47ef59c6a174d1a232dc74da3150bcc7c51ea79c687a8673d20ff74592e69a1"
+hash = "a5bba9b792d9bb05da76646478d28d910b52456e6e5256871583601bebff1b89"
 
 [[files]]
 file = "config/sanitydim/default.toml"
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/decoration/polytone.pw.toml"
-hash = "3463e9d165a7bae069aa991ee3a92a18e434649da01592a021531d45f4a67265"
+hash = "dc2606ad54fdfa2a336d1db356cec77271ee237e39d190921c6a74a50d43a1ee"
 metafile = true
 
 [[files]]
@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/decoration/visual-workbench.pw.toml"
-hash = "0656bf0e828c3de761c373b87455e1aa3ebad8eda995a132c2757cade776a185"
+hash = "873f24b47799ee61989b4d381e4cfab62c2735d2e3b6c940d18747f8ef1645ca"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/azurelib.pw.toml"
-hash = "71b012b3ca18138c8e357c164cf0f33832a2f4061743924690afd4c86076b598"
+hash = "1108afd75d12165b4dcdcb0482c4fa142860d9d6c0e169ba40b8e38144bdf2e3"
 metafile = true
 
 [[files]]
@@ -525,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/forgeendertech.pw.toml"
-hash = "e03ab507436170398969e0bfc41d0bd42038aca36ca7936319984b76ed48129e"
+hash = "cd48fe3423dc77813bb1298fb0e5d5c2509bbb5532dfbf0dc5b5db142a113122"
 metafile = true
 
 [[files]]
@@ -590,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/petrolpark.pw.toml"
-hash = "499b014fe894aa7803f2d1affbb2225d447c5ebc7106f9ba9dd445a969f46441"
+hash = "aae16960f2003bf3bc5ef7255b9b0a89f6a4410a1455aba6572b47827a28d8f6"
 metafile = true
 
 [[files]]
@@ -625,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/selene.pw.toml"
-hash = "9ee630f75ee773de961f442d8eb091fa842dc0a2ff6ce6f0562b8194635f6e85"
+hash = "e0548d91800ab5f229477179a8d1ed50cab20d82a43450d51f37aa5d5f362ec4"
 metafile = true
 
 [[files]]
@@ -795,7 +795,7 @@ metafile = true
 
 [[files]]
 file = "mods/mechanics/parcool.pw.toml"
-hash = "d6082b7e3ede1f1fa77df158c1679d063e7ad58250b96b918e5798f068137e7a"
+hash = "2438da2d375b218f4a5c02345e77e96ed759a792092d023982add05e632951a0"
 metafile = true
 
 [[files]]
@@ -920,7 +920,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/horseman.pw.toml"
-hash = "da54d35011916dc9d5b6cdeff9c2bc52303eeb44d747c170a06929ee7b061d55"
+hash = "ce41d407391366c76aa0df233e4a63bdda78406c255ca74d8a2cb327d2fa90dd"
 metafile = true
 
 [[files]]
@@ -1055,7 +1055,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/sound-physics-remastered.pw.toml"
-hash = "ed4349377e9761b56b477ba951cc8d4be94f3a08c4f959a55d46cb600e040b47"
+hash = "4bc420f77cac5e4ededc3c1f67d937757220aa81a1c6657515d29a74af01703e"
 metafile = true
 
 [[files]]
@@ -1140,7 +1140,7 @@ metafile = true
 
 [[files]]
 file = "mods/mobs/critters-and-companions.pw.toml"
-hash = "354f303fbf568174393051ae888f4ec161b5550982c86358f8a6e7f0850ef76d"
+hash = "49e5cf3e147a50505bf8f9e852dd0392991721f5af9944790dc5ed4c052e87c5"
 metafile = true
 
 [[files]]
@@ -1180,12 +1180,12 @@ metafile = true
 
 [[files]]
 file = "mods/mobs/legendary-creatures.pw.toml"
-hash = "0e29fd84b3c103140bfc9fb083d7d0f45e99b84007b8bbe35c4fd1ac037d87d5"
+hash = "2272cad4af1d54b9bb58c9cd3e5ccd11d1a7746386c0688a30c5a666f89354ea"
 metafile = true
 
 [[files]]
 file = "mods/mobs/lendercataclysm.pw.toml"
-hash = "231c741f525b43c2a5ce01e2dc93aa95bfbcbef67768fdfe28569016d9dda739"
+hash = "868bce6090fbbd53a0dfdb65c389b3eff546330610f28294d6c842f9cc62a057"
 metafile = true
 
 [[files]]
@@ -1215,7 +1215,7 @@ metafile = true
 
 [[files]]
 file = "mods/mobs/undead-nights.pw.toml"
-hash = "f0b8f2d455f396605fc673ea41d92a9bae480d4085b0da3225c9a4cd9aaae1e9"
+hash = "3fc31df1577623e0713f9837b68bd64afb1f89b40726e70ca333a7cc7fe8941c"
 metafile = true
 
 [[files]]
@@ -1240,7 +1240,7 @@ metafile = true
 
 [[files]]
 file = "mods/performance/asyncparticles.pw.toml"
-hash = "309fba17cc07f7700c3c500c357aa140e8b1d0dc851567e6dfaae07a7d3fd07a"
+hash = "e62be294a6dc24c28b4e2457ab9bcafe2577d3280577b85a22eeb45087524c29"
 metafile = true
 
 [[files]]
@@ -1425,12 +1425,12 @@ metafile = true
 
 [[files]]
 file = "mods/technology/create-aquatic-ambitions.pw.toml"
-hash = "af7f8b8996d5ce06aa48e6c1cd562bf6d5ea4ba7ffa1107fd4b86bb6bf26ec4b"
+hash = "85cc14f129930791df7bddafaeb71dc1336840ec4c8fbc175145989bd85e1c77"
 metafile = true
 
 [[files]]
 file = "mods/technology/create-diesel-generators.pw.toml"
-hash = "7a427dbe1085096d49b6f7b3d817188bc9251a6e7deb95e1d04067fb635c6641"
+hash = "3099af1cb3f83501bdb9668017216d3459687963f2f9ef4038366ded18185cb5"
 metafile = true
 
 [[files]]
@@ -1480,7 +1480,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/biome-replacer.pw.toml"
-hash = "e71026e23bb26ea1052dcb2214f03d16bfa8eb43074c77ca3d8236f3dec24f76"
+hash = "b633d51aa70fc4ff82e04488ab959644a3e8ebc249692ea7005c8726935a81f1"
 metafile = true
 
 [[files]]
@@ -1729,7 +1729,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fancy-beds.pw.toml"
-hash = "521c828f71166e7bb8c8d074185e5eff7a136a32ed2c7e52952165fb24aef819"
+hash = "34c9889ab7b1290bc9f3a1f83993a318c850661ae8cebc52a0e90cb1f8fea6ef"
 metafile = true
 
 [[files]]
@@ -1740,11 +1740,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-waystones-texture.pw.toml"
 hash = "9e211b5199490a166526613d26e01fb42bc8ab488e82f9c496b5647665a6c748"
-metafile = true
-
-[[files]]
-file = "resourcepacks/glowing-emissive-ores.pw.toml"
-hash = "a67cb3dd523fe669eaab6a17141b9dd6836ccc517bd840ed926ce4e0fd488020"
 metafile = true
 
 [[files]]
@@ -1759,7 +1754,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/shrimps-immersive-interfaces.pw.toml"
-hash = "20273c72d650770c0648eaddf56f2c8de4015046342ed290d21044e2f8acbb43"
+hash = "291bb56a5d8add3474d1f321ed60a8442649a190cd32df1f15335e68c01e86c4"
 metafile = true
 
 [[files]]
@@ -1790,11 +1785,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
 hash = "ae7edf88421a097a50a8d2081dad32598bc24fc3bff7f0961763645a6fff37d2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xalis-framed-planks.pw.toml"
-hash = "58628eebf45970341d2d445cdc497959115e5eb98bcbaf045c00effc8440e6bf"
 metafile = true
 
 [[files]]

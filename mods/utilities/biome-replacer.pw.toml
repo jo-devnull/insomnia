@@ -1,13 +1,13 @@
 name = "Biome Replacer"
-filename = "../biomereplacer-2.0-hippo-forge.jar"
+filename = "biomereplacer-2.1-hippo-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DAXbR0Wj/versions/yx7ZGJGS/biomereplacer-2.0-hippo-forge.jar"
+url = "https://cdn.modrinth.com/data/DAXbR0Wj/versions/BAO1kzL2/biomereplacer-2.1-hippo-forge.jar"
 hash-format = "sha512"
-hash = "d648a03f7cbdfa97f8d38b7816a0acd9c3814517f03a18aa59372c7e73d4f618e879d37cb0d170ffeb493f967c9ab73aacb21b54e39e97c23f0baa0b8250111c"
+hash = "e0be90158c080d9aea7aa8358bbeb071a95068e9e16063f335485980632cf5ec3a93e629923b87d9afc1e6a5bb08d83622a3470ee0fa9efe204fae779b09551b"
 
 [update]
 [update.modrinth]
 mod-id = "DAXbR0Wj"
-version = "yx7ZGJGS"
+version = "BAO1kzL2"
