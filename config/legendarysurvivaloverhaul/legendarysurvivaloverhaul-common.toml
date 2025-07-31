@@ -9,7 +9,7 @@
 	# Whether the overhaul health system is enabled.
 	"Health Overhaul Enabled" = true
 	# Whether body members receive localized damages.
-	"Localized Body Damage Enabled" = true
+	"Localized Body Damage Enabled" = false
 
 	[core.advanced]
 		# How often player temperature, thirst, body damage and health is regularly synced between the client and server, in ticks.
@@ -72,7 +72,7 @@
 		"Temperature Immunity On Death Enabled" = true
 		# Temperature immunity period in ticks while the player is immune to temperature effects after death.
 		#Range: 0 ~ 100000
-		"Temperature Immunity On Death Time" = 1800
+		"Temperature Immunity On Death Time" = 5800
 		# If enabled, players will be immune to temperature effects on first spawn in a world.
 		"Temperature Immunity On First Spawn Enabled" = true
 		# Temperature immunity period in ticks while the player is immune to temperature effects on first spawn.
@@ -622,42 +622,42 @@
 		# The first effect will be triggered with the first amplifier value when the first threshold is reach.
 		[body-damage.body-parts-effects.head]
 			# The list of effects that will be triggered when the head is damaged by the percentage of remaining head health defined in the thresholds.
-			"Head Part Effects" = ["legendarysurvivaloverhaul:headache"]
+			"Head Part Effects" = []
 			# The list of amplifiers the effect will have.
 			# 0 means the basic effect, 1 means the effect is amplified once.
-			"Head Part Effect Amplifiers" = [0]
+			"Head Part Effect Amplifiers" = []
 			# The list of thresholds for which each effect will be triggered. A threshold is a percentage of remaining head health.
 			# 0 means the head is fully damaged.
 			"Head Part Effect Thresholds" = [0.2]
 
 		[body-damage.body-parts-effects.arms]
-			"Arms Part Effects" = ["minecraft:mining_fatigue"]
+			"Arms Part Effects" = []
 			"Arms Part Effect Amplifiers" = [0]
 			"Arms Part Effect Thresholds" = [0.2]
 			# These effects will be triggered when both arms reach the thresholds.
 			# If a same effect is used with a higher amplifier, the higher prevails (normal Minecraft behaviour).
-			"Both Arms Part Effects" = ["minecraft:weakness"]
+			"Both Arms Part Effects" = [0]
 			"Both Arms Part Effect Amplifiers" = [0]
 			"Both Arms Part Effect Thresholds" = [0.2]
 
 		[body-damage.body-parts-effects.chest]
-			"Chest Part Effects" = ["legendarysurvivaloverhaul:vulnerability"]
+			"Chest Part Effects" = []
 			"Chest Part Effect Amplifier" = [0]
 			"Chest Part Effect Thresholds" = [0.2]
 
 		[body-damage.body-parts-effects.legs]
-			"Legs Part Effects" = ["legendarysurvivaloverhaul:hard_falling"]
+			"Legs Part Effects" = []
 			"Legs Part Effect Amplifiers" = [0]
 			"Legs Part Effect Thresholds" = [0.2]
-			"Both Legs Part Effects" = ["legendarysurvivaloverhaul:hard_falling"]
+			"Both Legs Part Effects" = []
 			"Both Legs Part Effect Amplifiers" = [1]
 			"Both Legs Part Effect Thresholds" = [0.2]
 
 		[body-damage.body-parts-effects.feet]
-			"Feet Part Effects" = ["minecraft:slowness"]
+			"Feet Part Effects" = []
 			"Feet Part Effect Amplifiers" = [0]
 			"Feet Part Effect Thresholds" = [0.2]
-			"Both Feet Part Effects" = ["minecraft:slowness"]
+			"Both Feet Part Effects" = []
 			"Both Feet Part Effect Amplifiers" = [1]
 			"Both Feet Part Effect Thresholds" = [0.2]
 

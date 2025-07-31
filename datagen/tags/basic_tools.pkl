@@ -111,7 +111,7 @@ legendarysurvivaloverhaul {
   "large_canteen"
   "bandage"
   "healing_herbs"
-  "medkit"
+  "medikit"
   "morphine"
   "plaster"
   "cooling_coat"
@@ -126,4 +126,8 @@ legendarysurvivaloverhaul {
   "thermal_resistance_ring"
   "first_aid_supplies"
   "heart_container"
+}
+
+measurements {
+  "tape_measure"
 }

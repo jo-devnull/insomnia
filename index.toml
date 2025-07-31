@@ -32,7 +32,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "7b7622b915e04b4767cc62e7aba54edf9c8c66345facc2803a9c7cb1743fcf51"
+hash = "bda8f3c8bffe4e503cc6e9df44cfadc3516bd7b5f4b282364ea044c8a330960c"
 preserve = true
 
 [[files]]
@@ -73,7 +73,7 @@ hash = "9c441fa4f2ecbec72a3ef9047f2a186c99f92e08e7c60de19e3d1caa723f44a5"
 
 [[files]]
 file = "config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-common.toml"
-hash = "e2bed886dab15fb07857c2a5b74d3a365ee4d930c345a07213b129b1c22a9a81"
+hash = "7e42c70399833906570147a447e348372fd1cb45b060c7eecd632865797944af"
 
 [[files]]
 file = "config/lmft.json"
@@ -103,7 +103,7 @@ hash = "d47ef59c6a174d1a232dc74da3150bcc7c51ea79c687a8673d20ff74592e69a1"
 
 [[files]]
 file = "config/sanitydim/default.toml"
-hash = "e75f2257cdb937f249836879fe27270f2de95edbc842ef09b80755a198190f21"
+hash = "55bc9010596e9d042b8ada90f1ec86cee60d2d499bad670b5ee732999392484d"
 
 [[files]]
 file = "config/sanitydim/dimension/example.toml"
@@ -127,7 +127,7 @@ hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "a1d27e35356415a40749da1bf8dbd7954f0d890f8ed4bacefe499a85003f1814"
+hash = "b69f0657ad22b64f2f9257bf1dd252080456ab4cdf71195aa69cef1886050665"
 
 [[files]]
 file = "credits.txt"
@@ -247,7 +247,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "8c45564164c4f9878703ee5341d98fd159019a34a61b63a6a4d2b98a4b38d02b"
+hash = "76996dcaacdb8592101e632ab7baa89894ea72d82f7a5173aa5e55a1bb3c83d1"
 
 [[files]]
 file = "modlist.md"
@@ -930,7 +930,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/insomnia-tweaks.pw.toml"
-hash = "612d394dcc55048af188a54c18713a3e8f2f0e673c10b3cec9d8c64454e8ca88"
+hash = "3084be0b020207f2188ab1989d01b1443ba9039ae3048cf8514016525718b5f0"
 metafile = true
 
 [[files]]
@@ -1665,7 +1665,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "9ea683d767f856f8e52060cce9cbdf19f385f9a3942fa7a9d613fd216ebb4e1e"
+hash = "45abe9d1565045203adfc830b1e42eeb23923fee3721bbc307bc3fca26976916"
 preserve = true
 
 [[files]]
@@ -1706,7 +1706,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "dcf7ef3e6bf4183ec8bcd188b01a98f76987124cb28402d3cb510ff42a0f6fd4"
+hash = "a03bf2eb695b4bfb01eb2e8161a348a8d89af3b06af01c39702c0eb3b4fe798e"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"

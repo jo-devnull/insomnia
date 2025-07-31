@@ -138,7 +138,7 @@
 		changed_dimension = -10.0
 		#Players gain this amount of sanity upon being struck by lightning
 		#Range: -100.0 ~ 100.0
-		struck_by_lightning = -30.0
+		struck_by_lightning = 0.0
 		#Define a list of items that will affect sanity upon their usage
 		#An item should be included as follows: item_registry_name;A;B
 		#Where A is how much sanity is gained upon usage and B is a custom category
