@@ -1,5 +1,5 @@
 name = "Biome Replacer"
-filename = "biomereplacer-2.1-hippo-forge.jar"
+filename = "../biomereplacer-2.1-hippo-forge.jar"
 side = "both"
 
 [download]

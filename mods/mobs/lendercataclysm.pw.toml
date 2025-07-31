@@ -1,5 +1,5 @@
 name = "L_Ender 's Cataclysm"
-filename = "L_Enders_Cataclysm-3.11.jar"
+filename = "../L_Enders_Cataclysm-3.11.jar"
 side = "both"
 
 [download]

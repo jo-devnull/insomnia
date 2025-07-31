@@ -1,5 +1,5 @@
 name = "Polytone"
-filename = "polytone-1.20-3.5.3.jar"
+filename = "../polytone-1.20-3.5.3.jar"
 side = "client"
 
 [download]
