@@ -9,7 +9,7 @@
 	# Whether the overhaul health system is enabled.
 	"Health Overhaul Enabled" = true
 	# Whether body members receive localized damages.
-	"Localized Body Damage Enabled" = false
+	"Localized Body Damage Enabled" = true
 
 	[core.advanced]
 		# How often player temperature, thirst, body damage and health is regularly synced between the client and server, in ticks.
@@ -636,7 +636,7 @@
 			"Arms Part Effect Thresholds" = [0.2]
 			# These effects will be triggered when both arms reach the thresholds.
 			# If a same effect is used with a higher amplifier, the higher prevails (normal Minecraft behaviour).
-			"Both Arms Part Effects" = [0]
+			"Both Arms Part Effects" = ["minecraft:weakness"]
 			"Both Arms Part Effect Amplifiers" = [0]
 			"Both Arms Part Effect Thresholds" = [0.2]
 

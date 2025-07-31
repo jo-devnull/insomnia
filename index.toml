@@ -73,7 +73,7 @@ hash = "9c441fa4f2ecbec72a3ef9047f2a186c99f92e08e7c60de19e3d1caa723f44a5"
 
 [[files]]
 file = "config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-common.toml"
-hash = "7e42c70399833906570147a447e348372fd1cb45b060c7eecd632865797944af"
+hash = "acf4c9441276a870e2003c4d82ff1ecce5a1c7c98bd04b4fcf62708be7691d20"
 
 [[files]]
 file = "config/lmft.json"
@@ -247,7 +247,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "76996dcaacdb8592101e632ab7baa89894ea72d82f7a5173aa5e55a1bb3c83d1"
+hash = "c323a755692a46c55d6883f6d603ea7943cea7de87114aaeafb8bb6468117814"
 
 [[files]]
 file = "modlist.md"
@@ -1665,7 +1665,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "45abe9d1565045203adfc830b1e42eeb23923fee3721bbc307bc3fca26976916"
+hash = "b5f2a2e1af680b279ec6c7b920be25733f0100fbb838ac104508299bb5961614"
 preserve = true
 
 [[files]]
@@ -1706,7 +1706,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "a03bf2eb695b4bfb01eb2e8161a348a8d89af3b06af01c39702c0eb3b4fe798e"
+hash = "8b697861f477edbb9ec6307278def4741571cb35e5ca925b0f9365193eef3b04"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
