@@ -32,7 +32,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "bda8f3c8bffe4e503cc6e9df44cfadc3516bd7b5f4b282364ea044c8a330960c"
+hash = "7b7622b915e04b4767cc62e7aba54edf9c8c66345facc2803a9c7cb1743fcf51"
 preserve = true
 
 [[files]]
@@ -85,7 +85,7 @@ hash = "d4ba161e86898376bc32edd89d2baef3ed961380cef2779209c8ea9fec611939"
 
 [[files]]
 file = "config/parcool-client.toml"
-hash = "a761647ab054a756e796ec4754883bcd6d97e88123bcf8a829826fb6c0a73caf"
+hash = "d1f240af31e1650a797540ddfeb219a27de2541ac69db8668367a52850db5e5e"
 preserve = true
 
 [[files]]
@@ -247,7 +247,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "1d2283ba5f956ed50d44d6023fd51bfdd6d317cd6e0f39c110f23afe36daf472"
+hash = "832807f94c4e7da0802797eea8771bd1e030a3ee16babaaead11674a96a81593"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
@@ -339,6 +339,11 @@ metafile = true
 [[files]]
 file = "mods/decoration/amendments.pw.toml"
 hash = "b7de55c4390efff71e1e188cc42c05a1ff8edbdad2b05a2f191f90dfc76c9e7f"
+metafile = true
+
+[[files]]
+file = "mods/decoration/armourers-workshop.pw.toml"
+hash = "86f59052bcc278c1304d1069b6d0632a4c4a4c4746d4db5aef4d8a223dfeb46b"
 metafile = true
 
 [[files]]
@@ -1607,6 +1612,11 @@ hash = "efae7db58221428950ad0f2294efb5e8040ac62fc01d8235f5681a8110cd7de6"
 metafile = true
 
 [[files]]
+file = "mods/utilities/xp-tome.pw.toml"
+hash = "df91d766e7ede72286558d6e54bbbb77a986293e80767880efdc99d1e83494e6"
+metafile = true
+
+[[files]]
 file = "mods/world/alexs-caves.pw.toml"
 hash = "749cae48dcaa3678293a1d69179abc91cabc3017e3f6c107df9a1dd00fa01c94"
 metafile = true
@@ -1688,7 +1698,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2ed2dba347cc3ec2dca3c440ca1e6bb276a9563d2426382a52a95fd9e3019404"
+hash = "76f599e8de6125d7c4e627b1d89f401ebf09287e48f0ab4b649b07217bd895e9"
 preserve = true
 
 [[files]]
