@@ -9,7 +9,9 @@ minecraft {
   "bookshelf"
   "chiseled_bookshelf"
   "oak_chest_boat"
+
   "#minecraft:shulker_boxes"
+  "#forge:chests"
 }
 
 create {
@@ -47,3 +49,4 @@ redeco {
     "\(wood)_cabinet_counter"
   }
 }
+

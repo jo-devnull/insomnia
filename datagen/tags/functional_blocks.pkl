@@ -92,3 +92,11 @@ legendarysurvivaloverhaul {
   "heater"
   "sewing_table"
 }
+
+armourers_workshop {
+  "skin-library"
+  "skinning-table"
+  "dye-table"
+  "outfit-maker"
+  "hologram-projector"
+}

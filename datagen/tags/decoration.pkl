@@ -77,3 +77,12 @@ chimes {
   "amethyst_chimes"
   "glass_bells"
 }
+
+wallpapers {
+  "#wallpapers:wallpaper_rolls"
+  "#wallpapers:skirting_boards"
+}
+
+paintable {
+  "#paintable:filled_paint_bucket"
+}

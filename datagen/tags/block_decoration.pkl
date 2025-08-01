@@ -37,3 +37,7 @@ supplementaries {
   "checker_block"
   "checker_slab"
 }
+
+wallpapers {
+  "#wallpapers:wallpaper_blocks"
+}
