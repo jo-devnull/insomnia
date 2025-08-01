@@ -1,0 +1,13 @@
+name = "Carved Wood"
+filename = "../Carved Wood-forge-1.20.1-1.5a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WuwijfrW/versions/rmMcZJQU/Carved%20Wood-forge-1.20.1-1.5a.jar"
+hash-format = "sha512"
+hash = "611e0e00487ad19e98c6618242286ad7f3116feae38640683b4f8e8b26bfeec731b5263a5a1e65853874837d143d5175a93eafdce73bc65eddf6ecc41ef62d3d"
+
+[update]
+[update.modrinth]
+mod-id = "WuwijfrW"
+version = "rmMcZJQU"

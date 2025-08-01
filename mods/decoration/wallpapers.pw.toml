@@ -1,0 +1,13 @@
+name = "Wallpapers"
+filename = "../Wallpapers-forge-1.20.1-1.7a-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JsJ52MHU/versions/3rLdT8RQ/Wallpapers-forge-1.20.1-1.7a-1.20.1.jar"
+hash-format = "sha512"
+hash = "5b12a7816c527f8d1edd62d12b5c4a8763f6b03365a221e1193b4b78654bb42b88ab06c6a08a2236664adb63d51d5fb7775b550a68e454076185bcb4bb4423a3"
+
+[update]
+[update.modrinth]
+mod-id = "JsJ52MHU"
+version = "3rLdT8RQ"

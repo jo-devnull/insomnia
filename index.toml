@@ -347,6 +347,11 @@ hash = "86f59052bcc278c1304d1069b6d0632a4c4a4c4746d4db5aef4d8a223dfeb46b"
 metafile = true
 
 [[files]]
+file = "mods/decoration/carved-wood.pw.toml"
+hash = "9a8c308a6109eccf2a61545b43a0c55bdf18a4549683156e7d38d0eb71bf086c"
+metafile = true
+
+[[files]]
 file = "mods/decoration/chimes.pw.toml"
 hash = "d7ff0085748ccfbd86524707d7dfe5a490ff84a02cd1307a0c8fb5e34f448343"
 metafile = true
@@ -384,6 +389,11 @@ metafile = true
 [[files]]
 file = "mods/decoration/minecraft-cursor.pw.toml"
 hash = "cb777bee6aad45b1a686dfea6e07ff06b7fbbb91924d6c08c94c9a55fd394e05"
+metafile = true
+
+[[files]]
+file = "mods/decoration/paintable.pw.toml"
+hash = "16db0281e06e25c202238ecbc6c12ab25dc18cd2075c7343bcde930935d734ed"
 metafile = true
 
 [[files]]
@@ -444,6 +454,11 @@ metafile = true
 [[files]]
 file = "mods/decoration/wakes-reforged.pw.toml"
 hash = "e7b67b346bfc1848a0acb928825a223b24e7429683de46b65488ec2ddf7724f7"
+metafile = true
+
+[[files]]
+file = "mods/decoration/wallpapers.pw.toml"
+hash = "41bb3b3bb13aad35850c57194e5d1b9444d906a55e80e31ec8ec41289a63c5de"
 metafile = true
 
 [[files]]
@@ -1698,7 +1713,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "76f599e8de6125d7c4e627b1d89f401ebf09287e48f0ab4b649b07217bd895e9"
+hash = "6ac3a3f6cfb0fb5e64dec7a04edf164b78a172e694a2465ba2560e641d3f6e9e"
 preserve = true
 
 [[files]]
