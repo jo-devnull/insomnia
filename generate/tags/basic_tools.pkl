@@ -136,3 +136,17 @@ paintable {
   "paint_bucket"
   "paint_brush"
 }
+
+thirstcanteen {
+  "leather_canteen"
+  "military_bottle"
+  "dragon_bottle"
+}
+
+cold_sweat {
+  "waterskin"
+  "filled_waterskin"
+  "soulspring_lamp"
+  "thermometer"
+  "minecart_insulation"
+}

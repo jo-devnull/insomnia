@@ -18,7 +18,7 @@ hash = "ba8fe1b293d95e63195417289a75c4a1976aaeab87285978dba1db22059c2e1e"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "4b2536972d82e7fe879a16dcdc3073574f61697cf3bda87a4a9f4e60c3666beb"
+hash = "d1d017c0f63c9d0f0529d8d13898afcbee076bf41eec2b60836159be76c9e7ba"
 preserve = true
 
 [[files]]
@@ -32,7 +32,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "bda8f3c8bffe4e503cc6e9df44cfadc3516bd7b5f4b282364ea044c8a330960c"
+hash = "19edbcdaafacdb6ce897f2f86147b838b3eae1aac4136425c8c6a54b1df06e89"
 preserve = true
 
 [[files]]
@@ -69,7 +69,7 @@ hash = "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f"
 
 [[files]]
 file = "config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-client.toml"
-hash = "9c441fa4f2ecbec72a3ef9047f2a186c99f92e08e7c60de19e3d1caa723f44a5"
+hash = "9de35780c5c8f0ddf55c9a812ce530b1a58910059e4eecff169245d4648c428d"
 
 [[files]]
 file = "config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-common.toml"
@@ -247,7 +247,127 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "24d4bd3f5518f3037e742c0579c4129fde3445cf0388a79c47ca8b2b212f87d4"
+hash = "76996dcaacdb8592101e632ab7baa89894ea72d82f7a5173aa5e55a1bb3c83d1"
+
+[[files]]
+file = "generate/build.pkl"
+hash = "8cf24b9f252a17a2089ece57904f9c53e2564b6601a642f80e0878577ecc6811"
+
+[[files]]
+file = "generate/misc/spawn.pkl"
+hash = "9f0a0dabdf780403047db69f928cfbe8bc8c553176dd79910ef9fec18cb27918"
+
+[[files]]
+file = "generate/misc/tags.pkl"
+hash = "acd5f10647ee4c3836d4e385c123af4dfd0cfb789c479fa473ae94cd2d33efef"
+
+[[files]]
+file = "generate/recipes/compat.pkl"
+hash = "7deb7db3b696eaf534fe603eadb3ab2a99bad7304e620f13aef616dd8b4a3a37"
+
+[[files]]
+file = "generate/recipes/misc.pkl"
+hash = "85aca2d60ba423600c2e3846b59e9f4ba49798d4287868b19e58ecfda9b4bdc6"
+
+[[files]]
+file = "generate/tags/@tags.pkl"
+hash = "e5d2d16f83ce6f0a417f977ace097ce1e05e538359b51c65e466262a493940f3"
+
+[[files]]
+file = "generate/tags/archery.pkl"
+hash = "6a636991cceff775091c181e1f36ba275055c51a4b7a1e6c7e985adb87c7ae63"
+
+[[files]]
+file = "generate/tags/armor.pkl"
+hash = "f61904f0db86ed3d450bb230a5bf9518b79969a00c462e49b925c7ae9f96b54a"
+
+[[files]]
+file = "generate/tags/basic_tools.pkl"
+hash = "4da2e9cf6c91061cea35bbef5e96ac1cf6b290a1ff342958a2f764c07dbf6211"
+
+[[files]]
+file = "generate/tags/block_decoration.pkl"
+hash = "f0077029f683909334f2b7625d09e4cd6e4a18f3938344576e3649595cfaf8b8"
+
+[[files]]
+file = "generate/tags/brewing.pkl"
+hash = "ae648aecfec19b0fb407f39960e11262ba6db373584b59d05e488498f92869aa"
+
+[[files]]
+file = "generate/tags/carpentry.pkl"
+hash = "0ec5fbdf4ee1a3378c8e5ee2c008661365dd05aa7ae2b3c10e24252e9001a858"
+
+[[files]]
+file = "generate/tags/cooking.pkl"
+hash = "baadd9992992445b60718c8671af590b3d278a49e538767c695e534b8ad2ce24"
+
+[[files]]
+file = "generate/tags/decoration.pkl"
+hash = "62c88a76f8c5a65e867487ad07eb311483678aab1d3dce29eb9bd12c5053df2e"
+
+[[files]]
+file = "generate/tags/enchanting.pkl"
+hash = "1a2f08abce2e080142f2ab4631490fa6c6bdf83023f11091c15f92b7ab7729d9"
+
+[[files]]
+file = "generate/tags/engineering.pkl"
+hash = "c9ea3c6b513730273bf02dba24bc28cf8b240ad8341745d15b5167e9d2a892a0"
+
+[[files]]
+file = "generate/tags/farming.pkl"
+hash = "022182560e14cff7e24ad4dba082a115e62637626fcb048f97f5cae715dbb465"
+
+[[files]]
+file = "generate/tags/fishing.pkl"
+hash = "20d5345a7ea118d94c3da047b66f4811b84594a86e802629dc583c484d8a7fca"
+
+[[files]]
+file = "generate/tags/foods.pkl"
+hash = "9c14b4cc87e27ff4649d462e3e74da06617a6281c5a09121cc3796cb36126f1a"
+
+[[files]]
+file = "generate/tags/functional_blocks.pkl"
+hash = "d920521bac3ee52e9740e9a64dedb9e39179308f7b8acb1a8f093dae715e31a4"
+
+[[files]]
+file = "generate/tags/furniture.pkl"
+hash = "4f9541bad30d2438654984b19923f967359665c264841d9d5ed667d410a142c8"
+
+[[files]]
+file = "generate/tags/guns.pkl"
+hash = "f0c46077df83cbdccd42f75f0bd867550840551057646c0002b5343c6ecb05ac"
+
+[[files]]
+file = "generate/tags/heavy_tools.pkl"
+hash = "ed692df039ad7c7d52f739876f51dbafb642a17d274d8f44c3240d4feec8b8c7"
+
+[[files]]
+file = "generate/tags/masonry.pkl"
+hash = "66dbcf24699ad47ad824f3e0b4e860e1a8194ee8ffe2b23217cb2820a5f64a48"
+
+[[files]]
+file = "generate/tags/metalworking.pkl"
+hash = "dc709f64875763b0882c53fdeeec6610d10dbda85a6b30ad6a6e41a9864447ac"
+
+[[files]]
+file = "generate/tags/storage.pkl"
+hash = "273f06480357d7518c48ea04caa6e4968eba13c920a2bec2cb20a4910172b668"
+
+[[files]]
+file = "generate/tags/transport.pkl"
+hash = "79a739a296bfd5ee8651df464e5e2af8c3f3ef1f1b311beb676b4e8b0bcf234c"
+
+[[files]]
+file = "generate/tags/weapons.pkl"
+hash = "69fd8a82ed698fcb69cc1cc87883a539f493d6bf27a3dbb2a3f1e59a53a31b8d"
+
+[[files]]
+file = "generate/tags/witchcraft.pkl"
+hash = "3b2454488cdd6dd3766ef89c4a6aaf356a3c130672fd94b24ce3f0679ba8c2a2"
+
+[[files]]
+file = "generate/utils.pkl"
+hash = "5bd88b7aea8e4f547ef3db1e0fcda4e4df30b738a1992daf80ddc79680e558d8"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
@@ -428,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/decoration/storage-drawers.pw.toml"
-hash = "d3ccdf02227bc0db0fed01cc994c260e76e387aa64bb134c5639c6b12b04653f"
+hash = "d6ade7eb74a2dc49e038bbb4b14824fa5d6a1433ee93660a588be55a55cd88fe"
 metafile = true
 
 [[files]]
@@ -663,7 +783,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/selene.pw.toml"
-hash = "0991ce55b067b5b4a83570559ee35f0babd6cdd6659805b8e9c1365bfb1e3ae1"
+hash = "e0442c063a78cfd5b5a744f244dbf92fc686fc31d07a5a5d09a398ff4079188f"
 metafile = true
 
 [[files]]
@@ -787,6 +907,11 @@ hash = "4e9bf89dcdeed8773aa5bd39ee24dc8369c7b5451e2f550ebaaa29d3eb6c9043"
 metafile = true
 
 [[files]]
+file = "mods/mechanics/cold-sweat.pw.toml"
+hash = "b7b1ba742d95c4efb88b0183a13af9e053a98b8fc374bfea36f09205efed7953"
+metafile = true
+
+[[files]]
 file = "mods/mechanics/corpse.pw.toml"
 hash = "ff8c339e8f0cde12c640e123f267329310f5d604445ca8bb810cf18bab98a5e2"
 metafile = true
@@ -832,11 +957,6 @@ hash = "af1de2f3e6565f818d97142a3ccbe1ab261f03b6d22ff17a6f7be2deb14f8292"
 metafile = true
 
 [[files]]
-file = "mods/mechanics/legendary-survival-overhaul.pw.toml"
-hash = "ccb9f387fc45c203fe1df0ff8b9ed2cc06ac2252bb2b1a8e46d93bb1b363276d"
-metafile = true
-
-[[files]]
 file = "mods/mechanics/no-tree-punching.pw.toml"
 hash = "be5a7395477ef416b0e767d237b778dee2692792171b52be2a01fdc347ec24ff"
 metafile = true
@@ -859,6 +979,16 @@ metafile = true
 [[files]]
 file = "mods/mechanics/sleep-tight.pw.toml"
 hash = "63f7f86ee5559a633e668c866490e37e6e42c7e30c9d6fd32f85db27b0c6ffaa"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/thirst-canteen.pw.toml"
+hash = "473f52d7302c1ad188ebc2faa289183899abd4da609e0d283978a658d3deb6ea"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/thirst-was-taken.pw.toml"
+hash = "f63644a470fec30ec8f525c4189e6a61271e72b897b1b3ce1d29861d76dc70ad"
 metafile = true
 
 [[files]]
@@ -1278,7 +1408,7 @@ metafile = true
 
 [[files]]
 file = "mods/performance/asyncparticles.pw.toml"
-hash = "f41606212227919f2366df0cc1a93c124fa0bc0d357be185e47d10eb5fa2f300"
+hash = "0a9ec378aac45ceedfaf9576791970d22b5af1e6259f9601457321b059cffb66"
 metafile = true
 
 [[files]]
@@ -1294,6 +1424,11 @@ metafile = true
 [[files]]
 file = "mods/performance/chloride.pw.toml"
 hash = "70b7ddaf2bdcde7ce794728113a9fcfa641aabe3a0dc306e73c9585f2db39e1b"
+metafile = true
+
+[[files]]
+file = "mods/performance/connectivity.pw.toml"
+hash = "7e3b4fb5aa790454c1261da7e64497941902685b8637b8f4d823059403ee4359"
 metafile = true
 
 [[files]]
@@ -1343,7 +1478,7 @@ metafile = true
 
 [[files]]
 file = "mods/performance/modernfix.pw.toml"
-hash = "9a3e3922c7fd8c0cbb955f20f6d6048139758db9659b123d3d8bf5714114ae65"
+hash = "98533fa9dc0ae6daacf41e776624ae71a597e9da4872f0fe34e67eb42f4e9cd8"
 metafile = true
 
 [[files]]
@@ -1708,7 +1843,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ef0341eebb8e3ee5ee25e76b47ca328514d15a87f85571bf778befa0215bb2ba"
+hash = "3632c670fa8059ab40591f29008bb817cba60fb654db17bcba05eba6aa86178a"
 preserve = true
 
 [[files]]
@@ -1726,6 +1861,18 @@ hash = "7102355a66f4ac0aef1491b06700a09f12713ebec891c7672a69d7aebba465c7"
 [[files]]
 file = "resourcepacks/@InsomniaUI/assets/emi/textures/gui/container/grindstone.png"
 hash = "8ba6fcdca4c7f27524ed717d2eff47be415945dc1768a169fc6957ddf9756d68"
+
+[[files]]
+file = "resourcepacks/@InsomniaUI/assets/mace_backport/models/item/mace.json"
+hash = "7b610a75921e05854326e2140f7414b5b38426717ec5cbe6574d486a5583fdaa"
+
+[[files]]
+file = "resourcepacks/@InsomniaUI/assets/mace_backport/models/item/mace1.json"
+hash = "e3c28b42129b0a4c3be4f18a093f4d4a291c168cc6f01fa71097e1f499281e23"
+
+[[files]]
+file = "resourcepacks/@InsomniaUI/assets/mace_backport/textures/item/mace.png"
+hash = "06ed23b44fb7294d7bde105971ecd90ae8ccb3734968816116de15bd198e805a"
 
 [[files]]
 file = "resourcepacks/@InsomniaUI/assets/minecraft/lang/pt_br.json"
@@ -1749,7 +1896,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "3815d4a4cfbcddc4fe99192becbcdddbd6bfee6ddb750aefefc78eb17d29edcf"
+hash = "3b77535f763e45c70e45cd1dfede4fd2549b22ce09028b35adec6c08df9deb30"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
@@ -1818,11 +1965,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/visual-enchantments.pw.toml"
 hash = "fb40f1bfd9e4c4a4e392f3f518840b4d4d6f2c8f474a974a19cff11cb37f9e7a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/wide-mace.pw.toml"
-hash = "bad98e3a516065970a2679984e456fe53df0ef20e7f3e14f12f37035128eca55"
 metafile = true
 
 [[files]]

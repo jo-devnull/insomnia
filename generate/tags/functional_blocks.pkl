@@ -100,3 +100,12 @@ armourers_workshop {
   "outfit-maker"
   "hologram-projector"
 }
+
+cold_sweat {
+  "thermolith"
+  "hearth"
+  "boiler"
+  "icebox"
+  "smokestack"
+  "sewing_table"
+}

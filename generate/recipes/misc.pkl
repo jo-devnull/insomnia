@@ -17,3 +17,16 @@ leather_from_mixing {
     new { item = "minecraft:leather" chance = 0.25 }
   }
 }
+
+skin_template_from_skin {
+  type = "create:compacting"
+  heatRequirement = "none"
+
+  ingredients {
+    new { item = "armourers_workshop:skin" }
+  }
+
+  results {
+    new { item = "armourers_workshop:skin-template" }
+  }
+}

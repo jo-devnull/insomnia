@@ -62,3 +62,22 @@
   show_notification = true
 }
 
+`data/legendarysurvivaloverhaul/recipes/large_canteen.json` {
+  type = "minecraft:crafting_shaped"
+
+  pattern {
+    " = "
+    "#u#"
+    "###"
+  }
+
+  key {
+    `=` { item = "minecraft:iron_ingot" }
+    `#` { item = "minecraft:rabbit_hide" }
+    `u` { item = "legendarysurvivaloverhaul:canteen" }
+  }
+
+  result {
+    item = "legendarysurvivaloverhaul:large_canteen"
+  }
+}
