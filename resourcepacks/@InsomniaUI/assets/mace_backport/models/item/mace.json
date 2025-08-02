@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/mace",
-		"particle": "item/mace"
+		"0": "mace_backport:item/mace",
+		"particle": "mace_backport:item/mace"
 	},
 	"elements": [
 		{

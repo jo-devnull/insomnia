@@ -1843,7 +1843,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "3632c670fa8059ab40591f29008bb817cba60fb654db17bcba05eba6aa86178a"
+hash = "2fd0565b0c2d4046f3752fef31a649c14a35727477bc89d5dc907e81ee37e58c"
 preserve = true
 
 [[files]]
@@ -1864,7 +1864,7 @@ hash = "8ba6fcdca4c7f27524ed717d2eff47be415945dc1768a169fc6957ddf9756d68"
 
 [[files]]
 file = "resourcepacks/@InsomniaUI/assets/mace_backport/models/item/mace.json"
-hash = "7b610a75921e05854326e2140f7414b5b38426717ec5cbe6574d486a5583fdaa"
+hash = "8ecc1e97e2957b1a9c12260e5242f549a72bce3d838272b25778ffaeb03b0466"
 
 [[files]]
 file = "resourcepacks/@InsomniaUI/assets/mace_backport/models/item/mace1.json"
@@ -1872,6 +1872,10 @@ hash = "e3c28b42129b0a4c3be4f18a093f4d4a291c168cc6f01fa71097e1f499281e23"
 
 [[files]]
 file = "resourcepacks/@InsomniaUI/assets/mace_backport/textures/item/mace.png"
+hash = "06ed23b44fb7294d7bde105971ecd90ae8ccb3734968816116de15bd198e805a"
+
+[[files]]
+file = "resourcepacks/@InsomniaUI/assets/mace_backport/textures/mace.png"
 hash = "06ed23b44fb7294d7bde105971ecd90ae8ccb3734968816116de15bd198e805a"
 
 [[files]]
