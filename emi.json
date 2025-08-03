@@ -1,4 +1,233 @@
 {
+  "favorites": [
+    {
+      "stack": "#item:category:functional_blocks"
+    },
+    {
+      "stack": "#item:category:cooking"
+    },
+    {
+      "stack": "#item:category:foods"
+    },
+    {
+      "stack": "#item:category:brewing"
+    },
+    {
+      "stack": "#item:category:basic_tools"
+    },
+    {
+      "stack": "#item:category:heavy_tools"
+    },
+    {
+      "stack": "#item:category:weapons"
+    },
+    {
+      "stack": "#item:category:armor"
+    },
+    {
+      "stack": "#item:category:guns"
+    },
+    {
+      "stack": "#item:category:enchanting"
+    },
+    {
+      "stack": "#item:category:witchcraft"
+    },
+    {
+      "stack": "#item:category:furniture"
+    },
+    {
+      "stack": "#item:category:decoration"
+    },
+    {
+      "stack": "#item:category:block_decoration"
+    },
+    {
+      "stack": "#item:category:storage"
+    },
+    {
+      "stack": "#item:category:engineering"
+    },
+    {
+      "stack": "#item:category:carpentry"
+    },
+    {
+      "stack": "#item:category:masonry"
+    },
+    {
+      "stack": "#item:category:metalworking"
+    },
+    {
+      "stack": "#item:category:farming"
+    },
+    {
+      "stack": "#item:category:archery"
+    },
+    {
+      "stack": "#item:category:fishing"
+    },
+    {
+      "stack": "#item:category:transport"
+    }
+  ],
+  "lookup_history": [
+    "item:irons_spellbooks:ancient_knowledge_fragment",
+    "item:irons_spellbooks:shriving_stone",
+    "item:irons_spellbooks:ice_rune",
+    "item:irons_spellbooks:druidic_spell_book{ISB_Spells:{data:[],maxSpells:10,mustEquip:1b,spellWheel:1b}}",
+    "item:alexsmobs:kangaroo_hide",
+    "item:minecraft:honey_bottle",
+    {
+      "type": "fluid",
+      "id": "brewinandchewin:honey",
+      "amount": 250
+    },
+    "item:minecraft:honeycomb",
+    "item:minecraft:shears{Damage:65}",
+    {
+      "type": "item",
+      "id": "minecraft:leather",
+      "amount": 40
+    },
+    "item:samurai_dynasty:brass_samurai_boots{Damage:0}",
+    "item:samurai_dynasty:brass_samurai_leggings{Damage:0}",
+    "item:samurai_dynasty:brass_samurai_chestplate{Damage:0}",
+    "item:samurai_dynasty:brass_samurai_helmet{Damage:0}",
+    {
+      "type": "item",
+      "id": "minecraft:iron_ingot",
+      "amount": 2
+    },
+    "item:create_ironworks:steel_ingot",
+    "item:create:blaze_cake_base",
+    "item:create:mechanical_crafter",
+    "item:samurai_dynasty:steel_helmet{Damage:0}",
+    "item:samurai_dynasty:red_samurai_helmet{Damage:0}",
+    "item:samurai_dynasty:quartz_samurai_helmet{Damage:0}",
+    "item:samurai_dynasty:quartz_samurai_chestplate{Damage:0}",
+    "item:samurai_dynasty:amethyst_samurai_helmet{Damage:0}",
+    "item:samurai_dynasty:iron_samurai_helmet{Damage:0}",
+    "item:deeperdarker:warden_upgrade_smithing_template",
+    "item:deeperdarker:warden_leggings{Damage:0}",
+    "item:deeperdarker:warden_chestplate{Damage:0}",
+    "item:deeperdarker:warden_helmet{Damage:0}",
+    "item:irons_spellbooks:fireward_ring",
+    "item:irons_spellbooks:uncommon_ink",
+    "item:irons_spellbooks:common_ink",
+    "item:irons_spellbooks:rare_ink",
+    "item:irons_spellbooks:epic_ink",
+    "item:irons_spellbooks:legendary_ink",
+    "item:irons_spellbooks:upgrade_orb",
+    "item:irons_spellbooks:villager_spell_book{ISB_Spells:{data:[],maxSpells:10,mustEquip:1b,spellWheel:1b}}",
+    "item:irons_spellbooks:dragonskin_spell_book{ISB_Spells:{data:[],maxSpells:12,mustEquip:1b,spellWheel:1b}}",
+    "item:irons_spellbooks:blaze_spell_book{ISB_Spells:{data:[],maxSpells:10,mustEquip:1b,spellWheel:1b}}",
+    "item:irons_spellbooks:necronomicon_spell_book{ISBEnhance:\"irons_spellbooks:raise_dead\",ISB_Spells:{data:[{id:\"irons_spellbooks:blood_slash\",index:0,level:5,locked:1b},{id:\"irons_spellbooks:blood_step\",index:1,level:5,locked:1b},{id:\"irons_spellbooks:ray_of_siphoning\",index:2,level:5,locked:1b},{id:\"irons_spellbooks:blaze_storm\",index:3,level:5,locked:1b}],maxSpells:10,mustEquip:1b,spellWheel:1b}}",
+    "item:irons_spellbooks:rotten_spell_book{ISB_Spells:{data:[],maxSpells:8,mustEquip:1b,spellWheel:1b}}",
+    "item:cataclysm_spellbooks:disc_driver{ISB_Spells:{data:[],maxSpells:12,mustEquip:1b,spellWheel:1b},az_id:[I;1535675836,-1170456080,-1086206526,562788911]}",
+    "item:cataclysm_spellbooks:codex_of_malice_spell_book{ISB_Spells:{data:[],maxSpells:12,mustEquip:1b,spellWheel:1b}}",
+    "item:cataclysm_spellbooks:desert_spell_book{ISB_Spells:{data:[{id:\"cataclysm_spellbooks:monolith_crash\",index:0,level:5,locked:1b},{id:\"cataclysm_spellbooks:desert_winds\",index:1,level:3,locked:1b},{id:\"cataclysm_spellbooks:sandstorm\",index:2,level:3,locked:1b},{id:\"cataclysm_spellbooks:thoths_witness\",index:3,level:1,locked:1b},{id:\"cataclysm_spellbooks:pharaohs_wrath\",index:4,level:3,locked:1b}],maxSpells:10,mustEquip:1b,spellWheel:1b}}",
+    "item:cataclysm_spellbooks:ignis_spell_book{ISB_Spells:{data:[],maxSpells:12,mustEquip:1b,spellWheel:1b}}",
+    "item:samurai_dynasty:katana_netherite{Damage:0}",
+    "item:minecraft:netherite_upgrade_smithing_template",
+    "item:samurai_dynasty:katana{Damage:0}",
+    "item:minecraft:smithing_table",
+    {
+      "type": "item",
+      "id": "samurai_dynasty:oni_horn",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "samurai_dynasty:kitsune_tail",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "samurai_dynasty:kitsune_hide",
+      "amount": 2
+    },
+    "item:irons_spellbooks:hogskin",
+    "item:minecraft:netherite_axe{Damage:1041}",
+    "item:simplymore:culterex{Damage:1078,Enchantments:[{id:\"minecraft:sharpness\",lvl:3s}],ISB_Spells:{data:[{id:\"irons_spellbooks:chain_lightning\",index:0,level:3,locked:0b}],maxSpells:1,mustEquip:0b,spellWheel:1b},RepairCost:1,nether_power:\"no_socket\",runic_power:\"no_socket\"}",
+    "item:minecraft:netherite_ingot",
+    {
+      "type": "fluid",
+      "id": "createdieselgenerators:ethanol",
+      "amount": 100
+    },
+    "item:create:blaze_burner",
+    "item:create:basin",
+    "item:create:encased_fan",
+    "item:minecraft:leather_chestplate{Damage:16,insulation:[]}",
+    {
+      "type": "item",
+      "id": "farmersdelight:ham",
+      "amount": 3
+    },
+    "item:minecraft:magma_cream",
+    "item:minecraft:lodestone",
+    {
+      "type": "item",
+      "id": "minecraft:nether_brick",
+      "amount": 12
+    },
+    {
+      "type": "item",
+      "id": "irons_spellbooks:cinder_essence",
+      "amount": 10
+    },
+    "item:immersive_armors:robe_leggings{Damage:0,insulation:[]}",
+    {
+      "type": "item",
+      "id": "minecraft:fire_charge",
+      "amount": 2
+    },
+    "item:irons_spellbooks:cast_time_ring",
+    "item:thirstcanteen:military_bottle",
+    {
+      "type": "item",
+      "id": "minecraft:potion",
+      "nbt": "{Potion:\"minecraft:water\"}",
+      "amount": 13
+    },
+    {
+      "type": "item",
+      "id": "minecraft:blaze_rod",
+      "amount": 2
+    }
+  ],
+  "craft_history": [
+    "minecraft:emerald",
+    "better_campfires:firewood",
+    "create:crafting/materials/brass_ingot_from_compacting",
+    "create:crafting/kinetics/vertical_gearbox_from_conversion",
+    "create:crafting/kinetics/gearbox",
+    "create:crafting/kinetics/cogwheel",
+    "petrolsparts:crafting/double_cardan_shaft_4",
+    "create:crafting/kinetics/large_cogwheel_from_little",
+    "samurai_dynasty:steel_ingot_from_nugget",
+    "minecraft:smithing_table",
+    "minecraft:coal",
+    "farmersdelight:onion",
+    "xtraarrows:tnt_arrow_lining",
+    "minecraft:shears",
+    "farmersdelight:iron_knife",
+    "minecraft:gold_ingot_from_gold_block",
+    "minecraft:golden_helmet",
+    "minecraft:crafting_table",
+    "create_ironworks:tools/paxel/diamond"
+  ],
+  "recipe_defaults": {
+    "added": [
+      "jei:/samurai_dynasty/brass_samruai_leggings_mechanical_crafting",
+      "jei:/samurai_dynasty/brass_samruai_helmet_mechanical_crafting",
+      "jei:/samurai_dynasty/brass_samruai_chestplate_mechanical_crafting",
+      "jei:/samurai_dynasty/brass_samruai_boots_mechanical_crafting"
+    ],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
   "hidden_stacks": [
     "item:minecraft:goat_horn{instrument:\"minecraft:sing_goat_horn\"}",
     "item:minecraft:goat_horn{instrument:\"minecraft:seek_goat_horn\"}",
@@ -117,76 +346,5 @@
     "item:tacz:modern_kinetic_gun{GunCurrentAmmoCount:75,GunFireMode:\"AUTO\",GunId:\"tacz:m249\",HasBulletInBarrel:1b}",
     "item:tacz:modern_kinetic_gun{GunCurrentAmmoCount:1,GunFireMode:\"SEMI\",GunId:\"tacz:rpg7\",HasBulletInBarrel:1b}",
     "item:create:copper_backtank"
-  ],
-  "favorites": [
-    {
-      "stack": "#item:category:functional_blocks"
-    },
-    {
-      "stack": "#item:category:cooking"
-    },
-    {
-      "stack": "#item:category:foods"
-    },
-    {
-      "stack": "#item:category:brewing"
-    },
-    {
-      "stack": "#item:category:basic_tools"
-    },
-    {
-      "stack": "#item:category:heavy_tools"
-    },
-    {
-      "stack": "#item:category:weapons"
-    },
-    {
-      "stack": "#item:category:armor"
-    },
-    {
-      "stack": "#item:category:guns"
-    },
-    {
-      "stack": "#item:category:enchanting"
-    },
-    {
-      "stack": "#item:category:witchcraft"
-    },
-    {
-      "stack": "#item:category:furniture"
-    },
-    {
-      "stack": "#item:category:decoration"
-    },
-    {
-      "stack": "#item:category:block_decoration"
-    },
-    {
-      "stack": "#item:category:storage"
-    },
-    {
-      "stack": "#item:category:engineering"
-    },
-    {
-      "stack": "#item:category:carpentry"
-    },
-    {
-      "stack": "#item:category:masonry"
-    },
-    {
-      "stack": "#item:category:metalworking"
-    },
-    {
-      "stack": "#item:category:farming"
-    },
-    {
-      "stack": "#item:category:archery"
-    },
-    {
-      "stack": "#item:category:fishing"
-    },
-    {
-      "stack": "#item:category:transport"
-    }
   ]
 }

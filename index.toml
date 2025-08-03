@@ -18,7 +18,7 @@ hash = "ba8fe1b293d95e63195417289a75c4a1976aaeab87285978dba1db22059c2e1e"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "d1d017c0f63c9d0f0529d8d13898afcbee076bf41eec2b60836159be76c9e7ba"
+hash = "dd34a05c0828f93efa3cd1908a8149c93589a192a014e58fed42a5247b557c4e"
 preserve = true
 
 [[files]]
@@ -247,7 +247,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "76996dcaacdb8592101e632ab7baa89894ea72d82f7a5173aa5e55a1bb3c83d1"
+hash = "78598711d1b03dd037423e7f3117a16fffbaab66afaa0e03ec2e3066f54cebf4"
 
 [[files]]
 file = "generate/build.pkl"
@@ -1382,11 +1382,6 @@ hash = "bc68aebf195cefcbb6fa7623c4450297e99bef6a03aa25d138eb47234ca5227c"
 metafile = true
 
 [[files]]
-file = "mods/mobs/undead-nights.pw.toml"
-hash = "d04bd48e64a94eefe57bf5bd46adc231a4633a2e1ce5844e950f5fed5c5ac70d"
-metafile = true
-
-[[files]]
 file = "mods/mobs/untitled-duck-mod-forge.pw.toml"
 hash = "c546a9ebf7ccc48c55f1f0d6e1080e926befd94209c1442e2aabe00a6627a87b"
 metafile = true
@@ -1843,7 +1838,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2fd0565b0c2d4046f3752fef31a649c14a35727477bc89d5dc907e81ee37e58c"
+hash = "c360f2de5159db24b4bde7feaa2f492a93ac10b54ab3d63e6061657adf5a1c98"
 preserve = true
 
 [[files]]
