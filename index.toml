@@ -61,19 +61,11 @@ hash = "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "89fc277c6e56eba06a30a98ae852e125f1734d9375e2bc3852d25c660729871c"
+hash = "9ef79b7c1223c392f262fe503b76e646b60fbe8e877f16ec984339fba8394e41"
 
 [[files]]
 file = "config/incontrol/spawner.json"
 hash = "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f"
-
-[[files]]
-file = "config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-client.toml"
-hash = "9de35780c5c8f0ddf55c9a812ce530b1a58910059e4eecff169245d4648c428d"
-
-[[files]]
-file = "config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-common.toml"
-hash = "acf4c9441276a870e2003c4d82ff1ecce5a1c7c98bd04b4fcf62708be7691d20"
 
 [[files]]
 file = "config/lmft.json"
@@ -110,26 +102,6 @@ file = "config/sanitydim/dimension/example.toml"
 hash = "d1a64dd1237d7f7424a3006f22a2a06f6a578983d997474f600563c1164c9c03"
 
 [[files]]
-file = "config/xaerominimap-common.txt"
-hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
-
-[[files]]
-file = "config/xaerominimap.txt"
-hash = "beeaed48c66555ef80d0e2b61836b68f3c39968be2ec802005315ef2f488f029"
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "502e9294a180b94ab1475691f2b32e550c5beb234302d638248f9fd947764411"
-
-[[files]]
-file = "config/xaeroworldmap-common.txt"
-hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "e926b5ec0b95b508bd739e5cf94467e6f7b7b193c15512c4789ee3d9cac161d3"
-
-[[files]]
 file = "credits.txt"
 hash = "01291341b138ee038d03c00b0597ac47cd8cc2b31b50362a62a935f9b467c084"
 
@@ -150,16 +122,24 @@ file = "datapacks/@packdata/data/chovys_apocalypse_mod/weapon_attributes/pitchfo
 hash = "e5b85bc5dbdd39ad3cbfff0d42191ee47b30698b0e682653fdb3a05d3c594b13"
 
 [[files]]
+file = "datapacks/@packdata/data/enhancedcelestials/lunar/event/blood_moon.json"
+hash = "31d4c952aed240f3e6c6c92aa478cdc661ef581c44f240cdbb08a6fdb9edf29e"
+
+[[files]]
+file = "datapacks/@packdata/data/enhancedcelestials/lunar/event/super_blood_moon.json"
+hash = "b1bda3b3bbd9e2420e2a04fdbb30f5716871f3b3ba77faaead02c23ef7a19f58"
+
+[[files]]
 file = "datapacks/@packdata/data/farmersdelight/recipes/cutting/tag_dough.json"
 hash = "8a95dd39f97fca762a7d4ea285062f4813c6f006194e164e802b77b599a9ffe9"
 
 [[files]]
 file = "datapacks/@packdata/data/fromtheshadows/forge/biome_modifier/nether_spawns.json"
-hash = "c51f11ddbda1479e1f0ecd6c5521607f99f58a2371967ef22d5f2f2b0b1d39d7"
+hash = "400a5209c3c2162552a4c3fe8a5ea846e8983e1258324787b2fe734ad5dd2393"
 
 [[files]]
 file = "datapacks/@packdata/data/fromtheshadows/forge/biome_modifier/spawns.json"
-hash = "eb2d711f3798c67bd8a381c9ce39ea00a462bb4637f21090ab7e6d316e6ca374"
+hash = "0371a4848c6eadf08597281d021526359542bb8ea3669ff4fccdf8969b4c0611"
 
 [[files]]
 file = "datapacks/@packdata/data/modpack/recipes/wooden_shovel.json"
@@ -247,7 +227,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "78598711d1b03dd037423e7f3117a16fffbaab66afaa0e03ec2e3066f54cebf4"
+hash = "c7950daae0a5630781bade663876fd654f645f212e307fd0405f7dd30e610a37"
 
 [[files]]
 file = "generate/build.pkl"
@@ -255,19 +235,19 @@ hash = "8cf24b9f252a17a2089ece57904f9c53e2564b6601a642f80e0878577ecc6811"
 
 [[files]]
 file = "generate/misc/spawn.pkl"
-hash = "9f0a0dabdf780403047db69f928cfbe8bc8c553176dd79910ef9fec18cb27918"
+hash = "b48e2bf0ec4f53f28da794e6c477dd5d9418de0bb949e7f611b6a74f6e2ab971"
 
 [[files]]
 file = "generate/misc/tags.pkl"
-hash = "acd5f10647ee4c3836d4e385c123af4dfd0cfb789c479fa473ae94cd2d33efef"
+hash = "7aecfc7ee6d1f2170deba0bf2c368c236ec958fc75fe2bbab3f2605d869ccbaa"
 
 [[files]]
 file = "generate/recipes/compat.pkl"
-hash = "7deb7db3b696eaf534fe603eadb3ab2a99bad7304e620f13aef616dd8b4a3a37"
+hash = "afac9583367a1294b39ec5d4ace91be06425fb37e4370808206ae25b9a629305"
 
 [[files]]
 file = "generate/recipes/misc.pkl"
-hash = "85aca2d60ba423600c2e3846b59e9f4ba49798d4287868b19e58ecfda9b4bdc6"
+hash = "b669498b5adbbeca6b7bb064e6fb5c3fdacb2b096c19672144a58086a9694e2c"
 
 [[files]]
 file = "generate/tags/@tags.pkl"
@@ -737,6 +717,11 @@ hash = "5067b7ee6e3f487e46fa9f0c730163c2ca9e9e1e026843e9111f13e8ce342183"
 metafile = true
 
 [[files]]
+file = "mods/dependency/mru.pw.toml"
+hash = "6e422219fb51ebdec64c086dc5e7f99feb638cba0f8eb7de0c70186d04ac9c25"
+metafile = true
+
+[[files]]
 file = "mods/dependency/obscure-api.pw.toml"
 hash = "7d1ffb8e0b569479c0066fd64e7f123272fcacc6b273638ff2fe9e3ed4b784a0"
 metafile = true
@@ -809,6 +794,11 @@ metafile = true
 [[files]]
 file = "mods/dependency/terrablender.pw.toml"
 hash = "33f55d6944dd3448368cb0a10c4f07cfde529afac04ce7a74d66ef80aa227de5"
+metafile = true
+
+[[files]]
+file = "mods/dependency/yacl.pw.toml"
+hash = "36714f7fba148d5cc55c75ab0eadedd128f6e7bdcfa443ef691c71e04acebb6f"
 metafile = true
 
 [[files]]
@@ -947,16 +937,6 @@ hash = "adbdf7bdf1ccfafda76be696f8bde9d2a7ac36f699d035ff9a02609672d8576a"
 metafile = true
 
 [[files]]
-file = "mods/mechanics/journeymap-integration.pw.toml"
-hash = "a74fc9ef54a497ded21b60c47283b96cfb3fcdec3dc5d2d05f66071b8bcd5ca2"
-metafile = true
-
-[[files]]
-file = "mods/mechanics/journeymap.pw.toml"
-hash = "af1de2f3e6565f818d97142a3ccbe1ab261f03b6d22ff17a6f7be2deb14f8292"
-metafile = true
-
-[[files]]
 file = "mods/mechanics/no-tree-punching.pw.toml"
 hash = "be5a7395477ef416b0e767d237b778dee2692792171b52be2a01fdc347ec24ff"
 metafile = true
@@ -1009,6 +989,21 @@ metafile = true
 [[files]]
 file = "mods/mechanics/waystones.pw.toml"
 hash = "a285e3da98b4d1544d9b893bead476dbf1d295395935350371b7ba4083b2083c"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/xaeros-minimap-world-map-waystones-compability.pw.toml"
+hash = "82cbddd6e922af2d763277ae187bdcc4d574da64354e15c8d732d6dd4c468d91"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/xaeros-minimap.pw.toml"
+hash = "06484f3167c69131ccce045f8a73354fa43f7feb1a6623ada5f94fe22e81f6f8"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/xaeros-world-map.pw.toml"
+hash = "3d16d2efe0ceb0b803a6bcce7468182b6e7943cc9b9e4b3738c52c549796a49c"
 metafile = true
 
 [[files]]
@@ -1103,7 +1098,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/insomnia-tweaks.pw.toml"
-hash = "3084be0b020207f2188ab1989d01b1443ba9039ae3048cf8514016525718b5f0"
+hash = "597217815ba8c2967fa00cfea3a83e236ae324c10178592f3e6883a948401989"
 metafile = true
 
 [[files]]
@@ -1382,6 +1377,11 @@ hash = "bc68aebf195cefcbb6fa7623c4450297e99bef6a03aa25d138eb47234ca5227c"
 metafile = true
 
 [[files]]
+file = "mods/mobs/undead-nights.pw.toml"
+hash = "047f4c652cc047e78c6a3b787ff79f7be0e61c8ca1b8294cc843ba88f9ba2e48"
+metafile = true
+
+[[files]]
 file = "mods/mobs/untitled-duck-mod-forge.pw.toml"
 hash = "c546a9ebf7ccc48c55f1f0d6e1080e926befd94209c1442e2aabe00a6627a87b"
 metafile = true
@@ -1617,6 +1617,11 @@ hash = "765dc08b077576a31d37e2f4777bda4bafd52ede36a866c874b5419fde6e1f34"
 metafile = true
 
 [[files]]
+file = "mods/technology/create-wizardry.pw.toml"
+hash = "a877a416c19f4f89a74a1d2b4b3864a07d22748aece631044ca9e92f74f6fcdf"
+metafile = true
+
+[[files]]
 file = "mods/technology/create.pw.toml"
 hash = "0292c2d3397d670d09a735fabf9077f46894f98ecf869aaa7ff7daf7287f8ce5"
 metafile = true
@@ -1639,6 +1644,11 @@ metafile = true
 [[files]]
 file = "mods/technology/slice-and-dice.pw.toml"
 hash = "5e81c2b3be80610199994139d96b0a98cab1d8ee7181606f14f9258950b378f0"
+metafile = true
+
+[[files]]
+file = "mods/utilities/advanced-loot-info.pw.toml"
+hash = "9336962319ee6bb49cbd4e1dba4f8454c09a883ae5e453e764770476c2a65f5b"
 metafile = true
 
 [[files]]
@@ -1838,7 +1848,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c360f2de5159db24b4bde7feaa2f492a93ac10b54ab3d63e6061657adf5a1c98"
+hash = "0c3dbe4f3eb09b056dce978b0d40ad47c58a3ce3d6a60e52e75831e509705012"
 preserve = true
 
 [[files]]
@@ -1895,7 +1905,7 @@ hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "3b77535f763e45c70e45cd1dfede4fd2549b22ce09028b35adec6c08df9deb30"
+hash = "3149fee77328ecdb731b50afe2a81d2290ca7ae37ba886d923a9d3915bda7e71"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
@@ -1987,7 +1997,7 @@ hash = "ed23ab70ccca10cc81bb8fbb51c2d7e978fc03e234540ed2600b27014da63224"
 
 [[files]]
 file = "scripts/misc.zs"
-hash = "8d50f8b8a87585cc411546cf3176b2e6b0227fa108ac67123ca4cf0ac4b41836"
+hash = "975d493a2ace15a7f43e5083e95c5590e2dfb74d4a6f8ce5b4e0521eb2e519a3"
 
 [[files]]
 file = "scripts/recipes.zs"

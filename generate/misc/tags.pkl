@@ -1,3 +1,17 @@
+`data/insomnia/tags/worldgen/biome/nehemoth_spawns.json` {
+  replace = false
+
+  values {
+    "minecraft:dripstone_caves"
+    "terralith:volcanic_crater"
+    "terralith:cave/crystal_caves"
+    "terralith:cave/deep_caves"
+    "terralith:cave/frostfire_caves"
+    "terralith:cave/mantle_caves"
+    "terralith:cave/tuff_caves"
+  }
+}
+
 `data/modpack/tags/worldgen/biome/kinda_safe.json` {
   values {
     "#minecraft:is_forest"

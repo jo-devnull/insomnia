@@ -62,22 +62,65 @@
   show_notification = true
 }
 
-`data/legendarysurvivaloverhaul/recipes/large_canteen.json` {
-  type = "minecraft:crafting_shaped"
-
-  pattern {
-    " = "
-    "#u#"
-    "###"
+`data/immersive_armors/recipes/steampunk_boots.json` {
+  type = "create:sequenced_assembly"
+  
+  ingredient {
+    item = "create_ironworks:copper_armor_boots"
   }
 
-  key {
-    `=` { item = "minecraft:iron_ingot" }
-    `#` { item = "minecraft:rabbit_hide" }
-    `u` { item = "legendarysurvivaloverhaul:canteen" }
+  loops = 1
+
+  results {
+    new { item = "immersive_armors:steampunk_boots" chance = 120.0 }
+    new { item = "create_ironworks:brass_armor_boots" chance = 4.0 }
+    new { item = "create_ironworks:copper_armor_boots" chance = 4.0 }
+    new { item = "create:brass_sheet"  chance = 4.0 }
+    new { item = "create:brass_nugget" chance = 4.0 }
+  }  
+
+  sequence {
+    new {
+      type = "create:deploying"
+
+      ingredients {
+        new  { item = "create_ironworks:brass_armor_boots" }
+        new  { item = "create:brass_sheet" }
+      }
+
+      results {
+        new { item = "create_ironworks:brass_armor_boots" }
+      }
+    }
+
+    new {
+      type = "create:deploying"
+
+      ingredients {
+        new  { item = "create_ironworks:brass_armor_boots" }
+        new  { item = "create:cogwheel" }
+      }
+      
+      results {
+        new { item = "create_ironworks:brass_armor_boots" }
+      }
+    }
+
+    new {
+      type = "create:deploying"
+
+      ingredients {
+        new  { item = "create_ironworks:brass_armor_boots" }
+        new  { item = "create:electron_tube" }
+      }
+      
+      results {
+        new { item = "create_ironworks:brass_armor_boots" }
+      }
+    }
   }
 
-  result {
-    item = "legendarysurvivaloverhaul:large_canteen"
+  transitionalItem {
+    item = "create_ironworks:brass_armor_boots"
   }
 }

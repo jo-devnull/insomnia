@@ -27,7 +27,6 @@
     "hostile": true,
     "dimension": "overworld",
     "mob": [
-      "fromtheshadows:nehemoth",
       "minecraft:vindicator",
       "minecraft:pillager"
     ]
@@ -63,6 +62,14 @@
     "dimension": "overworld",
     "mob": "upgrade_aquatic:thrasher",
     "random": 0.98
+  },
+  {
+    "result": "deny",
+    "hostile": true,
+    "dimension": "overworld",
+    "mod": "fromtheshadows",
+    "biometags": "forge:is_cave",
+    "minheight": 0
   },
   {
     "result": "deny",

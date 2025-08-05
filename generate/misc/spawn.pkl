@@ -43,7 +43,6 @@ rules {
 
   (default) {
     mob {
-      "fromtheshadows:nehemoth"
       "minecraft:vindicator"
       "minecraft:pillager"
     }
@@ -69,6 +68,12 @@ rules {
       mob = mobName
       random = weight
     }
+  }
+
+  (deny) {
+    mod = "fromtheshadows"
+    biometags = "forge:is_cave"
+    minheight = 0
   }
 
   (deny) {

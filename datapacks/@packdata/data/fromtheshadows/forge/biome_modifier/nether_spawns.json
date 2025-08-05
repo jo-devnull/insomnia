@@ -1,6 +1,6 @@
 {
     "type": "forge:add_spawns",
-    "biomes": "#forge:is_nether",
+    "biomes": "minecraft:soul_sand_valley",
     "spawners": [
         {
             "type": "fromtheshadows:nehemoth",

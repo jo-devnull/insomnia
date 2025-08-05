@@ -30,3 +30,20 @@ skin_template_from_skin {
     new { item = "armourers_workshop:skin-template" }
   }
 }
+
+supp_awning_with_fabric {
+  type = "minecraft:crafting_shaped"
+
+  pattern {
+    "ww"
+  }
+
+  key {
+    w { item = "redeco:white_upholstery" }
+  }
+
+  result {
+    item = "supplementaries:awning_white"
+    count = 2
+  }
+}
