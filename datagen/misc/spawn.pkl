@@ -34,6 +34,7 @@ rules {
       "mowziesmobs"
       "cataclysm"
       "cataclysm_spellbooks"
+      "enderman_overhaul"
     }
   }
 

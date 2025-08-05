@@ -1,13 +1,13 @@
 name = "Undead Nights - Zombie Horde Nights"
-filename = "../UndeadNights-1.3.0-Forge-mc1.20.1.jar"
+filename = "../UndeadNights-1.3.1-Forge-mc1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7667787ab8dd081ae55125675a1054486acfc0ca"
+hash = "9ca0a726179cd262ae1a141f55ce5eb609ed3032"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6832914
+file-id = 6844507
 project-id = 1166914

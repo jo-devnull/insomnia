@@ -1,17 +1,18 @@
+import os
 import sys
 import shutil
 
 from glob import glob
 from pathlib import Path
 
-ROOT = Path(__file__).parent.parent / "minecraft"
+ROOT = Path(os.getcwd()) / "minecraft"
 INST = Path(sys.argv[1]).resolve()
 CONFIG = INST / "config"
 CONFIG.mkdir(exist_ok=True)
 
 sources = [
     "datapacks/@packdata/",
-    "resourcepacks/@InsomniaUI/",
+    "resourcepacks/@integrated/",
     "resourcepacks/@insomnia.zip",
 
     "defaultconfigs/"
@@ -20,15 +21,16 @@ sources = [
     "config/incontrol/**/*.json",
     "config/sanitydim/**/*.toml",
     "config/enhancedai/**/*.toml",
+    "config/thirst/**/*.toml",
 
     "config/emi.css",
     "config/embeddium-options.json",
     "config/chloride-client.json",
     "config/resourcepackoverrides.json",
     "config/parcool-client.toml",
-    "config/xaero*.txt",
     "config/notreepunching.toml"
     "config/structurify.json",
+    "config/xaero*.*",
 
     "scripts/*.zs",
     "options.txt",
@@ -54,8 +56,14 @@ def link_dir(path: Path, target: Path):
     target.symlink_to(ROOT / path, target_is_directory=True)
 
 for pattern in sources:
-    for path in map(Path, glob(pattern, root_dir=ROOT, recursive=True)):
-        if path.is_file():
-            link_file(ROOT / path, INST / path)
-        elif path.is_dir():
-            link_dir(path, INST / path)
+    for path in glob(pattern, root_dir=ROOT, recursive=True):
+        source = ROOT / path
+        target = INST / path
+
+        if source == target:
+            raise Exception(f"Source and target are equal, this shouldn't happen...")
+
+        if source.is_file():
+            link_file(source, target)
+        elif source.is_dir():
+            link_dir(path, target)

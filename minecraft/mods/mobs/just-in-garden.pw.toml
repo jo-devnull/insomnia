@@ -1,0 +1,13 @@
+name = "Just-In GARDEN"
+filename = "../just_in_garden-1.1.5-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "868e36ab3ff34ded212b2a27c631022df8ea8cb7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6770786
+project-id = 1085124

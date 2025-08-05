@@ -61,7 +61,7 @@ hash = "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "9ef79b7c1223c392f262fe503b76e646b60fbe8e877f16ec984339fba8394e41"
+hash = "66d67034ee7598ee96e4eb7ae3c1b3dc895632b6c06ffa68fe539c8f01470a30"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -100,6 +100,30 @@ hash = "55bc9010596e9d042b8ada90f1ec86cee60d2d499bad670b5ee732999392484d"
 [[files]]
 file = "config/sanitydim/dimension/example.toml"
 hash = "d1a64dd1237d7f7424a3006f22a2a06f6a578983d997474f600563c1164c9c03"
+
+[[files]]
+file = "config/thirst/keyword.toml"
+hash = "c819bc219330aa57f7cba0c704af5781300514f03e0d21aa86754e779c780731"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "71cffe7689e579cdf95700b08791f8382f9ae4e9709c5f6f4addc736f145ab3e"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
 file = "datapacks/@packdata/data/chovys_apocalypse_mod/weapon_attributes/aluminiumbat.json"
@@ -224,6 +248,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 [[files]]
 file = "emi.json"
 hash = "76996dcaacdb8592101e632ab7baa89894ea72d82f7a5173aa5e55a1bb3c83d1"
+preserve = true
 
 [[files]]
 file = "mods/cooking/brewin-and-chewin.pw.toml"
@@ -236,8 +261,13 @@ hash = "65e29476b35f038fd96348d50ec99035887df5867e1bb3352748304969e97d7d"
 metafile = true
 
 [[files]]
+file = "mods/cooking/cuisine-delight.pw.toml"
+hash = "98e2f0ec35f2823d3906071402aa131f93bcae60d85271c48569479ebd830501"
+metafile = true
+
+[[files]]
 file = "mods/cooking/dungeons-delight.pw.toml"
-hash = "b791f9836836122fe8a083f4a60633b2dda1a10ad9018399dd4bec3ffb06674b"
+hash = "bc7e4ca2b0d64518a4f89f350f6ab5c222b996c8fd73c700b7c4712770b1fe0d"
 metafile = true
 
 [[files]]
@@ -247,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/cooking/lets-do-bakery-farm-charm-compat.pw.toml"
-hash = "291b933995baaba4154bbae909812ef0ed27b75b309bacf7478444a0a2cddd2a"
+hash = "de3329b2f4928647b18ec1b3dbf969ed0ede0b71873c531896baa92997aece76"
 metafile = true
 
 [[files]]
@@ -257,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/cooking/lets-do-farm-charm.pw.toml"
-hash = "421b8194ee8d0899080f1409c8f490551e632cb98f0729f124bbc825e97a3de7"
+hash = "50b5116787cfc897beb5d6245ddae2679222262e19ea95bb887f5363b7cf3a32"
 metafile = true
 
 [[files]]
@@ -282,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/decoration/amendments.pw.toml"
-hash = "b7de55c4390efff71e1e188cc42c05a1ff8edbdad2b05a2f191f90dfc76c9e7f"
+hash = "1446e2d8ad5427fc1dfb100f74eeb18400793465941d5aeddf0cc08bf1cb9e54"
 metafile = true
 
 [[files]]
@@ -382,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/decoration/storage-drawers.pw.toml"
-hash = "d6ade7eb74a2dc49e038bbb4b14824fa5d6a1433ee93660a588be55a55cd88fe"
+hash = "36d6db522d6a058def137bfcd0b9549627ca524834709e7fceb609d9c43067e0"
 metafile = true
 
 [[files]]
@@ -417,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/azurelib.pw.toml"
-hash = "16bf611f27e9eeae10d8e4ce48416e5f1d429b534e7d65547e949e3739104888"
+hash = "6eff91be85914b6aaf7f114e7ecb0c2241ddb962db3e967ee6bad73334469bee"
 metafile = true
 
 [[files]]
@@ -427,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/balm.pw.toml"
-hash = "68935d06e106c953fb7fe20c4f458bf642d8ceeb5e6649d12c7801433f6d1afa"
+hash = "6f891726cf1467de9adb7d9f3d4d2ea01651dadeea737cf7fbe5a464dbf107ac"
 metafile = true
 
 [[files]]
@@ -527,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/fzzy-config.pw.toml"
-hash = "81b3ca880ab7dab84dd8d6192f555081725eee8df75645c5d48d5784bd1f190e"
+hash = "b5a1832a3327ba8b0d5b6fe63ed0e9a68301a4d683c480dba588154cc0357e4f"
 metafile = true
 
 [[files]]
@@ -622,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/selene.pw.toml"
-hash = "e0442c063a78cfd5b5a744f244dbf92fc686fc31d07a5a5d09a398ff4079188f"
+hash = "565cee93cfb5e0a0165df922ec1e124f29dc964bca45f04e6b14fa2d9f955779"
 metafile = true
 
 [[files]]
@@ -1082,7 +1112,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/stardew-fishing.pw.toml"
-hash = "959475ff09ca0f03d6b032865ad184ff3f244a552b8c8786d12ecbec4a29cd56"
+hash = "66901ffdd1ce1f4747b07fca63b6ebb3ce520682174144b0853d04e31dd18ca9"
 metafile = true
 
 [[files]]
@@ -1151,11 +1181,6 @@ hash = "e01bac9939dc410ea9dcb14d40a8a1a19372ea62552bc78f99a1b05cfbb8bf9e"
 metafile = true
 
 [[files]]
-file = "mods/mobs/creeper-overhaul.pw.toml"
-hash = "4fe828e8fed542874690eec2dfe8a9d79058358204aadf0bb0024e6673284985"
-metafile = true
-
-[[files]]
 file = "mods/mobs/critters-and-companions.pw.toml"
 hash = "c1766455e1b15375360ad20c5fd961c276532fffab620fe0d0846a0209f019e5"
 metafile = true
@@ -1181,13 +1206,18 @@ hash = "146a959fefc5bae9463f9c7ab2394a4d9ffd32729292325214ca32af65e85295"
 metafile = true
 
 [[files]]
+file = "mods/mobs/faunify.pw.toml"
+hash = "88fb0117993c61a91788895342dd0053fde2d33c7ff5f766279debfe304179c2"
+metafile = true
+
+[[files]]
 file = "mods/mobs/from-the-shadow-reborn.pw.toml"
 hash = "17d5782a06d7ef5b53a45faf6c0672d4fd994534ee55ee80af7f6fd5a45c05c9"
 metafile = true
 
 [[files]]
-file = "mods/mobs/giant-spawn.pw.toml"
-hash = "1af8599f07435f305b246131e20ea07ba2e6d7432440976cd02409e7e18043a4"
+file = "mods/mobs/just-in-garden.pw.toml"
+hash = "e24ab373efec618d893d7e1cedcf22dba57289efdb7ded6be624be0dcd934159"
 metafile = true
 
 [[files]]
@@ -1202,7 +1232,7 @@ metafile = true
 
 [[files]]
 file = "mods/mobs/lendercataclysm.pw.toml"
-hash = "9429dfbae1cc350ce7226b53e3a093ba7e77cf2f81cef4594309c9ca4bd4f230"
+hash = "e60608ba5d94507cbb0f654a8b4bbdbc313253f856dd9e64d0f2e1658fa883e4"
 metafile = true
 
 [[files]]
@@ -1226,13 +1256,8 @@ hash = "f57a709135c703ddfde46802549c8aa4e961012b3088bfee527702fb9c296386"
 metafile = true
 
 [[files]]
-file = "mods/mobs/spawn-animations-mod.pw.toml"
-hash = "bc68aebf195cefcbb6fa7623c4450297e99bef6a03aa25d138eb47234ca5227c"
-metafile = true
-
-[[files]]
 file = "mods/mobs/undead-nights.pw.toml"
-hash = "047f4c652cc047e78c6a3b787ff79f7be0e61c8ca1b8294cc843ba88f9ba2e48"
+hash = "a8fb44657587b868128acc7ea2553c9428b187c707240713322671064ab7e529"
 metafile = true
 
 [[files]]
@@ -1577,7 +1602,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/lychee.pw.toml"
-hash = "01ae9e6044ee13386b7f0dee67dc5d0a28969ada62ba1f79c4add773db46a46b"
+hash = "59a4f59991f78ff6b7ec0d8c9f4780904bffe7207769605e5defc4c90de64ab2"
 metafile = true
 
 [[files]]
@@ -1707,7 +1732,7 @@ preserve = true
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "67ead75e63c6b6f7894c1b62ed67d5dce6f37e9b271a1a669cf95006e5a1dfb4"
+hash = "d3bae0138abca7e16ba4740d6b41aed5c5609a33cd50e82dd8cfac326369b6ca"
 
 [[files]]
 file = "resourcepacks/@integrated/assets/emi/textures/gui/background.png"

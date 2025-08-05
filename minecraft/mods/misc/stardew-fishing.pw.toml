@@ -1,13 +1,13 @@
 name = "Stardew Fishing"
-filename = "../stardew_fishing-1.20.1-2.3.jar"
+filename = "../stardew_fishing-3.1-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Rw1Ylmn4/versions/5kFpreJS/stardew_fishing-1.20.1-2.3.jar"
+url = "https://cdn.modrinth.com/data/Rw1Ylmn4/versions/RkRDQeZ7/stardew_fishing-3.1-1.20.1.jar"
 hash-format = "sha512"
-hash = "00fc290c14b42d1ef3f531db593ed9d27290af96d7bd3c9a5b1da35d7b9bec142f04dafa00f3e1186a5b5f1bfb6c714028a1b4dada3aae85f3b489f85e0a62cd"
+hash = "df9dcb88e9770b9293ec55681e58ec1470e2363b038250a0a1b947e79bbcf17d33db90fb40a844cd79a38e08d78dc1d19f9e23450eda955784fa1235d036ff1c"
 
 [update]
 [update.modrinth]
 mod-id = "Rw1Ylmn4"
-version = "5kFpreJS"
+version = "RkRDQeZ7"
