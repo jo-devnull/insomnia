@@ -5,7 +5,7 @@ import shutil
 from pathlib import Path
 from subprocess import run
 
-ROOT = Path(__file__).parent.parent
+ROOT = Path(os.getcwd())
 
 def platform_of(url: str):
     # check if url includes modrinth.com substring

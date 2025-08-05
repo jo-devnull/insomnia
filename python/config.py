@@ -4,7 +4,7 @@ import shutil
 from glob import glob
 from pathlib import Path
 
-ROOT = Path(__file__).parent.parent
+ROOT = Path(__file__).parent.parent / "minecraft"
 INST = Path(sys.argv[1]).resolve()
 CONFIG = INST / "config"
 CONFIG.mkdir(exist_ok=True)
@@ -14,6 +14,7 @@ sources = [
     "resourcepacks/@InsomniaUI/",
     "resourcepacks/@insomnia.zip",
 
+    "defaultconfigs/"
     "config/legendarysurvivaloverhaul/",
     "config/almostunified/**/*.json",
     "config/incontrol/**/*.json",
@@ -30,7 +31,6 @@ sources = [
     "config/structurify.json",
 
     "scripts/*.zs",
-    "emi.json",
     "options.txt",
 ]
 

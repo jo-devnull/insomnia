@@ -18,8 +18,13 @@
         "color": "terminal.ansiYellow"
       },
       "type": "shell",
-      "command": "python ./python/datagen.py",
-      "problemMatcher": []
+      "command": "python ${workspaceFolder}/python/datagen.py",
+
+      "problemMatcher": [],
+
+      "options": {
+        "cwd": "${workspaceFolder}/minecraft"
+      }
     },
     {
       "label": "Packwiz: Refresh",
@@ -43,11 +48,16 @@
       "label": "scripts.install",
       "type": "process",
       "command": "python",
+      
       "args": [
         "${workspaceFolder}/python/install.py",
         "${input:category}",
         "${input:modspec}"
-      ]
+      ],
+
+      "options": {
+        "cwd": "${workspaceFolder}/minecraft"
+      }
     },
   ],
   "inputs": [

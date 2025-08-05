@@ -1,197 +1,4 @@
 {
-  "favorites": [
-    {
-      "stack": "#item:category:functional_blocks"
-    },
-    {
-      "stack": "#item:category:cooking"
-    },
-    {
-      "stack": "#item:category:foods"
-    },
-    {
-      "stack": "#item:category:brewing"
-    },
-    {
-      "stack": "#item:category:basic_tools"
-    },
-    {
-      "stack": "#item:category:heavy_tools"
-    },
-    {
-      "stack": "#item:category:weapons"
-    },
-    {
-      "stack": "#item:category:armor"
-    },
-    {
-      "stack": "#item:category:guns"
-    },
-    {
-      "stack": "#item:category:enchanting"
-    },
-    {
-      "stack": "#item:category:witchcraft"
-    },
-    {
-      "stack": "#item:category:furniture"
-    },
-    {
-      "stack": "#item:category:decoration"
-    },
-    {
-      "stack": "#item:category:block_decoration"
-    },
-    {
-      "stack": "#item:category:storage"
-    },
-    {
-      "stack": "#item:category:engineering"
-    },
-    {
-      "stack": "#item:category:carpentry"
-    },
-    {
-      "stack": "#item:category:masonry"
-    },
-    {
-      "stack": "#item:category:metalworking"
-    },
-    {
-      "stack": "#item:category:farming"
-    },
-    {
-      "stack": "#item:category:archery"
-    },
-    {
-      "stack": "#item:category:fishing"
-    },
-    {
-      "stack": "#item:category:transport"
-    }
-  ],
-  "lookup_history": [
-    "item:create:encased_fan",
-    "item:simplyswords:iron_spear{Damage:0}",
-    "item:mowziesmobs:spear{Damage:118}",
-    {
-      "type": "item",
-      "id": "minecraft:feather",
-      "amount": 3
-    },
-    {
-      "type": "item",
-      "id": "minecraft:sweet_berries",
-      "amount": 23
-    },
-    "item:minecraft:saddle",
-    "item:supplementaries:lunch_basket",
-    {
-      "type": "item",
-      "id": "minecraft:rabbit_hide",
-      "amount": 3
-    },
-    {
-      "type": "item",
-      "id": "minecraft:bamboo",
-      "amount": 13
-    },
-    "item:minecraft:name_tag",
-    "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]}}",
-    "item:irons_spellbooks:copper_spell_book{ISB_Spells:{data:[],maxSpells:5,mustEquip:1b,spellWheel:1b}}",
-    "item:irons_spellbooks:iron_spell_book{ISB_Spells:{data:[],maxSpells:6,mustEquip:1b,spellWheel:1b}}",
-    "item:supplementaries:quiver",
-    "item:minecraft:pufferfish",
-    "item:minecraft:stonecutter",
-    "item:minecraft:blast_furnace",
-    {
-      "type": "item",
-      "id": "minecraft:andesite",
-      "amount": 2
-    },
-    "item:minecraft:bucket",
-    "item:minecraft:iron_ingot",
-    "item:simplyswords:runic_spear{Damage:0}",
-    "item:simplyswords:netherite_spear{Damage:0}",
-    "item:simplyswords:diamond_spear{Damage:0}",
-    "item:alexscaves:limestone_spear",
-    "item:cataclysm:coral_spear{Damage:0}",
-    "item:samurai_dynasty:spear_handle",
-    {
-      "type": "item",
-      "id": "minecraft:cocoa_beans",
-      "amount": 16
-    },
-    "item:notreepunching:fire_starter{Damage:0}",
-    "item:notreepunching:clay_bucket",
-    "item:notreepunching:ceramic_bucket",
-    "item:minecraft:terracotta",
-    "item:notreepunching:flint_pickaxe{Damage:0}",
-    {
-      "type": "item",
-      "id": "minecraft:oak_sapling",
-      "amount": 4
-    },
-    "item:minecraft:cobweb",
-    "item:notreepunching:flint_axe{Damage:0}",
-    {
-      "type": "item",
-      "id": "minecraft:bone",
-      "amount": 2
-    },
-    "item:minecraft:mangrove_planks"
-  ],
-  "craft_history": [
-    "simplyswords:iron_spear",
-    "mowziesmobs:spear",
-    "notreepunching:iron_saw",
-    "minecraft:iron_pickaxe",
-    "create_ironworks:tools/paxel/iron",
-    "farmersdelight:lead_from_straw",
-    "minecraft:iron_ingot_from_iron_block",
-    "supplementaries:lunch_basket",
-    "minecraft:wheat",
-    "minecraft:white_carpet",
-    "travelersbackpack:white_sleeping_bag",
-    "minecraft:jungle_boat",
-    "minecraft:crafting_table",
-    "notreepunching:plant_string",
-    "notreepunching:plant_fiber_from_saplings_with_knife",
-    "farmersdelight:safety_net",
-    "minecraft:fishing_rod",
-    "immersive_armors:wooden_helmet",
-    "immersive_armors:wooden_boots",
-    "immersive_armors:wooden_leggings",
-    "minecraft:flint_and_steel",
-    "minecraft:torch",
-    "minecraft:chest",
-    "notreepunching:generated/minecraft_jungle_planks",
-    "minecraft:cookie",
-    "better_campfires:firewood",
-    "create_ironworks:tools/paxel/copper",
-    "create_ironworks:tools/pickaxe/copper",
-    "notreepunching:fire_starter",
-    "minecraft:glass_bottle",
-    "minecraft:furnace",
-    "notreepunching:flint_pickaxe",
-    "notreepunching:generated/minecraft_oak_planks",
-    "minecraft:bow",
-    "immersive_armors:wooden_chestplate",
-    "shieldexp:wooden_shield",
-    "notreepunching:string_from_web_with_knife",
-    "minecraft:sugar_from_sugar_cane",
-    "farmersdelight:flint_knife",
-    "notreepunching:flint_from_gravel",
-    "minecraft:iron_axe",
-    "notreepunching:flint_axe",
-    "minecraft:shears"
-  ],
-  "recipe_defaults": {
-    "added": [],
-    "tags": {},
-    "resolutions": {},
-    "disabled": []
-  },
   "hidden_stacks": [
     "item:minecraft:goat_horn{instrument:\"minecraft:sing_goat_horn\"}",
     "item:minecraft:goat_horn{instrument:\"minecraft:seek_goat_horn\"}",
@@ -310,5 +117,76 @@
     "item:tacz:modern_kinetic_gun{GunCurrentAmmoCount:75,GunFireMode:\"AUTO\",GunId:\"tacz:m249\",HasBulletInBarrel:1b}",
     "item:tacz:modern_kinetic_gun{GunCurrentAmmoCount:1,GunFireMode:\"SEMI\",GunId:\"tacz:rpg7\",HasBulletInBarrel:1b}",
     "item:create:copper_backtank"
+  ],
+  "favorites": [
+    {
+      "stack": "#item:category:functional_blocks"
+    },
+    {
+      "stack": "#item:category:cooking"
+    },
+    {
+      "stack": "#item:category:foods"
+    },
+    {
+      "stack": "#item:category:brewing"
+    },
+    {
+      "stack": "#item:category:basic_tools"
+    },
+    {
+      "stack": "#item:category:heavy_tools"
+    },
+    {
+      "stack": "#item:category:weapons"
+    },
+    {
+      "stack": "#item:category:armor"
+    },
+    {
+      "stack": "#item:category:guns"
+    },
+    {
+      "stack": "#item:category:enchanting"
+    },
+    {
+      "stack": "#item:category:witchcraft"
+    },
+    {
+      "stack": "#item:category:furniture"
+    },
+    {
+      "stack": "#item:category:decoration"
+    },
+    {
+      "stack": "#item:category:block_decoration"
+    },
+    {
+      "stack": "#item:category:storage"
+    },
+    {
+      "stack": "#item:category:engineering"
+    },
+    {
+      "stack": "#item:category:carpentry"
+    },
+    {
+      "stack": "#item:category:masonry"
+    },
+    {
+      "stack": "#item:category:metalworking"
+    },
+    {
+      "stack": "#item:category:farming"
+    },
+    {
+      "stack": "#item:category:archery"
+    },
+    {
+      "stack": "#item:category:fishing"
+    },
+    {
+      "stack": "#item:category:transport"
+    }
   ]
 }

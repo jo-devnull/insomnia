@@ -14,7 +14,7 @@ const json: FileOutput = new {
 function buildEmi() = new Mapping<String, FileOutput> {
   ["emi.json"] = (json) {
     value {
-      hidden_stacks = utils.load("../emi.json")
+      hidden_stacks = utils.load("../minecraft/emi.json")
         .getOrNull("hidden_stacks")
 
       favorites = new Listing {
