@@ -72,7 +72,7 @@ function buildMisc() = new Mapping<String, FileOutput> {
 }
 
 function buildRecipes() = new Mapping<String, FileOutput> {
-  for (_, mod in import*("recipes/*.pkl").toMap()) {
+  for (_, mod in import*("misc/recipes/*.pkl").toMap()) {
     for (key, recipe in mod.toMap()) {
       when (key.contains("/")) {
         ["./resourcepacks/@insomnia/\(key)"] = (json) {
@@ -87,6 +87,28 @@ function buildRecipes() = new Mapping<String, FileOutput> {
   }
 }
 
+function buildReplacements() = new Mapping<String, FileOutput> {
+  ["\(path.data)/oei/replacements/replacements.json"] = (json) {
+    value {
+      for (key, val in import("misc/replace.pkl").toMap()) {
+        for (item in val.items) {
+          when (item is String) {
+            new {
+              matchItems { "\(val.from):\(item)" }
+              resultItems = "\(val.to):\(item)"
+            }
+          } else {
+            new {
+              matchItems { "\(val.from):\(item[0])" }
+              resultItems = "\(val.to):\(item[1])"
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
 output {
   files {
     ...buildEmi()
@@ -94,6 +116,7 @@ output {
     ...buildLang()
     ...buildMisc()
     ...buildRecipes()
+    ...buildReplacements()
 
     ["./config/incontrol/spawn.json"] = (json) {
       value = import("misc/spawn.pkl").rules

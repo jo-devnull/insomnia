@@ -33,8 +33,11 @@
         "color": "terminal.ansiMagenta"
       },
       "type": "shell",
-      "command": "python python/refresh.py",
+      "command": "packwiz refresh",
       "isBackground": true,
+      "options": {
+        "cwd": "${workspaceFolder}/minecraft"
+    },
       "problemMatcher": []
     },
     {

@@ -7,7 +7,7 @@ debug:false
 lighting:true
 colours:0
 loadChunks:true
-updateChunks:true
+updateChunks:false
 terrainSlopes:2
 terrainDepth:true
 footsteps:true
@@ -37,12 +37,12 @@ partialYTeleportation:true
 displayStainedGlass:true
 caveModeDepth:30
 caveModeStart:2147483647
-autoCaveMode:-1
+autoCaveMode:0
 legibleCaveMaps:false
 displayCaveModeStart:true
 caveModeToggleTimer:1000
 defaultCaveModeType:1
-biomeBlending:true
+biomeBlending:false
 trackedPlayers:true
 multipleImagesExport:false
 nightExport:false

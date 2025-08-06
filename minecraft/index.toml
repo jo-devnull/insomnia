@@ -13,10 +13,6 @@ file = "config/biome_replacer.properties"
 hash = "a29120a7deb7e407656c7b614fcca376b412249ba43e503e1fd962ffb4df6779"
 
 [[files]]
-file = "config/biomemusic.json"
-hash = "ba8fe1b293d95e63195417289a75c4a1976aaeab87285978dba1db22059c2e1e"
-
-[[files]]
 file = "config/chloride-client.json"
 hash = "dd34a05c0828f93efa3cd1908a8149c93589a192a014e58fed42a5247b557c4e"
 preserve = true
@@ -32,7 +28,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "19edbcdaafacdb6ce897f2f86147b838b3eae1aac4136425c8c6a54b1df06e89"
+hash = "10942e34b6b1acdc0041d8b320a6a4d8ff580815a188b9030e35789f8195b5ce"
 preserve = true
 
 [[files]]
@@ -111,7 +107,7 @@ hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "71cffe7689e579cdf95700b08791f8382f9ae4e9709c5f6f4addc736f145ab3e"
+hash = "9f4afef6c3307c3b418d9b897b912c7cbd33eacbceafd3a78c5f1abafc77f4b8"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
@@ -123,7 +119,7 @@ hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
+hash = "c5ece5ca72d66cbce35fe1a544a3915207457bbd52aed1b0c6c0667df644f2c5"
 
 [[files]]
 file = "datapacks/@packdata/data/chovys_apocalypse_mod/weapon_attributes/aluminiumbat.json"
@@ -323,11 +319,6 @@ metafile = true
 [[files]]
 file = "mods/decoration/cable-facades.pw.toml"
 hash = "8463fdbb3c33899ab8e166d9ccc7a3fa911ea52f002f6620a728d2c25650c332"
-metafile = true
-
-[[files]]
-file = "mods/decoration/carved-wood.pw.toml"
-hash = "9a8c308a6109eccf2a61545b43a0c55bdf18a4549683156e7d38d0eb71bf086c"
 metafile = true
 
 [[files]]
@@ -641,6 +632,11 @@ hash = "c1059f9ff9aa8bb2bc5bed258594a0a0e4fd786edd786d4a3967032893446053"
 metafile = true
 
 [[files]]
+file = "mods/dependency/resourceful-lib.pw.toml"
+hash = "3b5f083e308bd58f69cb50e2ac875de802d0a8c60ee895e880620ceb961a71f4"
+metafile = true
+
+[[files]]
 file = "mods/dependency/runiclib.pw.toml"
 hash = "8425b1b4ea358784a302819bdf651d2880cb5a480470712de94a6804671bfd34"
 metafile = true
@@ -911,11 +907,6 @@ hash = "a71d7f7687f310296c0cba5d5168c59b67ccf2ff2179e4539ac98a4f17b7ede0"
 metafile = true
 
 [[files]]
-file = "mods/misc/biome-music.pw.toml"
-hash = "1074045ef1fa205b415ecf04a192eaacf8cf860c3d9842640f47f51d16be0e8d"
-metafile = true
-
-[[files]]
 file = "mods/misc/build-your-campfire.pw.toml"
 hash = "50b80763763676893839b7934c699eec98d1a15bd1e324adcecd7009f3b1ba4f"
 metafile = true
@@ -943,11 +934,6 @@ metafile = true
 [[files]]
 file = "mods/misc/easy-magic.pw.toml"
 hash = "8de2d0f40a946fe898a45f0602403ebd1bc76242f321e0ec92f4fb550b90618f"
-metafile = true
-
-[[files]]
-file = "mods/misc/eerie-music-forge-fabric.pw.toml"
-hash = "ae7b0ecea7ce7771f88abc63cba2e2d0f97261699417f0064b8890973ac3a400"
 metafile = true
 
 [[files]]
@@ -1531,11 +1517,6 @@ hash = "9336962319ee6bb49cbd4e1dba4f8454c09a883ae5e453e764770476c2a65f5b"
 metafile = true
 
 [[files]]
-file = "mods/utilities/almost-unified.pw.toml"
-hash = "37e62cba77419139139b6f2e452be38c6623356a77e843ea1b2163dcf18e626c"
-metafile = true
-
-[[files]]
 file = "mods/utilities/biome-replacer.pw.toml"
 hash = "5acd45a5f81522749f087fa630afa0922d331b8d0c4fb6b786cfb6929f629bd8"
 metafile = true
@@ -1603,6 +1584,11 @@ metafile = true
 [[files]]
 file = "mods/utilities/lychee.pw.toml"
 hash = "59a4f59991f78ff6b7ec0d8c9f4780904bffe7207769605e5defc4c90de64ab2"
+metafile = true
+
+[[files]]
+file = "mods/utilities/one-enough-item.pw.toml"
+hash = "2ad00af3c4b5f93cad3d6806c51cf95da4655035a63f0a700616ad8a46337c6c"
 metafile = true
 
 [[files]]
@@ -1727,12 +1713,12 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0c3dbe4f3eb09b056dce978b0d40ad47c58a3ce3d6a60e52e75831e509705012"
+hash = "a53d636dc654043d1b73a1c8670a8b8f6fc16b314646ab9b957874928bb523b6"
 preserve = true
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "d3bae0138abca7e16ba4740d6b41aed5c5609a33cd50e82dd8cfac326369b6ca"
+hash = "135dc7ede3d6c1613f0f97b2c20dcb0aaf55b58d2da019dc6b2d4ffcfa95858d"
 
 [[files]]
 file = "resourcepacks/@integrated/assets/emi/textures/gui/background.png"

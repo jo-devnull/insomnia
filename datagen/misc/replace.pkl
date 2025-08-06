@@ -1,0 +1,24 @@
+steel {
+  from = "samurai_dynasty"
+  to = "create_ironworks"
+
+  items {
+    "steel_ingot"
+    "steel_block"
+  }
+}
+
+farm_and_delight {
+  from = "farm_and_charm"
+  to = "farmersdelight"
+  
+  items {
+    "onion"
+    "tomato"
+    "rotten_tomato"
+    "tomato_seeds"
+
+    new { "onion_bag" "onion_crate" }
+    new { "tomato_bag" "tomato_crate" }
+  }
+}
