@@ -111,7 +111,7 @@ hash = "9f4afef6c3307c3b418d9b897b912c7cbd33eacbceafd3a78c5f1abafc77f4b8"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+hash = "00d923a6ad25fa75c70bf6f5e91da9aa5dd15b9deb11f9e8c6be5560c7559126"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt"
@@ -119,7 +119,7 @@ hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "c5ece5ca72d66cbce35fe1a544a3915207457bbd52aed1b0c6c0667df644f2c5"
+hash = "578b9ce6aff0180bbdda6adc111a8eb307e8dedb3c78575221daf535f775f621"
 
 [[files]]
 file = "datapacks/@packdata/data/chovys_apocalypse_mod/weapon_attributes/aluminiumbat.json"
