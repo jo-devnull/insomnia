@@ -968,7 +968,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/insomnia-tweaks.pw.toml"
-hash = "597217815ba8c2967fa00cfea3a83e236ae324c10178592f3e6883a948401989"
+hash = "0f54c288d19c0c280db173306d8c4a89f0a6e6ee85cbc4ad8694da42ad427255"
 metafile = true
 
 [[files]]
@@ -1713,7 +1713,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "a53d636dc654043d1b73a1c8670a8b8f6fc16b314646ab9b957874928bb523b6"
+hash = "fe7c08f72f52ec27c0a69583a4d0e23982c4763cbc814989093b196776b1d452"
 preserve = true
 
 [[files]]

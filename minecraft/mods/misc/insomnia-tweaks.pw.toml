@@ -1,15 +1,15 @@
 name = "Insomnia Tweaks"
-filename = "../insomnia-0.3.2-BETA.jar"
+filename = "../insomnia-0.3.3-BETA.jar"
 side = "both"
 
 [download]
-url = "https://github.com/jo-devnull/insomnia-tweaks/releases/download/v0.3.2-BETA/insomnia-0.3.2-BETA.jar"
+url = "https://github.com/jo-devnull/insomnia-tweaks/releases/download/v0.3.3-BETA/insomnia-0.3.3-BETA.jar"
 hash-format = "sha256"
-hash = "2cea33f02b9ab48af02ae4275190658a5c6a9d4980d889c3734286051b6ad9e7"
+hash = "cf62106df92996a4cec093f16b726043f03ae8309781bfc67c4c63602654134b"
 
 [update]
 [update.github]
 branch = "main"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "jo-devnull/insomnia-tweaks"
-tag = "v0.3.2-BETA"
+tag = "v0.3.3-BETA"
