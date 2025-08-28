@@ -135,5 +135,18 @@
     "cataclysm_spellbooks:summoned_koboleton"
 
     "legendarycreatures:ladybug"
+    "legendarycreatures:firefly"
+    "legendarycreatures:butterfly"
+
+    "kobolds:kobold"
+    "faunify:chinchilla"
+    "faunify:fennec"
+    "faunify:hedgehog"
+    "faunify:mouse"
+    "faunify:quill"
+    "faunify:silkmoth"
+    "faunify:weasel"
+
+    "alexscaves:candicorn"
   }
 }

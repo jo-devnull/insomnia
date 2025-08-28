@@ -1,13 +1,13 @@
 name = "From The Shadows Reborn"
-filename = "../fromtheshadowsreborn-2.8.jar"
+filename = "../fromtheshadowsreborn-2.81.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f1062fad81ce692ec9aa262345a8c9fae94188d6"
+hash = "99438abcbde66473d7fd03f6cc6dbb8f80ee66f2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5967610
+file-id = 6869933
 project-id = 986907

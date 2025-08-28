@@ -57,7 +57,7 @@ hash = "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "66d67034ee7598ee96e4eb7ae3c1b3dc895632b6c06ffa68fe539c8f01470a30"
+hash = "8fccba7e8bd2a708eba6a5ff7423e458db9c648719d4dd63a4089f6cf1bc3b0d"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -119,7 +119,7 @@ hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "578b9ce6aff0180bbdda6adc111a8eb307e8dedb3c78575221daf535f775f621"
+hash = "ffd066631bdf50166e9a728355ab68c76312fdecf6058bc1015a6d64ef8445bd"
 
 [[files]]
 file = "datapacks/@packdata/data/chovys_apocalypse_mod/weapon_attributes/aluminiumbat.json"
@@ -778,7 +778,7 @@ metafile = true
 
 [[files]]
 file = "mods/mechanics/cold-sweat.pw.toml"
-hash = "b7b1ba742d95c4efb88b0183a13af9e053a98b8fc374bfea36f09205efed7953"
+hash = "b2f466b257e42c3b2b66f84c6a80728ced9c46bd88bb7f978851220a82ea06ac"
 metafile = true
 
 [[files]]
@@ -1198,7 +1198,7 @@ metafile = true
 
 [[files]]
 file = "mods/mobs/from-the-shadow-reborn.pw.toml"
-hash = "17d5782a06d7ef5b53a45faf6c0672d4fd994534ee55ee80af7f6fd5a45c05c9"
+hash = "2f4f7a11158692240abda4701b35e01c9308df126adde8a8b66c0359f0b5e3c6"
 metafile = true
 
 [[files]]
@@ -1507,6 +1507,11 @@ hash = "a469f2ed53ea7a19b27e5cf96f70b8f524a69ce7acf1f37cdb2ccc74ce1eb86c"
 metafile = true
 
 [[files]]
+file = "mods/technology/power-grid.pw.toml"
+hash = "e2e2a316658219482f7cd907672d41f26f5a8fb498ac781eddf435b5547ce347"
+metafile = true
+
+[[files]]
 file = "mods/technology/slice-and-dice.pw.toml"
 hash = "5e81c2b3be80610199994139d96b0a98cab1d8ee7181606f14f9258950b378f0"
 metafile = true
@@ -1713,12 +1718,12 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "fe7c08f72f52ec27c0a69583a4d0e23982c4763cbc814989093b196776b1d452"
+hash = "95a5205f760a18d0320e1d5729b400c1b4a42ba279941d1cd2030c811f28a07e"
 preserve = true
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "135dc7ede3d6c1613f0f97b2c20dcb0aaf55b58d2da019dc6b2d4ffcfa95858d"
+hash = "5d4764d9e68054c6a68da776b508b02892b1fac58bd33704f2fedb2ae0a2a566"
 
 [[files]]
 file = "resourcepacks/@integrated/assets/emi/textures/gui/background.png"
