@@ -1,13 +1,20 @@
 import tomllib
 from pathlib import Path
 
-ROOT = Path(__file__).parent.parent
+ROOT = Path(__file__).parent.parent / "minecraft"
 
 def get_mods():
   mods = {}
 
   for file in (ROOT / "mods").glob("**/*.pw.toml"):
+    if file.name.startswith("!"):
+      continue
+
     category = file.parent.name
+
+    if category == "dependency":
+      continue
+
     if category not in mods:
       mods[category] = []
     mods[category].append(file)
@@ -31,7 +38,7 @@ def main():
   mods = get_mods()
 
   for category in mods:
-    print(f'# {category.title()}')
+    print(f'## {category.title()}')
     print()
     print('| Mod | Link |')
     print('|------|------|')
