@@ -778,7 +778,7 @@ metafile = true
 
 [[files]]
 file = "mods/mechanics/cold-sweat.pw.toml"
-hash = "b2f466b257e42c3b2b66f84c6a80728ced9c46bd88bb7f978851220a82ea06ac"
+hash = "31e6dbcea2a179ca03e7847645aa8c6de00027a5a6dd5933a53820e83d62ed6a"
 metafile = true
 
 [[files]]
@@ -1219,6 +1219,11 @@ metafile = true
 [[files]]
 file = "mods/mobs/lendercataclysm.pw.toml"
 hash = "e60608ba5d94507cbb0f654a8b4bbdbc313253f856dd9e64d0f2e1658fa883e4"
+metafile = true
+
+[[files]]
+file = "mods/mobs/migamigos.pw.toml"
+hash = "f7a88c6ec902799ae74fcf29d90e9a54f85a3d1ef7edf57d256202592ac6f96b"
 metafile = true
 
 [[files]]
@@ -1718,7 +1723,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "95a5205f760a18d0320e1d5729b400c1b4a42ba279941d1cd2030c811f28a07e"
+hash = "b33eeb2994a1249e5ca5d9629dd453fcfc04bb3c231295b3362e295351073182"
 preserve = true
 
 [[files]]
