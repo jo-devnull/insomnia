@@ -1,8 +1,5 @@
 Resource packs:
 
-- Tissou's Zombie Pack:
-  https://www.curseforge.com/minecraft/texture-packs/tissous-zombie-pack-optifine-1-7x-1-20
-
 - Vanilla Tweaks:
   https://vanillatweaks.net/
 
