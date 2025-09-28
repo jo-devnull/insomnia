@@ -567,6 +567,11 @@ hash = "a1820287a8c6c009f03e8508d3db43575c1437ff5da5f55ab9dde93d998b16e4"
 metafile = true
 
 [[files]]
+file = "mods/dependency/jupiter.pw.toml"
+hash = "bc295407e343c67af4c93ad302ee087749fe76a0f2811c85ac16a796505ae24f"
+metafile = true
+
+[[files]]
 file = "mods/dependency/kiwi.pw.toml"
 hash = "24d4a4375d45be411c2250dc15cec7d38b566938bb48671066027e6a87abea8f"
 metafile = true
@@ -828,7 +833,7 @@ metafile = true
 
 [[files]]
 file = "mods/mechanics/parcool.pw.toml"
-hash = "a9c8341e89f17392598f66a303eeb679865586ad47b5b92743385d06e50091c4"
+hash = "2b16af302e89b836b696b2dc7b11e3e8f16bc9011a99df812d6f8ec1130ade03"
 metafile = true
 
 [[files]]
