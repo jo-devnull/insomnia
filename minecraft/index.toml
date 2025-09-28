@@ -597,6 +597,11 @@ hash = "5067b7ee6e3f487e46fa9f0c730163c2ca9e9e1e026843e9111f13e8ce342183"
 metafile = true
 
 [[files]]
+file = "mods/dependency/more-hitboxes.pw.toml"
+hash = "dcbfb1d482b2fbdbe4bb9037474fdbafdf9d2bf4ed36303d7f0230b04fad47c8"
+metafile = true
+
+[[files]]
 file = "mods/dependency/mru.pw.toml"
 hash = "6e422219fb51ebdec64c086dc5e7f99feb638cba0f8eb7de0c70186d04ac9c25"
 metafile = true
@@ -1733,12 +1738,12 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "54c6d48632254f5f68f90f5dd7b16d170fc4c2725e8e83b2e04f482a200a0323"
+hash = "ef4d16b893f99974a7ac891e0f8dbb7815f26b51214adba1757bb40a3e4b176b"
 preserve = true
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "3114033e7ddc43253c0c12d74c1ffe95ec9924899090aad6a62c536aa8313843"
+hash = "7c89f9f8c562641ef5ff4c8a24703766f2b35e29bc7f6af1050a4484715753f2"
 
 [[files]]
 file = "resourcepacks/@integrated/assets/emi/textures/gui/background.png"
