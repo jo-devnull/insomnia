@@ -1,13 +1,13 @@
 name = "Migamigos"
-filename = "../Migamigos-0.1.0-1.20.1.jar"
+filename = "../Migamigos-0.1.2-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b160190ede4a815f344075d5c5252a16ef9d628f"
+hash = "9718c4a1c626a8e4d6fbe2ac5ccde134af89e408"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6954450
+file-id = 7015990
 project-id = 1188039

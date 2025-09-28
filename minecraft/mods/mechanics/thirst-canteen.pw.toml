@@ -1,13 +1,13 @@
 name = "Thirst Canteen"
-filename = "../thirstcanteen-1.20.1-2.0.jar"
+filename = "../thirstcanteen-1.20.1-3.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GV0PyXSv/versions/89hFq8bw/thirstcanteen-1.20.1-2.0.jar"
+url = "https://cdn.modrinth.com/data/GV0PyXSv/versions/g2Dlkw7C/thirstcanteen-1.20.1-3.1.jar"
 hash-format = "sha512"
-hash = "558f7eea9571bf214a64ab3d0227b51186d6555fc47815cf7f3d97f759c76e97768edb11dbcee16399e2982c765935b063ce0679c8cdca3dcd8c111d9ddd3640"
+hash = "c9610ff2c1d9b07fb44bfb157c73460b03d58dfd8ecb4d8dfe6d919b5c3da3b30f940892893853cdb5534e4ae5ccb570f1d9a1ec56326770051de738f06bbb5e"
 
 [update]
 [update.modrinth]
 mod-id = "GV0PyXSv"
-version = "89hFq8bw"
+version = "g2Dlkw7C"

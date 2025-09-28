@@ -1,13 +1,13 @@
 name = "Paintable"
-filename = "../Paintable-forge-1.20.1-1.7b-1.20.1.jar"
+filename = "../Paintable-forge-1.20.1-1.8a-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pNalfbjI/versions/9fin2Dlj/Paintable-forge-1.20.1-1.7b-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/pNalfbjI/versions/Fx074lDE/Paintable-forge-1.20.1-1.8a-1.20.1.jar"
 hash-format = "sha512"
-hash = "269691f1f5b7186f0542dceb4cdc72e4d274ef166186712b2ee9a1a5adb297c38cadb9866ff24f72b2eb3ee0d211a4d7428b8ff6342e1b6b0ace79025b54c3d0"
+hash = "2b1c25dab03950467eee4c262e232e1f71f3b73e4bef82522526328e0fdf688e54009e2400f2a8e9e38751310b989eae478d293490e064a0847f4f970bb1e961"
 
 [update]
 [update.modrinth]
 mod-id = "pNalfbjI"
-version = "9fin2Dlj"
+version = "Fx074lDE"
