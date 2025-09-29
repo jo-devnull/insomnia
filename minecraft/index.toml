@@ -362,11 +362,6 @@ hash = "079f27c9642dfdcf202f17653cc2daf07cfc9c575b4d1a205fefd0f9c2001145"
 metafile = true
 
 [[files]]
-file = "mods/decoration/paintable.pw.toml"
-hash = "a16cf3dc1c4d40b28245bb8b2cf26f1174ee25e6ab8218ed8dbd5aa7b6867f6e"
-metafile = true
-
-[[files]]
 file = "mods/decoration/particular-reforged.pw.toml"
 hash = "d9662ed0c68e510fbbad50840fbbc129f9ada1c212f88ae34b6eeeba350a8014"
 metafile = true
@@ -867,11 +862,6 @@ hash = "f63644a470fec30ec8f525c4189e6a61271e72b897b1b3ce1d29861d76dc70ad"
 metafile = true
 
 [[files]]
-file = "mods/mechanics/transmog.pw.toml"
-hash = "9b1d22d302f52a3d5791209ecea947662521fcb71cb6532e539dc5e5396b4a15"
-metafile = true
-
-[[files]]
 file = "mods/mechanics/treechop.pw.toml"
 hash = "28338683a820169965b741c5bf8c331b5c3d0e77ec0da681f6c64face100ca85"
 metafile = true
@@ -1157,11 +1147,6 @@ hash = "090b122ea1ff59e4000e1df716088ba91309a408e58290aec536c3baa783d696"
 metafile = true
 
 [[files]]
-file = "mods/mobs/alshanexs-familiars.pw.toml"
-hash = "3663ee06240684d7e2cce9c3f32c19bf94687f758e21b003aa561b25f1b25686"
-metafile = true
-
-[[files]]
 file = "mods/mobs/aquaculture.pw.toml"
 hash = "596c267f827b0fbefef354bc3032ac56c0b1a7d7c454520f0f8b4dc95c132b03"
 metafile = true
@@ -1199,11 +1184,6 @@ metafile = true
 [[files]]
 file = "mods/mobs/enderman-overhaul.pw.toml"
 hash = "0bcd045fb5b2b083cf30a09eb78399d1d297d06072b9ad0ce842e4f5d9ee4d32"
-metafile = true
-
-[[files]]
-file = "mods/mobs/enhanced-ai.pw.toml"
-hash = "146a959fefc5bae9463f9c7ab2394a4d9ffd32729292325214ca32af65e85295"
 metafile = true
 
 [[files]]
@@ -1738,7 +1718,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ef4d16b893f99974a7ac891e0f8dbb7815f26b51214adba1757bb40a3e4b176b"
+hash = "43d6c4535677a680bfa6ab1eeaa0d77fa98e0bb4d57505c624298576d4b8875d"
 preserve = true
 
 [[files]]

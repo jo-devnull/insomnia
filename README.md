@@ -29,8 +29,7 @@
 | Explosive Enhancement: Reforged | https://modrinth.com/mod/explosive-enhancement-forge |
 | Handcrafted | https://modrinth.com/mod/handcrafted |
 | Macaw's Holidays | https://modrinth.com/mod/macaws-holidays |
-| Minecraft Cursor | https://www.curseforge.com/minecraft/mc-mods/minecraft-cursor |
-| Paintable | https://modrinth.com/mod/paintable |
+| Cursors Extended | https://www.curseforge.com/minecraft/mc-mods/minecraft-cursor |
 | Polytone | https://modrinth.com/mod/polytone |
 | Pretty Rain | https://www.curseforge.com/minecraft/mc-mods/pretty-rain |
 | Radiant Gear (Fabric/Forge/Quilt) | https://www.curseforge.com/minecraft/mc-mods/radiant-gear |
@@ -79,8 +78,9 @@
 | Enchanted: Witchcraft | https://www.curseforge.com/minecraft/mc-mods/enchanted-witchcraft |
 | Enhanced Celestials | https://modrinth.com/mod/enhanced-celestials |
 | Iron's Spells 'n Spellbooks | https://modrinth.com/mod/irons-spells-n-spellbooks |
+| Marbled's First Aid | https://www.curseforge.com/minecraft/mc-mods/marbleds-first-aid |
 | No Tree Punching | https://www.curseforge.com/minecraft/mc-mods/no-tree-punching |
-| ParCool! | https://modrinth.com/mod/parcool |
+| ParCool! ~ Minecraft Parkour ~ | https://www.curseforge.com/minecraft/mc-mods/parcool |
 | Redstone Pen | https://modrinth.com/mod/redstonepen |
 | Sanity: Descent Into Madness | https://modrinth.com/mod/sanity-descent-into-madness |
 | Sleep Tight | https://www.curseforge.com/minecraft/mc-mods/sleep-tight |
@@ -152,7 +152,6 @@
 | Alex's Mobs Interaction | https://www.curseforge.com/minecraft/mc-mods/alexs-mobs-interaction |
 | Alex's Mobs | https://www.curseforge.com/minecraft/mc-mods/alexs-mobs |
 | All Bark, All Bite | https://www.curseforge.com/minecraft/mc-mods/all-bark-all-bite |
-| Alshanex's Familiars | https://www.curseforge.com/minecraft/mc-mods/alshanexs-familiars |
 | Aquaculture 2 | https://www.curseforge.com/minecraft/mc-mods/aquaculture |
 | Aquamirae | https://modrinth.com/mod/aquamirae |
 | Better Animations Collection | https://www.curseforge.com/minecraft/mc-mods/better-animations-collection |
@@ -168,6 +167,7 @@
 | Kobolds | https://modrinth.com/mod/kobolds |
 | Legendary Creatures | https://www.curseforge.com/minecraft/mc-mods/legendary-creatures |
 | L_Ender 's Cataclysm | https://www.curseforge.com/minecraft/mc-mods/lendercataclysm |
+| Migamigos | https://www.curseforge.com/minecraft/mc-mods/migamigos |
 | More Mob Variants | https://modrinth.com/mod/more-mob-variants |
 | Mowzie's Mobs | https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs |
 | Mutant Monsters | https://modrinth.com/mod/mutant-monsters |
