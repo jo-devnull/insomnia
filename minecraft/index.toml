@@ -557,11 +557,6 @@ hash = "192304cde78e4604903cc41966cfd7d117ea5abe439b5f5b91a75db2f351a7ed"
 metafile = true
 
 [[files]]
-file = "mods/dependency/insanelib.pw.toml"
-hash = "a1820287a8c6c009f03e8508d3db43575c1437ff5da5f55ab9dde93d998b16e4"
-metafile = true
-
-[[files]]
 file = "mods/dependency/jupiter.pw.toml"
 hash = "bc295407e343c67af4c93ad302ee087749fe76a0f2811c85ac16a796505ae24f"
 metafile = true
