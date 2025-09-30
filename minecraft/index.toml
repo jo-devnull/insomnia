@@ -53,11 +53,11 @@ hash = "29a8e56da3425d99c3b09cee7ed0e12b91a69205afd4280df2235131b3f08671"
 
 [[files]]
 file = "config/incontrol/phases.json"
-hash = "967ee393893d7d8fb00fc700870440afee0c0ba8de0b7b201b97ace01040b355"
+hash = "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "01c042d2ea11cadaaf69719936a045908280223f9e4db4bf420ba3519f534a65"
+hash = "eede4bec162766ae6dcd9312c0b71d926962e3d64069dd38554c5f49cc69f71a"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -554,6 +554,11 @@ metafile = true
 [[files]]
 file = "mods/dependency/glitchcore.pw.toml"
 hash = "192304cde78e4604903cc41966cfd7d117ea5abe439b5f5b91a75db2f351a7ed"
+metafile = true
+
+[[files]]
+file = "mods/dependency/insanelib.pw.toml"
+hash = "a1820287a8c6c009f03e8508d3db43575c1437ff5da5f55ab9dde93d998b16e4"
 metafile = true
 
 [[files]]
@@ -1182,6 +1187,11 @@ hash = "0bcd045fb5b2b083cf30a09eb78399d1d297d06072b9ad0ce842e4f5d9ee4d32"
 metafile = true
 
 [[files]]
+file = "mods/mobs/enhanced-ai.pw.toml"
+hash = "146a959fefc5bae9463f9c7ab2394a4d9ffd32729292325214ca32af65e85295"
+metafile = true
+
+[[files]]
 file = "mods/mobs/faunify.pw.toml"
 hash = "e7604d3d940632596593102bce8269307cf99fb1c4295c934416b155dc85a798"
 metafile = true
@@ -1199,11 +1209,6 @@ metafile = true
 [[files]]
 file = "mods/mobs/kobolds.pw.toml"
 hash = "e9f17f9c45f5f599dec6f14c141a519a63a49691066b999d31274feb3b23257a"
-metafile = true
-
-[[files]]
-file = "mods/mobs/legendary-creatures.pw.toml"
-hash = "ef1941d0b7e1646aa47a84fe6361d1b9b867d91effa52c75194ed213c33c0aa4"
 metafile = true
 
 [[files]]
@@ -1718,7 +1723,7 @@ preserve = true
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "bd4d02e72fe4ba084a58c2fdcbddd4f9982576f96e10dc85f046d2535ab7e37f"
+hash = "5a383e8d9a691fe50c6932d1d05079fe2fae50e9d96aba8856bdc67dc6f1a855"
 
 [[files]]
 file = "resourcepacks/@integrated/assets/emi/textures/gui/background.png"

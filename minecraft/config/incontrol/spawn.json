@@ -68,17 +68,6 @@
     "result": "deny",
     "hostile": true,
     "dimension": "overworld",
-    "phase": "day",
-    "biometags": [
-      "minecraft:is_ocean"
-    ],
-    "random": 0.9,
-    "minheight": 0
-  },
-  {
-    "result": "deny",
-    "hostile": true,
-    "dimension": "overworld",
     "mob": "minecraft:drowned",
     "random": 0.75
   },

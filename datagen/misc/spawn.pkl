@@ -77,12 +77,12 @@ rules {
     minheight = 27
   }
 
-  (deny) {
-    phase = "day"
-    biometags { "minecraft:is_ocean" }
-    random = .90
-    minheight = 0
-  }
+  // (deny) {
+  //   phase = "day"
+  //   biometags { "minecraft:is_ocean" }
+  //   random = .90
+  //   minheight = 0
+  // }
 
   for (mobName, weight in customMobWeight.toMap()) {
     (deny) {
@@ -111,11 +111,4 @@ rules {
   }
 }
 
-phases = new Listing {
-  new {
-    name = "day"
-    conditions {
-      time = "range(0,12000)"
-    }
-  }
-}
+phases = new Listing {}

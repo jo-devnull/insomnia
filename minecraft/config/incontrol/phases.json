@@ -1,8 +1,1 @@
-[
-  {
-    "name": "day",
-    "conditions": {
-      "time": "range(0,12000)"
-    }
-  }
-]
+[]
