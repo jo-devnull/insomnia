@@ -17,6 +17,8 @@ const customMobWeight {
   // maybe counter-intuitive but heigher
   // weight means the entity spawns less
   ["minecraft:drowned"] = 0.75
+  ["cataclysm:deepling_brute"] = 0.75
+  ["cataclysm:deepling_angler"] = 0.75
   ["upgrade_aquatic:thrasher"] = 0.98
 }
 
@@ -32,7 +34,6 @@ rules {
       "alexscaves"
       "aquamirae"
       "mowziesmobs"
-      "cataclysm"
       "cataclysm_spellbooks"
       "enderman_overhaul"
     }
@@ -58,10 +59,7 @@ rules {
   }
 
   (default) {
-    mob {
-      "minecraft:vindicator"
-      "minecraft:pillager"
-    }
+    structuretags { "modpack:always_unsafe" }
   }
 
   (default) {
@@ -77,6 +75,13 @@ rules {
     }
     
     minheight = 27
+  }
+
+  (deny) {
+    phase = "day"
+    biometags { "minecraft:is_ocean" }
+    random = .90
+    minheight = 0
   }
 
   for (mobName, weight in customMobWeight.toMap()) {
@@ -106,4 +111,11 @@ rules {
   }
 }
 
-phases = new Listing {}
+phases = new Listing {
+  new {
+    name = "day"
+    conditions {
+      time = "range(0,12000)"
+    }
+  }
+}

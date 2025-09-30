@@ -144,3 +144,42 @@
     "alexscaves:candicorn"
   }
 }
+
+`data/modpack/tags/worldgen/structure/always_unsafe.json` {
+  values {
+    "minecraft:pillager_outpost"
+    "minecraft:mansion"
+
+    "cataclysm:acropolis"
+    "cataclysm:ancient_factory"
+    "cataclysm:burning_arena"
+    "cataclysm:cursed_pyramid"
+    "cataclysm:frosted_prison"
+    "cataclysm:ruined_citadel"
+    "cataclysm:soul_black_smith"
+    "cataclysm:sunken_city"
+
+    "ctov:pillager_outpost_badlands"
+    "ctov:pillager_outpost_beach"
+    "ctov:pillager_outpost_dark_forest"
+    "ctov:pillager_outpost_desert"
+    "ctov:pillager_outpost_jungle"
+    "ctov:pillager_outpost_mesa"
+    "ctov:pillager_outpost_mountain"
+    "ctov:pillager_outpost_plains"
+    "ctov:pillager_outpost_savanna"
+    "ctov:pillager_outpost_snowy"
+    "ctov:pillager_outpost_swamp"
+    "ctov:pillager_outpost_taiga"
+    
+    "terralith:mage_tower"
+    "terralith:mage_complex"
+    "terralith:witch_hut"
+
+    "betteroceanmonuments:ocean_monument"
+
+    "betterarcheology:catacombs"
+    "betterarcheology:temple_jungle"
+    "betterarcheology:villager_grave"
+  }
+}

@@ -12,7 +12,6 @@
       "alexscaves",
       "aquamirae",
       "mowziesmobs",
-      "cataclysm",
       "cataclysm_spellbooks",
       "enderman_overhaul"
     ]
@@ -43,9 +42,8 @@
     "result": "default",
     "hostile": true,
     "dimension": "overworld",
-    "mob": [
-      "minecraft:vindicator",
-      "minecraft:pillager"
+    "structuretags": [
+      "modpack:always_unsafe"
     ]
   },
   {
@@ -70,7 +68,32 @@
     "result": "deny",
     "hostile": true,
     "dimension": "overworld",
+    "phase": "day",
+    "biometags": [
+      "minecraft:is_ocean"
+    ],
+    "random": 0.9,
+    "minheight": 0
+  },
+  {
+    "result": "deny",
+    "hostile": true,
+    "dimension": "overworld",
     "mob": "minecraft:drowned",
+    "random": 0.75
+  },
+  {
+    "result": "deny",
+    "hostile": true,
+    "dimension": "overworld",
+    "mob": "cataclysm:deepling_brute",
+    "random": 0.75
+  },
+  {
+    "result": "deny",
+    "hostile": true,
+    "dimension": "overworld",
+    "mob": "cataclysm:deepling_angler",
     "random": 0.75
   },
   {
