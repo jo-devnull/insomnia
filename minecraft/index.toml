@@ -73,7 +73,7 @@ hash = "d4ba161e86898376bc32edd89d2baef3ed961380cef2779209c8ea9fec611939"
 
 [[files]]
 file = "config/parcool-client.toml"
-hash = "d1f240af31e1650a797540ddfeb219a27de2541ac69db8668367a52850db5e5e"
+hash = "1de6f2548f4c8d5e452acdd5de011cde5e6ea8f4004e16edb587ec91d8e8346f"
 preserve = true
 
 [[files]]
@@ -812,6 +812,11 @@ hash = "56114c2fb770ddd10c57111037d47bffe6d0c9bac006f3492f09468e173297a9"
 metafile = true
 
 [[files]]
+file = "mods/mechanics/hardcore-torches-forge.pw.toml"
+hash = "e355767b8efa005079a1619ed40cc6715f3266ad47cedf301e76c322c56fce5e"
+metafile = true
+
+[[files]]
 file = "mods/mechanics/irons-spells-n-spellbooks.pw.toml"
 hash = "adbdf7bdf1ccfafda76be696f8bde9d2a7ac36f699d035ff9a02609672d8576a"
 metafile = true
@@ -1187,11 +1192,6 @@ hash = "0bcd045fb5b2b083cf30a09eb78399d1d297d06072b9ad0ce842e4f5d9ee4d32"
 metafile = true
 
 [[files]]
-file = "mods/mobs/enhanced-ai.pw.toml"
-hash = "146a959fefc5bae9463f9c7ab2394a4d9ffd32729292325214ca32af65e85295"
-metafile = true
-
-[[files]]
 file = "mods/mobs/faunify.pw.toml"
 hash = "e7604d3d940632596593102bce8269307cf99fb1c4295c934416b155dc85a798"
 metafile = true
@@ -1557,11 +1557,6 @@ hash = "71614f2245e63d471017579ebd2d5a6c8203e4f5e1414fe8dc0cadc8d87184a7"
 metafile = true
 
 [[files]]
-file = "mods/utilities/easylan.pw.toml"
-hash = "d34ce6eebdcf9c6f64845765bd422837ba0bc87f68a8f9ff852b0bbba1d123e4"
-metafile = true
-
-[[files]]
 file = "mods/utilities/emi.pw.toml"
 hash = "3f60f75ca887ddd610a546cc652551a97a70bd07431b9db70e73e77fa6c37d3b"
 metafile = true
@@ -1589,6 +1584,11 @@ metafile = true
 [[files]]
 file = "mods/utilities/lychee.pw.toml"
 hash = "e523a653b63f28fb9c67552ae77c653729fdd3ca277406b7d1cd7bd863fed539"
+metafile = true
+
+[[files]]
+file = "mods/utilities/mcwifipnp.pw.toml"
+hash = "39dcfe1e4d395ad674b475a6442c815af276e5ffb6d9af82d9817cda432e72c8"
 metafile = true
 
 [[files]]
@@ -1718,12 +1718,12 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c7a4276c69404223c052986bdd32969129174545e4a20244cac14405a473d2c7"
+hash = "d0d8aca6102ed6b8ab46585ceb7962b57246e797eb0b9185e1ab95df474c989d"
 preserve = true
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "135dc7ede3d6c1613f0f97b2c20dcb0aaf55b58d2da019dc6b2d4ffcfa95858d"
+hash = "145443eef9bcedc0cf64eb26311be3348ec2f03a991721c041a68160729f231f"
 
 [[files]]
 file = "resourcepacks/@integrated/assets/emi/textures/gui/background.png"
@@ -1740,6 +1740,10 @@ hash = "7102355a66f4ac0aef1491b06700a09f12713ebec891c7672a69d7aebba465c7"
 [[files]]
 file = "resourcepacks/@integrated/assets/emi/textures/gui/container/grindstone.png"
 hash = "8ba6fcdca4c7f27524ed717d2eff47be415945dc1768a169fc6957ddf9756d68"
+
+[[files]]
+file = "resourcepacks/@integrated/assets/hardcore_torches/lang/pt_br.json"
+hash = "a3bc2001fc12d69f8082ab01839346e28c94dd4502ec5f5808c59aae18e1e308"
 
 [[files]]
 file = "resourcepacks/@integrated/assets/mace_backport/models/item/mace.json"

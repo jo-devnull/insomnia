@@ -1,0 +1,13 @@
+name = "Hardcore Torches (Forge)"
+filename = "../hardcore_torches-1.20.1-p.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "44ad0ecdb8dc68719ae61e43171066d77aee5be7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6987618
+project-id = 576846
