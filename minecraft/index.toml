@@ -1718,12 +1718,12 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "9e3e5df84bab7029f18e5342999405db195326e0fe7d2b58e287a2d6c10973e4"
+hash = "c7a4276c69404223c052986bdd32969129174545e4a20244cac14405a473d2c7"
 preserve = true
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "5a383e8d9a691fe50c6932d1d05079fe2fae50e9d96aba8856bdc67dc6f1a855"
+hash = "135dc7ede3d6c1613f0f97b2c20dcb0aaf55b58d2da019dc6b2d4ffcfa95858d"
 
 [[files]]
 file = "resourcepacks/@integrated/assets/emi/textures/gui/background.png"
