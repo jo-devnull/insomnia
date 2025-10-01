@@ -1,14 +1,3 @@
-`data/insomnia/tags/items/emits_light.json` {
-  replace = false
-
-  values {
-    "hardcore_torches:lit_torch"
-    "hardcore_torches:lit_soul_torch"
-    "hardcore_torches:lit_lantern"
-    "hardcore_torches:lit_soul_lantern"
-  }
-}
-
 `data/insomnia/tags/worldgen/biome/nehemoth_spawns.json` {
   replace = false
 

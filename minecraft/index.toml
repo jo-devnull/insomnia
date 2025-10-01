@@ -812,11 +812,6 @@ hash = "56114c2fb770ddd10c57111037d47bffe6d0c9bac006f3492f09468e173297a9"
 metafile = true
 
 [[files]]
-file = "mods/mechanics/hardcore-torches-forge.pw.toml"
-hash = "e355767b8efa005079a1619ed40cc6715f3266ad47cedf301e76c322c56fce5e"
-metafile = true
-
-[[files]]
 file = "mods/mechanics/irons-spells-n-spellbooks.pw.toml"
 hash = "adbdf7bdf1ccfafda76be696f8bde9d2a7ac36f699d035ff9a02609672d8576a"
 metafile = true
@@ -1718,12 +1713,12 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "d0d8aca6102ed6b8ab46585ceb7962b57246e797eb0b9185e1ab95df474c989d"
+hash = "55d586e7d2b99b51278af52cb76fe01bfc42ebeddd6fbeb9571a91b2aa71d426"
 preserve = true
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "145443eef9bcedc0cf64eb26311be3348ec2f03a991721c041a68160729f231f"
+hash = "08439a211c1ab3f95a34506eaaa5aa335803f2226f6e61083d5657e19697482f"
 
 [[files]]
 file = "resourcepacks/@integrated/assets/emi/textures/gui/background.png"
@@ -1740,10 +1735,6 @@ hash = "7102355a66f4ac0aef1491b06700a09f12713ebec891c7672a69d7aebba465c7"
 [[files]]
 file = "resourcepacks/@integrated/assets/emi/textures/gui/container/grindstone.png"
 hash = "8ba6fcdca4c7f27524ed717d2eff47be415945dc1768a169fc6957ddf9756d68"
-
-[[files]]
-file = "resourcepacks/@integrated/assets/hardcore_torches/lang/pt_br.json"
-hash = "a3bc2001fc12d69f8082ab01839346e28c94dd4502ec5f5808c59aae18e1e308"
 
 [[files]]
 file = "resourcepacks/@integrated/assets/mace_backport/models/item/mace.json"
