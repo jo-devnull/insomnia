@@ -557,11 +557,6 @@ hash = "192304cde78e4604903cc41966cfd7d117ea5abe439b5f5b91a75db2f351a7ed"
 metafile = true
 
 [[files]]
-file = "mods/dependency/insanelib.pw.toml"
-hash = "a1820287a8c6c009f03e8508d3db43575c1437ff5da5f55ab9dde93d998b16e4"
-metafile = true
-
-[[files]]
 file = "mods/dependency/jupiter.pw.toml"
 hash = "bc295407e343c67af4c93ad302ee087749fe76a0f2811c85ac16a796505ae24f"
 metafile = true
@@ -1147,6 +1142,11 @@ hash = "090b122ea1ff59e4000e1df716088ba91309a408e58290aec536c3baa783d696"
 metafile = true
 
 [[files]]
+file = "mods/mobs/alshanexs-familiars.pw.toml"
+hash = "3663ee06240684d7e2cce9c3f32c19bf94687f758e21b003aa561b25f1b25686"
+metafile = true
+
+[[files]]
 file = "mods/mobs/aquaculture.pw.toml"
 hash = "596c267f827b0fbefef354bc3032ac56c0b1a7d7c454520f0f8b4dc95c132b03"
 metafile = true
@@ -1202,13 +1202,13 @@ hash = "11a1bcf5492d1174229a0f8ca90c46e9d0ef881147d4cee5e121882114a5fdb1"
 metafile = true
 
 [[files]]
-file = "mods/mobs/just-in-garden.pw.toml"
-hash = "d6f21997a1c3dc43bb6359d191150057f7da36acba900e0373bf6f035c4364d4"
+file = "mods/mobs/kobolds.pw.toml"
+hash = "e9f17f9c45f5f599dec6f14c141a519a63a49691066b999d31274feb3b23257a"
 metafile = true
 
 [[files]]
-file = "mods/mobs/kobolds.pw.toml"
-hash = "e9f17f9c45f5f599dec6f14c141a519a63a49691066b999d31274feb3b23257a"
+file = "mods/mobs/legendary-creatures.pw.toml"
+hash = "ef1941d0b7e1646aa47a84fe6361d1b9b867d91effa52c75194ed213c33c0aa4"
 metafile = true
 
 [[files]]
