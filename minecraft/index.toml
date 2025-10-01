@@ -1477,6 +1477,11 @@ hash = "765dc08b077576a31d37e2f4777bda4bafd52ede36a866c874b5419fde6e1f34"
 metafile = true
 
 [[files]]
+file = "mods/technology/create-transmission.pw.toml"
+hash = "a4f781b508ee5b3918690838fdd44131308e2ee35f4b26896901b3c9f8229837"
+metafile = true
+
+[[files]]
 file = "mods/technology/create-wizardry.pw.toml"
 hash = "a877a416c19f4f89a74a1d2b4b3864a07d22748aece631044ca9e92f74f6fcdf"
 metafile = true

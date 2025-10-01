@@ -1,0 +1,13 @@
+name = "Create: Transmission!"
+filename = "../createtransmission-1.0.3+forge-create6-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e4237f05dc2fdbd81f5fd72cea1bc13ea62f538"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7053599
+project-id = 1354280
