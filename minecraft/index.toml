@@ -28,7 +28,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "10942e34b6b1acdc0041d8b320a6a4d8ff580815a188b9030e35789f8195b5ce"
+hash = "19edbcdaafacdb6ce897f2f86147b838b3eae1aac4136425c8c6a54b1df06e89"
 preserve = true
 
 [[files]]
@@ -119,7 +119,7 @@ hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "ffd066631bdf50166e9a728355ab68c76312fdecf6058bc1015a6d64ef8445bd"
+hash = "4d050532488b1b195a39f2c0e4528455ed8423848d11b6ea380667656230db93"
 
 [[files]]
 file = "datapacks/@packdata/data/chovys_apocalypse_mod/weapon_attributes/aluminiumbat.json"
@@ -542,6 +542,16 @@ hash = "0cffc76ec37d7aebf4fcb3d8262ce2042205e6cd664d513940ec17a7b8f519ea"
 metafile = true
 
 [[files]]
+file = "mods/dependency/ftb-library-forge.pw.toml"
+hash = "258999f399464c7c5c61c095f1b4aa31a8888201009d97a99c95981456ec002f"
+metafile = true
+
+[[files]]
+file = "mods/dependency/ftb-teams-forge.pw.toml"
+hash = "5110405b4f5c170472d72960d9cc345a0c28d5f09ba5f030c92dc75837f12002"
+metafile = true
+
+[[files]]
 file = "mods/dependency/fzzy-config.pw.toml"
 hash = "b5a1832a3327ba8b0d5b6fe63ed0e9a68301a4d683c480dba588154cc0357e4f"
 metafile = true
@@ -957,6 +967,11 @@ hash = "02d1a4e4921454ab63a7f02b6d4813bfa8b23775de4b6b5971d16a5a0615e7fe"
 metafile = true
 
 [[files]]
+file = "mods/misc/ftb-quests-forge.pw.toml"
+hash = "6cf4e2e4096684b9cd713ffbcf1b4fd0c51db377ddbe0e8c8706533c5b5d7a92"
+metafile = true
+
+[[files]]
 file = "mods/misc/horseman.pw.toml"
 hash = "b3b7a8aac2920dcd77656aa6a9ddd7350d825db686007025b1af714e4e0b0138"
 metafile = true
@@ -1322,6 +1337,11 @@ hash = "5ef5240d3258d5208679e6422f86c3c03cf857ef983d3726119d226ad65ff7cd"
 metafile = true
 
 [[files]]
+file = "mods/performance/ftb-quests-optimizer.pw.toml"
+hash = "6693ad0e1a8fd4a1bb8327ff43880899d450f9ddfbcabba08d32aa071092d218"
+metafile = true
+
+[[files]]
 file = "mods/performance/immediatelyfast.pw.toml"
 hash = "b182101e4d0b259c6af5fcfbba85895c9db0660a08c05ff4f12b94e97e5e4da8"
 metafile = true
@@ -1562,6 +1582,11 @@ hash = "3f60f75ca887ddd610a546cc652551a97a70bd07431b9db70e73e77fa6c37d3b"
 metafile = true
 
 [[files]]
+file = "mods/utilities/ftb-xmod-compat.pw.toml"
+hash = "e6aa1b63dd24d7b8d77906a79cf1f9461e3ebc59a971b47200435befd5d32678"
+metafile = true
+
+[[files]]
 file = "mods/utilities/globalpacks.pw.toml"
 hash = "93e69ffa298e42068ac2ca46cf7b1fa8cbeb7cfb5dc0b787cd4485994fac4c0a"
 metafile = true
@@ -1718,7 +1743,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "55d586e7d2b99b51278af52cb76fe01bfc42ebeddd6fbeb9571a91b2aa71d426"
+hash = "745e5f4d8292f47caee37b07594024e4c1a3368bc2ad9101442cc34fe3cd5dae"
 preserve = true
 
 [[files]]
