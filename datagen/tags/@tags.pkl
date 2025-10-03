@@ -30,6 +30,12 @@ brewing = new ItemTag {
   mod = import("./brewing.pkl").toMap()
 }
 
+medicine = new ItemTag {
+  title = "Medicamentos"
+  icon = "marbledsfirstaid:item/medkit"
+  mod = import("./medicine.pkl").toMap()
+}
+
 // Tools
 
 basic_tools = new ItemTag {

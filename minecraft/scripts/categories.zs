@@ -19,4 +19,8 @@ for item in game.items {
   if (item.registryName.namespace == "mcwholidays") {
     <tag:items:category:decoration>.add(item);
   }
+
+  if (item.registryName.namespace == "marbledsfirstaid") {
+    <tag:items:category:medicine>.add(item);
+  }
 }

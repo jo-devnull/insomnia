@@ -132,6 +132,9 @@
       "stack": "#item:category:brewing"
     },
     {
+      "stack": "#item:category:medicine"
+    },
+    {
       "stack": "#item:category:basic_tools"
     },
     {

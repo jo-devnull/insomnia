@@ -28,7 +28,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "19edbcdaafacdb6ce897f2f86147b838b3eae1aac4136425c8c6a54b1df06e89"
+hash = "10942e34b6b1acdc0041d8b320a6a4d8ff580815a188b9030e35789f8195b5ce"
 preserve = true
 
 [[files]]
@@ -243,7 +243,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "76996dcaacdb8592101e632ab7baa89894ea72d82f7a5173aa5e55a1bb3c83d1"
+hash = "09a5ea2db53523b2d351c8cbe66d3936c27b632179d56e623d2df0e28f2b1a2c"
 preserve = true
 
 [[files]]
@@ -1743,12 +1743,12 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "745e5f4d8292f47caee37b07594024e4c1a3368bc2ad9101442cc34fe3cd5dae"
+hash = "204ceea262ae84fa756737ad87654278f80a6671761ade0cec10890325bb016b"
 preserve = true
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "08439a211c1ab3f95a34506eaaa5aa335803f2226f6e61083d5657e19697482f"
+hash = "c1efcb3da8ead04ee70bc530bd9086321aed3b92ea9e6b02ab998d91353219a3"
 
 [[files]]
 file = "resourcepacks/@integrated/assets/emi/textures/gui/background.png"
@@ -1888,7 +1888,7 @@ metafile = true
 
 [[files]]
 file = "scripts/categories.zs"
-hash = "ed23ab70ccca10cc81bb8fbb51c2d7e978fc03e234540ed2600b27014da63224"
+hash = "f2e7bcfc08843bb0517e7c4a3af266fa0f1d68ad868f39550db63d503e5a3f5f"
 
 [[files]]
 file = "scripts/misc.zs"
