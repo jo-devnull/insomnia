@@ -33,6 +33,7 @@ sources = [
     "config/xaero*.*",
 
     "scripts/*.zs",
+    "emi.json",
     "options.txt",
 ]
 

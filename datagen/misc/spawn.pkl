@@ -12,14 +12,14 @@ const deny = (default) {
   result = "deny"
 }
 
-const customMobWeight {
-  // [<mod>:<entity>] = weight [0-1]
-  // maybe counter-intuitive but heigher
-  // weight means the entity spawns less
-  ["minecraft:drowned"] = 0.75
-  ["cataclysm:deepling_brute"] = 0.75
-  ["cataclysm:deepling_angler"] = 0.75
-  ["upgrade_aquatic:thrasher"] = 0.98
+const customMobWeight = new Listing {
+  "minecraft:drowned"
+  "cataclysm:deepling"
+  "cataclysm:deepling_brute"
+  "cataclysm:deepling_angler"
+  "cataclysm:deepling_priest"
+  "cataclysm:deepling_warlock"
+  "upgrade_aquatic:thrasher"
 }
 
 rules {
@@ -59,14 +59,15 @@ rules {
   }
 
   (default) {
-    structuretags { "modpack:always_unsafe" }
-  }
-
-  (default) {
     lunar {
       "enhancedcelestials:blood_moon"
       "enhancedcelestials:super_blood_moon"
     }
+  }
+
+  (deny) {
+    mob = customMobWeight
+    random = 0.95
   }
   
   (deny) {
@@ -76,19 +77,9 @@ rules {
     
     minheight = 27
   }
-
-  // (deny) {
-  //   phase = "day"
-  //   biometags { "minecraft:is_ocean" }
-  //   random = .90
-  //   minheight = 0
-  // }
-
-  for (mobName, weight in customMobWeight.toMap()) {
-    (deny) {
-      mob = mobName
-      random = weight
-    }
+  
+  (default) {
+    structuretags { "modpack:always_unsafe" }
   }
 
   (deny) {

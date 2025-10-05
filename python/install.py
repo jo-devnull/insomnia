@@ -8,13 +8,10 @@ from subprocess import run
 ROOT = Path(os.getcwd())
 
 def platform_of(url: str):
-    # check if url includes modrinth.com substring
     if "modrinth.com" in url:
         return "modrinth"
-    # do the same for curseforge.com
     elif "curseforge.com" in url:
         return "curseforge"
-    # throw an error if the url is not supported
     else:
         raise ValueError("Unsupported platform")
 

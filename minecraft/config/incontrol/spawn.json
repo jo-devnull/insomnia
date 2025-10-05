@@ -42,18 +42,25 @@
     "result": "default",
     "hostile": true,
     "dimension": "overworld",
-    "structuretags": [
-      "modpack:always_unsafe"
-    ]
-  },
-  {
-    "result": "default",
-    "hostile": true,
-    "dimension": "overworld",
     "lunar": [
       "enhancedcelestials:blood_moon",
       "enhancedcelestials:super_blood_moon"
     ]
+  },
+  {
+    "result": "deny",
+    "hostile": true,
+    "dimension": "overworld",
+    "mob": [
+      "minecraft:drowned",
+      "cataclysm:deepling",
+      "cataclysm:deepling_brute",
+      "cataclysm:deepling_angler",
+      "cataclysm:deepling_priest",
+      "cataclysm:deepling_warlock",
+      "upgrade_aquatic:thrasher"
+    ],
+    "random": 0.95
   },
   {
     "result": "deny",
@@ -65,32 +72,12 @@
     "minheight": 27
   },
   {
-    "result": "deny",
+    "result": "default",
     "hostile": true,
     "dimension": "overworld",
-    "mob": "minecraft:drowned",
-    "random": 0.75
-  },
-  {
-    "result": "deny",
-    "hostile": true,
-    "dimension": "overworld",
-    "mob": "cataclysm:deepling_brute",
-    "random": 0.75
-  },
-  {
-    "result": "deny",
-    "hostile": true,
-    "dimension": "overworld",
-    "mob": "cataclysm:deepling_angler",
-    "random": 0.75
-  },
-  {
-    "result": "deny",
-    "hostile": true,
-    "dimension": "overworld",
-    "mob": "upgrade_aquatic:thrasher",
-    "random": 0.98
+    "structuretags": [
+      "modpack:always_unsafe"
+    ]
   },
   {
     "result": "deny",
