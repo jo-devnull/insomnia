@@ -462,11 +462,6 @@ hash = "0d073b396ec842c34f9c68285378956d857476df5dc582ab7803839af3e6c447"
 metafile = true
 
 [[files]]
-file = "mods/dependency/cerbons-api.pw.toml"
-hash = "b1257ebc05f488abe3964ef6be8b8a97445f86eb6f540afedc05f0bb7322d6f0"
-metafile = true
-
-[[files]]
 file = "mods/dependency/citadel.pw.toml"
 hash = "0e986de392a16af83c6cfa9916d9489ad943286c30fa873010a631f6cac0b688"
 metafile = true
@@ -529,11 +524,6 @@ metafile = true
 [[files]]
 file = "mods/dependency/faewulfslib.pw.toml"
 hash = "401e542f35a788f45bfe53b99d6233401a27179ff58cb15270b8306b69953154"
-metafile = true
-
-[[files]]
-file = "mods/dependency/flib.pw.toml"
-hash = "4cccebfbecdbd817f92da6e8f3f7240a30411294555d54f17ac651472f1b8eef"
 metafile = true
 
 [[files]]
@@ -1729,11 +1719,6 @@ metafile = true
 [[files]]
 file = "mods/world/nyctophobia-forge.pw.toml"
 hash = "5fe6d0cd9fb5c7a639f765598c3dbc10b4ac22e58535496eb3e6f9e55dff0dbd"
-metafile = true
-
-[[files]]
-file = "mods/world/ocean-floor-clay-sand-and-dirt.pw.toml"
-hash = "28667ea5b794ef9177c579ea0fcd904d86e41af3ee47f7d0a53b5aed49236a83"
 metafile = true
 
 [[files]]
