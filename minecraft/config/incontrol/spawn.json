@@ -4,19 +4,6 @@
     "dimension": "superflat:superflat"
   },
   {
-    "result": "default",
-    "hostile": true,
-    "dimension": "overworld",
-    "mod": [
-      "alexsmobs",
-      "alexscaves",
-      "aquamirae",
-      "mowziesmobs",
-      "cataclysm_spellbooks",
-      "enderman_overhaul"
-    ]
-  },
-  {
     "result": "deny",
     "hostile": true,
     "dimension": "overworld",
@@ -51,32 +38,30 @@
     "result": "deny",
     "hostile": true,
     "dimension": "overworld",
-    "mob": [
-      "minecraft:drowned",
-      "cataclysm:deepling",
-      "cataclysm:deepling_brute",
-      "cataclysm:deepling_angler",
-      "cataclysm:deepling_priest",
-      "cataclysm:deepling_warlock",
-      "upgrade_aquatic:thrasher"
-    ],
-    "random": 0.95
-  },
-  {
-    "result": "deny",
-    "hostile": true,
-    "dimension": "overworld",
     "lunar": [
       "enhancedcelestials:blue_moon"
     ],
     "minheight": 27
   },
   {
+    "result": "deny",
+    "hostile": true,
+    "dimension": "overworld",
+    "biometags": "minecraft:is_ocean",
+    "minheight": -24
+  },
+  {
     "result": "default",
     "hostile": true,
     "dimension": "overworld",
-    "structuretags": [
-      "modpack:always_unsafe"
+    "mod": [
+      "alexsmobs",
+      "alexscaves",
+      "aquamirae",
+      "cataclysm",
+      "mowziesmobs",
+      "cataclysm_spellbooks",
+      "enderman_overhaul"
     ]
   },
   {
@@ -86,6 +71,14 @@
     "mod": "fromtheshadows",
     "biometags": "forge:is_cave",
     "minheight": 0
+  },
+  {
+    "result": "default",
+    "hostile": true,
+    "dimension": "overworld",
+    "structuretags": [
+      "modpack:always_unsafe"
+    ]
   },
   {
     "result": "deny",

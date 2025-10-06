@@ -57,7 +57,7 @@ hash = "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "960d0adea922c6058b7d74c4fa4d624b7ae0f2cbb1e63634c2977d6e07963eeb"
+hash = "fc2ca36181ac04cc8446fb5791d065620d19a3efc379ffead9505a6647be6794"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -1262,11 +1262,6 @@ hash = "43ba3d22e3402a7e8e1982a8b274384e673f49986c5733eb652a8a2760011f89"
 metafile = true
 
 [[files]]
-file = "mods/mobs/myths-of-the-sea.pw.toml"
-hash = "da0a90108153aac38ee25af076f71ea70a8834a337e3d91300c061016a43383a"
-metafile = true
-
-[[files]]
 file = "mods/mobs/nyfs-spiders.pw.toml"
 hash = "f57a709135c703ddfde46802549c8aa4e961012b3088bfee527702fb9c296386"
 metafile = true
@@ -1702,11 +1697,6 @@ hash = "2a1c410990b5bcecd786578ddbc94003c4ac77b00416adf05225d4215d244009"
 metafile = true
 
 [[files]]
-file = "mods/world/continents.pw.toml"
-hash = "7d9ce3d9d268dc84f14aed00a20d3ef3c0c5d9d2f1c26afa5179b10b99f50a6d"
-metafile = true
-
-[[files]]
 file = "mods/world/deeperdarker.pw.toml"
 hash = "fb6294dd36241ee6918da9c2e4363ec352b4f502c2ad5e1cc7a591a9944fc340"
 metafile = true
@@ -1778,12 +1768,12 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "fb87dda14f021ba1cf67e030a4bf5a8970545f284df2fe1365871f89faaf76bf"
+hash = "cc42d0ddaf3f256d04fac9163e758aa0ab529b1bb2475a90a5a26e0e25065490"
 preserve = true
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "1e5ac355dadbd0a1aed38dad2dd180c99c314e41e9bbdcc94b5d27cd9a40f6e6"
+hash = "1fc4d7588c32e7cb5fdabf466b2c371409758932ac79e88e77b02cbfc47cff66"
 
 [[files]]
 file = "resourcepacks/@integrated/assets/emi/textures/gui/background.png"

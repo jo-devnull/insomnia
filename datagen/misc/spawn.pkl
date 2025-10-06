@@ -12,31 +12,10 @@ const deny = (default) {
   result = "deny"
 }
 
-const customMobWeight = new Listing {
-  "minecraft:drowned"
-  "cataclysm:deepling"
-  "cataclysm:deepling_brute"
-  "cataclysm:deepling_angler"
-  "cataclysm:deepling_priest"
-  "cataclysm:deepling_warlock"
-  "upgrade_aquatic:thrasher"
-}
-
 rules {
   new {
     result = "deny"
     dimension = "superflat:superflat"
-  }
-
-  (default) {
-    mod {
-      "alexsmobs"
-      "alexscaves"
-      "aquamirae"
-      "mowziesmobs"
-      "cataclysm_spellbooks"
-      "enderman_overhaul"
-    }
   }
 
   (deny) {
@@ -64,11 +43,6 @@ rules {
       "enhancedcelestials:super_blood_moon"
     }
   }
-
-  (deny) {
-    mob = customMobWeight
-    random = 0.95
-  }
   
   (deny) {
     lunar {
@@ -77,15 +51,36 @@ rules {
     
     minheight = 27
   }
-  
+
   (default) {
-    structuretags { "modpack:always_unsafe" }
+    mob = "minecraft:guardian"
+  }
+
+  (deny) {
+    biometags = "minecraft:is_ocean"
+    minheight = -24
+  }
+
+  (default) {
+    mod {
+      "alexsmobs"
+      "alexscaves"
+      "aquamirae"
+      "cataclysm"
+      "mowziesmobs"
+      "cataclysm_spellbooks"
+      "enderman_overhaul"
+    }
   }
 
   (deny) {
     mod = "fromtheshadows"
     biometags = "forge:is_cave"
     minheight = 0
+  }
+
+  (default) {
+    structuretags { "modpack:always_unsafe" }
   }
 
   (deny) {
