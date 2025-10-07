@@ -243,7 +243,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "09a5ea2db53523b2d351c8cbe66d3936c27b632179d56e623d2df0e28f2b1a2c"
+hash = "d973addeb03a5fd55d64bc3f43c202f292396403e8f2ca22dd8c94285569047a"
 preserve = true
 
 [[files]]
@@ -844,6 +844,11 @@ metafile = true
 [[files]]
 file = "mods/mechanics/parcool.pw.toml"
 hash = "2b16af302e89b836b696b2dc7b11e3e8f16bc9011a99df812d6f8ec1130ade03"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/playerrevive.pw.toml"
+hash = "f4811d054ccd27011c3a4e944b34338550264cad6c18ee2d1ca101d7683a62db"
 metafile = true
 
 [[files]]
