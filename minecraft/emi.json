@@ -74,6 +74,21 @@
     }
   ],
   "lookup_history": [
+    "item:minecraft:white_wool",
+    "item:minecraft:shears{Damage:0}",
+    "item:ecologics:crab_claw{Damage:0}",
+    "item:thirst:clay_bowl",
+    "item:overgeared:wooden_tongs{Damage:0}",
+    "item:create_ironworks:sturdy_armor_chestplate{Damage:0}",
+    "item:cataclysm:bloom_stone_pauldrons{Damage:0}",
+    "item:immersive_armors:warrior_chestplate{Damage:0}",
+    "item:immersive_armors:steampunk_chestplate{Damage:0}",
+    "item:overgeared:steel_plate",
+    "item:create_ironworks:steel_armor_chestplate{Damage:0}",
+    "item:minecraft:diamond_chestplate{Damage:0}",
+    "item:minecraft:golden_chestplate{Damage:0}",
+    "item:minecraft:iron_chestplate{Damage:0}",
+    "item:notreepunching:ceramic_bucket",
     "item:toolworking:copper_pickaxe_part",
     {
       "type": "fluid",
@@ -89,7 +104,6 @@
     "item:overgeared:copper_smithing_hammer{Damage:0}",
     "item:overgeared:stone_anvil",
     "item:createmetallurgy:refractory_mortar",
-    "item:notreepunching:ceramic_bucket",
     "item:notreepunching:clay_tool{Damage:0}",
     {
       "type": "item",

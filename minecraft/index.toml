@@ -247,7 +247,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "713cb83cb0f50728f25dc7bca3e96d831af4c66f4a378b68226035468f6d105a"
+hash = "abf93c6a458c7292cf7471c630ff567bac8d54a8f34299bb6598b37651df9558"
 preserve = true
 
 [[files]]
@@ -1772,7 +1772,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e83e72c570156a68325e8013c1abc79fe0afdf9ec9d35c38bea9c145f6e95d56"
+hash = "7df047ec77480f366037f604e6379476661dd8ab86857a93ea36f2366e067780"
 preserve = true
 
 [[files]]
