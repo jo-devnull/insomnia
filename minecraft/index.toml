@@ -1521,18 +1521,8 @@ hash = "c5907c1c7084f0a39ea0f15940d6000fb5569e788e9e302a71c7c9bd56cef5c6"
 metafile = true
 
 [[files]]
-file = "mods/technology/create-metallurgy.pw.toml"
-hash = "31d14571e1e66b6a8ecd70ad714d8d745beeb901a353df7830e6a019b5575484"
-metafile = true
-
-[[files]]
 file = "mods/technology/create-sifting.pw.toml"
 hash = "765dc08b077576a31d37e2f4777bda4bafd52ede36a866c874b5419fde6e1f34"
-metafile = true
-
-[[files]]
-file = "mods/technology/create-toolworking.pw.toml"
-hash = "478bfa8c357c98592fea6b1aa879501c52dda9fedef08604bdb7f62b75a5c6c5"
 metafile = true
 
 [[files]]
@@ -1782,7 +1772,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "a4a88ca856df0c7181ebc428fcb03cc9579e002c083ef32102095bc0f727fad8"
+hash = "9c01b6c5d5e79c79f99f03d585ed4afdb609aa2148a65b8636e4137adcc5d3f7"
 preserve = true
 
 [[files]]
