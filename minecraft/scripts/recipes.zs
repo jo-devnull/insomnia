@@ -1,3 +1,5 @@
+import crafttweaker.api.bracket.BracketHandlers;
+
 craftingTable.removeByName("notreepunching:iron_mattock");
 craftingTable.removeByName("notreepunching:gold_mattock");
 craftingTable.removeByName("notreepunching:diamond_mattock");

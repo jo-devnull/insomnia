@@ -1,0 +1,13 @@
+name = "Overgeared"
+filename = "../overgeared-1.4.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a5e9b8306ac1dc7cbaa14cca952768bd040b11b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7065793
+project-id = 1277786

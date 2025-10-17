@@ -85,6 +85,16 @@ function buildRecipes() = new Mapping<String, FileOutput> {
       }
     }
   }
+
+  for (modid, list in import("misc/recipes/remove.pkl").toMap()) {
+    for (recipe in list) {
+      [List(path.data, modid, "recipes", recipe).join("/") + ".json"] = (json) {
+        value {
+          type = "notreepunching:empty"
+        }
+      }
+    }
+  }
 }
 
 function buildReplacements() = new Mapping<String, FileOutput> {

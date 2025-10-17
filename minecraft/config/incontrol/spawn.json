@@ -44,6 +44,12 @@
     "minheight": 27
   },
   {
+    "result": "default",
+    "hostile": true,
+    "dimension": "overworld",
+    "mob": "minecraft:guardian"
+  },
+  {
     "result": "deny",
     "hostile": true,
     "dimension": "overworld",

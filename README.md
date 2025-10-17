@@ -80,13 +80,14 @@
 | Iron's Spells 'n Spellbooks | https://modrinth.com/mod/irons-spells-n-spellbooks |
 | Marbled's First Aid | https://www.curseforge.com/minecraft/mc-mods/marbleds-first-aid |
 | No Tree Punching | https://www.curseforge.com/minecraft/mc-mods/no-tree-punching |
+| Overgeared | https://www.curseforge.com/minecraft/mc-mods/overgeared |
 | ParCool! ~ Minecraft Parkour ~ | https://www.curseforge.com/minecraft/mc-mods/parcool |
+| PlayerRevive | https://www.curseforge.com/minecraft/mc-mods/playerrevive |
 | Redstone Pen | https://modrinth.com/mod/redstonepen |
 | Sanity: Descent Into Madness | https://modrinth.com/mod/sanity-descent-into-madness |
 | Sleep Tight | https://www.curseforge.com/minecraft/mc-mods/sleep-tight |
 | Thirst Canteen | https://modrinth.com/mod/thirst-canteen |
 | Thirst Was Taken | https://modrinth.com/mod/thirst-was-taken |
-| Transmog | https://modrinth.com/mod/transmog |
 | HT's TreeChop | https://modrinth.com/mod/treechop |
 | Vanilla Backport | https://www.curseforge.com/minecraft/mc-mods/vanillabackport |
 | Waystones | https://modrinth.com/mod/waystones |
@@ -112,6 +113,7 @@
 | Farmer's Cutting: Biomes O' Plenty | https://www.curseforge.com/minecraft/mc-mods/farmers-cutting-biomes-o-plenty |
 | Fishermen's Trap [Neo/Fabric] | https://modrinth.com/mod/fishermens-trap |
 | Friendly Fire | https://modrinth.com/mod/friendly-fire |
+| FTB Quests (Forge) | https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge |
 | Horseman | https://www.curseforge.com/minecraft/mc-mods/horseman |
 | Hourglass | https://modrinth.com/mod/hourglass |
 | Inventory Essentials | https://modrinth.com/mod/inventory-essentials |
@@ -152,6 +154,7 @@
 | Alex's Mobs Interaction | https://www.curseforge.com/minecraft/mc-mods/alexs-mobs-interaction |
 | Alex's Mobs | https://www.curseforge.com/minecraft/mc-mods/alexs-mobs |
 | All Bark, All Bite | https://www.curseforge.com/minecraft/mc-mods/all-bark-all-bite |
+| Animal Garden - Manatee | https://www.curseforge.com/minecraft/mc-mods/animal-garden-manatee |
 | Aquaculture 2 | https://www.curseforge.com/minecraft/mc-mods/aquaculture |
 | Aquamirae | https://modrinth.com/mod/aquamirae |
 | Better Animations Collection | https://www.curseforge.com/minecraft/mc-mods/better-animations-collection |
@@ -160,10 +163,8 @@
 | Ecologics | https://www.curseforge.com/minecraft/mc-mods/ecologics |
 | EEEAB's Mobs | https://www.curseforge.com/minecraft/mc-mods/eeeabs-mobs |
 | Enderman Overhaul | https://modrinth.com/mod/enderman-overhaul |
-| Enhanced AI | https://www.curseforge.com/minecraft/mc-mods/enhanced-ai |
 | Faunify | https://www.curseforge.com/minecraft/mc-mods/faunify |
 | From The Shadows Reborn | https://www.curseforge.com/minecraft/mc-mods/from-the-shadow-reborn |
-| Just-In GARDEN | https://www.curseforge.com/minecraft/mc-mods/just-in-garden |
 | Kobolds | https://modrinth.com/mod/kobolds |
 | Legendary Creatures | https://www.curseforge.com/minecraft/mc-mods/legendary-creatures |
 | L_Ender 's Cataclysm | https://www.curseforge.com/minecraft/mc-mods/lendercataclysm |
@@ -214,6 +215,7 @@
 | ChoiceTheorem's Overhauled Village | https://modrinth.com/mod/ct-overhaul-village |
 | Desert Survival House | https://modrinth.com/mod/desert-survival-house |
 | Hobbit House | https://www.curseforge.com/minecraft/mc-mods/hobbit-house |
+| Hopo Better Underwater Ruins | https://www.curseforge.com/minecraft/mc-mods/hopo-better-underwater-ruins |
 | Sawmill House | https://modrinth.com/mod/sawmill-house |
 | Simply Houses | https://www.curseforge.com/minecraft/mc-mods/simply-houses |
 | Unnamed Sea | https://modrinth.com/mod/unnamed-sea |
@@ -233,10 +235,13 @@
 | Create: Aquatic Ambitions | https://www.curseforge.com/minecraft/mc-mods/create-aquatic-ambitions |
 | Create: Diesel Generators | https://www.curseforge.com/minecraft/mc-mods/create-diesel-generators |
 | Create: Immersive Tacz Integration | https://www.curseforge.com/minecraft/mc-mods/create-immersive-tacz-integration |
-| Create: Ironworks [Forge/Fabric] | https://modrinth.com/mod/create-ironworks |
+| Create: Ironworks [Forge/Fabric/NeoForge] | https://modrinth.com/mod/create-ironworks |
+| Create Low-Heated | https://modrinth.com/mod/create-low-heated |
+| Create: Metallurgy | https://modrinth.com/mod/create-metallurgy |
 | Create Sifting | https://modrinth.com/mod/create-sifting |
+| Create: Transmission! | https://www.curseforge.com/minecraft/mc-mods/create-transmission |
 | Create: Wizardry | https://modrinth.com/mod/create-wizardry |
-| Create | https://www.curseforge.com/minecraft/mc-mods/create |
+| Create | https://modrinth.com/mod/create |
 | Create: Dynamic Village | https://modrinth.com/mod/dynamic-village |
 | Immersive Aircraft | https://modrinth.com/mod/immersive-aircraft |
 | Petrol's Parts (Create add-on) | https://modrinth.com/mod/petrols-parts |
@@ -247,7 +252,6 @@
 
 | Mod | Link |
 |------|------|
-| Advanced Loot Info | https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info |
 | Biome Replacer | https://modrinth.com/mod/biome-replacer |
 | Catalogue | https://www.curseforge.com/minecraft/mc-mods/catalogue |
 | Client Tweaks | https://modrinth.com/mod/client-tweaks |
@@ -255,13 +259,15 @@
 | Controlling | https://modrinth.com/mod/controlling |
 | CraftTweaker | https://www.curseforge.com/minecraft/mc-mods/crafttweaker |
 | CreateTweaker | https://www.curseforge.com/minecraft/mc-mods/createtweaker |
-| EasyLAN | https://modrinth.com/mod/easylan |
 | EMI | https://modrinth.com/mod/emi |
+| FTB Filter System | https://www.curseforge.com/minecraft/mc-mods/ftb-filter-system |
+| FTB XMod Compat | https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat |
 | Global Packs | https://modrinth.com/mod/globalpacks |
 | In Control! | https://modrinth.com/mod/in-control |
 | Just Enough Items (JEI) | https://www.curseforge.com/minecraft/mc-mods/jei |
 | Load My F***ing Tags | https://modrinth.com/mod/lmft |
 | Lychee | https://modrinth.com/mod/lychee |
+| LAN World Plug-n-Play (mcwifipnp) | https://modrinth.com/mod/mcwifipnp |
 | One Enough Item | https://www.curseforge.com/minecraft/mc-mods/one-enough-item |
 | Resource Pack Overrides | https://modrinth.com/mod/resource-pack-overrides |
 | Resourcify | https://modrinth.com/mod/resourcify |

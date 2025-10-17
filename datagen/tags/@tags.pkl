@@ -46,7 +46,7 @@ basic_tools = new ItemTag {
 
 heavy_tools = new ItemTag {
   title = "Ferramentas Pesadas"
-  icon = "create_ironworks:item/steel_pickaxe"
+  icon = "kobolds:item/kobold_iron_pickaxe"
   mod = import("./heavy_tools.pkl").toMap()
 }
 

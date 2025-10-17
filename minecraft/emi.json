@@ -74,59 +74,38 @@
     }
   ],
   "lookup_history": [
-    "item:minecraft:white_carpet",
-    "#item:minecraft:wool_carpets",
-    "item:supplementaries:lunch_basket",
-    {
-      "type": "item",
-      "id": "minecraft:melon_slice",
-      "amount": 56
-    },
-    "item:minecraft:cobblestone",
-    "item:minecraft:oak_log",
-    "item:notreepunching:flint_axe{Damage:0}",
-    "item:minecraft:flint",
-    {
-      "type": "item",
-      "id": "minecraft:bamboo",
-      "amount": 8
-    },
-    "item:cataclysm:bloom_stone_pauldrons{Damage:0}",
-    "item:marbledsfirstaid:medical_bag{Damage:0}",
-    "item:marbledsfirstaid:elixir",
+    "item:toolworking:copper_pickaxe_part",
     {
       "type": "fluid",
-      "id": "create:potion",
-      "nbt": "{Potion:\"minecraft:awkward\"}",
-      "amount": 250
+      "id": "createmetallurgy:molten_bronze",
+      "amount": 90
     },
-    "item:marbledsfirstaid:awkward_medicine_bottle",
-    "item:marbledsfirstaid:medicine_bottle",
-    "item:marbledsfirstaid:antidote",
-    "item:marbledsfirstaid:bandaid",
-    "item:marbledsfirstaid:pain_pills{Damage:0}"
+    "item:toolworking:bronze_pickaxe_part",
+    "item:overgeared:heated_copper_ingot",
+    "item:toolworking:copper_shovel_part",
+    "item:create_ironworks:copper_shovel{Damage:0}",
+    "item:create_ironworks:copper_pickaxe{Damage:0}",
+    "item:toolworking:copper_axe_part",
+    "item:overgeared:copper_smithing_hammer{Damage:0}",
+    "item:overgeared:stone_anvil",
+    "item:createmetallurgy:refractory_mortar",
+    "item:notreepunching:ceramic_bucket",
+    "item:notreepunching:clay_tool{Damage:0}",
+    {
+      "type": "item",
+      "id": "notreepunching:ceramic_water_bucket",
+      "remainder": "item:notreepunching:ceramic_bucket"
+    },
+    "item:createmetallurgy:foundry_basin",
+    "item:create:andesite_alloy",
+    "item:mowziesmobs:spear{Damage:0}",
+    "item:create:zinc_ingot",
+    "item:minecraft:copper_ingot",
+    "item:createlowheated:basic_burner",
+    "item:overgeared:heated_iron_ingot",
+    "item:minecraft:iron_ingot"
   ],
-  "craft_history": [
-    "minecraft:white_wool_from_string",
-    "notreepunching:string_from_wool_with_knife",
-    "notreepunching:sticks_from_logs_with_flint_axe",
-    "minecraft:torch",
-    "minecraft:furnace",
-    "farmersdelight:iron_knife",
-    "create_ironworks:tools/paxel/iron",
-    "notreepunching:generated/minecraft_jungle_planks",
-    "minecraft:iron_axe",
-    "shieldexp:wooden_shield",
-    "immersive_armors:wooden_boots",
-    "immersive_armors:wooden_helmet",
-    "immersive_armors:wooden_leggings",
-    "immersive_armors:wooden_chestplate",
-    "minecraft:crafting_table",
-    "notreepunching:plant_string",
-    "notreepunching:flint_axe",
-    "notreepunching:flint_from_gravel",
-    "farmersdelight:flint_knife"
-  ],
+  "craft_history": [],
   "recipe_defaults": {
     "added": [],
     "tags": {},

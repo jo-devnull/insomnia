@@ -28,7 +28,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "10942e34b6b1acdc0041d8b320a6a4d8ff580815a188b9030e35789f8195b5ce"
+hash = "cf132b34246dc550e1a32ba464ad1571021617549ab84092b4a3ad9beb627a26"
 preserve = true
 
 [[files]]
@@ -57,7 +57,7 @@ hash = "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "fc2ca36181ac04cc8446fb5791d065620d19a3efc379ffead9505a6647be6794"
+hash = "9c61bccd1d2a4d01db73fc427666379693f8d602d4fd176e53c91de0522466f0"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -96,6 +96,10 @@ hash = "55bc9010596e9d042b8ada90f1ec86cee60d2d499bad670b5ee732999392484d"
 [[files]]
 file = "config/sanitydim/dimension/example.toml"
 hash = "d1a64dd1237d7f7424a3006f22a2a06f6a578983d997474f600563c1164c9c03"
+
+[[files]]
+file = "config/sidebar_buttons.json"
+hash = "bd06f02dd732a2b24c13b7b98a89ef873568f44fbcff1ca608f3fa9f70b05104"
 
 [[files]]
 file = "config/thirst/keyword.toml"
@@ -243,7 +247,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "d973addeb03a5fd55d64bc3f43c202f292396403e8f2ca22dd8c94285569047a"
+hash = "713cb83cb0f50728f25dc7bca3e96d831af4c66f4a378b68226035468f6d105a"
 preserve = true
 
 [[files]]
@@ -403,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/decoration/supplementaries.pw.toml"
-hash = "b4a2b63793eb98b03dca2dfdca513801c63c478dabccdb23dc0d0966b2964593"
+hash = "f60560291b011f0ec389f483f2d06c615d54d1fde49f6c7ffb5d185d0c809eda"
 metafile = true
 
 [[files]]
@@ -697,11 +701,6 @@ hash = "fd650f5832f020f6dcdf4c7af6bc123278bc235d06c8cb1bcf08a5dc342c6327"
 metafile = true
 
 [[files]]
-file = "mods/equipment/building-gadgets.pw.toml"
-hash = "b3ac5b36adcfbd42e974f648a855deecdd9c3e0c6ca084fa6affe6d1b71a38fa"
-metafile = true
-
-[[files]]
 file = "mods/equipment/epic-samurais.pw.toml"
 hash = "ff576613b431b912d64e33389714754d713ff018193542e80651d06d5121ef0d"
 metafile = true
@@ -839,6 +838,11 @@ metafile = true
 [[files]]
 file = "mods/mechanics/no-tree-punching.pw.toml"
 hash = "be5a7395477ef416b0e767d237b778dee2692792171b52be2a01fdc347ec24ff"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/overgeared.pw.toml"
+hash = "f2ddbdff9663e55dd179cdbf227b30dc9e21ac50f62720c491b03994c3356729"
 metafile = true
 
 [[files]]
@@ -1347,11 +1351,6 @@ hash = "5ef5240d3258d5208679e6422f86c3c03cf857ef983d3726119d226ad65ff7cd"
 metafile = true
 
 [[files]]
-file = "mods/performance/ftb-quests-optimizer.pw.toml"
-hash = "6693ad0e1a8fd4a1bb8327ff43880899d450f9ddfbcabba08d32aa071092d218"
-metafile = true
-
-[[files]]
 file = "mods/performance/immediatelyfast.pw.toml"
 hash = "b182101e4d0b259c6af5fcfbba85895c9db0660a08c05ff4f12b94e97e5e4da8"
 metafile = true
@@ -1503,12 +1502,27 @@ metafile = true
 
 [[files]]
 file = "mods/technology/create-ironworks.pw.toml"
-hash = "0291f5d37f57e582db17868b3868c0a2d4691bdef5543d0549451e11bcc822ec"
+hash = "7d48387c4e77cf49a29e783b4fd90514de1b73ec8bc8240c15191cca6d16da85"
+metafile = true
+
+[[files]]
+file = "mods/technology/create-low-heated.pw.toml"
+hash = "c5907c1c7084f0a39ea0f15940d6000fb5569e788e9e302a71c7c9bd56cef5c6"
+metafile = true
+
+[[files]]
+file = "mods/technology/create-metallurgy.pw.toml"
+hash = "31d14571e1e66b6a8ecd70ad714d8d745beeb901a353df7830e6a019b5575484"
 metafile = true
 
 [[files]]
 file = "mods/technology/create-sifting.pw.toml"
 hash = "765dc08b077576a31d37e2f4777bda4bafd52ede36a866c874b5419fde6e1f34"
+metafile = true
+
+[[files]]
+file = "mods/technology/create-toolworking.pw.toml"
+hash = "478bfa8c357c98592fea6b1aa879501c52dda9fedef08604bdb7f62b75a5c6c5"
 metafile = true
 
 [[files]]
@@ -1523,7 +1537,7 @@ metafile = true
 
 [[files]]
 file = "mods/technology/create.pw.toml"
-hash = "0292c2d3397d670d09a735fabf9077f46894f98ecf869aaa7ff7daf7287f8ce5"
+hash = "73c70fb3e89759559d70b8d05320137c214fa94ec44015fc8dd6fe23ebe936ea"
 metafile = true
 
 [[files]]
@@ -1549,11 +1563,6 @@ metafile = true
 [[files]]
 file = "mods/technology/slice-and-dice.pw.toml"
 hash = "9e9ae7f990342ec2a081948801673e00e3e93200b8367035aa27d0636ef657c5"
-metafile = true
-
-[[files]]
-file = "mods/utilities/advanced-loot-info.pw.toml"
-hash = "c6f08360a30f7b03b484f92101ef57dc65cc401067071ae1c5dd93b061bb0bce"
 metafile = true
 
 [[files]]
@@ -1594,6 +1603,11 @@ metafile = true
 [[files]]
 file = "mods/utilities/emi.pw.toml"
 hash = "3f60f75ca887ddd610a546cc652551a97a70bd07431b9db70e73e77fa6c37d3b"
+metafile = true
+
+[[files]]
+file = "mods/utilities/ftb-filter-system.pw.toml"
+hash = "bb3657ad6a5ed2c7b690270085b136246294d3ed4670ffa38488f6dbb0667da6"
 metafile = true
 
 [[files]]
@@ -1758,12 +1772,12 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "cc42d0ddaf3f256d04fac9163e758aa0ab529b1bb2475a90a5a26e0e25065490"
+hash = "9107d192f865c1a38ad9677a0c3cfca53ab409b5c8097de6011a48ba9b357690"
 preserve = true
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "1fc4d7588c32e7cb5fdabf466b2c371409758932ac79e88e77b02cbfc47cff66"
+hash = "e4505153f0ed43dcee31b86edead31a6b2260b69e59c16e1627f7533163bd908"
 
 [[files]]
 file = "resourcepacks/@integrated/assets/emi/textures/gui/background.png"
@@ -1911,7 +1925,7 @@ hash = "975d493a2ace15a7f43e5083e95c5590e2dfb74d4a6f8ce5b4e0521eb2e519a3"
 
 [[files]]
 file = "scripts/recipes.zs"
-hash = "0f80ad04cdeb8eb264425833867bd1c20e35e1aa5e8289e501a35542d99ce274"
+hash = "3152da00ced544789a8d849af9fdcf8ed0a0865e3fe167e8674606a09e145a1d"
 
 [[files]]
 file = "scripts/tags.zs"
