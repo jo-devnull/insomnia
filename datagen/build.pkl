@@ -98,7 +98,7 @@ function buildRecipes() = new Mapping<String, FileOutput> {
 }
 
 function buildReplacements() = new Mapping<String, FileOutput> {
-  ["\(path.data)/oei/replacements/replacements.json"] = (json) {
+  ["\(path.data)/oei/replacements/mod_replacements.json"] = (json) {
     value {
       for (key, val in import("misc/replace.pkl").toMap()) {
         for (item in val.items) {

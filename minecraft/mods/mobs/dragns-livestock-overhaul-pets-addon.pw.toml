@@ -1,0 +1,13 @@
+name = "DragN's Livestock Overhaul: Pets Addon!"
+filename = "../DragNs_Pet_Overhaul-1.20.1-1.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "153dbc6aafc54a94b515c7dc0889ba52a9c8c45c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6961321
+project-id = 1175609

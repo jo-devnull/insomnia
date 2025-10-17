@@ -247,7 +247,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "abf93c6a458c7292cf7471c630ff567bac8d54a8f34299bb6598b37651df9558"
+hash = "b6c827b50c64770ee8f646ee6c9750329a9753743e0c5f60f3cd7dc4bee4a758"
 preserve = true
 
 [[files]]
@@ -1201,6 +1201,16 @@ hash = "e6ecc376ef51eaca79e1eb8db93ecf8de69ce38cc57ef353bd04d16e1c76d0ff"
 metafile = true
 
 [[files]]
+file = "mods/mobs/dragns-livestock-overhaul-pets-addon.pw.toml"
+hash = "04d38aaf0e164ec2d243ef07432b4b3633176d836105d237ca05d20ab032a394"
+metafile = true
+
+[[files]]
+file = "mods/mobs/dragns-livestock-overhaul.pw.toml"
+hash = "ac6188a73688c79024deff29cd1842097e297ffc5a4590d2d10a3d8d01620f96"
+metafile = true
+
+[[files]]
 file = "mods/mobs/ecologics.pw.toml"
 hash = "0867def56c9c368d94e19acf7969807bf07717029200d0f4f2c30f6717c2e751"
 metafile = true
@@ -1777,7 +1787,7 @@ preserve = true
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "e4505153f0ed43dcee31b86edead31a6b2260b69e59c16e1627f7533163bd908"
+hash = "9f4a623698d8f65e962c038a60209ed2a0ef4d74cfb3be99a5017b0d0bc3a7cd"
 
 [[files]]
 file = "resourcepacks/@integrated/assets/emi/textures/gui/background.png"

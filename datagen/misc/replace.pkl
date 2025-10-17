@@ -8,6 +8,26 @@ steel {
   }
 }
 
+steel2 {
+  from = "overgeared"
+  to = "create_ironworks"
+
+  items {
+    "steel_ingot"
+    "steel_block"
+  }
+}
+
+steel3 {
+  from = "createmetallurgy"
+  to = "create_ironworks"
+
+  items {
+    "steel_ingot"
+    "steel_block"
+  }
+}
+
 farm_and_delight {
   from = "farm_and_charm"
   to = "farmersdelight"
