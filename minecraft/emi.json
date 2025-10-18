@@ -74,6 +74,14 @@
     }
   ],
   "lookup_history": [
+    "item:minecraft:iron_helmet{AttributeModifiers:[{Amount:2.0d,AttributeName:\"minecraft:generic.armor\",Name:\"base_armor\",Operation:0,Slot:\"head\",UUID:[I;-1959153228,-935049898,-1747304063,1634343863]},{Amount:0.02d,AttributeName:\"minecraft:generic.attack_damage\",Name:\"base_bonus\",Operation:2,Slot:\"head\",UUID:[I;2704604,-995143926,-1860084259,1879655653]}],Damage:0,display:{Name:\u0027{\"translate\":\"set.aquamirae.dead_sea_helmet\"}\u0027}}",
+    "item:create_ironworks:copper_armor_helmet{Damage:0}",
+    "item:overgeared:heated_copper_ingot",
+    "item:overgeared:copper_smithing_hammer{Damage:0}",
+    "item:better_campfires:firewood",
+    "item:notreepunching:fire_starter{Damage:0}",
+    "item:minecraft:campfire",
+    "item:overgeared:wooden_tongs{Damage:0}",
     "item:minecraft:iron_ingot",
     "item:toolworking:copper_sword_part",
     "item:toolworking:copper_pickaxe_part"

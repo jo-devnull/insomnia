@@ -247,7 +247,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "8c7d58558d445e8e2adddd3cdc459bde7b88c13319b9caa6c3ec2043a6ce16e6"
+hash = "83c24e0af7aa242ad4eb9c90ed57f07dd0b2cc2ad691518a9cb247e718ffb34b"
 preserve = true
 
 [[files]]
@@ -348,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/decoration/explosive-enhancement-forge.pw.toml"
 hash = "a3b3fb75b0d3b89be36989152d4b54e617ca0e8fde3af9e9d7fcdd07dea54102"
+metafile = true
+
+[[files]]
+file = "mods/decoration/fancy-toasts.pw.toml"
+hash = "4e1b824306815933c3d078c2ffcbf92e31727187fec485ba72e01d64a24b8391"
 metafile = true
 
 [[files]]
@@ -1532,7 +1537,7 @@ metafile = true
 
 [[files]]
 file = "mods/technology/create-toolworking.pw.toml"
-hash = "659eaa9b11bb4e68f6b8e95fc5ac470ddaaf646323f796ea8aa1c4222d63a424"
+hash = "bcb68053af0c62c2064f669640889042a56e05f1964a430d80b6d570f6327cbc"
 metafile = true
 
 [[files]]
@@ -1782,7 +1787,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "740a1e230632fe505fa7fc900ea5c6aeab989c25a35b94dc20fab8cbd9b57a3e"
+hash = "bbd4eddf1e07f798b38eb602ab125b1c840748dbd82cb42ce1d018a2ecf5a739"
 preserve = true
 
 [[files]]
