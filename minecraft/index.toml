@@ -247,7 +247,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "b6c827b50c64770ee8f646ee6c9750329a9753743e0c5f60f3cd7dc4bee4a758"
+hash = "8c7d58558d445e8e2adddd3cdc459bde7b88c13319b9caa6c3ec2043a6ce16e6"
 preserve = true
 
 [[files]]
@@ -1521,8 +1521,18 @@ hash = "c5907c1c7084f0a39ea0f15940d6000fb5569e788e9e302a71c7c9bd56cef5c6"
 metafile = true
 
 [[files]]
+file = "mods/technology/create-metallurgy.pw.toml"
+hash = "31d14571e1e66b6a8ecd70ad714d8d745beeb901a353df7830e6a019b5575484"
+metafile = true
+
+[[files]]
 file = "mods/technology/create-sifting.pw.toml"
 hash = "765dc08b077576a31d37e2f4777bda4bafd52ede36a866c874b5419fde6e1f34"
+metafile = true
+
+[[files]]
+file = "mods/technology/create-toolworking.pw.toml"
+hash = "659eaa9b11bb4e68f6b8e95fc5ac470ddaaf646323f796ea8aa1c4222d63a424"
 metafile = true
 
 [[files]]
@@ -1772,12 +1782,12 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "9c01b6c5d5e79c79f99f03d585ed4afdb609aa2148a65b8636e4137adcc5d3f7"
+hash = "740a1e230632fe505fa7fc900ea5c6aeab989c25a35b94dc20fab8cbd9b57a3e"
 preserve = true
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "9f4a623698d8f65e962c038a60209ed2a0ef4d74cfb3be99a5017b0d0bc3a7cd"
+hash = "0a8fce26b1df4f3fc3ec8b7fe3f41fa0917f8b30fa11103f1fce4c1108266766"
 
 [[files]]
 file = "resourcepacks/@integrated/assets/emi/textures/gui/background.png"

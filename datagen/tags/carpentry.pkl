@@ -15,22 +15,3 @@ supplementaries {
   "fine_wood_stairs"
   "fine_wood_slab"
 }
-
-carved_wood {
-  for (wood in utils.VanillaWood) {
-    "\(wood)_log_bundle"
-    "stripped_\(wood)_log_bundle"
-    "\(wood)_panels"
-    "\(wood)_mosaic"
-    "\(wood)_tiles"
-    "\(wood)_boards"
-    "smooth_\(wood)_boards"
-    "carved_\(wood)_planks"
-    "\(wood)_lantern"
-    "\(wood)_pillar"
-    "\(wood)_mosaic_stairs"
-    "\(wood)_tile_stairs"
-    "\(wood)_mosaic_slab"
-    "\(wood)_tile_slab"
-  }
-}

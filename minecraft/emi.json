@@ -74,21 +74,15 @@
     }
   ],
   "lookup_history": [
-    "item:thirstcanteen:leather_canteen",
-    "item:minecraft:bundle",
-    "item:toolbelt:belt",
-    "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]}}",
-    "item:minecraft:leather",
-    {
-      "type": "fluid",
-      "id": "createmetallurgy:molten_steel",
-      "amount": 90
-    },
-    "item:create_ironworks:steel_ingot"
+    "item:minecraft:iron_ingot",
+    "item:toolworking:copper_sword_part",
+    "item:toolworking:copper_pickaxe_part"
   ],
   "craft_history": [],
   "recipe_defaults": {
-    "added": [],
+    "added": [
+      "jei:/toolworking/casting_in_table/iron/ingot"
+    ],
     "tags": {},
     "resolutions": {},
     "disabled": []
