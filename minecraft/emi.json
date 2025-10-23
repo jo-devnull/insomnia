@@ -1,100 +1,4 @@
 {
-  "favorites": [
-    {
-      "stack": "#item:category:functional_blocks"
-    },
-    {
-      "stack": "#item:category:cooking"
-    },
-    {
-      "stack": "#item:category:foods"
-    },
-    {
-      "stack": "#item:category:brewing"
-    },
-    {
-      "stack": "#item:category:medicine"
-    },
-    {
-      "stack": "#item:category:basic_tools"
-    },
-    {
-      "stack": "#item:category:heavy_tools"
-    },
-    {
-      "stack": "#item:category:weapons"
-    },
-    {
-      "stack": "#item:category:armor"
-    },
-    {
-      "stack": "#item:category:guns"
-    },
-    {
-      "stack": "#item:category:enchanting"
-    },
-    {
-      "stack": "#item:category:witchcraft"
-    },
-    {
-      "stack": "#item:category:furniture"
-    },
-    {
-      "stack": "#item:category:decoration"
-    },
-    {
-      "stack": "#item:category:block_decoration"
-    },
-    {
-      "stack": "#item:category:storage"
-    },
-    {
-      "stack": "#item:category:engineering"
-    },
-    {
-      "stack": "#item:category:carpentry"
-    },
-    {
-      "stack": "#item:category:masonry"
-    },
-    {
-      "stack": "#item:category:metalworking"
-    },
-    {
-      "stack": "#item:category:farming"
-    },
-    {
-      "stack": "#item:category:archery"
-    },
-    {
-      "stack": "#item:category:fishing"
-    },
-    {
-      "stack": "#item:category:transport"
-    }
-  ],
-  "lookup_history": [
-    "item:minecraft:iron_helmet{AttributeModifiers:[{Amount:2.0d,AttributeName:\"minecraft:generic.armor\",Name:\"base_armor\",Operation:0,Slot:\"head\",UUID:[I;-1959153228,-935049898,-1747304063,1634343863]},{Amount:0.02d,AttributeName:\"minecraft:generic.attack_damage\",Name:\"base_bonus\",Operation:2,Slot:\"head\",UUID:[I;2704604,-995143926,-1860084259,1879655653]}],Damage:0,display:{Name:\u0027{\"translate\":\"set.aquamirae.dead_sea_helmet\"}\u0027}}",
-    "item:create_ironworks:copper_armor_helmet{Damage:0}",
-    "item:overgeared:heated_copper_ingot",
-    "item:overgeared:copper_smithing_hammer{Damage:0}",
-    "item:better_campfires:firewood",
-    "item:notreepunching:fire_starter{Damage:0}",
-    "item:minecraft:campfire",
-    "item:overgeared:wooden_tongs{Damage:0}",
-    "item:minecraft:iron_ingot",
-    "item:toolworking:copper_sword_part",
-    "item:toolworking:copper_pickaxe_part"
-  ],
-  "craft_history": [],
-  "recipe_defaults": {
-    "added": [
-      "jei:/toolworking/casting_in_table/iron/ingot"
-    ],
-    "tags": {},
-    "resolutions": {},
-    "disabled": []
-  },
   "hidden_stacks": [
     "item:minecraft:goat_horn{instrument:\"minecraft:sing_goat_horn\"}",
     "item:minecraft:goat_horn{instrument:\"minecraft:seek_goat_horn\"}",
@@ -213,5 +117,79 @@
     "item:tacz:modern_kinetic_gun{GunCurrentAmmoCount:75,GunFireMode:\"AUTO\",GunId:\"tacz:m249\",HasBulletInBarrel:1b}",
     "item:tacz:modern_kinetic_gun{GunCurrentAmmoCount:1,GunFireMode:\"SEMI\",GunId:\"tacz:rpg7\",HasBulletInBarrel:1b}",
     "item:create:copper_backtank"
+  ],
+  "favorites": [
+    {
+      "stack": "#item:category:functional_blocks"
+    },
+    {
+      "stack": "#item:category:cooking"
+    },
+    {
+      "stack": "#item:category:foods"
+    },
+    {
+      "stack": "#item:category:brewing"
+    },
+    {
+      "stack": "#item:category:medicine"
+    },
+    {
+      "stack": "#item:category:basic_tools"
+    },
+    {
+      "stack": "#item:category:heavy_tools"
+    },
+    {
+      "stack": "#item:category:weapons"
+    },
+    {
+      "stack": "#item:category:armor"
+    },
+    {
+      "stack": "#item:category:guns"
+    },
+    {
+      "stack": "#item:category:enchanting"
+    },
+    {
+      "stack": "#item:category:witchcraft"
+    },
+    {
+      "stack": "#item:category:furniture"
+    },
+    {
+      "stack": "#item:category:decoration"
+    },
+    {
+      "stack": "#item:category:block_decoration"
+    },
+    {
+      "stack": "#item:category:storage"
+    },
+    {
+      "stack": "#item:category:engineering"
+    },
+    {
+      "stack": "#item:category:carpentry"
+    },
+    {
+      "stack": "#item:category:masonry"
+    },
+    {
+      "stack": "#item:category:metalworking"
+    },
+    {
+      "stack": "#item:category:farming"
+    },
+    {
+      "stack": "#item:category:archery"
+    },
+    {
+      "stack": "#item:category:fishing"
+    },
+    {
+      "stack": "#item:category:transport"
+    }
   ]
 }

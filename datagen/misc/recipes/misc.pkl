@@ -47,3 +47,23 @@ supp_awning_with_fabric {
     count = 2
   }
 }
+
+wrench {
+  type = "minecraft:crafting_shaped"
+
+  pattern {
+    "-- "
+    "-+ "
+    " | "
+  }
+
+  key {
+    ["-"] { item = "create_ironworks:tin_sheet" }
+    ["+"] { item = "create:cogwheel" }
+    ["|"] { item = "minecraft:stick" }
+  }
+
+  result {
+    item = "create:wrench"
+  }
+}

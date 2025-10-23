@@ -7,11 +7,25 @@ import crafttweaker.api.item.ItemDefinition;
 
 <tag:blocks:minecraft:needs_iron_tool>.remove(
   <block:create:zinc_ore>,
-  <block:create:deepslate_zinc_ore>
+  <block:create:deepslate_zinc_ore>,
+
+  <block:minecraft:gold_ore>,
+  <block:minecraft:deepslate_gold_ore>
+);
+
+<tag:blocks:minecraft:needs_iron_tool>.add(
+  <block:minecraft:iron_ore>,
+  <block:minecraft:deepslate_iron_ore>
+);
+
+<tag:blocks:minecraft:needs_stone_tool>.remove(
+  <block:minecraft:iron_ore>,
+  <block:minecraft:deepslate_iron_ore>
 );
 
 <tag:blocks:minecraft:needs_stone_tool>.add(
-  <tag:blocks:forge:ores/zinc>
+  <tag:blocks:forge:ores/zinc>,
+  <tag:blocks:forge:ores/gold>
 );
 
 <tag:items:minecraft:axes>
