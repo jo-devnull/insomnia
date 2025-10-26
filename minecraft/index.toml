@@ -28,7 +28,7 @@ preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "19edbcdaafacdb6ce897f2f86147b838b3eae1aac4136425c8c6a54b1df06e89"
+hash = "10942e34b6b1acdc0041d8b320a6a4d8ff580815a188b9030e35789f8195b5ce"
 preserve = true
 
 [[files]]
@@ -53,11 +53,11 @@ hash = "29a8e56da3425d99c3b09cee7ed0e12b91a69205afd4280df2235131b3f08671"
 
 [[files]]
 file = "config/incontrol/phases.json"
-hash = "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+hash = "6171b882fcb1ca91fb594d4393b903c1abf2a0561081f10c090b564f8ca360c1"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "9c61bccd1d2a4d01db73fc427666379693f8d602d4fd176e53c91de0522466f0"
+hash = "d9bfb87809745672f423380f01188603d413e98f8ae4dfee4db5cea31171eac9"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -239,7 +239,7 @@ hash = "007f670b9f039f82f9803799d8b7267533086d3403727fceb162529b3c45c2e4"
 
 [[files]]
 file = "defaultconfigs/undeadnights-server.toml"
-hash = "a1f36d1b8d78c26f9136625d9bf3549e59d9a545136096d184d44c156fdc584a"
+hash = "f623513b4baa6d01da87349fcd7cc0df99376e13ccd76117aa2ad87ce40bd4a2"
 
 [[files]]
 file = "defaultconfigs/unlitcampfire-server.toml"
@@ -313,11 +313,6 @@ metafile = true
 [[files]]
 file = "mods/decoration/amendments.pw.toml"
 hash = "a51160bff5243b8143605a11b7823f002eef3d9301fad9b3afe9a54f263ca8b6"
-metafile = true
-
-[[files]]
-file = "mods/decoration/armourers-workshop.pw.toml"
-hash = "0e21efe6431388df5f25e24926d23a54ada09e562e2493804c97018bc1013652"
 metafile = true
 
 [[files]]
@@ -1002,7 +997,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/insomnia-tweaks.pw.toml"
-hash = "0f54c288d19c0c280db173306d8c4a89f0a6e6ee85cbc4ad8694da42ad427255"
+hash = "30789b557902af34ff18968e8abe18e4b2f5765509e6b9768c9a3d7eb3f865b9"
 metafile = true
 
 [[files]]
@@ -1203,16 +1198,6 @@ metafile = true
 [[files]]
 file = "mods/mobs/critters-and-companions.pw.toml"
 hash = "e6ecc376ef51eaca79e1eb8db93ecf8de69ce38cc57ef353bd04d16e1c76d0ff"
-metafile = true
-
-[[files]]
-file = "mods/mobs/dragns-livestock-overhaul-pets-addon.pw.toml"
-hash = "04d38aaf0e164ec2d243ef07432b4b3633176d836105d237ca05d20ab032a394"
-metafile = true
-
-[[files]]
-file = "mods/mobs/dragns-livestock-overhaul.pw.toml"
-hash = "ac6188a73688c79024deff29cd1842097e297ffc5a4590d2d10a3d8d01620f96"
 metafile = true
 
 [[files]]
@@ -1436,6 +1421,11 @@ hash = "385cca0c60f9b0ca2271fae591d4209457ee48e787494e4dd6d4cfbdb6b0e1ef"
 metafile = true
 
 [[files]]
+file = "mods/structures/giant-plane-wreck.pw.toml"
+hash = "ea43aae874f34134e888ec650aef2f5df308f88a2bd2a8b99becbc85384673cd"
+metafile = true
+
+[[files]]
 file = "mods/structures/hobbit-house.pw.toml"
 hash = "09ddcfebc37184220cef9ff78b185614a5f6aa818d617d054726f58507fe3ef4"
 metafile = true
@@ -1537,7 +1527,7 @@ metafile = true
 
 [[files]]
 file = "mods/technology/create-toolworking.pw.toml"
-hash = "a64164ad6fa3dd5d685d7f2058c2c0c6ce2cbb1a289ca1eec5482b2ce1dfcadf"
+hash = "635e9f93de67f81f7bc9f30b85e962744f7b883f02ef29bc2c81b6c002d0b033"
 metafile = true
 
 [[files]]
@@ -1792,7 +1782,7 @@ preserve = true
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "2de6cd59a3dff17a74d3d782a2e36242135cf1e3097229de0e0f9b8ae7695550"
+hash = "b847c2e812c43a8fb43b92460f9fad6c9268b43bff5dbe3d59281da04ee6c020"
 
 [[files]]
 file = "resourcepacks/@integrated/assets/emi/textures/gui/background.png"

@@ -26,6 +26,13 @@
     "spawner": true
   },
   {
+    "result": "deny",
+    "hostile": true,
+    "dimension": "overworld",
+    "phase": "safe_phase",
+    "minheight": 40
+  },
+  {
     "result": "default",
     "hostile": true,
     "dimension": "overworld",

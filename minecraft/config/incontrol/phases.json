@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "safe_phase",
+    "conditions": {
+      "mindaycount": 7
+    }
+  }
+]
