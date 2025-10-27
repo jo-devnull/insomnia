@@ -1196,6 +1196,11 @@ hash = "e01bac9939dc410ea9dcb14d40a8a1a19372ea62552bc78f99a1b05cfbb8bf9e"
 metafile = true
 
 [[files]]
+file = "mods/mobs/clanging-howl.pw.toml"
+hash = "e561c51935cd23d52b15159bcd915299293eaefa820ca79750b7f402a0850ae1"
+metafile = true
+
+[[files]]
 file = "mods/mobs/critters-and-companions.pw.toml"
 hash = "e6ecc376ef51eaca79e1eb8db93ecf8de69ce38cc57ef353bd04d16e1c76d0ff"
 metafile = true
@@ -1216,11 +1221,6 @@ hash = "0bcd045fb5b2b083cf30a09eb78399d1d297d06072b9ad0ce842e4f5d9ee4d32"
 metafile = true
 
 [[files]]
-file = "mods/mobs/faunify.pw.toml"
-hash = "e7604d3d940632596593102bce8269307cf99fb1c4295c934416b155dc85a798"
-metafile = true
-
-[[files]]
 file = "mods/mobs/from-the-shadow-reborn.pw.toml"
 hash = "11a1bcf5492d1174229a0f8ca90c46e9d0ef881147d4cee5e121882114a5fdb1"
 metafile = true
@@ -1228,11 +1228,6 @@ metafile = true
 [[files]]
 file = "mods/mobs/kobolds.pw.toml"
 hash = "e9f17f9c45f5f599dec6f14c141a519a63a49691066b999d31274feb3b23257a"
-metafile = true
-
-[[files]]
-file = "mods/mobs/legendary-creatures.pw.toml"
-hash = "ef1941d0b7e1646aa47a84fe6361d1b9b867d91effa52c75194ed213c33c0aa4"
 metafile = true
 
 [[files]]
@@ -1278,11 +1273,6 @@ metafile = true
 [[files]]
 file = "mods/mobs/upgrade-aquatic.pw.toml"
 hash = "81838ae43efce3256f39e522e804d1edb5b4df3d2fe1c73a0dbc663f2366f579"
-metafile = true
-
-[[files]]
-file = "mods/mobs/zoniex.pw.toml"
-hash = "719390c934f1e9f7ea70d15e0d2c143ba7709d0a497970bf8c61823d96a3d458"
 metafile = true
 
 [[files]]
