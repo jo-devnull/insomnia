@@ -1196,11 +1196,6 @@ hash = "e01bac9939dc410ea9dcb14d40a8a1a19372ea62552bc78f99a1b05cfbb8bf9e"
 metafile = true
 
 [[files]]
-file = "mods/mobs/clanging-howl.pw.toml"
-hash = "e561c51935cd23d52b15159bcd915299293eaefa820ca79750b7f402a0850ae1"
-metafile = true
-
-[[files]]
 file = "mods/mobs/critters-and-companions.pw.toml"
 hash = "e6ecc376ef51eaca79e1eb8db93ecf8de69ce38cc57ef353bd04d16e1c76d0ff"
 metafile = true
