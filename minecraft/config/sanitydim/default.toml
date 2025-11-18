@@ -99,7 +99,7 @@
 		animal_hurt_ratio = -0.05
 		#Players gain this amount of sanity upon their pets' death
 		#Range: -100.0 ~ 100.0
-		pet_death = -60.0
+		pet_death = -1.0
 		#Players gain this amount of sanity upon successfully trading with a villager
 		#Range: -100.0 ~ 100.0
 		villager_trade = 20.0

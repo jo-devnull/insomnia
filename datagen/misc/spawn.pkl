@@ -107,7 +107,7 @@ phases = new Listing {
     name = "safe_phase"
     
     conditions {
-      mindaycount = 7
+      maxdaycount = 7
     }
   }
 }

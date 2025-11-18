@@ -53,7 +53,7 @@ hash = "29a8e56da3425d99c3b09cee7ed0e12b91a69205afd4280df2235131b3f08671"
 
 [[files]]
 file = "config/incontrol/phases.json"
-hash = "6171b882fcb1ca91fb594d4393b903c1abf2a0561081f10c090b564f8ca360c1"
+hash = "04d6be0c0c42dbbf25118597a808b434c5b7c7fb46cd6b60fdf8aed82e49d79e"
 
 [[files]]
 file = "config/incontrol/spawn.json"
@@ -91,7 +91,7 @@ hash = "a5bba9b792d9bb05da76646478d28d910b52456e6e5256871583601bebff1b89"
 
 [[files]]
 file = "config/sanitydim/default.toml"
-hash = "55bc9010596e9d042b8ada90f1ec86cee60d2d499bad670b5ee732999392484d"
+hash = "3a4b461505de169afa8d23f761d5ae8d70ad8374a6284d41c72e335a98c067bb"
 
 [[files]]
 file = "config/sanitydim/dimension/example.toml"
@@ -247,7 +247,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "09a5ea2db53523b2d351c8cbe66d3936c27b632179d56e623d2df0e28f2b1a2c"
+hash = "45abd6874f6ef16c9c8356574aa7e6142b994051a5d0461f94e7c49a5167fff0"
 preserve = true
 
 [[files]]
@@ -861,11 +861,6 @@ hash = "2d83876af0af619c2950ef491e1e9f5d564016a4adaab2fdb82113312140ece2"
 metafile = true
 
 [[files]]
-file = "mods/mechanics/sanity-descent-into-madness.pw.toml"
-hash = "deb0431d84cc149e188d9cbbfbf71c2348bd6b18109448516b83a75146d3317f"
-metafile = true
-
-[[files]]
 file = "mods/mechanics/sleep-tight.pw.toml"
 hash = "05ba7965ec7e74b4785b93f1ba63844024b2428792ebd82583a53acf43c1db55"
 metafile = true
@@ -997,7 +992,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/insomnia-tweaks.pw.toml"
-hash = "30789b557902af34ff18968e8abe18e4b2f5765509e6b9768c9a3d7eb3f865b9"
+hash = "d1440994e0dfcba0dd49a5ea5f0b304835f939d44d56959fd23f9288bf51feab"
 metafile = true
 
 [[files]]
@@ -1762,12 +1757,12 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "51ec931b526770258692abdbd3222b9aa8e7957b4628ba2250349e71c04becb9"
+hash = "f1eb14f9c5adf4c311d3418bef2b383220006476fd360ce6e441715fd71174ef"
 preserve = true
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "b847c2e812c43a8fb43b92460f9fad6c9268b43bff5dbe3d59281da04ee6c020"
+hash = "90f7c0b98a04eb70e74a0bb225d742ce9ab8c496f94040ab7c245a7996320ace"
 
 [[files]]
 file = "resourcepacks/@integrated/assets/emi/textures/gui/background.png"
