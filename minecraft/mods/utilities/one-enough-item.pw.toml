@@ -1,13 +1,13 @@
 name = "One Enough Item"
-filename = "../OneEnoughItem-Forge-1.0.5.1.jar"
+filename = "../OneEnoughItem-1.0.6-jech.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "60d10a2158f2523fcda7209f70affbea83e68101"
+hash = "eee6d11b7dd3bfe8202c692cd4b6d4e379fcfcd8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6938171
+file-id = 7268084
 project-id = 1312660

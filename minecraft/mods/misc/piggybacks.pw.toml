@@ -1,13 +1,13 @@
 name = "Piggybacks"
-filename = "../piggyback-forge-1.20.1-1.1.0.jar"
+filename = "../piggyback-forge-1.20.1-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yP77bAiA/versions/2rngI4ty/piggyback-forge-1.20.1-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/yP77bAiA/versions/bEsZeeqZ/piggyback-forge-1.20.1-1.1.1.jar"
 hash-format = "sha512"
-hash = "fb039a82f6118d6241bf345f3538445ea11865ff8195a9baa62a812a84eea9dffef989459e7a2a1765f57dca39d8db74d68b069908e8e10f7b81020fb6977b15"
+hash = "c3f608d30defbf984bfb54c02a13a42dff1c045fa23793a8ad8afcec6ba894a1918629092e865ddc82c0dcc07c4ad3aadc6070629927578ad35180aace49bda4"
 
 [update]
 [update.modrinth]
 mod-id = "yP77bAiA"
-version = "2rngI4ty"
+version = "bEsZeeqZ"

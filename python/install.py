@@ -37,7 +37,10 @@ def install(type: str, url: str):
             if modname in url:
                 modfile = file
 
-            text = file.read_text().replace('filename = "', 'filename = "../')
+            text = file.read_text()
+            text = text.replace('filename = "', 'filename = "../')
+            text = text.replace('side = "server"', 'side = "both"')
+
             file.write_text(text)
 
         if modfile == None or not modfile.exists():
