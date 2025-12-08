@@ -26,7 +26,7 @@ hash = "77bbc0fab2fc59f5b1882c3a1f535ad41c3133bb47a18b2dbebd751f44de23c8"
 
 [[files]]
 file = "config/emi.css"
-hash = "10942e34b6b1acdc0041d8b320a6a4d8ff580815a188b9030e35789f8195b5ce"
+hash = "19edbcdaafacdb6ce897f2f86147b838b3eae1aac4136425c8c6a54b1df06e89"
 
 [[files]]
 file = "config/enhancedai/Mobs/Break Anger/break_anger_config.json"
@@ -95,6 +95,10 @@ hash = "d1a64dd1237d7f7424a3006f22a2a06f6a578983d997474f600563c1164c9c03"
 [[files]]
 file = "config/sidebar_buttons.json"
 hash = "bd06f02dd732a2b24c13b7b98a89ef873568f44fbcff1ca608f3fa9f70b05104"
+
+[[files]]
+file = "config/sodiumdynamiclights-client.toml"
+hash = "b7d4c934aa642c95723e60318dc8f2d7f92145fccf2b3b31b0807d83eaffc230"
 
 [[files]]
 file = "config/thirst/keyword.toml"
@@ -1971,7 +1975,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f1eb14f9c5adf4c311d3418bef2b383220006476fd360ce6e441715fd71174ef"
+hash = "0b51c1a0f0f9981c20e2bd08e24faf7679e5492df1cbca2801ea992e3a854375"
 
 [[files]]
 file = "resourcepacks/@integrated/assets/emi/textures/gui/background.png"
