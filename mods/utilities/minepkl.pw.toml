@@ -1,0 +1,8 @@
+name = "minepkl"
+filename = "../minepkl-forge-0.1.2-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://github.com/jo-devnull/minepkl/releases/download/v0.1.2-SNAPSHOT/minepkl-forge-0.1.2-SNAPSHOT.jar"
+hash-format = "sha256"
+hash = "186914d121d0ae91d7303c996d21af5736a79da31a0ae91fa78489b79cb552de"

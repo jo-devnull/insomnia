@@ -1,0 +1,79 @@
+import "tags/category/@tags.pkl" as categoryTags
+import "tags/tags.pkl" as tags
+import "misc/replace.pkl" as replacements
+import* "recipes/*.pkl" as recipes
+
+const jsonRenderer = new JsonRenderer {}
+
+function getPath(path: String, type: String) =
+  if (path.contains(":")) path
+  else "modpack:\(type)/\(path)"
+
+function buildRecipes() = new Mapping<String, FileOutput> {
+  for (_, mod in recipes.toMap()) {
+    for (key, recipe in mod.toMap()) {
+      [getPath(key, "recipes")] {
+        value = recipe
+        renderer = jsonRenderer
+      }
+    }
+  }
+}
+
+function buildTags() = new Mapping<String, FileOutput> {
+  for (key, tag in categoryTags.toMap()) {
+    ["category:tags/items/\(key)"] {
+      value {
+        replace = false
+        values = new Listing<String> {
+          for (modname, list in tag.mod) {
+            for (item in list) {
+              if (item.contains(":")) item else "\(modname):\(item)"
+            }
+          }
+        }
+      }
+
+      renderer = jsonRenderer
+    }
+  }
+
+  for (key, tag in tags.toMap()) {
+    [getPath(key, "tags")] {
+      value = tag
+      renderer = jsonRenderer
+    }
+  }
+}
+
+function buildReplacements() = new Mapping<String, FileOutput> {
+  ["oei:replacements/mod_replacements"] {
+    value {
+      for (key, val in replacements.toMap()) {
+        for (item in val.items) {
+          when (item is String) {
+            new {
+              matchItems { "\(val.from):\(item)" }
+              resultItems = "\(val.to):\(item)"
+            }
+          } else {
+            new {
+              matchItems { "\(val.from):\(item[0])" }
+              resultItems = "\(val.to):\(item[1])"
+            }
+          }
+        }
+      }
+    }
+
+    renderer = jsonRenderer
+  }
+}
+
+output {
+  files {
+    ...buildTags()
+    ...buildRecipes()
+    ...buildReplacements()
+  }
+}

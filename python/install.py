@@ -12,6 +12,8 @@ def platform_of(url: str):
         return "modrinth"
     elif "curseforge.com" in url:
         return "curseforge"
+    elif "github.com" in url:
+        return "github"
     else:
         raise ValueError("Unsupported platform")
 

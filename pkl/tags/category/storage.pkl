@@ -1,4 +1,4 @@
-import "../utils.pkl"
+import "../../lib/utils.pkl"
 
 minecraft {
   "chest"
@@ -49,4 +49,3 @@ redeco {
     "\(wood)_cabinet_counter"
   }
 }
-

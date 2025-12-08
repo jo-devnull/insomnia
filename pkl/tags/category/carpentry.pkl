@@ -1,4 +1,4 @@
-import "../utils.pkl"
+import "../../lib/utils.pkl"
 
 minecraft {
   "#minecraft:planks"

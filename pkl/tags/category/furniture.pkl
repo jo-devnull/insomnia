@@ -1,4 +1,4 @@
-import "../utils.pkl"
+import "../../lib/utils.pkl"
 
 minecraft {
   "#minecraft:beds"
@@ -74,4 +74,3 @@ candlelight {
     "\(wood)_big_table"
   }
 }
-

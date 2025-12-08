@@ -1,4 +1,4 @@
-`data/insomnia/tags/worldgen/biome/nehemoth_spawns.json` {
+`insomnia:tags/worldgen/biome/nehemoth_spawns` {
   replace = false
 
   values {
@@ -12,7 +12,7 @@
   }
 }
 
-`data/modpack/tags/worldgen/biome/kinda_safe.json` {
+`modpack:tags/worldgen/biome/kinda_safe` {
   values {
     "#minecraft:is_forest"
     "minecraft:meadow"
@@ -25,7 +25,7 @@
   }
 }
 
-`data/modpack/tags/worldgen/biome/always_unsafe.json` {
+`modpack:tags/worldgen/biome/always_unsafe` {
   values {
     "#minecraft:is_cave"
     "#minecraft:is_ocean"
@@ -58,7 +58,7 @@
   }
 }
 
-`data/friendlyfire/tags/entity_types/player_protection.json` {
+`friendlyfire:tags/entity_types/player_protection` {
   replace = false
 
   values {
@@ -91,7 +91,7 @@
     "minecraft:turtle"
 
     "all_bark_all_bite:dog"
-    
+
     "alexsmobs:crow"
     "alexsmobs:raccoon"
     "alexsmobs:bald_eagle"
@@ -146,7 +146,7 @@
   }
 }
 
-`data/modpack/tags/worldgen/structure/always_unsafe.json` {
+`modpack:tags/worldgen/structure/always_unsafe` {
   values {
     "minecraft:pillager_outpost"
     "minecraft:mansion"
@@ -173,7 +173,7 @@
     "ctov:pillager_outpost_snowy"
     "ctov:pillager_outpost_swamp"
     "ctov:pillager_outpost_taiga"
-    
+
     "terralith:mage_tower"
     "terralith:mage_complex"
     "terralith:witch_hut"

@@ -1,4 +1,4 @@
-import "../utils.pkl" as utils
+import "../../lib/utils.pkl" as utils
 
 minecraft {
   "#forge:glass"
