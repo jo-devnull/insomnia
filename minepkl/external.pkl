@@ -5,7 +5,7 @@ import "tags/category/@tags.pkl" as categoryTags
 function buildEmi() = new Mapping<String, FileOutput> {
   ["emi.json"] {
     value {
-      hidden_stacks = utils.load("../../emi.json")
+      hidden_stacks = utils.load("instance:emi.json")
         .getOrNull("hidden_stacks")
 
       favorites = new Listing {

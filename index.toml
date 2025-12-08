@@ -82,7 +82,7 @@ hash = "fc1ebdb9057b250030dd4c3b288134dfec8be7b95f4037a9f79edd991b5a5061"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "a5bba9b792d9bb05da76646478d28d910b52456e6e5256871583601bebff1b89"
+hash = "2e6798c795015dcccb533a811dc611d61d539933eeddfe12fd219f7cf2d9d347"
 
 [[files]]
 file = "config/sanitydim/default.toml"
@@ -248,6 +248,146 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 file = "emi.json"
 hash = "09a5ea2db53523b2d351c8cbe66d3936c27b632179d56e623d2df0e28f2b1a2c"
 preserve = true
+
+[[files]]
+file = "minepkl/assets.pkl"
+hash = "2b53684fda98377c6b031967a705f000e0295e07d4abe06540331014916a78e8"
+
+[[files]]
+file = "minepkl/data.pkl"
+hash = "f465e6c9cf75c163bc0c085f7cb46e86ab2c3665e24818525f3c323d6c50d608"
+
+[[files]]
+file = "minepkl/external.pkl"
+hash = "518dd2f67a2b1abe0d45b85842214cbfc67b50d6d48f1dcb688e0fc5a931574c"
+
+[[files]]
+file = "minepkl/lib/utils.pkl"
+hash = "5bd88b7aea8e4f547ef3db1e0fcda4e4df30b738a1992daf80ddc79680e558d8"
+
+[[files]]
+file = "minepkl/misc/incontrol.pkl"
+hash = "6fda1154ffe6f32f6f5a8813e8b72c6e3ad00c40562d34930fd6bf4800ac75ec"
+
+[[files]]
+file = "minepkl/misc/replace.pkl"
+hash = "f9b8216dd1c13f38653a453d3603b8cd39acd152382108c4ae1501140e73e4fd"
+
+[[files]]
+file = "minepkl/recipes/compat.pkl"
+hash = "3657a3fe96303dfa7e0926dec482fb0f5220d19dffb730b5d471e5e34cc62aa7"
+
+[[files]]
+file = "minepkl/recipes/misc.pkl"
+hash = "86345040ce6ab47300848b49734912c0dd85fabf52852bd7d6add7c3fc84d888"
+
+[[files]]
+file = "minepkl/recipes/remove.pkl"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "minepkl/tags/category/@tags.pkl"
+hash = "081a8f6a434cf52921cd5b819f4c7dc0231ac07ef377a826c043df5c1d9c3b0b"
+
+[[files]]
+file = "minepkl/tags/category/archery.pkl"
+hash = "6a636991cceff775091c181e1f36ba275055c51a4b7a1e6c7e985adb87c7ae63"
+
+[[files]]
+file = "minepkl/tags/category/armor.pkl"
+hash = "f61904f0db86ed3d450bb230a5bf9518b79969a00c462e49b925c7ae9f96b54a"
+
+[[files]]
+file = "minepkl/tags/category/basic_tools.pkl"
+hash = "4da2e9cf6c91061cea35bbef5e96ac1cf6b290a1ff342958a2f764c07dbf6211"
+
+[[files]]
+file = "minepkl/tags/category/block_decoration.pkl"
+hash = "91613b6720961dab14f293ad27a483f38b6bb0316477a36e4273577141376761"
+
+[[files]]
+file = "minepkl/tags/category/brewing.pkl"
+hash = "ae648aecfec19b0fb407f39960e11262ba6db373584b59d05e488498f92869aa"
+
+[[files]]
+file = "minepkl/tags/category/carpentry.pkl"
+hash = "5aa6bc8d7209be58b6807d4dcc5ae81ffc639844bc7664e2a25f96843a6b337b"
+
+[[files]]
+file = "minepkl/tags/category/cooking.pkl"
+hash = "baadd9992992445b60718c8671af590b3d278a49e538767c695e534b8ad2ce24"
+
+[[files]]
+file = "minepkl/tags/category/decoration.pkl"
+hash = "2f5b0c56d0ab69445da93cfa379e3f02cce7b642252c0f3a4f0bf1a413efc17f"
+
+[[files]]
+file = "minepkl/tags/category/enchanting.pkl"
+hash = "1a2f08abce2e080142f2ab4631490fa6c6bdf83023f11091c15f92b7ab7729d9"
+
+[[files]]
+file = "minepkl/tags/category/engineering.pkl"
+hash = "c9ea3c6b513730273bf02dba24bc28cf8b240ad8341745d15b5167e9d2a892a0"
+
+[[files]]
+file = "minepkl/tags/category/farming.pkl"
+hash = "022182560e14cff7e24ad4dba082a115e62637626fcb048f97f5cae715dbb465"
+
+[[files]]
+file = "minepkl/tags/category/fishing.pkl"
+hash = "20d5345a7ea118d94c3da047b66f4811b84594a86e802629dc583c484d8a7fca"
+
+[[files]]
+file = "minepkl/tags/category/foods.pkl"
+hash = "9c14b4cc87e27ff4649d462e3e74da06617a6281c5a09121cc3796cb36126f1a"
+
+[[files]]
+file = "minepkl/tags/category/functional_blocks.pkl"
+hash = "d920521bac3ee52e9740e9a64dedb9e39179308f7b8acb1a8f093dae715e31a4"
+
+[[files]]
+file = "minepkl/tags/category/furniture.pkl"
+hash = "e2032682807aafb29d30addabe4bd3d1dd4a9ba2d46765c6fee9866c8d643199"
+
+[[files]]
+file = "minepkl/tags/category/guns.pkl"
+hash = "f0c46077df83cbdccd42f75f0bd867550840551057646c0002b5343c6ecb05ac"
+
+[[files]]
+file = "minepkl/tags/category/heavy_tools.pkl"
+hash = "ed692df039ad7c7d52f739876f51dbafb642a17d274d8f44c3240d4feec8b8c7"
+
+[[files]]
+file = "minepkl/tags/category/masonry.pkl"
+hash = "66dbcf24699ad47ad824f3e0b4e860e1a8194ee8ffe2b23217cb2820a5f64a48"
+
+[[files]]
+file = "minepkl/tags/category/medicine.pkl"
+hash = "7221b2baa80a112e9fc27c5293bfd3ce1060bd36201d4980f007ff800f16cc2f"
+
+[[files]]
+file = "minepkl/tags/category/metalworking.pkl"
+hash = "dc709f64875763b0882c53fdeeec6610d10dbda85a6b30ad6a6e41a9864447ac"
+
+[[files]]
+file = "minepkl/tags/category/storage.pkl"
+hash = "4eae577c12f1157b635f95a3abab7ed77420d7aec291102d939a067447a08886"
+
+[[files]]
+file = "minepkl/tags/category/transport.pkl"
+hash = "79a739a296bfd5ee8651df464e5e2af8c3f3ef1f1b311beb676b4e8b0bcf234c"
+
+[[files]]
+file = "minepkl/tags/category/weapons.pkl"
+hash = "69fd8a82ed698fcb69cc1cc87883a539f493d6bf27a3dbb2a3f1e59a53a31b8d"
+
+[[files]]
+file = "minepkl/tags/category/witchcraft.pkl"
+hash = "3b2454488cdd6dd3766ef89c4a6aaf356a3c130672fd94b24ce3f0679ba8c2a2"
+
+[[files]]
+file = "minepkl/tags/tags.pkl"
+hash = "0dc726b25b2c55256b0a5e3f66715054416ba3fe20c336fd566f7ebd4a28263f"
 
 [[files]]
 file = "mods/cooking/brewin-and-chewin.pw.toml"
@@ -416,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "mods/decoration/visuality-forge.pw.toml"
-hash = "e57ebfa8a3dbf661c8fb3bcab7774a4dc2916a2cf19fa8eecd644db318f223ad"
+hash = "5875bcd51b3f043c7b880755e51043defc5b88be6f09042cca6e624581c61c02"
 metafile = true
 
 [[files]]
@@ -1691,7 +1831,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/minepkl.pw.toml"
-hash = "bd18993af2f8ac09d92655a78e7d9e1816affe567b74b2cdbb84bee91c29f535"
+hash = "939d2c5a58fdbd06d63402b30a29cea89952f6e3e01644330f22e4b2433d4776"
 metafile = true
 
 [[files]]
@@ -1834,146 +1974,6 @@ file = "options.txt"
 hash = "f1eb14f9c5adf4c311d3418bef2b383220006476fd360ce6e441715fd71174ef"
 
 [[files]]
-file = "pkl/asset.pkl"
-hash = "2b53684fda98377c6b031967a705f000e0295e07d4abe06540331014916a78e8"
-
-[[files]]
-file = "pkl/data.pkl"
-hash = "f465e6c9cf75c163bc0c085f7cb46e86ab2c3665e24818525f3c323d6c50d608"
-
-[[files]]
-file = "pkl/external.pkl"
-hash = "98b193255fa4c4ef748ab4b85242c7ac83636d2f8bdae3c741db281f8e0848f6"
-
-[[files]]
-file = "pkl/lib/utils.pkl"
-hash = "5bd88b7aea8e4f547ef3db1e0fcda4e4df30b738a1992daf80ddc79680e558d8"
-
-[[files]]
-file = "pkl/misc/incontrol.pkl"
-hash = "6fda1154ffe6f32f6f5a8813e8b72c6e3ad00c40562d34930fd6bf4800ac75ec"
-
-[[files]]
-file = "pkl/misc/replace.pkl"
-hash = "f9b8216dd1c13f38653a453d3603b8cd39acd152382108c4ae1501140e73e4fd"
-
-[[files]]
-file = "pkl/recipes/compat.pkl"
-hash = "3657a3fe96303dfa7e0926dec482fb0f5220d19dffb730b5d471e5e34cc62aa7"
-
-[[files]]
-file = "pkl/recipes/misc.pkl"
-hash = "86345040ce6ab47300848b49734912c0dd85fabf52852bd7d6add7c3fc84d888"
-
-[[files]]
-file = "pkl/recipes/remove.pkl"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "pkl/tags/category/@tags.pkl"
-hash = "081a8f6a434cf52921cd5b819f4c7dc0231ac07ef377a826c043df5c1d9c3b0b"
-
-[[files]]
-file = "pkl/tags/category/archery.pkl"
-hash = "6a636991cceff775091c181e1f36ba275055c51a4b7a1e6c7e985adb87c7ae63"
-
-[[files]]
-file = "pkl/tags/category/armor.pkl"
-hash = "f61904f0db86ed3d450bb230a5bf9518b79969a00c462e49b925c7ae9f96b54a"
-
-[[files]]
-file = "pkl/tags/category/basic_tools.pkl"
-hash = "4da2e9cf6c91061cea35bbef5e96ac1cf6b290a1ff342958a2f764c07dbf6211"
-
-[[files]]
-file = "pkl/tags/category/block_decoration.pkl"
-hash = "91613b6720961dab14f293ad27a483f38b6bb0316477a36e4273577141376761"
-
-[[files]]
-file = "pkl/tags/category/brewing.pkl"
-hash = "ae648aecfec19b0fb407f39960e11262ba6db373584b59d05e488498f92869aa"
-
-[[files]]
-file = "pkl/tags/category/carpentry.pkl"
-hash = "5aa6bc8d7209be58b6807d4dcc5ae81ffc639844bc7664e2a25f96843a6b337b"
-
-[[files]]
-file = "pkl/tags/category/cooking.pkl"
-hash = "baadd9992992445b60718c8671af590b3d278a49e538767c695e534b8ad2ce24"
-
-[[files]]
-file = "pkl/tags/category/decoration.pkl"
-hash = "2f5b0c56d0ab69445da93cfa379e3f02cce7b642252c0f3a4f0bf1a413efc17f"
-
-[[files]]
-file = "pkl/tags/category/enchanting.pkl"
-hash = "1a2f08abce2e080142f2ab4631490fa6c6bdf83023f11091c15f92b7ab7729d9"
-
-[[files]]
-file = "pkl/tags/category/engineering.pkl"
-hash = "c9ea3c6b513730273bf02dba24bc28cf8b240ad8341745d15b5167e9d2a892a0"
-
-[[files]]
-file = "pkl/tags/category/farming.pkl"
-hash = "022182560e14cff7e24ad4dba082a115e62637626fcb048f97f5cae715dbb465"
-
-[[files]]
-file = "pkl/tags/category/fishing.pkl"
-hash = "20d5345a7ea118d94c3da047b66f4811b84594a86e802629dc583c484d8a7fca"
-
-[[files]]
-file = "pkl/tags/category/foods.pkl"
-hash = "9c14b4cc87e27ff4649d462e3e74da06617a6281c5a09121cc3796cb36126f1a"
-
-[[files]]
-file = "pkl/tags/category/functional_blocks.pkl"
-hash = "d920521bac3ee52e9740e9a64dedb9e39179308f7b8acb1a8f093dae715e31a4"
-
-[[files]]
-file = "pkl/tags/category/furniture.pkl"
-hash = "e2032682807aafb29d30addabe4bd3d1dd4a9ba2d46765c6fee9866c8d643199"
-
-[[files]]
-file = "pkl/tags/category/guns.pkl"
-hash = "f0c46077df83cbdccd42f75f0bd867550840551057646c0002b5343c6ecb05ac"
-
-[[files]]
-file = "pkl/tags/category/heavy_tools.pkl"
-hash = "ed692df039ad7c7d52f739876f51dbafb642a17d274d8f44c3240d4feec8b8c7"
-
-[[files]]
-file = "pkl/tags/category/masonry.pkl"
-hash = "66dbcf24699ad47ad824f3e0b4e860e1a8194ee8ffe2b23217cb2820a5f64a48"
-
-[[files]]
-file = "pkl/tags/category/medicine.pkl"
-hash = "7221b2baa80a112e9fc27c5293bfd3ce1060bd36201d4980f007ff800f16cc2f"
-
-[[files]]
-file = "pkl/tags/category/metalworking.pkl"
-hash = "dc709f64875763b0882c53fdeeec6610d10dbda85a6b30ad6a6e41a9864447ac"
-
-[[files]]
-file = "pkl/tags/category/storage.pkl"
-hash = "4eae577c12f1157b635f95a3abab7ed77420d7aec291102d939a067447a08886"
-
-[[files]]
-file = "pkl/tags/category/transport.pkl"
-hash = "79a739a296bfd5ee8651df464e5e2af8c3f3ef1f1b311beb676b4e8b0bcf234c"
-
-[[files]]
-file = "pkl/tags/category/weapons.pkl"
-hash = "69fd8a82ed698fcb69cc1cc87883a539f493d6bf27a3dbb2a3f1e59a53a31b8d"
-
-[[files]]
-file = "pkl/tags/category/witchcraft.pkl"
-hash = "3b2454488cdd6dd3766ef89c4a6aaf356a3c130672fd94b24ce3f0679ba8c2a2"
-
-[[files]]
-file = "pkl/tags/tags.pkl"
-hash = "0dc726b25b2c55256b0a5e3f66715054416ba3fe20c336fd566f7ebd4a28263f"
-
-[[files]]
 file = "resourcepacks/@integrated/assets/emi/textures/gui/background.png"
 hash = "46e92c340fc597c7ba4981c046a78ce4bc05eb170984fe51879e6da623a2155b"
 
@@ -2068,6 +2068,10 @@ metafile = true
 file = "resourcepacks/improved-crafting-table-squarzy.pw.toml"
 hash = "c15efd64289159580f0997ace2c8b1b21ee81669417935aa31da1d0f0322951d"
 metafile = true
+
+[[files]]
+file = "resourcepacks/minepkl@generated.zip"
+hash = "8a39cc40db7990d45e02f5680dba4ec3b1e73a0da8fc8bdbdc75118f907e0d6c"
 
 [[files]]
 file = "resourcepacks/no-enchant-glint.pw.toml"
