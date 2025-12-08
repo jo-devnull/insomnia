@@ -1,0 +1,13 @@
+name = "Sturdy Farmland - Growth Edition - More Farmland Compability"
+filename = "../sturdy_farmland_growth_edition_more_farmland_compatibility-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "338140a6fb20df964de8336a9b95bd6d2217fc03"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7292153
+project-id = 1397557

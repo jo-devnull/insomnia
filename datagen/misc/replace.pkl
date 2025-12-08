@@ -8,30 +8,10 @@ steel {
   }
 }
 
-steel2 {
-  from = "overgeared"
-  to = "create_ironworks"
-
-  items {
-    "steel_ingot"
-    "steel_block"
-  }
-}
-
-steel3 {
-  from = "createmetallurgy"
-  to = "create_ironworks"
-
-  items {
-    "steel_ingot"
-    "steel_block"
-  }
-}
-
 farm_and_delight {
   from = "farm_and_charm"
   to = "farmersdelight"
-  
+
   items {
     "onion"
     "tomato"
@@ -40,5 +20,19 @@ farm_and_delight {
 
     new { "onion_bag" "onion_crate" }
     new { "tomato_bag" "tomato_crate" }
+  }
+}
+
+// Because ironworks has nicer textures and compat with create
+tconstruct_to_ironworks {
+  from = "tconstruct"
+  to = "create_ironworks"
+
+  items {
+    "steel_ingot"
+    "steel_nugget"
+    "steel_block"
+
+    
   }
 }

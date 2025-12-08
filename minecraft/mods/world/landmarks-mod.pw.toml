@@ -1,0 +1,13 @@
+name = "Landmarksㅤ"
+filename = "../landmarks-forge-1.2.0-1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4abf34d462d72549228449e1bbb5959826fd7407"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7201071
+project-id = 1364401
