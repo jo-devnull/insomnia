@@ -1,0 +1,134 @@
+import ".../lib/utils.pkl"
+import ".../lib/Recipe.pkl"
+
+import "toolworking.pkl"
+
+local const heatedMaterials = new {
+  "minecraft:copper_ingot"
+  "minecraft:gold_ingot"
+  "minecraft:iron_ingot"
+  "create:brass_ingot"
+  "create_ironworks:bronze_ingot"
+  "create_ironworks:steel_ingot"
+}
+
+local function heated(item: String) = "toolworking:heated_\(utils.pathof(item))"
+
+crafting {
+  new Recipe.Shaped {
+    id = "create:crafting/logistics/item_hatch"
+  }
+}
+
+itemInside {
+  for (item in heatedMaterials) {
+    utils.coolItemInWater(heated(item), item)
+    utils.coolItemSplashing(heated(item), item)
+  }
+}
+
+smelting {
+  new Recipe.Smelting {
+    id = "minecraft:copper_ingot_from_smelting_raw_copper"
+    ingredient { item = "minecraft:raw_copper" }
+    result = heated("copper_ingot")
+  }
+
+  new Recipe.Smelting {
+    id = "minecraft:copper_ingot_from_smelting_copper_ore"
+    ingredient { item = "minecraft:copper_ore" }
+    result = heated("copper_ingot")
+  }
+
+  new Recipe.Smelting {
+    id = "minecraft:copper_ingot_from_smelting_deepslate_copper_ore"
+    ingredient { item = "minecraft:deepslate_copper_ore" }
+    result = heated("copper_ingot")
+  }
+
+  new Recipe.Smelting {
+    id = "deeperdarker:copper_ingot_from_smelting_sculk_stone_copper_ore"
+    ingredient { item = "minecraft:sculk_stone_copper_ore" }
+    result = heated("copper_ingot")
+  }
+
+  new Recipe.Smelting {
+    id = "deeperdarker:copper_ingot_from_smelting_gloomslate_copper_ore"
+    ingredient { item = "minecraft:gloomslate_copper_ore" }
+    result = heated("copper_ingot")
+  }
+
+  new Recipe.Smelting {
+    id = "create:smelting/copper_ingot_from_crushed"
+    ingredient { item = "create:crushed_raw_copper" }
+    result = heated("copper_ingot")
+  }
+}
+
+blasting {
+  new Recipe.Blasting {
+    id = "minecraft:copper_ingot_from_blasting_raw_copper"
+    ingredient { item = "minecraft:raw_copper" }
+    result = heated("copper_ingot")
+  }
+
+  new Recipe.Blasting {
+    id = "minecraft:copper_ingot_from_blasting_copper_ore"
+    ingredient { item = "minecraft:copper_ore" }
+    result = heated("copper_ingot")
+  }
+
+  new Recipe.Blasting {
+    id = "minecraft:copper_ingot_from_blasting_deepslate_copper_ore"
+    ingredient { item = "minecraft:deepslate_copper_ore" }
+    result = heated("copper_ingot")
+  }
+
+  new Recipe.Blasting {
+    id = "deeperdarker:copper_ingot_from_blasting_sculk_stone_copper_ore"
+    ingredient { item = "minecraft:sculk_stone_copper_ore" }
+    result = heated("copper_ingot")
+  }
+
+  new Recipe.Blasting {
+    id = "deeperdarker:copper_ingot_from_blasting_gloomslate_copper_ore"
+    ingredient { item = "minecraft:gloomslate_copper_ore" }
+    result = heated("copper_ingot")
+  }
+
+  new Recipe.Blasting {
+    id = "create:blasting/copper_ingot_from_crushed"
+    ingredient { item = "create:crushed_raw_copper" }
+    result = heated("copper_ingot")
+  }
+}
+
+castingInTable {
+  for (entry in heatedMaterials) {
+    new Recipe.CastingInTable {
+      id = toolworking.res("casting_in_table/\(heated(entry))")
+
+      ingredients {
+        new { item = toolworking.res("ingot_clay_mold") }
+        new { fluid = "createmetallurgy:molten_\(utils.materialof(entry))" amount = 90 nbt{} }
+      }
+
+      result {
+        item = heated(entry)
+      }
+    }
+
+    new Recipe.CastingInTable {
+      id = "createmetallurgy:casting_in_table/\(utils.materialof(entry))/ingot"
+
+      ingredients {
+        new { item = "createmetallurgy:graphite_ingot_mold" }
+        new { fluid = "createmetallurgy:molten_\(utils.materialof(entry))" amount = 90 nbt{} }
+      }
+
+      result {
+        item = heated(entry)
+      }
+    }
+  }
+}

@@ -13,7 +13,7 @@ functional_blocks = new ItemTag {
 // Cooking
 
 cooking = new ItemTag {
-  title = "Culinaria"
+  title = "Culinária"
   icon = "farmersdelight:item/stove"
   mod = import("./cooking.pkl").toMap()
 }
@@ -25,7 +25,7 @@ foods = new ItemTag {
 }
 
 brewing = new ItemTag {
-  title = "Bebidas & Pocoes"
+  title = "Bebidas & Poções"
   icon = "minecraft:item/potion"
   mod = import("./brewing.pkl").toMap()
 }
@@ -39,7 +39,7 @@ medicine = new ItemTag {
 // Tools
 
 basic_tools = new ItemTag {
-  title = "Ferramentas Basicas"
+  title = "Ferramentas Básicas"
   icon = "redeco:item/hammer"
   mod = import("./basic_tools.pkl").toMap()
 }
@@ -87,13 +87,13 @@ witchcraft = new ItemTag {
 // Decoration
 
 furniture = new ItemTag {
-  title = "Mobilia"
+  title = "Mobília"
   icon = "redeco:item/red_sofa"
   mod = import("./furniture.pkl").toMap()
 }
 
 decoration = new ItemTag {
-  title = "Decoracao"
+  title = "Decoração"
   icon = "supplementaries:item/present_red"
   mod = import("./decoration.pkl").toMap()
 }

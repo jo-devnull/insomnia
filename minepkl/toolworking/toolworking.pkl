@@ -1,0 +1,20 @@
+import "tools.pkl"
+import "recipes.pkl"
+
+function res(path) = "toolworking:\(path)"
+
+function buildRecipes(object) = new Mapping<String, FileOutput> {
+  for (group, list in object.toMap()) {
+    for (recipe in list) {
+      [recipe.getPath()] {
+        value = recipe
+        renderer = new JsonRenderer {}
+      }
+    }
+  }
+}
+
+function build() = new Mapping<String, FileOutput> {
+  ...buildRecipes(tools)
+  ...buildRecipes(recipes)
+}

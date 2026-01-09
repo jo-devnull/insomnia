@@ -1,0 +1,15 @@
+name = "create-toolworking"
+filename = "../toolworking-0.1.8-ALPHA.jar"
+side = "both"
+
+[download]
+url = "https://github.com/jo-devnull/create-toolworking/releases/download/v0.1.8-ALPHA/toolworking-0.1.8-ALPHA.jar"
+hash-format = "sha256"
+hash = "6cad894d6cbb5a932f38e7349da346f4c5f85355b9d88e22b54778702e1afda2"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "jo-devnull/create-toolworking"
+tag = "v0.1.8-ALPHA"

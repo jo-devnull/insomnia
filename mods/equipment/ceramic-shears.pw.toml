@@ -1,0 +1,13 @@
+name = "Ceramic Shears"
+filename = "../ceramicshears-1.20.1-1.9.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fd51bb7dc7c6af971b5fa93f7569f4e89858c6d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6289989
+project-id = 363553

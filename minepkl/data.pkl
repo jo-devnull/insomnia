@@ -2,6 +2,7 @@ import "tags/category/@tags.pkl" as categoryTags
 import "tags/tags.pkl" as tags
 import "misc/replace.pkl" as replacements
 import* "recipes/*.pkl" as recipes
+import "toolworking/toolworking.pkl"
 
 const jsonRenderer = new JsonRenderer {}
 
@@ -75,5 +76,6 @@ output {
     ...buildTags()
     ...buildRecipes()
     ...buildReplacements()
+    ...toolworking.build()
   }
 }

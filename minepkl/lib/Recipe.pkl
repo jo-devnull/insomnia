@@ -1,0 +1,77 @@
+import "utils.pkl"
+
+abstract class Recipe {
+  hidden id: String = ""
+
+  type: String
+
+  function getPath() = "\(utils.namespaceof(id)):recipes/\(utils.pathof(id))"
+}
+
+class Empty extends Recipe {
+  type = "notreepunching:empty"
+}
+
+class Shaped extends Recipe {
+  type = "minecraft:crafting_shaped"
+  result  : unknown = new {}
+  key     : Mapping<String, unknown> = new {}
+  pattern : Listing<String> = new {}
+}
+
+class Shapeless extends Recipe {
+  type = "minecraft:crafting_shapeless"
+  result      : unknown = new {}
+  ingredients : Listing<unknown> = new {}
+}
+
+class Smelting extends Recipe {
+  type = "minecraft:smelting"
+  result      : String
+  ingredient  : unknown = new {}
+  experience  : Number  = 0.1
+  cookingtime : Number  = 180
+}
+
+class Blasting extends Recipe {
+  type = "minecraft:blasting"
+  result      : String
+  ingredient  : unknown = new {}
+  experience  : Number  = 0.1
+  cookingtime : Number  = 180
+}
+
+class SmithingTransform extends Recipe {
+  type = "smithing_transform"
+  template  : unknown = new {}
+  base      : unknown = new {}
+  addition  : unknown = new {}
+  result    : unknown = new {}
+}
+
+class LycheeItemInside extends Recipe {
+  type = "lychee:item_inside"
+  item_in  : unknown = new {}
+  block_in : unknown = new {}
+  post     : Listing<unknown> = new {}
+}
+
+class CreateMixing extends Recipe {
+  type = "create:mixing"
+  heatRequirement : "heated" | "superheated" | "none" = "none"
+  ingredients     : Listing<unknown> = new {}
+  results         : Listing<unknown> = new {}
+}
+
+class CreateSplashing extends Recipe {
+  type = "create:splashing"
+  ingredients : Listing<unknown> = new {}
+  results     : Listing<unknown> = new {}
+}
+
+class CastingInTable extends Recipe {
+  type = "createmetallurgy:casting_in_table"
+  processingTime : Number = 60
+  ingredients    : Listing<unknown> = new {}
+  result         : unknown = new {}
+}

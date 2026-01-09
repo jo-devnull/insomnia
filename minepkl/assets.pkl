@@ -22,6 +22,15 @@ function buildTagModels() = new Mapping<String, FileOutput> {
   }
 }
 
+function buildAssets(mod) = new Mapping<String, FileOutput> {
+  for (location, val in mod.assets) {
+    [location] {
+      value = val
+      renderer = jsonRenderer
+    }
+  }
+}
+
 output {
   files {
     ...buildLang()

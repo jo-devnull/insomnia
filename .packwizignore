@@ -4,6 +4,7 @@ node_modules/
 python/
 datagen/
 .editorconfig
+minepkl/pack.json
 
 *.mrpack
 *.log

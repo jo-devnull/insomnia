@@ -32,7 +32,5 @@ tconstruct_to_ironworks {
     "steel_ingot"
     "steel_nugget"
     "steel_block"
-
-
   }
 }
