@@ -2,6 +2,3 @@ Resource packs:
 
 - Vanilla Tweaks:
   https://vanillatweaks.net/
-
-- Create Armorer:
-  https://www.curseforge.com/minecraft/customization/tacz-create-armorer-koei

@@ -1,5 +1,4 @@
-import "tags/category/@tags.pkl" as categoryTags
-import "tags/tags.pkl" as tags
+import "tags/misc.pkl" as tags
 import "misc/replace.pkl" as replacements
 import* "recipes/*.pkl" as recipes
 import "toolworking/toolworking.pkl"
@@ -22,23 +21,6 @@ function buildRecipes() = new Mapping<String, FileOutput> {
 }
 
 function buildTags() = new Mapping<String, FileOutput> {
-  for (key, tag in categoryTags.toMap()) {
-    ["category:tags/items/\(key)"] {
-      value {
-        replace = false
-        values = new Listing<String> {
-          for (modname, list in tag.mod) {
-            for (item in list) {
-              if (item.contains(":")) item else "\(modname):\(item)"
-            }
-          }
-        }
-      }
-
-      renderer = jsonRenderer
-    }
-  }
-
   for (key, tag in tags.toMap()) {
     [getPath(key, "tags")] {
       value = tag

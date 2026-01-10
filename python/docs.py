@@ -1,7 +1,7 @@
 import tomllib
 from pathlib import Path
 
-ROOT = Path(__file__).parent.parent / "minecraft"
+ROOT = Path(__file__).parent.parent
 
 def get_mods():
   mods = {}

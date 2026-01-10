@@ -42,8 +42,3 @@ import crafttweaker.api.item.ItemDefinition;
 
 <tag:items:notreepunching:weak_saws>
   .add(<tag:items:minecraft:axes>);
-
-<tag:entity_types:migamigos:undead>.add(
-  <entitytype:undeadnights:horde_zombie>,
-  <entitytype:undeadnights:demolition_zombie>
-);

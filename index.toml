@@ -82,7 +82,7 @@ hash = "fc1ebdb9057b250030dd4c3b288134dfec8be7b95f4037a9f79edd991b5a5061"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "2e6798c795015dcccb533a811dc611d61d539933eeddfe12fd219f7cf2d9d347"
+hash = "a5bba9b792d9bb05da76646478d28d910b52456e6e5256871583601bebff1b89"
 
 [[files]]
 file = "config/sanitydim/default.toml"
@@ -126,7 +126,7 @@ hash = "4d050532488b1b195a39f2c0e4528455ed8423848d11b6ea380667656230db93"
 
 [[files]]
 file = "credits.txt"
-hash = "f1a82aa79c05313ca3707c86a44cc42c16b4e119b6732e4c606035b1b557fdcf"
+hash = "cc0b0b216ef7f66513ac6277276bf274e2f2018e2cdc7836dada2bb0248210be"
 
 [[files]]
 file = "datapacks/@packdata/data/chovys_apocalypse_mod/weapon_attributes/aluminiumbat.json"
@@ -249,21 +249,16 @@ file = "defaultconfigs/unlitcampfire-server.toml"
 hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
-file = "emi.json"
-hash = "09a5ea2db53523b2d351c8cbe66d3936c27b632179d56e623d2df0e28f2b1a2c"
-preserve = true
-
-[[files]]
 file = "minepkl/assets.pkl"
-hash = "a7ce270f59427ff49bd1addd3e7c3565452446efd024f0c2acb9ad0621169288"
+hash = "d21d6e76478ad907081c2e7f0dd3e79a67a2d28d3df699fc949e1396870d930a"
 
 [[files]]
 file = "minepkl/data.pkl"
-hash = "711f529ced82e468f9caf6db170148daa2ae3469426312ca2e3f9124a48f91e3"
+hash = "e16446bbdf5687da187c7d6a7455e6bb76dbc46192a15a3cb5420d4cd73a05cd"
 
 [[files]]
 file = "minepkl/external.pkl"
-hash = "518dd2f67a2b1abe0d45b85842214cbfc67b50d6d48f1dcb688e0fc5a931574c"
+hash = "26575f398c2feb66c43e7ceac27e274372c37b36ece39f0bdeece26e49ee6ce0"
 
 [[files]]
 file = "minepkl/lib/Recipe.pkl"
@@ -294,112 +289,12 @@ file = "minepkl/recipes/remove.pkl"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "minepkl/tags/category/@tags.pkl"
-hash = "a60ee3a919664845e127443784e43eb2e8421553e7b9fd1666dc7f8030f99a33"
-
-[[files]]
-file = "minepkl/tags/category/archery.pkl"
-hash = "6a636991cceff775091c181e1f36ba275055c51a4b7a1e6c7e985adb87c7ae63"
-
-[[files]]
-file = "minepkl/tags/category/armor.pkl"
-hash = "f61904f0db86ed3d450bb230a5bf9518b79969a00c462e49b925c7ae9f96b54a"
-
-[[files]]
-file = "minepkl/tags/category/basic_tools.pkl"
-hash = "4da2e9cf6c91061cea35bbef5e96ac1cf6b290a1ff342958a2f764c07dbf6211"
-
-[[files]]
-file = "minepkl/tags/category/block_decoration.pkl"
-hash = "91613b6720961dab14f293ad27a483f38b6bb0316477a36e4273577141376761"
-
-[[files]]
-file = "minepkl/tags/category/brewing.pkl"
-hash = "ae648aecfec19b0fb407f39960e11262ba6db373584b59d05e488498f92869aa"
-
-[[files]]
-file = "minepkl/tags/category/carpentry.pkl"
-hash = "5aa6bc8d7209be58b6807d4dcc5ae81ffc639844bc7664e2a25f96843a6b337b"
-
-[[files]]
-file = "minepkl/tags/category/cooking.pkl"
-hash = "baadd9992992445b60718c8671af590b3d278a49e538767c695e534b8ad2ce24"
-
-[[files]]
-file = "minepkl/tags/category/decoration.pkl"
-hash = "2f5b0c56d0ab69445da93cfa379e3f02cce7b642252c0f3a4f0bf1a413efc17f"
-
-[[files]]
-file = "minepkl/tags/category/enchanting.pkl"
-hash = "1a2f08abce2e080142f2ab4631490fa6c6bdf83023f11091c15f92b7ab7729d9"
-
-[[files]]
-file = "minepkl/tags/category/engineering.pkl"
-hash = "c9ea3c6b513730273bf02dba24bc28cf8b240ad8341745d15b5167e9d2a892a0"
-
-[[files]]
-file = "minepkl/tags/category/farming.pkl"
-hash = "022182560e14cff7e24ad4dba082a115e62637626fcb048f97f5cae715dbb465"
-
-[[files]]
-file = "minepkl/tags/category/fishing.pkl"
-hash = "20d5345a7ea118d94c3da047b66f4811b84594a86e802629dc583c484d8a7fca"
-
-[[files]]
-file = "minepkl/tags/category/foods.pkl"
-hash = "9c14b4cc87e27ff4649d462e3e74da06617a6281c5a09121cc3796cb36126f1a"
-
-[[files]]
-file = "minepkl/tags/category/functional_blocks.pkl"
-hash = "d920521bac3ee52e9740e9a64dedb9e39179308f7b8acb1a8f093dae715e31a4"
-
-[[files]]
-file = "minepkl/tags/category/furniture.pkl"
-hash = "e2032682807aafb29d30addabe4bd3d1dd4a9ba2d46765c6fee9866c8d643199"
-
-[[files]]
-file = "minepkl/tags/category/guns.pkl"
-hash = "f0c46077df83cbdccd42f75f0bd867550840551057646c0002b5343c6ecb05ac"
-
-[[files]]
-file = "minepkl/tags/category/heavy_tools.pkl"
-hash = "ed692df039ad7c7d52f739876f51dbafb642a17d274d8f44c3240d4feec8b8c7"
-
-[[files]]
-file = "minepkl/tags/category/masonry.pkl"
-hash = "66dbcf24699ad47ad824f3e0b4e860e1a8194ee8ffe2b23217cb2820a5f64a48"
-
-[[files]]
-file = "minepkl/tags/category/medicine.pkl"
-hash = "7221b2baa80a112e9fc27c5293bfd3ce1060bd36201d4980f007ff800f16cc2f"
-
-[[files]]
-file = "minepkl/tags/category/metalworking.pkl"
-hash = "dc709f64875763b0882c53fdeeec6610d10dbda85a6b30ad6a6e41a9864447ac"
-
-[[files]]
-file = "minepkl/tags/category/storage.pkl"
-hash = "4eae577c12f1157b635f95a3abab7ed77420d7aec291102d939a067447a08886"
-
-[[files]]
-file = "minepkl/tags/category/transport.pkl"
-hash = "79a739a296bfd5ee8651df464e5e2af8c3f3ef1f1b311beb676b4e8b0bcf234c"
-
-[[files]]
-file = "minepkl/tags/category/weapons.pkl"
-hash = "69fd8a82ed698fcb69cc1cc87883a539f493d6bf27a3dbb2a3f1e59a53a31b8d"
-
-[[files]]
-file = "minepkl/tags/category/witchcraft.pkl"
-hash = "3b2454488cdd6dd3766ef89c4a6aaf356a3c130672fd94b24ce3f0679ba8c2a2"
-
-[[files]]
-file = "minepkl/tags/tags.pkl"
-hash = "0dc726b25b2c55256b0a5e3f66715054416ba3fe20c336fd566f7ebd4a28263f"
+file = "minepkl/tags/misc.pkl"
+hash = "a2195a5730fbdd87b547fce457db19f90e947c3b76102d56f6423efc36ea72a2"
 
 [[files]]
 file = "minepkl/toolworking/recipes.pkl"
-hash = "3ebb2902e7635deca39ebed13bc30082d1ca040f05196ea3b4a58bdb9cebee04"
+hash = "7dc4d89881206d12ad4d797f1617854d05e78f3fbe0bbee5f479b33290769593"
 
 [[files]]
 file = "minepkl/toolworking/tools.pkl"
@@ -417,11 +312,6 @@ metafile = true
 [[files]]
 file = "mods/cooking/chefs-delight-forge.pw.toml"
 hash = "65e29476b35f038fd96348d50ec99035887df5867e1bb3352748304969e97d7d"
-metafile = true
-
-[[files]]
-file = "mods/cooking/cuisine-delight.pw.toml"
-hash = "98e2f0ec35f2823d3906071402aa131f93bcae60d85271c48569479ebd830501"
 metafile = true
 
 [[files]]
@@ -515,6 +405,11 @@ hash = "cab1eecd0d27269c0573fa77ef4c2461812f50aa941cceec389e50d5ad655f6f"
 metafile = true
 
 [[files]]
+file = "mods/decoration/inventory-particles.pw.toml"
+hash = "d01d5a806e49f8171b2909ba71e86d39f10a26d79d24793627ac86e2a4d0af50"
+metafile = true
+
+[[files]]
 file = "mods/decoration/macaws-holidays.pw.toml"
 hash = "80143652f7d10adabe38fc534e85715f17939245d910100b8e70d0cdf383ef86"
 metafile = true
@@ -567,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/decoration/supplementaries.pw.toml"
 hash = "015099066726e51f13ab0fac8471b2b9604970571ff0a101618c40863b1a19c6"
+metafile = true
+
+[[files]]
+file = "mods/decoration/underlay.pw.toml"
+hash = "18f5638f54ffe4a90de924a667746dae416a9a12536dedf2d034fe0a2ff1534a"
 metafile = true
 
 [[files]]
@@ -652,6 +552,11 @@ metafile = true
 [[files]]
 file = "mods/dependency/coroutil.pw.toml"
 hash = "1acfc19a797701396df4dac209d395ed8f11e2cab4c05729579d628776fbc40f"
+metafile = true
+
+[[files]]
+file = "mods/dependency/crafted-core.pw.toml"
+hash = "49fbe9277b120af93f7847dfbfefd66db405e76883ade53e9a46996b83c737c3"
 metafile = true
 
 [[files]]
@@ -777,6 +682,11 @@ metafile = true
 [[files]]
 file = "mods/dependency/more-hitboxes.pw.toml"
 hash = "dcbfb1d482b2fbdbe4bb9037474fdbafdf9d2bf4ed36303d7f0230b04fad47c8"
+metafile = true
+
+[[files]]
+file = "mods/dependency/mossylib.pw.toml"
+hash = "f8088091d42a1627508b4f1eea6c8114d1d37263e3284e3c6be63bb43b8b3c78"
 metafile = true
 
 [[files]]
@@ -940,11 +850,6 @@ hash = "9363cd05dd71c3ac14296d15f51eda098ad5805488ead7ca7d97edfb8ff83f17"
 metafile = true
 
 [[files]]
-file = "mods/equipment/timeless-and-classics-zero.pw.toml"
-hash = "4ad285192fbb3affe59dec274cb11ae3b6a331b92c1426eb326a52b934129d47"
-metafile = true
-
-[[files]]
 file = "mods/equipment/tool-belt.pw.toml"
 hash = "e3c9f7b2fa7cf8f6dd20ad1bbcd56fac72d3f45a8b5d5d0a982f526201bc7130"
 metafile = true
@@ -965,11 +870,6 @@ hash = "e37eebb216aeee121038c6767be44d3ba0b4b42d0b463e9c5732b5b8c7170267"
 metafile = true
 
 [[files]]
-file = "mods/mechanics/alekiships.pw.toml"
-hash = "05e297e90604cfbfb705bef5aba22b16c02d4d2b6d008436292d41234279e4eb"
-metafile = true
-
-[[files]]
 file = "mods/mechanics/better-combat.pw.toml"
 hash = "d90c7cbf53c662b276b8734e3efc4a1feb9637dccc4b8ec020727e57d70e0467"
 metafile = true
@@ -985,11 +885,6 @@ hash = "f5b7b60fd08da0b308d89053c571d3c8868753a363b884b919293aacc4556977"
 metafile = true
 
 [[files]]
-file = "mods/mechanics/ceramics.pw.toml"
-hash = "8550a0697e03050c5f6aea633003a5a3924133b8cddfa412963424ced5e949b3"
-metafile = true
-
-[[files]]
 file = "mods/mechanics/cold-sweat.pw.toml"
 hash = "0448e3b63411eb667ef2aaacc6e745d9de8255777271f9bd5c6e122ec9801034"
 metafile = true
@@ -997,11 +892,6 @@ metafile = true
 [[files]]
 file = "mods/mechanics/corpse.pw.toml"
 hash = "7779311937c5c008acf12ff028770c3ad183b75e8d56303b0dc8d04f864e393d"
-metafile = true
-
-[[files]]
-file = "mods/mechanics/crafted-core.pw.toml"
-hash = "49fbe9277b120af93f7847dfbfefd66db405e76883ade53e9a46996b83c737c3"
 metafile = true
 
 [[files]]
@@ -1022,6 +912,11 @@ metafile = true
 [[files]]
 file = "mods/mechanics/enhanced-celestials.pw.toml"
 hash = "56114c2fb770ddd10c57111037d47bffe6d0c9bac006f3492f09468e173297a9"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/fishing-real.pw.toml"
+hash = "6aef066919582cf3a62ef3277c9410ec3f00541820d1a797edb3c70aee240865"
 metafile = true
 
 [[files]]
@@ -1135,8 +1030,18 @@ hash = "a71d7f7687f310296c0cba5d5168c59b67ccf2ff2179e4539ac98a4f17b7ede0"
 metafile = true
 
 [[files]]
+file = "mods/misc/black-moon.pw.toml"
+hash = "4bfe5692aff03b9901cc0833f3b4a18a575d02e1ca1987093488aa36646f9a1b"
+metafile = true
+
+[[files]]
 file = "mods/misc/build-your-campfire.pw.toml"
 hash = "50b80763763676893839b7934c699eec98d1a15bd1e324adcecd7009f3b1ba4f"
+metafile = true
+
+[[files]]
+file = "mods/misc/comfortable-campfires.pw.toml"
+hash = "15643886cef8ae6ba1a48d06b9f01bff5e2411a8f485e7b16727e1ad71da3f03"
 metafile = true
 
 [[files]]
@@ -1290,6 +1195,11 @@ hash = "f5c825f17af15693d96da83506fe030ac5cafd6777d063273e857b71edc2652d"
 metafile = true
 
 [[files]]
+file = "mods/misc/picker-upper.pw.toml"
+hash = "8677d09f6c09d6486fcee2fc7042cd2a306c31460d37aacd6e836efb32038443"
+metafile = true
+
+[[files]]
 file = "mods/misc/piggybacks.pw.toml"
 hash = "188589aa8bbbc4521e1c8cf63aba3bff29c1ba6f37fa72c10b70f3f5cadec8b6"
 metafile = true
@@ -1330,11 +1240,6 @@ hash = "37d4344715945f7e0cb723ca828d70cbdc45f5ee5282b100d646ca8a52c3ea59"
 metafile = true
 
 [[files]]
-file = "mods/misc/stardew-fishing.pw.toml"
-hash = "8e780357543971a93d4866fa315041ba84ef943e77cebaf6a40089af3f520337"
-metafile = true
-
-[[files]]
 file = "mods/misc/two-players-one-horse.pw.toml"
 hash = "ec13bd2b7d0d3aa2633259965a5bf6b6d7335e792ac2569c5fd8c069b81bb052"
 metafile = true
@@ -1372,11 +1277,6 @@ metafile = true
 [[files]]
 file = "mods/mobs/all-bark-all-bite.pw.toml"
 hash = "090b122ea1ff59e4000e1df716088ba91309a408e58290aec536c3baa783d696"
-metafile = true
-
-[[files]]
-file = "mods/mobs/animal-garden-manatee.pw.toml"
-hash = "237831dd5fb4ef02b3e7808cc816f9e10da89917296c30891be41ffd066d277d"
 metafile = true
 
 [[files]]
@@ -1475,8 +1375,8 @@ hash = "4e99ac0c76a07ae1f27ca4437752e4901b06b2b5a505ddcd8ca74723c5f73db4"
 metafile = true
 
 [[files]]
-file = "mods/mobs/undead-nights.pw.toml"
-hash = "4fda67e02fc3079c6ff2b048fb9acf5bc1b3ff3697ab83b8be459f4d35b23206"
+file = "mods/mobs/saints-dragons.pw.toml"
+hash = "e47ef8233f6432c769f3d1d97aa8816109ff0739204e048c1ea00e6197ba7681"
 metafile = true
 
 [[files]]
@@ -1695,11 +1595,6 @@ hash = "e50bcd4e599c716a13d010c4c5f2edf213b04035ebd6ce59dc4143bf3de99a0d"
 metafile = true
 
 [[files]]
-file = "mods/technology/clockwork.pw.toml"
-hash = "a54e54ecd72d58701b338a5d6331850560a7259930c093b926a689d2c49d6933"
-metafile = true
-
-[[files]]
 file = "mods/technology/copycats.pw.toml"
 hash = "583d8236bdd5c21a2f71cec3e9b0a7a57f136d73698d1147bdd8ff1c9c78d009"
 metafile = true
@@ -1707,11 +1602,6 @@ metafile = true
 [[files]]
 file = "mods/technology/create-diesel-generators.pw.toml"
 hash = "3478222a1fdfc97946f1ca9fbe8864dce012fae761e1960495607953ecc95be1"
-metafile = true
-
-[[files]]
-file = "mods/technology/create-immersive-tacz-integration.pw.toml"
-hash = "bc081a270afaa1185da2e5d8fe714113a78d627753347564dfba20c697bc4758"
 metafile = true
 
 [[files]]
@@ -1727,11 +1617,6 @@ metafile = true
 [[files]]
 file = "mods/technology/create-metallurgy.pw.toml"
 hash = "31d14571e1e66b6a8ecd70ad714d8d745beeb901a353df7830e6a019b5575484"
-metafile = true
-
-[[files]]
-file = "mods/technology/create-sifting.pw.toml"
-hash = "765dc08b077576a31d37e2f4777bda4bafd52ede36a866c874b5419fde6e1f34"
 metafile = true
 
 [[files]]
@@ -1845,11 +1730,6 @@ hash = "5d0441ebb4df52b18e62a178a9fcb7b198ec7c86a32f0c88fa55ec29879f61fd"
 metafile = true
 
 [[files]]
-file = "mods/utilities/keybind-bundles.pw.toml"
-hash = "fc5e8fa6df5aa3d4e13d43932e52aba6c7012d4fc8e04a3ed0165a7bf88fc153"
-metafile = true
-
-[[files]]
 file = "mods/utilities/lmft.pw.toml"
 hash = "6f0c8702e940a3067fc10f9c1cea497a81ce42be9e7e0dbd4891ae264318862e"
 metafile = true
@@ -1866,7 +1746,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/minepkl.pw.toml"
-hash = "5b3a396868af44c2e14a65e5f34e981c20a2fc8943443db8d366acc56dc9efc5"
+hash = "8dbb214d6b53d3a2edb65d77c3f70cdf488bcc4641f93ecfa81dbc1ae5444de3"
 metafile = true
 
 [[files]]
@@ -1875,18 +1755,8 @@ hash = "aec2aa560593617d22d060f8ef042eb3e5495b2dc3277a4881f4f56b4f7f675d"
 metafile = true
 
 [[files]]
-file = "mods/utilities/raws-visual-keybinder.pw.toml"
-hash = "964dd9d4585b1ddd1cb2891759b57b8e0a9eaf17c7e7db231fc7fc917701919a"
-metafile = true
-
-[[files]]
 file = "mods/utilities/resource-pack-overrides.pw.toml"
 hash = "e09781b654ab7072a5ea1f0ecfe35af51bc60840949fd0e926b3c91fc7d97a83"
-metafile = true
-
-[[files]]
-file = "mods/utilities/resourcify.pw.toml"
-hash = "efe58b715e65db86558da05f2ebd8857012ac8b287b0fbcbe5a3baaf1f5ac4d9"
 metafile = true
 
 [[files]]
@@ -1902,11 +1772,6 @@ metafile = true
 [[files]]
 file = "mods/utilities/sparsestructures.pw.toml"
 hash = "8d6ab7523f0ac16250d5e5609bb056971265cc8e8b713783c865d93da5e21967"
-metafile = true
-
-[[files]]
-file = "mods/utilities/tag-editor.pw.toml"
-hash = "8653a3a66a1fd2ee21e54dc52da10d738c2e7291f51309441cb5ce68edd4280a"
 metafile = true
 
 [[files]]
@@ -2012,6 +1877,10 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "0b51c1a0f0f9981c20e2bd08e24faf7679e5492df1cbca2801ea992e3a854375"
+
+[[files]]
+file = "resourcepacks/@insomnia.zip"
+hash = "8c0894503370241b4f6dc1e11002419edf0f27a84496762e8da516207450b831"
 
 [[files]]
 file = "resourcepacks/@integrated/assets/emi/textures/gui/background.png"
@@ -2155,10 +2024,6 @@ hash = "9f9743c793b257f5dee93d4aa492811aff475f90e7005fb723053fd5daaf90c4"
 metafile = true
 
 [[files]]
-file = "scripts/categories.zs"
-hash = "f2e7bcfc08843bb0517e7c4a3af266fa0f1d68ad868f39550db63d503e5a3f5f"
-
-[[files]]
 file = "scripts/misc.zs"
 hash = "975d493a2ace15a7f43e5083e95c5590e2dfb74d4a6f8ce5b4e0521eb2e519a3"
 
@@ -2168,17 +2033,9 @@ hash = "3152da00ced544789a8d849af9fdcf8ed0a0865e3fe167e8674606a09e145a1d"
 
 [[files]]
 file = "scripts/tags.zs"
-hash = "e9a30bd12874b1a15d7022764fb1e58efccf985e19622fc458fe6c52b3c45b62"
+hash = "a42cbd4c13a766b1ccc935a7f6454bd17b6a3e2cdb4d55cf48b9988f1a26f8dd"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
 metafile = true
-
-[[files]]
-file = "tacz/Create Armorer-V1.2.0.zip"
-hash = "bbf6f588b3b7cc5eae04b9f95d764a1b00e0fd29242eeca1d92364f635d2768a"
-
-[[files]]
-file = "tacz/tacz-pre.toml"
-hash = "97247c8b07f57e997ab955f7b9f2e6653926eb3963e7123eddc1eafa6fa088a2"

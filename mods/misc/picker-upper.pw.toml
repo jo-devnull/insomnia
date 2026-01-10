@@ -1,0 +1,13 @@
+name = "Picker-Upper"
+filename = "../pickerupper-1.20.1-forge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d9e8733d4c6de3f7f471322a54633aec4ded4300"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7406887
+project-id = 1418634
