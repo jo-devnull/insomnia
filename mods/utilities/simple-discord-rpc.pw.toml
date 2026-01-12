@@ -11,3 +11,8 @@ hash = "69362a4ceb69030f8a784e329db3ee960f1e61755b3eb7058019722611ce6c700954aaf6
 [update.modrinth]
 mod-id = "ObXSoyrn"
 version = "nkRAWFxK"
+
+[option]
+default = true
+optional = true
+description = "Ative esse mod para mostrar atividade no discord"

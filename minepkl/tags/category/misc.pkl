@@ -1,0 +1,157 @@
+minecraft {
+  "bucket"
+  "fishing_rod"
+  "flint_and_steel"
+  "shears"
+  "brush"
+  "name_tag"
+  "lead"
+  "compass"
+  "recovery_compass"
+  "clock"
+  "spyglass"
+  "map"
+  "writable_book"
+  "elytra"
+  "firework_rocket"
+  "saddle"
+  "carrot_on_a_stick"
+  "warped_fungus_on_a_stick"
+  "goat_horn"
+  "#forge:shears"
+}
+
+create {
+  "wrench"
+  "brown_toolbox"
+  "clipboard"
+  "goggles"
+  "super_glue"
+  "crafting_blueprint"
+  "sand_paper"
+  "red_sand_paper"
+}
+
+supplementaries {
+  "lunch_basket"
+  "wrench"
+  "key"
+  "slingshot"
+  "rope_arrow"
+  "soap"
+  "bubble_blower"
+  "flute"
+  "altimeter"
+  "slice_map"
+  "confetti_popper"
+  "quiver"
+}
+
+toolbelt {
+  "belt"
+  "pouch"
+}
+
+all_bark_all_bite {
+  "whistle"
+}
+
+redeco {
+  "hammer"
+}
+
+alexsmobs {
+  "chorus_on_a_stick"
+}
+
+automobility {
+  "crowbar"
+}
+
+betterarcheology {
+  "iron_brush"
+  "diamond_brush"
+  "netherite_brush"
+}
+
+createdieselgenerators {
+  "wire_cutters"
+  "hammer"
+  "engine_silencer"
+  "engine_turbocharger"
+  "oil_scanner"
+  "chemical_sprayer"
+  "chemical_sprayer_lighter"
+}
+
+createmetallurgy {
+  "faucet"
+}
+
+domesticationinnovation {
+  "collar_tag"
+  "feather_on_a_stick"
+  "deed_of_ownership"
+  "pet_bed_white"
+}
+
+notreepunching {
+  "clay_tool"
+  "fire_starter"
+}
+
+travelersbackpack {
+  "standard"
+  "backpack_tank"
+  "blank_upgrade"
+}
+
+redstonepen {
+  "pen"
+  "quill"
+}
+
+legendarysurvivaloverhaul {
+  "canteen"
+  "large_canteen"
+  "bandage"
+  "healing_herbs"
+  "medikit"
+  "morphine"
+  "plaster"
+  "cooling_coat"
+  "heating_coat"
+  "thermal_coat"
+  "seasonal_calendar"
+  "thermometer"
+  "nether_chalice"
+  "sponge"
+  "heat_resistance_ring"
+  "cold_resistance_ring"
+  "thermal_resistance_ring"
+  "first_aid_supplies"
+  "heart_container"
+}
+
+measurements {
+  "tape_measure"
+}
+
+paintable {
+  "paint_bucket"
+  "paint_brush"
+}
+
+thirstcanteen {
+  "leather_canteen"
+  "military_bottle"
+  "dragon_bottle"
+}
+
+cold_sweat {
+  "waterskin"
+  "filled_waterskin"
+  "soulspring_lamp"
+  "thermometer"
+  "minecart_insulation"
+}

@@ -1,7 +1,10 @@
-import "tags/misc.pkl" as tags
-import "misc/replace.pkl" as replacements
-import* "recipes/*.pkl" as recipes
+import "lib/Recipe.pkl"
 import "toolworking/toolworking.pkl"
+import "misc/fishing.pkl"
+import "tags/misc.pkl" as tags
+import* "recipes/*.pkl" as recipes
+import "misc/replace.pkl" as replacements
+import "tags/category/@category.pkl" as categoryTags
 
 const jsonRenderer = new JsonRenderer {}
 
@@ -16,6 +19,34 @@ function buildRecipes() = new Mapping<String, FileOutput> {
         value = recipe
         renderer = jsonRenderer
       }
+    }
+  }
+
+  for (_, list in import("recipes/remove.pkl").toMap()) {
+    for (id in list) {
+      [Recipe.empty(id).getPath()] {
+        value = Recipe.empty(id)
+        renderer = jsonRenderer
+      }
+    }
+  }
+}
+
+function buildCategoryTags() = new Mapping<String, FileOutput> {
+  for (key, tag in categoryTags.toMap()) {
+    ["category:tags/items/\(key)"] {
+      value {
+        replace = false
+        values = new Listing<String> {
+          for (modname, list in tag.mod) {
+            for (item in list) {
+              if (item.contains(":")) item else "\(modname):\(item)"
+            }
+          }
+        }
+      }
+
+      renderer = jsonRenderer
     }
   }
 }
@@ -53,11 +84,28 @@ function buildReplacements() = new Mapping<String, FileOutput> {
   }
 }
 
+function buildFishing() = new Mapping<String, FileOutput> {
+  for (mod, map in fishing.toMap()) {
+    for (key, val in map) {
+      ["\(mod):fishing/\(key)"] {
+        value {
+          input { item = "\(mod):\(key)" }
+          result { id = if (val == "*") "\(mod):\(key)" else "\(mod):\(val)" }
+        }
+
+        renderer = jsonRenderer
+      }
+    }
+  }
+}
+
 output {
   files {
     ...buildTags()
+    ...buildCategoryTags()
     ...buildRecipes()
     ...buildReplacements()
+    ...buildFishing()
     ...toolworking.build()
   }
 }

@@ -1,0 +1,43 @@
+minecraft {
+  "#salt:can_be_salted"
+  "#c:foods"
+  "#forge:food"
+}
+
+create {
+  "bar_of_chocolate"
+  "sweet_roll"
+  "chocolate_glazed_berries"
+  "honeyed_apple"
+}
+
+brewinandchewin {
+  "flaxen_cheese_wedge"
+  "scarlet_cheese_wedge"
+  "vegetable_omelet"
+  "creamy_onion_soup"
+  "cheesy_pasta"
+  "horror_lasagna"
+  "scarlet_pierogi"
+  "fiery_fondue"
+  "pizza_slice"
+  "quiche_slice"
+  "ham_and_cheese_sandwich"
+  "kimchi"
+  "jerky"
+  "pickled_pickles"
+  "kippers"
+  "cocoa_fudge"
+  "sweet_berry_jam"
+  "glow_berry_marmalade"
+  "apple_jelly"
+}
+
+ecologics {
+  "coconut_slice"
+  "crab_meat"
+  "tropical_stew"
+  "prickly_pear"
+  "cooked_prickly_pear"
+  "walnut"
+}

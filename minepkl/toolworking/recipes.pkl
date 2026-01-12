@@ -11,94 +11,67 @@ local const heatedMaterials = new {
   "create_ironworks:steel_ingot"
 }
 
-local function heated(item: String) = "toolworking:heated_\(utils.pathof(item))"
+local function heated(item: String) =
+  "toolworking:heated_\(utils.pathof(item))"
 
 crafting {
-  new Recipe.Shaped {
+  new Recipe.Shapeless {
     id = "create:crafting/logistics/item_hatch"
+
+    ingredients {
+      new { item = "create:andesite_alloy" }
+      new { tag = "minecraft:trapdoors" }
+    }
+
+    result {
+      item = "create:item_hatch"
+    }
+  }
+
+  new Recipe.Shapeless {
+    id = "toolworking:refractory_mortar"
+    ingredients {
+      new {
+        new { item = "minecraft:water_bucket" }
+        new { item = "notreepunching:ceramic_water_bucket" }
+      }
+      new { tag = "forge:sand" }
+      new { item = "minecraft:clay_ball" }
+    }
+    result {
+      item = "createmetallurgy:refractory_mortar"
+    }
+  }
+
+  new Recipe.Shapeless {
+    id = "toolworking:ingot_clay_mold"
+    ingredients {
+      new { tag = "forge:ingots" }
+      new { item = "createmetallurgy:refractory_mortar" }
+    }
+    result {
+      item = "toolworking:ingot_clay_mold"
+    }
+  }
+
+  new Recipe.Shaped {
+    id = "createlowheated:basic_burner"
+    pattern { "===" "= =" "#_#" }
+    key {
+      ["="] { item = "minecraft:brick" }
+      ["#"] { tag = "minecraft:stone_tool_materials" }
+      ["_"] { item = "createmetallurgy:refractory_mortar" }
+    }
+    result {
+      item = "createlowheated:basic_burner"
+    }
   }
 }
 
-itemInside {
+coolingInWater {
   for (item in heatedMaterials) {
     utils.coolItemInWater(heated(item), item)
     utils.coolItemSplashing(heated(item), item)
-  }
-}
-
-smelting {
-  new Recipe.Smelting {
-    id = "minecraft:copper_ingot_from_smelting_raw_copper"
-    ingredient { item = "minecraft:raw_copper" }
-    result = heated("copper_ingot")
-  }
-
-  new Recipe.Smelting {
-    id = "minecraft:copper_ingot_from_smelting_copper_ore"
-    ingredient { item = "minecraft:copper_ore" }
-    result = heated("copper_ingot")
-  }
-
-  new Recipe.Smelting {
-    id = "minecraft:copper_ingot_from_smelting_deepslate_copper_ore"
-    ingredient { item = "minecraft:deepslate_copper_ore" }
-    result = heated("copper_ingot")
-  }
-
-  new Recipe.Smelting {
-    id = "deeperdarker:copper_ingot_from_smelting_sculk_stone_copper_ore"
-    ingredient { item = "minecraft:sculk_stone_copper_ore" }
-    result = heated("copper_ingot")
-  }
-
-  new Recipe.Smelting {
-    id = "deeperdarker:copper_ingot_from_smelting_gloomslate_copper_ore"
-    ingredient { item = "minecraft:gloomslate_copper_ore" }
-    result = heated("copper_ingot")
-  }
-
-  new Recipe.Smelting {
-    id = "create:smelting/copper_ingot_from_crushed"
-    ingredient { item = "create:crushed_raw_copper" }
-    result = heated("copper_ingot")
-  }
-}
-
-blasting {
-  new Recipe.Blasting {
-    id = "minecraft:copper_ingot_from_blasting_raw_copper"
-    ingredient { item = "minecraft:raw_copper" }
-    result = heated("copper_ingot")
-  }
-
-  new Recipe.Blasting {
-    id = "minecraft:copper_ingot_from_blasting_copper_ore"
-    ingredient { item = "minecraft:copper_ore" }
-    result = heated("copper_ingot")
-  }
-
-  new Recipe.Blasting {
-    id = "minecraft:copper_ingot_from_blasting_deepslate_copper_ore"
-    ingredient { item = "minecraft:deepslate_copper_ore" }
-    result = heated("copper_ingot")
-  }
-
-  new Recipe.Blasting {
-    id = "deeperdarker:copper_ingot_from_blasting_sculk_stone_copper_ore"
-    ingredient { item = "minecraft:sculk_stone_copper_ore" }
-    result = heated("copper_ingot")
-  }
-
-  new Recipe.Blasting {
-    id = "deeperdarker:copper_ingot_from_blasting_gloomslate_copper_ore"
-    ingredient { item = "minecraft:gloomslate_copper_ore" }
-    result = heated("copper_ingot")
-  }
-
-  new Recipe.Blasting {
-    id = "create:blasting/copper_ingot_from_crushed"
-    ingredient { item = "create:crushed_raw_copper" }
-    result = heated("copper_ingot")
   }
 }
 
@@ -129,5 +102,141 @@ castingInTable {
         item = heated(entry)
       }
     }
+  }
+}
+
+smelting {
+  for (target in heatedMaterials) {
+    new Recipe.Blasting {
+      id = "toolworking:blasting/heated_\(utils.materialof(target))_from_ingot"
+      ingredient { item = target }
+      result = heated(target)
+    }
+
+    when (List("copper", "brass", "bronze").contains(utils.materialof(target))) {
+      new Recipe.Smelting {
+        id = "toolworking:smelting/heated_\(utils.materialof(target))_from_ingot"
+        ingredient { item = target }
+        result = heated(target)
+      }
+    }
+  }
+}
+
+melting {
+  new Recipe.Melting {
+    id = toolworking.res("steel_from_raw_crushed_iron")
+    heatRequirement = "heated"
+    ingredients {
+      new {
+        new { item = "create_ironworks:coal_dust" }
+        new { item = "create_ironworks:charcoal_dust" }
+      }
+
+      new { item = "create:crushed_raw_iron" }
+    }
+
+    results {
+      new { fluid = "createmetallurgy:molten_slag" amount = 45 }
+      new { fluid = "createmetallurgy:molten_steel" amount = 90 }
+    }
+  }
+
+  new Recipe.Melting {
+    id = toolworking.res("steel_from_dirty_iron_dust")
+    heatRequirement = "heated"
+    ingredients {
+      new {
+        new { item = "create_ironworks:coal_dust" }
+        new { item = "create_ironworks:charcoal_dust" }
+      }
+
+      new { item = "createmetallurgy:dirty_iron_dust" }
+    }
+
+    results {
+      new { fluid = "createmetallurgy:molten_slag" amount = 20 }
+      new { fluid = "createmetallurgy:molten_steel" amount = 90 }
+    }
+  }
+
+  new Recipe.Melting {
+    id = toolworking.res("steel_from_iron_dust")
+    heatRequirement = "heated"
+    ingredients {
+      new {
+        new { item = "create_ironworks:coal_dust" }
+        new { item = "create_ironworks:charcoal_dust" }
+      }
+
+      new { item = "createmetallurgy:iron_dust" }
+    }
+
+    results {
+      new { fluid = "createmetallurgy:molten_steel" amount = 90 }
+    }
+  }
+
+  new Recipe.Melting {
+    id = toolworking.res("bronze_from_tin_and_copper_ingot")
+    heatRequirement = "heated"
+
+    ingredients {
+      utils.heatedpair("minecraft:copper_ingot")
+      new { item = "create_ironworks:tin_ingot" }
+    }
+
+    results {
+      new { fluid = "createmetallurgy:molten_bronze" amount = 90 }
+    }
+  }
+
+  new Recipe.Melting {
+    id = toolworking.res("brass_from_zinc_and_copper_ingot")
+    heatRequirement = "heated"
+
+    ingredients {
+      utils.heatedpair("minecraft:copper_ingot")
+      new { item = "create:zinc_ingot" }
+    }
+
+    results {
+      new { fluid = "createmetallurgy:molten_brass" amount = 90 }
+    }
+  }
+
+  new Recipe.Melting {
+    id = toolworking.res("brass_from_crushed_zinc_and_copper")
+    heatRequirement = "heated"
+
+    ingredients {
+      new { item = "create:crushed_raw_copper" }
+      new { item = "create:crushed_raw_zinc" }
+    }
+
+    results {
+      new { fluid = "createmetallurgy:molten_brass" amount = 90 }
+    }
+  }
+
+  simpleMeltingRecipe("iron")
+  simpleMeltingRecipe("copper")
+  simpleMeltingRecipe("gold")
+  simpleMeltingRecipe("bronze")
+  simpleMeltingRecipe("brass")
+  simpleMeltingRecipe("steel")
+}
+
+local function simpleMeltingRecipe(material) = new Recipe.Melting {
+  id = "toolworking:\(material)_from_heated_ingot"
+  heatRequirement = "heated"
+  processingTime = 30
+
+  ingredients {
+    new { item = "toolworking:heated_\(material)_ingot" }
+  }
+
+  results {
+    new { fluid = "createmetallurgy:molten_\(material)" amount=90 }
   }
 }

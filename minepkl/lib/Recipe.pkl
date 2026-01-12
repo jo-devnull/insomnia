@@ -63,6 +63,13 @@ class CreateMixing extends Recipe {
   results         : Listing<unknown> = new {}
 }
 
+class CreatePressing extends Recipe {
+  type = "create:pressing"
+  heatRequirement : "heated" | "superheated" | "none" = "none"
+  ingredients     : Listing<unknown> = new {}
+  results         : Listing<unknown> = new {}
+}
+
 class CreateSplashing extends Recipe {
   type = "create:splashing"
   ingredients : Listing<unknown> = new {}
@@ -75,3 +82,13 @@ class CastingInTable extends Recipe {
   ingredients    : Listing<unknown> = new {}
   result         : unknown = new {}
 }
+
+class Melting extends Recipe {
+  type = "createmetallurgy:melting"
+  heatRequirement : "heated" | "superheated" | "none" = "none"
+  processingTime  : Number = 60
+  ingredients     : Listing<unknown> = new {}
+  results         : Listing<unknown> = new {}
+}
+
+function empty(name): Empty = new { id = name }

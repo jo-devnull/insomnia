@@ -1,4 +1,3 @@
-import "tools.pkl"
 import "recipes.pkl"
 
 function res(path) = "toolworking:\(path)"
@@ -15,6 +14,5 @@ function buildRecipes(object) = new Mapping<String, FileOutput> {
 }
 
 function build() = new Mapping<String, FileOutput> {
-  ...buildRecipes(tools)
   ...buildRecipes(recipes)
 }

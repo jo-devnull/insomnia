@@ -1,0 +1,76 @@
+import "../../lib/utils.pkl"
+
+minecraft {
+  "#minecraft:beds"
+  "cauldron"
+  "armor_stand"
+  "bookshelf"
+  "chiseled_bookshelf"
+  "lectern"
+  "chest"
+  "barrel"
+  "ender_chest"
+}
+
+create {
+  "#create:seats"
+  "cuckoo_clock"
+}
+
+farmersdelight {
+  "#farmersdelight:cabinets"
+}
+
+redeco {
+  for (woodType in utils.VanillaWood) {
+    "\(woodType)_table"
+    "\(woodType)_side_table"
+    "\(woodType)_drawers"
+    "\(woodType)_drawer_counter"
+    "\(woodType)_cabinet_counter"
+    "\(woodType)_coffee_table"
+    "\(woodType)_chair"
+    "\(woodType)_stool"
+    "\(woodType)_bench"
+    "\(woodType)_shelf"
+    "\(woodType)_display_case"
+    "\(woodType)_sword_mount"
+    "\(woodType)_pedestal"
+  }
+
+  for (color in utils.BlockColors) {
+    "\(color)_sofa"
+    "\(color)_ottoman"
+    "\(color)_cushion"
+    "\(color)_pet_bed"
+  }
+}
+
+candlelight {
+  for (type in List(
+    "cobblestone",
+    "sandstone",
+    "stone_bricks",
+    "deepslate",
+    "granite",
+    "end",
+    "mud",
+    "quartz",
+    "red_nether_bricks",
+    "basalt",
+    "bamboo"
+  )) {
+    "\(type)_stove"
+    "\(type)_kitchen_sink"
+    "\(type)_counter"
+  }
+
+  for (wood in utils.VanillaWood) {
+    "\(wood)_cabinet"
+    "\(wood)_drawer"
+    "\(wood)_table"
+    "\(wood)_chair"
+    "\(wood)_shelf"
+    "\(wood)_big_table"
+  }
+}

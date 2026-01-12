@@ -1,0 +1,12 @@
+minecraft {
+  "enchanting_table"
+  "bookshelf"
+  "chiseled_bookshelf"
+  "lectern"
+  "book"
+  "enchanted_book"
+}
+
+disenchanting_table {
+  "disenchanting_table"
+}

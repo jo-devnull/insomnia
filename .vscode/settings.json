@@ -1,0 +1,14 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "kubejs/assets/": true,
+        "kubejs/data/": true,
+        "kubejs/startup_scripts/": true,
+        "kubejs/client_scripts/": true,
+        "kubejs/README.txt": true,
+    },
+}

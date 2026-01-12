@@ -1,0 +1,75 @@
+minecraft {
+  "furnace"
+  "blast_furnace"
+  "anvil"
+  "cauldron"
+  "bucket"
+  "lava_bucket"
+  "flint_and_steel"
+
+  "#forge:nuggets"
+  "#forge:ingots"
+  "#forge:plates"
+}
+
+create {
+  "basin"
+  "mechanical_mixer"
+  "mechanical_press"
+  "crushing_wheel"
+  "blaze_burner"
+  "fluid_tank"
+  "#create:crushed_raw_materials"
+}
+
+createlowheated {
+  "basic_burner"
+}
+
+createdieselgenerators {
+  "burner"
+}
+
+create_ironworks {
+  "coal_dust"
+  "charcoal_dust"
+  "crushed_raw_tin"
+}
+
+createmetallurgy {
+  "refractory_mortar"
+  "foundry_lid"
+  "foundry_basin"
+  "foundry_mixer"
+  "foundry_unit"
+  "casting_table"
+  "casting_basin"
+  "industrial_crucible"
+  "faucet"
+
+  "wolframite_dust"
+  "gold_dust"
+  "iron_dust"
+  "copper_dust"
+  "zinc_dust"
+
+  "#forge:dirty_dusts"
+  "#forge:graphite_molds"
+
+  molten("iron")
+  molten("gold")
+  molten("copper")
+  molten("zinc")
+  molten("brass")
+  molten("tungsten")
+  molten("steel")
+  molten("netherite")
+  molten("silver")
+  molten("tin")
+  molten("obdurium")
+  molten("bronze")
+  molten("slag")
+}
+
+local function molten(material) =
+  "molten_\(material)_bucket"

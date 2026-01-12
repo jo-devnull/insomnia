@@ -1,0 +1,43 @@
+import "../../lib/utils.pkl" as utils
+
+minecraft {
+  "#forge:glass"
+  "#forge:glass_panes"
+
+  "#minecraft:terracotta"
+  "#forge:concrete"
+  "#forge:concrete_powders"
+
+  for (color in utils.BlockColors) {
+    "\(color)_glazed_terracotta"
+  }
+}
+
+create {
+  "cardboard_block"
+  "oak_window"
+  "spruce_window"
+  "birch_window"
+  "jungle_window"
+  "acacia_window"
+  "dark_oak_window"
+  "mangrove_window"
+  "crimson_window"
+  "warped_window"
+  "cherry_window"
+  "bamboo_window"
+  "ornate_iron_window"
+  "industrial_iron_window"
+  "weathered_iron_window"
+  "rose_quartz_block"
+  "small_rose_quartz_tiles"
+}
+
+supplementaries {
+  "checker_block"
+  "checker_slab"
+}
+
+wallpapers {
+  "#wallpapers:wallpaper_blocks"
+}

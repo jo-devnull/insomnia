@@ -1,0 +1,116 @@
+{
+  "favorites": [
+    {
+      "stack": "#item:category:workbench"
+    },
+    {
+      "stack": "#item:category:functional_blocks"
+    },
+    {
+      "stack": "#item:category:cooking"
+    },
+    {
+      "stack": "#item:category:foods"
+    },
+    {
+      "stack": "#item:category:brewing"
+    },
+    {
+      "stack": "#item:category:medicine"
+    },
+    {
+      "stack": "#item:category:misc"
+    },
+    {
+      "stack": "#item:category:tools"
+    },
+    {
+      "stack": "#item:category:weapons"
+    },
+    {
+      "stack": "#item:category:armor"
+    },
+    {
+      "stack": "#item:category:enchanting"
+    },
+    {
+      "stack": "#item:category:witchcraft"
+    },
+    {
+      "stack": "#item:category:furniture"
+    },
+    {
+      "stack": "#item:category:decoration"
+    },
+    {
+      "stack": "#item:category:block_decoration"
+    },
+    {
+      "stack": "#item:category:storage"
+    },
+    {
+      "stack": "#item:category:engineering"
+    },
+    {
+      "stack": "#item:category:carpentry"
+    },
+    {
+      "stack": "#item:category:masonry"
+    },
+    {
+      "stack": "#item:category:construction"
+    },
+    {
+      "stack": "#item:category:metalworking"
+    },
+    {
+      "stack": "#item:category:farming"
+    },
+    {
+      "stack": "#item:category:archery"
+    },
+    {
+      "stack": "#item:category:fishing"
+    },
+    {
+      "stack": "#item:category:transport"
+    }
+  ],
+  "lookup_history": [
+    "item:create_ironworks:copper_sword{Damage:0}",
+    "item:notreepunching:ceramic_bucket",
+    "item:minecraft:clay_ball",
+    "item:create:item_hatch",
+    "item:ceramicshears:clay_shears_part",
+    "item:ceramicshears:ceramic_shears_part",
+    "item:ceramicshears:ceramic_shears{Damage:0}"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [
+      "jei:/toolworking/cool_heated_heated_brass_ingot",
+      "jei:/toolworking/cool_heated_heated_gold_ingot",
+      "jei:/toolworking/steel_from_iron_dust",
+      "jei:/toolworking/cool_heated_heated_iron_ingot",
+      "jei:/toolworking/cool_heated_heated_copper_ingot",
+      "jei:/toolworking/cool_heated_heated_steel_ingot",
+      "minecraft:copper_ingot_from_smelting_raw_copper"
+    ],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": [
+    "item:minecraft:goat_horn{instrument:\"minecraft:sing_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:admire_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:feel_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:seek_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:dream_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:yearn_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:call_goat_horn\"}",
+    "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]},Tier:1}",
+    "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]},Tier:2}",
+    "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]},Tier:3}",
+    "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]},Tier:4}"
+  ]
+}

@@ -5,6 +5,7 @@ steel {
   items {
     "steel_ingot"
     "steel_block"
+    "steel_nugget"
   }
 }
 
@@ -23,14 +24,12 @@ farm_and_delight {
   }
 }
 
-// Because ironworks has nicer textures and compat with create
-tconstruct_to_ironworks {
-  from = "tconstruct"
+metallurgy_to_ironworks {
+  from = "createmetallurgy"
   to = "create_ironworks"
 
   items {
     "steel_ingot"
-    "steel_nugget"
     "steel_block"
   }
 }

@@ -1,0 +1,56 @@
+aquaculture {
+  ["arapaima"]         = "*"
+  ["atlantic_cod"]     = "*"
+  ["atlantic_halibut"] = "*"
+  ["atlantic_herring"] = "*"
+  ["bayad"]            = "*"
+  ["blackfish"]        = "*"
+  ["bluegill"]         = "*"
+  ["boulti"]           = "*"
+  ["brown_shrooma"]    = "*"
+  ["brown_trout"]      = "*"
+  ["capitaine"]        = "*"
+  ["carp"]             = "*"
+  ["catfish"]          = "*"
+  ["gar"]              = "*"
+  ["jellyfish"]        = "*"
+  ["minnow"]           = "*"
+  ["muskellunge"]      = "*"
+  ["pacific_halibut"]  = "*"
+  ["perch"]            = "*"
+  ["pink_salmon"]      = "*"
+  ["piranha"]          = "*"
+  ["pollock"]          = "*"
+  ["rainbow_trout"]    = "*"
+  ["red_grouper"]      = "*"
+  ["red_shrooma"]      = "*"
+  ["smallmouth_bass"]  = "*"
+  ["synodontis"]       = "*"
+  ["tambaqui"]         = "*"
+  ["tuna"]             = "*"
+}
+
+aquamirae {
+  ["spinefish"] = "*"
+  ["angler_fish"] = "*"
+}
+
+alexsmobs {
+  ["blobfish"] = "*"
+  ["flying_fish"] = "*"
+  ["cosmic_cod"] = "*"
+}
+
+cataclysm {
+  ["lionfish"] = "*"
+}
+
+crittersandcompanion {
+  ["koi_fish"] = "*"
+}
+
+alexscaves {
+  ["radgill"] = "*"
+  ["lanternfish"] = "*"
+  ["tripodfish"] = "*"
+}

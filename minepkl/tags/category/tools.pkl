@@ -1,0 +1,42 @@
+minecraft {
+  "#forge:tools/knives"
+  "#minecraft:axes"
+  "#forge:tools/axes"
+  "#minecraft:hoes"
+  "#forge:tools/hoes"
+  "#minecraft:shovels"
+  "#forge:tools/shovels"
+  "#minecraft:pickaxes"
+  "#forge:tools/pickaxes"
+}
+
+create {
+  "potato_cannon"
+  "extendo_grip"
+  "wand_of_symmetry"
+}
+
+notreepunching {
+  "flint_axe"
+  "flint_pickaxe"
+  "flint_hoe"
+  "flint_shovel"
+  "macuahuitl"
+
+  "iron_saw"
+  "gold_saw"
+  "diamond_saw"
+  "netherite_saw"
+}
+
+create_ironworks {
+  ...List(
+    "copper",
+    "gold",
+    "iron",
+    "bronze",
+    "brass",
+    "steel",
+    "netherite"
+  ).flatMap((m) -> List("\(m)_paxel", "\(m)_hammer"))
+}

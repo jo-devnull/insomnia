@@ -1,0 +1,34 @@
+notreepunching {
+  "notreepunching:iron_mattock"
+  "notreepunching:gold_mattock"
+  "notreepunching:diamond_mattock"
+  "notreepunching:flint_knife"
+  "notreepunching:iron_knife"
+  "notreepunching:gold_knife"
+  "notreepunching:diamond_knife"
+}
+
+samurai_dynasty {
+  "samurai_dynasty:steel_ingot_from_blasting_iron_ingot"
+  "samurai_dynasty:steel_ingot_create_compat"
+  "samurai_dynasty:steel_ingot_from_nugget"
+  "samurai_dynasty:steel_ingot"
+}
+
+create_ironworks {
+  "create_ironworks:materials/steel/crafting_ingot_from_block"
+  "create_ironworks:materials/alloys/from_crushed/mixing_steel_from_charcoal"
+  "create_ironworks:materials/alloys/from_crushed/mixing_steel_from_coal"
+  "create_ironworks:materials/alloys/from_ingots/mixing_steel_from_coal"
+  "create_ironworks:materials/alloys/from_ingots/mixing_steel_from_charcoal"
+
+  for (material in List("bronze", "brass", "steel")) {
+    "create_ironworks:compat/\(material)_hammer"
+    "create_ironworks:compat/\(material)_paxel"
+    "create_ironworks:compat/\(material)_pickaxe"
+    "create_ironworks:compat/\(material)_shovel"
+    "create_ironworks:compat/\(material)_axe"
+    "create_ironworks:compat/\(material)_hoe"
+    "create_ironworks:compat/\(material)_sword"
+  }
+}

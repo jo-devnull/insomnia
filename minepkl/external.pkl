@@ -1,5 +1,23 @@
+import "tags/category/@category.pkl" as categoryTags
 import "lib/utils.pkl" as utils
 import "misc/incontrol.pkl" as incontrol
+
+function buildEmi() = new Mapping<String, FileOutput> {
+  ["emi.json"] {
+    value {
+      hidden_stacks = utils.load("instance:emi.json")
+        .getOrNull("hidden_stacks")
+
+      favorites = new Listing {
+        for (tag in categoryTags.toMap().keys) {
+          new { stack = "#item:category:\(tag)" }
+        }
+      }
+    }
+
+    renderer = new JsonRenderer {}
+  }
+}
 
 function buildIncontrol() = new Mapping<String, FileOutput> {
   ["config/incontrol/spawn.json"] {
@@ -15,6 +33,7 @@ function buildIncontrol() = new Mapping<String, FileOutput> {
 
 output {
   files {
+    ...buildEmi()
     ...buildIncontrol()
   }
 }

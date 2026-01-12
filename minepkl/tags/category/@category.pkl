@@ -1,0 +1,161 @@
+workbench = new {
+  title = "Mesa de Trabalho"
+  icon = "minecraft:item/crafting_table"
+  mod = import("./workbench.pkl").toMap()
+}
+
+functional_blocks = new {
+  title = "Blocos Funcionais"
+  icon = "create:item/controls"
+  mod = import("./functional_blocks.pkl").toMap()
+}
+
+// Cooking
+
+cooking = new {
+  title = "Culinária"
+  icon = "farmersdelight:item/stove"
+  mod = import("./cooking.pkl").toMap()
+}
+
+foods = new {
+  title = "Comida"
+  icon = "create:item/honeyed_apple"
+  mod = import("./foods.pkl").toMap()
+}
+
+brewing = new {
+  title = "Bebidas & Poções"
+  icon = "minecraft:item/potion"
+  mod = import("./brewing.pkl").toMap()
+}
+
+medicine = new {
+  title = "Medicamentos"
+  icon = "marbledsfirstaid:item/medkit"
+  mod = import("./medicine.pkl").toMap()
+}
+
+// Tools
+
+misc = new {
+  title = "Miscelâneos"
+  icon = "redeco:item/hammer"
+  mod = import("./misc.pkl").toMap()
+}
+
+tools = new {
+  title = "Ferramentas"
+  icon = "kobolds:item/kobold_iron_pickaxe"
+  mod = import("./tools.pkl").toMap()
+}
+
+// Combat
+
+weapons = new {
+  title = "Armas Brancas"
+  icon = "aquamirae:item/fin_cutter"
+  mod = import("./weapons.pkl").toMap()
+}
+
+armor = new {
+  title = "Armadura"
+  icon = "deeperdarker:item/warden_chestplate"
+  mod = import("./armor.pkl").toMap()
+}
+
+// Magic
+
+enchanting = new {
+  title = "Encantamento"
+  icon = "minecraft:item/bookshelf"
+  mod = import("./enchanting.pkl").toMap()
+}
+
+witchcraft = new {
+  title = "Bruxaria"
+  icon = "irons_spellbooks:item/holy_upgrade_orb"
+  mod = import("./witchcraft.pkl").toMap()
+}
+
+// Decoration
+
+furniture = new {
+  title = "Mobília"
+  icon = "redeco:item/red_sofa"
+  mod = import("./furniture.pkl").toMap()
+}
+
+decoration = new {
+  title = "Decoração"
+  icon = "supplementaries:item/present_red"
+  mod = import("./decoration.pkl").toMap()
+}
+
+block_decoration = new {
+  title = "Blocos Decorativos"
+  icon = "minecraft:item/lime_stained_glass"
+  mod = import("./block_decoration.pkl").toMap()
+}
+
+storage = new {
+  title = "Armazenamento"
+  icon = "storagedrawers:item/oak_full_drawers_4"
+  mod = import("./storage.pkl").toMap()
+}
+
+// Professions
+
+engineering = new {
+  title = "Engenharia"
+  icon = "create:item/goggles"
+  mod = import("./engineering.pkl").toMap()
+}
+
+carpentry = new {
+  title = "Carpintaria"
+  icon = "ecologics:item/azalea_door"
+  mod = import("./carpentry.pkl").toMap()
+}
+
+masonry = new {
+  title = "Alvenaria"
+  icon = "minecraft:item/bricks"
+  mod = import("./masonry.pkl").toMap()
+}
+
+construction = new {
+  title = "Construção Industrial"
+  icon = "create:item/industrial_iron_block"
+  mod = import("./construction.pkl").toMap()
+}
+
+metalworking = new {
+  title = "Metalurgia"
+  icon = "createmetallurgy:item/foundry_basin"
+  mod = import("./metalworking.pkl").toMap()
+}
+
+farming = new {
+  title = "Agricultura"
+  icon = "farmersdelight:item/tomato"
+  mod = import("./farming.pkl").toMap()
+}
+
+archery = new {
+  title = "Arquearia"
+  icon  = "morebows:item/multi_bow"
+  mod   = import("./archery.pkl").toMap()
+}
+
+fishing = new {
+  title = "Pescaria"
+  icon = "aquaculture:item/iron_fishing_rod"
+  mod = import("./fishing.pkl").toMap()
+}
+
+transport = new {
+  title = "Transporte"
+  icon = "minecraft:item/minecart"
+  mod = import("./transport.pkl").toMap()
+}

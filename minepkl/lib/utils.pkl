@@ -40,14 +40,17 @@ function nameof(file: String) =
 function load(filename: String) =
   new json.Parser { useMapping = true }.parse(read(filename))
 
-function pathof(id: String) = id.split(":").last
-function namespaceof(id: String) = id.split(":").first
+function pathof(id: String) =
+  id.split(":").last
+
+function namespaceof(id: String) =
+  id.split(":").first
 
 function coolItemInWater(input: String, output: String) = new Recipe.LycheeItemInside {
   local name = pathof(input)
   local source = namespaceof(input)
 
-  id = "\(source):cool_\(name)"
+  id = "\(source):cool_heated_\(name)"
 
   item_in {
     item = input
@@ -90,3 +93,8 @@ function materialof(item: String) =
     "gold"
   else
     pathof(item).split("_").first
+
+function heatedpair(id) = new {
+  new { item = id }
+  new { item = "toolworking:heated_\(materialof(id))_ingot" }
+}

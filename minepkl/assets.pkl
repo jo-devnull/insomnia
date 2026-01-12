@@ -1,3 +1,50 @@
+import "tags/category/@category.pkl" as categoryTags
+
+const jsonRenderer = new JsonRenderer {}
+
+function buildLang() = new Mapping<String, FileOutput> {
+  ["category:lang/pt_br"] {
+    value {
+      for (key, tag in categoryTags.toMap()) {
+        ["tag.item.category.\(key)"] = tag.title
+      }
+    }
+    renderer = jsonRenderer
+  }
+}
+
+function buildTagModels() = new Mapping<String, FileOutput> {
+  for (key, tag in categoryTags.toMap()) {
+    ["category:models/tag/item/\(key)"] {
+      value { parent = tag.icon }
+      renderer = jsonRenderer
+    }
+  }
+}
+
+function buildAssets(mod) = new Mapping<String, FileOutput> {
+  for (location, val in mod.assets) {
+    [location] {
+      value = val
+      renderer = jsonRenderer
+    }
+  }
+}
+
+function buildEmi() = new Mapping<String, FileOutput> {
+  ["emi:index/stacks/hidden"] {
+    value {
+      removed = import("misc/emi.pkl").hiddenStacks
+    }
+
+    renderer = jsonRenderer
+  }
+}
+
 output {
-  files {}
+  files {
+    ...buildEmi()
+    ...buildLang()
+    ...buildTagModels()
+  }
 }
