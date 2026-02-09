@@ -1162,12 +1162,12 @@ metafile = true
 
 [[files]]
 file = "mods/mechanics/xaeros-minimap.pw.toml"
-hash = "06484f3167c69131ccce045f8a73354fa43f7feb1a6623ada5f94fe22e81f6f8"
+hash = "4d7afcc91346b1dea15dcb992cd5d4f0ae0c9be54bd39c018610e43c62987f0c"
 metafile = true
 
 [[files]]
 file = "mods/mechanics/xaeros-world-map.pw.toml"
-hash = "3d16d2efe0ceb0b803a6bcce7468182b6e7943cc9b9e4b3738c52c549796a49c"
+hash = "89fbb2cd8e2b575f7cc97d0808d3df60b1908482868240eed07bf7604ecb0c3c"
 metafile = true
 
 [[files]]
