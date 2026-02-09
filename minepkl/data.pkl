@@ -3,7 +3,7 @@ import "toolworking/toolworking.pkl"
 import "misc/fishing.pkl"
 import "tags/misc.pkl" as tags
 import* "recipes/*.pkl" as recipes
-import "misc/replace.pkl" as replacements
+import "misc/replace.pkl"
 import "tags/category/@category.pkl" as categoryTags
 
 const jsonRenderer = new JsonRenderer {}
@@ -63,18 +63,11 @@ function buildTags() = new Mapping<String, FileOutput> {
 function buildReplacements() = new Mapping<String, FileOutput> {
   ["oei:replacements/mod_replacements"] {
     value {
-      for (key, val in replacements.toMap()) {
-        for (item in val.items) {
-          when (item is String) {
-            new {
-              matchItems { "\(val.from):\(item)" }
-              resultItems = "\(val.to):\(item)"
-            }
-          } else {
-            new {
-              matchItems { "\(val.from):\(item[0])" }
-              resultItems = "\(val.to):\(item[1])"
-            }
+      for (mod, rules in replace.toMap()) {
+        for (item, inputs in rules) {
+          new {
+            matchItems = inputs
+            resultItems = "\(mod):\(item)"
           }
         }
       }

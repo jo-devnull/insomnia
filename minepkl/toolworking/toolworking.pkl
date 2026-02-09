@@ -1,4 +1,6 @@
-import "recipes.pkl"
+import "tags.pkl"
+import "recipes/misc.pkl"
+import "recipes/smelting.pkl"
 
 function res(path) = "toolworking:\(path)"
 
@@ -13,6 +15,17 @@ function buildRecipes(object) = new Mapping<String, FileOutput> {
   }
 }
 
+function buildTags(tags) = new Mapping<String, FileOutput> {
+  for (name, items in tags.toMap()) {
+    ["toolworking:tags/items/\(name)"] {
+      value { values = items }
+      renderer = new JsonRenderer {}
+    }
+  }
+}
+
 function build() = new Mapping<String, FileOutput> {
-  ...buildRecipes(recipes)
+  ...buildTags(tags)
+  ...buildRecipes(misc)
+  ...buildRecipes(smelting)
 }

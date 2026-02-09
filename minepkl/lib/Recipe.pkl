@@ -56,6 +56,13 @@ class LycheeItemInside extends Recipe {
   post     : Listing<unknown> = new {}
 }
 
+class LycheeBlockInteract extends Recipe {
+  type = "lychee:block_interacting"
+  item_in  : unknown = new {}
+  block_in : unknown = new {}
+  post     : Listing<unknown> = new {}
+}
+
 class CreateMixing extends Recipe {
   type = "create:mixing"
   heatRequirement : "heated" | "superheated" | "none" = "none"
@@ -85,10 +92,31 @@ class CastingInTable extends Recipe {
 
 class Melting extends Recipe {
   type = "createmetallurgy:melting"
-  heatRequirement : "heated" | "superheated" | "none" = "none"
+  heatRequirement : "lowheated" | "heated" | "superheated" | "none" = "none"
   processingTime  : Number = 60
   ingredients     : Listing<unknown> = new {}
   results         : Listing<unknown> = new {}
+}
+
+class Cutting extends Recipe {
+  type = "farmersdelight:cutting"
+  ingredients : Listing<unknown> = new {}
+  result      : Listing<unknown> = new {}
+  tool        : unknown = new {}
+}
+
+class SandpaperPolishing extends Recipe {
+  type = "create:sandpaper_polishing"
+  ingredients : Listing<unknown> = new {}
+  results     : Listing<unknown> = new {}
+}
+
+class CastingInBasin extends Recipe {
+  type = "createmetallurgy:casting_in_basin"
+  ingredients    : Listing<unknown> = new {}
+  mold_consumed  : Boolean = false
+  processingTime : Number = 80
+  result         : unknown = new {}
 }
 
 function empty(name): Empty = new { id = name }

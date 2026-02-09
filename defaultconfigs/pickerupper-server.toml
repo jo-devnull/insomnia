@@ -1,0 +1,6 @@
+#A list of blocks that can be picked up by hand. Supports blockstates and block tags as well!
+#Formatted as: "modid:block" or "#modid:block_tag" or "modid:block[property=value, property=value]" or "#modid:block_tag[property=value, property=value]"
+pickUpBlocks = ["minecraft:torch", "minecraft:wall_torch", "minecraft:redstone_torch", "minecraft:redstone_wall_torch", "minecraft:soul_torch", "minecraft:soul_wall_torch", "minecraft:lantern[hanging=false]", "minecraft:soul_lantern[hanging=false]", "#minecraft:candles[candles=1]", "#minecraft:small_flowers", "minecraft:flower_pot", "minecraft:fern", "minecraft:dead_bush", "minecraft:brown_mushroom", "minecraft:red_mushroom", "minecraft:crimson_fungus", "minecraft:warped_fungus", "minecraft:sea_pickle[pickles=1]", "#minecraft:corals", "#minecraft:wall_corals", "minecraft:turtle_egg[eggs=1]", "#c:can_pick_up"]
+#Determines if the player needs to sneak to pick up the block.
+needsToCrouch = false
+

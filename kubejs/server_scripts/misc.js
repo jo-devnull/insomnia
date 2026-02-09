@@ -15,8 +15,8 @@ ServerEvents.tags("block", event => {
     event.remove(needsIronTool, "minecraft:deepslate_gold_ore")
     event.remove(needsStoneTool, "iron_ore")
     event.remove(needsStoneTool, "deepslate_iron_ore")
+    event.add("c:can_pick_up", "#notreepunching:pottery")
 })
-
 
 ServerEvents.tags("item", event => {
     event.add("notreepunching:weak_saws", "#minecraft:axes")
@@ -30,4 +30,5 @@ ServerEvents.tags("item", event => {
 
     event.add("forge:ingots", "create_ironworks:tin_ingot")
     event.add("forge:plates", "create_ironworks:tin_sheet")
+    event.add("c:can_pick_up", "#notreepunching:pottery")
 })

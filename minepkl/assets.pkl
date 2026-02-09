@@ -1,3 +1,4 @@
+import "misc/emi.pkl"
 import "tags/category/@category.pkl" as categoryTags
 
 const jsonRenderer = new JsonRenderer {}
@@ -9,6 +10,14 @@ function buildLang() = new Mapping<String, FileOutput> {
         ["tag.item.category.\(key)"] = tag.title
       }
     }
+    renderer = jsonRenderer
+  }
+
+  ["createlowheated:lang/pt_br"] {
+    value {
+      ["create.recipe.heat_requirement.lowheated"] = "Baixa Temp."
+    }
+
     renderer = jsonRenderer
   }
 }
@@ -32,9 +41,13 @@ function buildAssets(mod) = new Mapping<String, FileOutput> {
 }
 
 function buildEmi() = new Mapping<String, FileOutput> {
-  ["emi:index/stacks/hidden"] {
+  ["emi:recipe/filters/hidden_recipes"] {
     value {
-      removed = import("misc/emi.pkl").hiddenStacks
+      filters {
+        for (recipeType in emi.hiddenRecipeTypes) {
+          new { category = recipeType }
+        }
+      }
     }
 
     renderer = jsonRenderer

@@ -1,0 +1,13 @@
+hammers {
+  "redeco:hammer"
+  "handcrafted:hammer"
+  "createdieselgenerators:hammer"
+  "clanginghowl:extraterrestrial_hammer"
+  "create_ironworks:copper_hammer"
+  "create_ironworks:bronze_hammer"
+  "create_ironworks:brass_hammer"
+  "create_ironworks:gold_hammer"
+  "create_ironworks:iron_hammer"
+  "create_ironworks:steel_hammer"
+  "create_ironworks:diamond_hammer"
+}

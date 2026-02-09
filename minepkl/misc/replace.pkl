@@ -1,35 +1,43 @@
-steel {
-  from = "samurai_dynasty"
-  to = "create_ironworks"
+create_ironworks {
+  ["steel_ingot"] {
+    "samurai_dynasty:steel_ingot"
+    "createmetallurgy:steel_ingot"
+  }
 
-  items {
-    "steel_ingot"
-    "steel_block"
-    "steel_nugget"
+  ["steel_block"] {
+    "samurai_dynasty:steel_block"
+    "createmetallurgy:steel_block"
+  }
+
+  ["steel_nugget"] {
+    "samurai_dynasty:steel_nugget"
   }
 }
 
-farm_and_delight {
-  from = "farm_and_charm"
-  to = "farmersdelight"
+farmersdelight {
+  ["onion"] {
+    "farm_and_charm:onion"
+  }
 
-  items {
-    "onion"
-    "tomato"
-    "rotten_tomato"
-    "tomato_seeds"
+  ["onion_crate"] {
+    "farm_and_charm:onion_bag"
+  }
 
-    new { "onion_bag" "onion_crate" }
-    new { "tomato_bag" "tomato_crate" }
+  ["tomato_crate"] {
+    "farm_and_charm:tomato_bag"
+  }
+
+  ["rotten_tomato"] {
+    "farm_and_charm:rotten_tomato"
+  }
+
+  ["tomato_seeds"] {
+    "farm_and_charm:tomato_seeds"
   }
 }
 
-metallurgy_to_ironworks {
-  from = "createmetallurgy"
-  to = "create_ironworks"
-
-  items {
-    "steel_ingot"
-    "steel_block"
+create {
+  ["crushed_raw_tin"] {
+    "create_ironworks:crushed_raw_tin"
   }
 }

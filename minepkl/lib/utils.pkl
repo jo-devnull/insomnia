@@ -34,6 +34,9 @@ const VanillaWood = List(
   "warped"
 )
 
+function toJSON(object) =
+  new JsonRenderer {}.renderDocument(object)
+
 function nameof(file: String) =
   file.split("/").last.replaceAll(".pkl", "")
 

@@ -1,0 +1,95 @@
+import ".../lib/utils.pkl"
+import ".../lib/Recipe.pkl"
+
+crafting {
+  new Recipe.Shapeless {
+    id = "create:crafting/logistics/item_hatch"
+
+    ingredients {
+      new { item = "create:andesite_alloy" }
+      new { tag = "minecraft:trapdoors" }
+    }
+
+    result {
+      item = "create:item_hatch"
+    }
+  }
+
+  new Recipe.Shapeless {
+    id = "toolworking:refractory_mortar"
+    ingredients {
+      new {
+        new { item = "minecraft:water_bucket" }
+        new { item = "notreepunching:ceramic_water_bucket" }
+      }
+      new { tag = "forge:sand" }
+      new { item = "minecraft:clay_ball" }
+    }
+    result {
+      item = "createmetallurgy:refractory_mortar"
+    }
+  }
+
+  new Recipe.Shapeless {
+    id = "toolworking:ingot_clay_mold"
+    ingredients {
+      new { tag = "forge:ingots" }
+      new { item = "createmetallurgy:refractory_mortar" }
+    }
+    result {
+      item = "toolworking:ingot_clay_mold"
+    }
+  }
+
+  new Recipe.Shaped {
+    id = "createlowheated:basic_burner"
+    pattern { "===" "= =" "#_#" }
+    key {
+      ["="] { item = "minecraft:brick" }
+      ["#"] { tag = "minecraft:stone_tool_materials" }
+      ["_"] { item = "createmetallurgy:refractory_mortar" }
+    }
+    result {
+      item = "createlowheated:basic_burner"
+    }
+  }
+}
+
+cutting {
+  new Recipe.Cutting {
+    id = "toolworking:cutting/graphite_ingot_mold_with_knife"
+
+    tool {
+      tag = "farmersdelight:tools/knives"
+    }
+
+    ingredients {
+      new { item = "createmetallurgy:graphite_blank_mold" }
+    }
+
+    result {
+      new { item = "createmetallurgy:graphite_ingot_mold" }
+    }
+  }
+}
+
+crushing {
+  crushing("createmetallurgy:graphite", "createmetallurgy:graphite_blank_mold")
+  crushing("createmetallurgy:raw_wolframite", "createmetallurgy:crushed_raw_wolframite")
+}
+
+local function crushing(input, output) = new Recipe.Cutting {
+  id = "toolworking:cutting/crushing/\(utils.pathof(output))"
+
+  tool {
+    tag = "toolworking:hammers"
+  }
+
+  ingredients {
+    new { item = input }
+  }
+
+  result {
+    new { item = output }
+  }
+}

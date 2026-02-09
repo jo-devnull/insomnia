@@ -32,3 +32,8 @@ create_ironworks {
     "create_ironworks:compat/\(material)_sword"
   }
 }
+
+create {
+  "create:blasting/iron_ingot_from_crushed"
+  "create:blasting/gold_ingot_from_crushed"
+}

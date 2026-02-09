@@ -237,6 +237,10 @@ file = "defaultconfigs/hourglass-server.toml"
 hash = "43e45a88286d8aa87e0681915d1f2147cb6ea79f75c1c6428161ed16e3e4705e"
 
 [[files]]
+file = "defaultconfigs/pickerupper-server.toml"
+hash = "2eb6f5476d74fd27a4cd765e7579fc33ef303355dab8fe3557a70dc917d97ab1"
+
+[[files]]
 file = "defaultconfigs/travelersbackpack-server.toml"
 hash = "007f670b9f039f82f9803799d8b7267533086d3403727fceb162529b3c45c2e4"
 
@@ -250,7 +254,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "229f3f0dfb3563bc7e73874b6aaff7238847ede057c51455a88ca68b10cd462b"
+hash = "422f23f2dddaa492f7610b3b3a4cd1276498ee37684d3e78e13346a7fad296ff"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -274,11 +278,11 @@ hash = "9c0e7b209d4dfb880001427452677b2b4d8b347c91b1b824fc2cd346d7ed4894"
 
 [[files]]
 file = "kubejs/server_scripts/misc.js"
-hash = "cef6e9025abf0694e4f3baf9cc0e183639613003569db7ccc93f424565926d64"
+hash = "80f94c08f1cf500b910171a929460c2168aa118cc21a2030e7cbe52400de5bf0"
 
 [[files]]
 file = "kubejs/server_scripts/toolworking.js"
-hash = "96fa99290e5c1cef1b401028ebf6d15a0b16c1e22f2b063986a108543441f8eb"
+hash = "830ba24003d0b1bfb66de64271994c50871abbaff25de3a951187744a10db975"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -286,11 +290,11 @@ hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
 file = "minepkl/assets.pkl"
-hash = "80b399fe67f52dd3b33708468429a41981123aac34690062c7a243263e269eb9"
+hash = "e0313738cb10d0b34bcc22621ea1b35710ae4581e325a02c0c36b04613837b84"
 
 [[files]]
 file = "minepkl/data.pkl"
-hash = "9791c234962ec4179c09df07a79433c75c4a47772926ef34872bb69c7cc2d259"
+hash = "b5c281263da89b2dfa5ea5953ebe8199ef3a9b2fa8fd93992660d87462d31b44"
 
 [[files]]
 file = "minepkl/external.pkl"
@@ -298,15 +302,15 @@ hash = "82477dfec8eb72f5ba0cd4afe91bab8a8119bf5a894438061aa9b4d81b8cd4cc"
 
 [[files]]
 file = "minepkl/lib/Recipe.pkl"
-hash = "76d46f9b1b25e73f9dd326500a774c6f5cc606b602eb71aa7a1a714abf523431"
+hash = "feaad351bffe7bb5ce8074f4c92f5ebf34a0aa1e4eba0fca6d51c9d5754f0af5"
 
 [[files]]
 file = "minepkl/lib/utils.pkl"
-hash = "0dd3575c2b858be5bc04d75cedb7c05691cd058651c8168a9b7843fa81a8a5b1"
+hash = "0da7320b0bc5349a75dc79b6321690d0484f7012de1d836dfa5ef3f22c6a4a5f"
 
 [[files]]
 file = "minepkl/misc/emi.pkl"
-hash = "6510ccd0551790182e04c6552a20ca056bca1f141201a4357132235db0f039f4"
+hash = "c20bb784062516f1d1724d9e023d9eb2268aca05e705576c63aa27c3a5604bc7"
 
 [[files]]
 file = "minepkl/misc/fishing.pkl"
@@ -318,7 +322,7 @@ hash = "6fda1154ffe6f32f6f5a8813e8b72c6e3ad00c40562d34930fd6bf4800ac75ec"
 
 [[files]]
 file = "minepkl/misc/replace.pkl"
-hash = "34a87b7497cd4f7a0d2290f5592ec3f2683885ba3ec721ca74bc039e6eb935cc"
+hash = "d6b7e72202a83579eafa8729e5a55f1d301ce0df809f5cd2fa0ed4c00fd54f4e"
 
 [[files]]
 file = "minepkl/recipes/compat.pkl"
@@ -330,7 +334,7 @@ hash = "86345040ce6ab47300848b49734912c0dd85fabf52852bd7d6add7c3fc84d888"
 
 [[files]]
 file = "minepkl/recipes/remove.pkl"
-hash = "3102cc7e63d3e8c51477df0d9a383b0d2e636c1c18046bb3e3ab9c8c5b03e49b"
+hash = "d72e230cda2639786ae899e3fb1eee53319f54535c1f67877f55333f38e9f8a7"
 
 [[files]]
 file = "minepkl/tags/category/@category.pkl"
@@ -441,12 +445,20 @@ file = "minepkl/tags/misc.pkl"
 hash = "a803e6fb2a867b9fb0c5d232a86b4bdfff07bc642a92f72cff0a88650bdcea50"
 
 [[files]]
-file = "minepkl/toolworking/recipes.pkl"
-hash = "22e66ba79b21910e8074c58e05f80b787c61af0a5809e689b9de17f29b6bfa33"
+file = "minepkl/toolworking/recipes/misc.pkl"
+hash = "d751cf3469f83589001fea72d12a5fdf8f89e69d26166f9e144077ae069d4eb6"
+
+[[files]]
+file = "minepkl/toolworking/recipes/smelting.pkl"
+hash = "292f7492b1de26ea5a80c7c9e2ee2886be89b456805982e35a737102a70dcaa4"
+
+[[files]]
+file = "minepkl/toolworking/tags.pkl"
+hash = "da3aeb76044a917af4830348bdc8403c9bbab21cca06bba83b2043b830470b2e"
 
 [[files]]
 file = "minepkl/toolworking/toolworking.pkl"
-hash = "669b8a96a4f9c2af15bc051f02123ec5d8c23dadadbc1e74b0a3b65e68d022a0"
+hash = "7820049a1ff995205eef4ad8dcf56d76d7344d2fa3dabaf4a787c8ef69e3f612"
 
 [[files]]
 file = "mods/cooking/brewin-and-chewin.pw.toml"
@@ -756,6 +768,16 @@ metafile = true
 [[files]]
 file = "mods/dependency/framework.pw.toml"
 hash = "0cffc76ec37d7aebf4fcb3d8262ce2042205e6cd664d513940ec17a7b8f519ea"
+metafile = true
+
+[[files]]
+file = "mods/dependency/ftb-library-forge.pw.toml"
+hash = "67a2642d4721b75912839e7158bfc64e753c4a02b417f2201f1f40831f6b89a7"
+metafile = true
+
+[[files]]
+file = "mods/dependency/ftb-teams-forge.pw.toml"
+hash = "5110405b4f5c170472d72960d9cc345a0c28d5f09ba5f030c92dc75837f12002"
 metafile = true
 
 [[files]]
@@ -1229,6 +1251,11 @@ hash = "02d1a4e4921454ab63a7f02b6d4813bfa8b23775de4b6b5971d16a5a0615e7fe"
 metafile = true
 
 [[files]]
+file = "mods/misc/ftb-quests-forge.pw.toml"
+hash = "73fea2db5ef7ebd5512351ba81b714410e3c60d4ffcefcb48bc84a41d12b2d0a"
+metafile = true
+
+[[files]]
 file = "mods/misc/horseman.pw.toml"
 hash = "b3b7a8aac2920dcd77656aa6a9ddd7350d825db686007025b1af714e4e0b0138"
 metafile = true
@@ -1510,7 +1537,7 @@ metafile = true
 
 [[files]]
 file = "mods/mobs/saints-dragons.pw.toml"
-hash = "e47ef8233f6432c769f3d1d97aa8816109ff0739204e048c1ea00e6197ba7681"
+hash = "6df0cefbeff5120edb3d6231517d52e06f9b75baa86eba6210ceb7f980b5b897"
 metafile = true
 
 [[files]]
@@ -1760,7 +1787,7 @@ metafile = true
 
 [[files]]
 file = "mods/technology/create-toolworking.pw.toml"
-hash = "c0b499b437cc8870c0d4aa614581a3e226a12e60609f3a991c984c9f91c775df"
+hash = "1a9d10fb1ab0652290ce2a045046b70065ec023cc6737ab73402d0361ec4d502"
 metafile = true
 
 [[files]]
@@ -1814,6 +1841,11 @@ hash = "7b153ce3599bf752f8a77d8a3567c3876fbeae0cfeed050e0b86b8022271437a"
 metafile = true
 
 [[files]]
+file = "mods/utilities/certain-questing-additions.pw.toml"
+hash = "ef1828d4472b167700becd12438c0f38a1ab9c13317ea1b7104ddc2487d4e2bb"
+metafile = true
+
+[[files]]
 file = "mods/utilities/client-tweaks.pw.toml"
 hash = "73ee103f26f12e0690beb9c2da52f8637d4b3d557885b3f409e91334cc28c9fe"
 metafile = true
@@ -1829,8 +1861,23 @@ hash = "b60a704def5b23aed6139adcd5ab9b467fdfcb791bb98807555575c7e9aadac1"
 metafile = true
 
 [[files]]
+file = "mods/utilities/emi-backport.pw.toml"
+hash = "1d187fa190bbda48c3d91149302499596f4718e061e3c27cfc0fcf94231e2183"
+metafile = true
+
+[[files]]
 file = "mods/utilities/emi.pw.toml"
 hash = "3f60f75ca887ddd610a546cc652551a97a70bd07431b9db70e73e77fa6c37d3b"
+metafile = true
+
+[[files]]
+file = "mods/utilities/ftb-filter-system.pw.toml"
+hash = "bb3657ad6a5ed2c7b690270085b136246294d3ed4670ffa38488f6dbb0667da6"
+metafile = true
+
+[[files]]
+file = "mods/utilities/ftb-xmod-compat.pw.toml"
+hash = "e6aa1b63dd24d7b8d77906a79cf1f9461e3ebc59a971b47200435befd5d32678"
 metafile = true
 
 [[files]]
@@ -2004,7 +2051,7 @@ hash = "0b51c1a0f0f9981c20e2bd08e24faf7679e5492df1cbca2801ea992e3a854375"
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "40b667fdeb2ad967e2670c7de1ea13181b9f7f46deb10b6db102962bdfd1d520"
+hash = "ffdc802aa30ca3653ddc1856d70df224ae04663d1dd33110f730233b5d605788"
 
 [[files]]
 file = "resourcepacks/@integrated/assets/emi/textures/gui/background.png"

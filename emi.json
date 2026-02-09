@@ -77,24 +77,43 @@
     }
   ],
   "lookup_history": [
-    "item:create_ironworks:copper_sword{Damage:0}",
-    "item:notreepunching:ceramic_bucket",
-    "item:minecraft:clay_ball",
-    "item:create:item_hatch",
-    "item:ceramicshears:clay_shears_part",
-    "item:ceramicshears:ceramic_shears_part",
-    "item:ceramicshears:ceramic_shears{Damage:0}"
+    {
+      "type": "fluid",
+      "id": "createmetallurgy:molten_iron",
+      "amount": 90
+    },
+    "item:minecraft:iron_ingot",
+    {
+      "type": "fluid",
+      "id": "createmetallurgy:molten_bronze",
+      "amount": 90
+    },
+    "item:create_ironworks:bronze_ingot",
+    {
+      "type": "fluid",
+      "id": "createmetallurgy:molten_brass",
+      "amount": 90
+    },
+    "item:create:brass_ingot",
+    {
+      "type": "fluid",
+      "id": "toolworking:molten_glass",
+      "amount": 810
+    },
+    "item:minecraft:glass",
+    {
+      "type": "fluid",
+      "id": "createmetallurgy:molten_copper",
+      "amount": 90
+    },
+    "item:minecraft:copper_ingot",
+    "item:minecraft:shulker_shell"
   ],
   "craft_history": [],
   "recipe_defaults": {
     "added": [
-      "jei:/toolworking/cool_heated_heated_brass_ingot",
-      "jei:/toolworking/cool_heated_heated_gold_ingot",
-      "jei:/toolworking/steel_from_iron_dust",
-      "jei:/toolworking/cool_heated_heated_iron_ingot",
-      "jei:/toolworking/cool_heated_heated_copper_ingot",
-      "jei:/toolworking/cool_heated_heated_steel_ingot",
-      "minecraft:copper_ingot_from_smelting_raw_copper"
+      "create:smelting/zinc_ingot_from_raw_ore",
+      "jei:/toolworking/steel_from_iron_dust"
     ],
     "tags": {},
     "resolutions": {},
