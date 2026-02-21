@@ -32,3 +32,7 @@ ServerEvents.tags("item", event => {
     event.add("forge:plates", "create_ironworks:tin_sheet")
     event.add("c:can_pick_up", "#notreepunching:pottery")
 })
+
+// ServerEvents.recipes(event => {
+//     event.replaceInput()
+// })

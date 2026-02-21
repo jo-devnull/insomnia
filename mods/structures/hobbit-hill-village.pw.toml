@@ -1,0 +1,13 @@
+name = "Lios Hobbit Hill Village"
+filename = "../hobbit_hill_village-0.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3ebc590bcf1c2cdda6126401e78c2af33c2374b7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7527381
+project-id = 1280129

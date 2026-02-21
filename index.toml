@@ -29,6 +29,10 @@ file = "config/emi.css"
 hash = "19edbcdaafacdb6ce897f2f86147b838b3eae1aac4136425c8c6a54b1df06e89"
 
 [[files]]
+file = "config/emixx/emixx-client.toml"
+hash = "4a9bb6b712909f6141115dbbe96318f14a9a074f5d1513d554ecd1434cab4403"
+
+[[files]]
 file = "config/enhancedai/Mobs/Break Anger/break_anger_config.json"
 hash = "1ef8dc64a4aead2829923f15a78907e94b33ffb70471416fac0b50c10b14165c"
 
@@ -105,6 +109,66 @@ file = "config/thirst/keyword.toml"
 hash = "c819bc219330aa57f7cba0c704af5781300514f03e0d21aa86754e779c780731"
 
 [[files]]
+file = "config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+
+[[files]]
+file = "config/xaero/lib/common.cfg"
+hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+
+[[files]]
+file = "config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+
+[[files]]
+file = "config/xaero/lib/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+hash = "e8990cb245f6f13cafebfa3e538cb09a706cc35be7b3e92a39334fa295c877f9"
+
+[[files]]
+file = "config/xaero/minimap/common.cfg"
+hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_client.json"
+hash = "e8705b837c4e825c3fa33c528d116b93b3bd96beb6ac3552c25f09a0c90b7f2d"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_server.json"
+hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "b906123f55a19a7dedbd8e8b9bbd864f2900388b08f1de5993177be40c5cc766"
+
+[[files]]
+file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+
+[[files]]
+file = "config/xaero/minimap/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "706466efafa9f82cf95acd57f27908f7f79abfb59ad86331ce0cfd8fe71314c5"
+
+[[files]]
+file = "config/xaero/world-map/common.cfg"
+hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+
+[[files]]
+file = "config/xaero/world-map/profiles/default.cfg"
+hash = "5c65fa9d2bb8f686032f8774940b3895daf033b98c4c44414f18f204000c3169"
+
+[[files]]
+file = "config/xaero/world-map/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
 file = "config/xaerominimap-common.txt"
 hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
@@ -115,6 +179,10 @@ hash = "9f4afef6c3307c3b418d9b897b912c7cbd33eacbceafd3a78c5f1abafc77f4b8"
 [[files]]
 file = "config/xaerominimap_entities.json"
 hash = "00d923a6ad25fa75c70bf6f5e91da9aa5dd15b9deb11f9e8c6be5560c7559126"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt"
@@ -254,7 +322,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "422f23f2dddaa492f7610b3b3a4cd1276498ee37684d3e78e13346a7fad296ff"
+hash = "ae27ea55488c628b3bc4d4d2811b54a7dca8ea237d43f7cd5660f37758241f41"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -278,7 +346,7 @@ hash = "9c0e7b209d4dfb880001427452677b2b4d8b347c91b1b824fc2cd346d7ed4894"
 
 [[files]]
 file = "kubejs/server_scripts/misc.js"
-hash = "80f94c08f1cf500b910171a929460c2168aa118cc21a2030e7cbe52400de5bf0"
+hash = "88ee956e1640f2822dec37c26b838ef4fb7304d18dc48e4ffd93ab58d64bccc7"
 
 [[files]]
 file = "kubejs/server_scripts/toolworking.js"
@@ -676,6 +744,11 @@ hash = "47ecb4300f32a6ec1dab556547601d6d343b702e60c0d44723458be401081945"
 metafile = true
 
 [[files]]
+file = "mods/dependency/bookshelf.pw.toml"
+hash = "be1d01b5acc77acdad08f825cffd40c0884a5dfdafba86fc539a39c0695ae8a6"
+metafile = true
+
+[[files]]
 file = "mods/dependency/bots-lib.pw.toml"
 hash = "3ffe175792af6932da12208cf32401fe761081b6f9640efa6ed9b9c1f823fc09"
 metafile = true
@@ -767,7 +840,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/framework.pw.toml"
-hash = "0cffc76ec37d7aebf4fcb3d8262ce2042205e6cd664d513940ec17a7b8f519ea"
+hash = "0ec98e1b88b0c5ecdd83d732d38537fa24a1f21575ce68fff14f96c8c1e87b58"
 metafile = true
 
 [[files]]
@@ -871,6 +944,11 @@ hash = "c535cab59845bd9fcb5b5bb3030c0f65389c0f8294f47a9d46af85dc45981e64"
 metafile = true
 
 [[files]]
+file = "mods/dependency/pehkui.pw.toml"
+hash = "82fe8b0dc1505e67fc70d36cb530f495312c2f16d083c025cf07d74ad5383e3f"
+metafile = true
+
+[[files]]
 file = "mods/dependency/petrolpark.pw.toml"
 hash = "90bc4698e5e586b7580ba40eae70c5138fce14e77a791bb200180a6ac67c2e0c"
 metafile = true
@@ -956,6 +1034,11 @@ hash = "fd650f5832f020f6dcdf4c7af6bc123278bc235d06c8cb1bcf08a5dc342c6327"
 metafile = true
 
 [[files]]
+file = "mods/equipment/backpacked.pw.toml"
+hash = "2ead34b967c8901a385019b6ad2d4c8bd07a413a74c2a956c3e522561eb4cff7"
+metafile = true
+
+[[files]]
 file = "mods/equipment/ceramic-shears.pw.toml"
 hash = "1f3aee9850d7de0c0c13630911678e86c4ea91ada0e687cc03cb3a26bfc3956a"
 metafile = true
@@ -1013,11 +1096,6 @@ metafile = true
 [[files]]
 file = "mods/equipment/tool-belt.pw.toml"
 hash = "e3c9f7b2fa7cf8f6dd20ad1bbcd56fac72d3f45a8b5d5d0a982f526201bc7130"
-metafile = true
-
-[[files]]
-file = "mods/equipment/travelersbackpack.pw.toml"
-hash = "4a8c9403d87a01c6eb44b8d276a02d468ce1b04cd7b5f4f0d1b1260126c9f5e5"
 metafile = true
 
 [[files]]
@@ -1491,6 +1569,11 @@ hash = "17548a209807707e200723c146425a469d12f7cc9b4ed511d2cdd8fe44fb4ef2"
 metafile = true
 
 [[files]]
+file = "mods/mobs/herd-mentality.pw.toml"
+hash = "eeffd8b0a890f38bdb0d64da94f27c686551c99a31a7bee770757d8878a2067c"
+metafile = true
+
+[[files]]
 file = "mods/mobs/kobolds.pw.toml"
 hash = "e9f17f9c45f5f599dec6f14c141a519a63a49691066b999d31274feb3b23257a"
 metafile = true
@@ -1531,11 +1614,6 @@ hash = "f57a709135c703ddfde46802549c8aa4e961012b3088bfee527702fb9c296386"
 metafile = true
 
 [[files]]
-file = "mods/mobs/primal-frontier.pw.toml"
-hash = "4e99ac0c76a07ae1f27ca4437752e4901b06b2b5a505ddcd8ca74723c5f73db4"
-metafile = true
-
-[[files]]
 file = "mods/mobs/saints-dragons.pw.toml"
 hash = "6df0cefbeff5120edb3d6231517d52e06f9b75baa86eba6210ceb7f980b5b897"
 metafile = true
@@ -1553,6 +1631,11 @@ metafile = true
 [[files]]
 file = "mods/mobs/upgrade-aquatic.pw.toml"
 hash = "81838ae43efce3256f39e522e804d1edb5b4df3d2fe1c73a0dbc663f2366f579"
+metafile = true
+
+[[files]]
+file = "mods/mobs/xenomorph-types.pw.toml"
+hash = "c468b06e9170a677a46d928bca66a8472820f08038d4130f81db7458b225ee73"
 metafile = true
 
 [[files]]
@@ -1701,6 +1784,11 @@ hash = "ea43aae874f34134e888ec650aef2f5df308f88a2bd2a8b99becbc85384673cd"
 metafile = true
 
 [[files]]
+file = "mods/structures/hobbit-hill-village.pw.toml"
+hash = "46bbcbd04d2d5dc077258ccffb85241121eeb3ab2fbf4bfcc716e43c77dbef1d"
+metafile = true
+
+[[files]]
 file = "mods/structures/hobbit-house.pw.toml"
 hash = "09ddcfebc37184220cef9ff78b185614a5f6aa818d617d054726f58507fe3ef4"
 metafile = true
@@ -1711,13 +1799,13 @@ hash = "b093b72996d25d5b617971b58f3a4dc58d574cb95f84ce267dd23e23d4690f5e"
 metafile = true
 
 [[files]]
-file = "mods/structures/sawmill-house.pw.toml"
-hash = "2acbd576cb89f951ff8257386702a005c8f6061584c0ba33d594a5f73d6b4536"
+file = "mods/structures/improved-village-placement.pw.toml"
+hash = "a9ced66462c54dfed6aad1fc1e9677535ad8fe362900bf345263cf98b11ae47f"
 metafile = true
 
 [[files]]
-file = "mods/structures/simply-houses.pw.toml"
-hash = "b2cef172c837758e7276f71392b9e40e512bc074dc8ff08af0f28a52dbca6388"
+file = "mods/structures/sawmill-house.pw.toml"
+hash = "2acbd576cb89f951ff8257386702a005c8f6061584c0ba33d594a5f73d6b4536"
 metafile = true
 
 [[files]]
@@ -1868,6 +1956,11 @@ metafile = true
 [[files]]
 file = "mods/utilities/emi.pw.toml"
 hash = "3f60f75ca887ddd610a546cc652551a97a70bd07431b9db70e73e77fa6c37d3b"
+metafile = true
+
+[[files]]
+file = "mods/utilities/extreme-sound-muffler.pw.toml"
+hash = "2ae536e85f5ab4cdb02d9366d372e3231259dcf6a48f64afb48f5d4497cf017b"
 metafile = true
 
 [[files]]
@@ -2047,7 +2140,8 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0b51c1a0f0f9981c20e2bd08e24faf7679e5492df1cbca2801ea992e3a854375"
+hash = "685948bd93df05bef344472e857596cba755d566b1dd63733cf4b89e5398b8f1"
+preserve = true
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
