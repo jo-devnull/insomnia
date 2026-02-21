@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/alexsmobsinteraction-client.toml"
-hash = "c6d5e83a56e7d7f611abb1c47ce59f1b96c6a18a3d6f49ca1f6365a48c0dd5f2"
+hash = "021faa38625a6013550a1d99e311170fb89e54206cd5768f3b1f6297a61c5c7e"
 
 [[files]]
 file = "config/almostunified/unify.json"
@@ -14,19 +14,19 @@ hash = "a29120a7deb7e407656c7b614fcca376b412249ba43e503e1fd962ffb4df6779"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "dd34a05c0828f93efa3cd1908a8149c93589a192a014e58fed42a5247b557c4e"
+hash = "68dac03e7b859abe617e30778911ba712ef55379d48591b430e0ddbbfc7b78d9"
 
 [[files]]
 file = "config/clienttweaks-common.toml"
-hash = "f6a538fbda329bea19292131ca13165c49895261f59afccd33374cc974a21b35"
+hash = "490442055392d1595001dddc9721d0c699937005994e70c22325dbf7470960e7"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "77bbc0fab2fc59f5b1882c3a1f535ad41c3133bb47a18b2dbebd751f44de23c8"
+hash = "24727b424eaa1ba003a8fbc4e11ec5a1bdbeae4661161cfbdbe0a825f165b901"
 
 [[files]]
 file = "config/emi.css"
-hash = "19edbcdaafacdb6ce897f2f86147b838b3eae1aac4136425c8c6a54b1df06e89"
+hash = "4559edaab9ab79da5bf0a9fb0ba7d40fdcee7651347a916712dfb3778e54be31"
 
 [[files]]
 file = "config/emixx/emixx-client.toml"
@@ -98,11 +98,11 @@ hash = "d1a64dd1237d7f7424a3006f22a2a06f6a578983d997474f600563c1164c9c03"
 
 [[files]]
 file = "config/sidebar_buttons.json"
-hash = "3dc1ec4d7bfc4f7a195544f2a0fe6e5cafd91f44a6cbc58d600cedecc3211290"
+hash = "bd06f02dd732a2b24c13b7b98a89ef873568f44fbcff1ca608f3fa9f70b05104"
 
 [[files]]
 file = "config/sodiumdynamiclights-client.toml"
-hash = "b7d4c934aa642c95723e60318dc8f2d7f92145fccf2b3b31b0807d83eaffc230"
+hash = "a07f02d32ca757d3aab93dbff71081a33ea30300d85a0e5defee53eb83e7161f"
 
 [[files]]
 file = "config/thirst/keyword.toml"

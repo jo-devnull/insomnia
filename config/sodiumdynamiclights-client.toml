@@ -17,3 +17,4 @@
 	#Creeper lighting mode. May be off, simple or fancy.
 	#Allowed Values: OFF, SIMPLE, FANCY
 	creeper = "OFF"
+

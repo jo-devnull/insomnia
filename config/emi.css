@@ -177,7 +177,7 @@
 	/**
 	 * How many columns and rows of ingredients to limit the left sidebar to
 	 */
-	left-sidebar-size: 9, 16;
+	left-sidebar-size: 9, 18;
 
 	/**
 	 * How much space to maintain between the left sidebar and obstructions, in pixels
@@ -232,7 +232,7 @@
 	/**
 	 * Which theme to use for the right sidebar
 	 */
-	right-sidebar-theme: vanilla;
+	right-sidebar-theme: transparent;
 
 	/**
 	 * The pages in the top sidebar
@@ -338,7 +338,7 @@
 	 * Favorite the item to display on the side of the screen opposite of recipies for
 	 * quick access.
 	 */
-	favorite: "key.keyboard.unknown";
+	favorite: "key.keyboard.f";
 
 	/**
 	 * Set the default recipe for a given stack in the output of a recipe to that
@@ -430,7 +430,7 @@
 	/**
 	 * Copies the hovered recipe's ID to the clipboard
 	 */
-	copy-recipe-id: "key.keyboard.unknown";
+	copy-recipe-id: "key.mouse.5";
 
 	/**
 	 * In edit mode, hide the hovered stack

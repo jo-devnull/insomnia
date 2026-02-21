@@ -28,8 +28,11 @@
         "id": "refresh",
         "color": "terminal.ansiMagenta"
       },
-      "type": "shell",
-      "command": "packwiz refresh",
+      "dependsOn": [
+        "update.files",
+        "packwiz.refresh"
+      ],
+      "dependsOrder": "sequence",
       "isBackground": true,
       "problemMatcher": []
     },
@@ -38,6 +41,16 @@
       "label": "packwiz.refresh",
       "type": "shell",
       "command": "packwiz refresh"
+    },
+    {
+      "hide": true,
+      "label": "update.files",
+      "type": "shell",
+      "command": "python",
+      "args": [
+            ".\\python\\config.py",
+            "${userHome}\\AppData\\Roaming\\PrismLauncher\\instances\\Insomnia\\minecraft"
+        ]
     },
     {
       "hide": true,
