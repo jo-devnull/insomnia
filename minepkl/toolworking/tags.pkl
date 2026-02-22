@@ -21,6 +21,7 @@ ingots {
   "samurai_dynasty:silver_ingot"
   "create_ironworks:steel_ingot"
   "create_ironworks:tin_ingot"
+  "create_ironworks:bronze_ingot"
   "createmetallurgy:tungsten_ingot"
   "createmetallurgy:obdurium_ingot"
   "create:zinc_ingot"

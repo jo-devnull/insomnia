@@ -386,7 +386,7 @@ hash = "3fa26b4cbc2b772590d3f2b7932f5d6adca671e77f9cb957f7f7f662a5ae999c"
 
 [[files]]
 file = "minepkl/misc/emi.pkl"
-hash = "4d502f7bea2d22237bb9871ffb4b7b6aa7e3b10812f4a3cf5596a0f1a691cb27"
+hash = "f1ef3a962f4bfe18e41de031c73d7a21a064838eaa93312c6021a5151e43d0e8"
 
 [[files]]
 file = "minepkl/misc/fishing.pkl"
@@ -530,7 +530,7 @@ hash = "ae13ca345fb080b9d7308aa7aed9e4cf512168d591350395ef477f053d25fa21"
 
 [[files]]
 file = "minepkl/toolworking/tags.pkl"
-hash = "950bc5df8cfa28e04ee3da1a0a6c92fedcb2e33c32ce2536eedc2825ab0e039d"
+hash = "318ae2decf653e1d8bcb2fb1e6ed4bcef4d183570503d2cb29615e361cacdd2b"
 
 [[files]]
 file = "minepkl/toolworking/toolworking.pkl"
@@ -2168,7 +2168,7 @@ preserve = true
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "c03970a3e56c928628a243e0d134f8e5ef2ecbac981951607543d52686fec6ff"
+hash = "0873634cb407a768c63533e567d031bb0abfc4938d4367ec7cafd423cebcdd32"
 
 [[files]]
 file = "resourcepacks/@integrated/assets/emi/textures/gui/background.png"
@@ -2223,7 +2223,7 @@ file = "resourcepacks/@integrated/assets/thirst/lang/pt_br.json"
 hash = "374d3a5a4edadf44d6e205e86da3b71b2effda1f30ff360c99ca40024cb0b673"
 
 [[files]]
-file = "resourcepacks/@integrated/assets/thirst/thirstcanteen/lang/pt_br.json"
+file = "resourcepacks/@integrated/assets/thirstcanteen/lang/pt_br.json"
 hash = "85ff901ebcbe6be2a200370e7776d5c8a9609b5464081318b4512c14910081e4"
 
 [[files]]

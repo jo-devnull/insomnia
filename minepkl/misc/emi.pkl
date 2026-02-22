@@ -5,8 +5,8 @@ hiddenRecipeTypes {
 }
 
 stackGroups {
-  ["lingote"] {
-    id = "toolworking:ingots"
+  ["ingots"] {
+    id = "toolworking:barra_metalica"
     type = "emixx:group"
     contents {
       "#toolworking:ingots"
@@ -14,8 +14,8 @@ stackGroups {
     exclusions = new Listing {}
   }
 
-  ["placas"] {
-    id = "toolworking:plates"
+  ["plates"] {
+    id = "toolworking:placa_metalica"
     type = "emixx:group"
     contents {
       "#forge:plates"
@@ -23,8 +23,8 @@ stackGroups {
     exclusions = new Listing {}
   }
 
-  ["pepita"] {
-    id = "toolworking:nuggets"
+  ["nuggets"] {
+    id = "toolworking:pepita"
     type = "emixx:group"
     contents {
       "#forge:nuggets"
@@ -32,8 +32,8 @@ stackGroups {
     exclusions = new Listing {}
   }
 
-  ["material_bruto_esmagado"] {
-    id = "toolworking:crushed_raw_materials"
+  ["crushed_raw_materials"] {
+    id = "toolworking:material_bruto_esmagado"
     type = "emixx:group"
     contents {
       "#create:crushed_raw_materials"
