@@ -52,6 +52,13 @@ function buildEmi() = new Mapping<String, FileOutput> {
 
     renderer = jsonRenderer
   }
+
+  for (name, val in emi.stackGroups) {
+    ["insomnia:stack_groups/\(name)"] {
+      value = val
+      renderer = jsonRenderer
+    }
+  }
 }
 
 output {

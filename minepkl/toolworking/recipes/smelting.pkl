@@ -15,6 +15,7 @@ local function needsGraphiteMold(item) =
   List("iron", "steel", "gold").contains(utils.pathof(item))
 
 castingInTable {
+  simpleCastingRecipe("create:brass_ingot")
   simpleCastingRecipe("minecraft:copper_ingot")
   simpleCastingRecipe("create_ironworks:bronze_ingot")
 
@@ -108,7 +109,7 @@ melting {
     heatRequirement = "lowheated"
 
     ingredients {
-      utils.heatedpair("minecraft:copper_ingot")
+      new { item = "minecraft:copper_ingot" }
       new { item = "create_ironworks:tin_ingot" }
     }
 
@@ -119,7 +120,7 @@ melting {
 
   new Recipe.Melting {
     id = toolworking.res("brass_from_raw_zinc_and_copper")
-    heatRequirement = "lowheated"
+    heatRequirement = "heated"
 
     ingredients {
       new { item = "minecraft:raw_copper" }
@@ -137,7 +138,7 @@ melting {
     heatRequirement = "heated"
 
     ingredients {
-      utils.heatedpair("minecraft:copper_ingot")
+      new { item = "minecraft:copper_ingot" }
       new { item = "create:zinc_ingot" }
     }
 
@@ -191,11 +192,11 @@ melting {
 local function simpleCastingRecipe(output) = new Recipe.CastingInTable {
   local material = utils.materialof(output)
 
-  id = toolworking.res("casting_in_table/heated_\(material)")
+  id = toolworking.res("casting_in_table/\(material)")
 
   ingredients {
     new { item = toolworking.res("ingot_clay_mold") }
-    new { fluid = "createmetallurgy:molten_\(material)" amount = 90 nbt{} }
+    new { fluid = "createmetallurgy:molten_\(material)" amount=90 nbt{} }
   }
 
   result {

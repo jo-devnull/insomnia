@@ -1,4 +1,13 @@
 {
+  "hidden_stacks": [
+    "item:minecraft:goat_horn{instrument:\"minecraft:sing_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:admire_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:feel_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:seek_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:dream_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:yearn_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:call_goat_horn\"}"
+  ],
   "favorites": [
     {
       "stack": "#item:category:workbench"
@@ -75,113 +84,5 @@
     {
       "stack": "#item:category:transport"
     }
-  ],
-  "lookup_history": [
-    "item:createmetallurgy:foundry_basin",
-    "item:createmetallurgy:refractory_mortar",
-    "item:notreepunching:ceramic_bucket",
-    {
-      "type": "item",
-      "id": "notreepunching:ceramic_water_bucket",
-      "remainder": "item:notreepunching:ceramic_bucket"
-    },
-    [
-      {
-        "type": "item",
-        "id": "minecraft:water_bucket",
-        "remainder": "item:minecraft:bucket"
-      },
-      {
-        "type": "item",
-        "id": "notreepunching:ceramic_water_bucket",
-        "remainder": "item:notreepunching:ceramic_bucket"
-      }
-    ],
-    "item:createmetallurgy:foundry_lid",
-    "item:create:basin",
-    "item:create:andesite_alloy",
-    {
-      "type": "fluid",
-      "id": "createmetallurgy:molten_bronze",
-      "amount": 90
-    },
-    "item:create_ironworks:bronze_ingot",
-    "item:create_ironworks:bronze_pickaxe{Damage:0}",
-    "item:minecraft:glass",
-    "item:thirstcanteen:leather_canteen",
-    "item:notreepunching:flint_pickaxe{Damage:0}",
-    {
-      "type": "fluid",
-      "id": "toolworking:molten_glass",
-      "amount": 810
-    },
-    "item:notreepunching:flint_shovel{Damage:0}",
-    "item:cold_sweat:waterskin",
-    "item:ecologics:crab_claw{Damage:0}",
-    "item:notreepunching:fire_starter{Damage:0}",
-    "item:insomnia:improvised_bed",
-    {
-      "type": "fluid",
-      "id": "createmetallurgy:molten_iron",
-      "amount": 90
-    },
-    "item:minecraft:iron_ingot",
-    "item:minecraft:stripped_mangrove_wood",
-    "item:backpacked:backpack",
-    {
-      "type": "fluid",
-      "id": "createmetallurgy:molten_brass",
-      "amount": 90
-    },
-    "item:create:brass_ingot",
-    {
-      "type": "fluid",
-      "id": "createmetallurgy:molten_copper",
-      "amount": 90
-    },
-    "item:minecraft:copper_ingot",
-    "item:minecraft:shulker_shell"
-  ],
-  "craft_history": [
-    "notreepunching:clay_tool",
-    "minecraft:clay",
-    "create_ironworks:tools/pickaxe/copper",
-    "minecraft:furnace",
-    "insomnia:improvised_bed",
-    "better_campfires:firewood",
-    "notreepunching:flint_pickaxe",
-    "notreepunching:plant_string",
-    "notreepunching:plant_fiber_from_saplings_with_knife",
-    "thirst:clay_bowl",
-    "notreepunching:flint_shovel",
-    "minecraft:crafting_table",
-    "notreepunching:generated/minecraft_spruce_planks",
-    "notreepunching:sticks_from_logs_with_flint_axe",
-    "notreepunching:fire_starter",
-    "notreepunching:flint_axe",
-    "notreepunching:plant_fiber_from_small_flowers_with_knife",
-    "farmersdelight:flint_knife",
-    "notreepunching:flint_from_gravel",
-    "notreepunching:generated/minecraft_oak_planks",
-    "minecraft:bread",
-    "minecraft:iron_axe"
-  ],
-  "recipe_defaults": {
-    "added": [
-      "jei:/toolworking/steel_from_iron_dust",
-      "create:smelting/zinc_ingot_from_raw_ore"
-    ],
-    "tags": {},
-    "resolutions": {},
-    "disabled": []
-  },
-  "hidden_stacks": [
-    "item:minecraft:goat_horn{instrument:\"minecraft:sing_goat_horn\"}",
-    "item:minecraft:goat_horn{instrument:\"minecraft:admire_goat_horn\"}",
-    "item:minecraft:goat_horn{instrument:\"minecraft:feel_goat_horn\"}",
-    "item:minecraft:goat_horn{instrument:\"minecraft:seek_goat_horn\"}",
-    "item:minecraft:goat_horn{instrument:\"minecraft:dream_goat_horn\"}",
-    "item:minecraft:goat_horn{instrument:\"minecraft:yearn_goat_horn\"}",
-    "item:minecraft:goat_horn{instrument:\"minecraft:call_goat_horn\"}"
   ]
 }

@@ -96,8 +96,3 @@ function materialof(item: String) =
     "gold"
   else
     pathof(item).split("_").first
-
-function heatedpair(id) = new {
-  new { item = id }
-  new { item = "toolworking:heated_\(materialof(id))_ingot" }
-}

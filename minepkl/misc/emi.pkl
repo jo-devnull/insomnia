@@ -3,3 +3,41 @@ hiddenRecipeTypes {
   "create:automatic_shapeless"
   "create:automatic_shaped"
 }
+
+stackGroups {
+  ["lingote"] {
+    id = "toolworking:ingots"
+    type = "emixx:group"
+    contents {
+      "#toolworking:ingots"
+    }
+    exclusions = new Listing {}
+  }
+
+  ["placas"] {
+    id = "toolworking:plates"
+    type = "emixx:group"
+    contents {
+      "#forge:plates"
+    }
+    exclusions = new Listing {}
+  }
+
+  ["pepita"] {
+    id = "toolworking:nuggets"
+    type = "emixx:group"
+    contents {
+      "#forge:nuggets"
+    }
+    exclusions = new Listing {}
+  }
+
+  ["material_bruto_esmagado"] {
+    id = "toolworking:crushed_raw_materials"
+    type = "emixx:group"
+    contents {
+      "#create:crushed_raw_materials"
+    }
+    exclusions = new Listing {}
+  }
+}

@@ -1,6 +1,7 @@
 name = "Create: Transmission!"
 filename = "../createtransmission-1.0.4+forge-create6-1.20.1.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

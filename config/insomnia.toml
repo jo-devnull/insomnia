@@ -1,0 +1,5 @@
+
+[pruner]
+	keep = ["minecraft", "forge", "fabric", "c", "modpack", "integrated", "insomnia", "category"]
+	debug = true
+

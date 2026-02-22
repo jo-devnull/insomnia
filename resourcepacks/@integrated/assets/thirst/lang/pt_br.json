@@ -1,0 +1,23 @@
+{
+  "death.attack.dehydrate": "%1$s morreu de desidratação",
+  "death.attack.dehydrate.player": "%1$s morreu de desidratação enquanto lutava com %2$s",
+  "item.thirst.wooden_water_bowl": "Tigela de Água de Madeira",
+  "item.thirst.terracotta_water_bowl": "Tigela de Água de Cerâmica",
+  "item.thirst.terracotta_bowl": "Tigela de Cerâmica",
+  "item.thirst.clay_bowl": "Tigela de Argila",
+  "itemGroup.thirst": "Thirst was Taken",
+  "thirst.purity.dirty": "Sujo",
+  "thirst.purity.slightly_dirty": "Ligeiramente sujo",
+  "thirst.purity.acceptable": "Aceitável",
+  "thirst.purity.purified": "Purificado",
+  "block.thirst.sand_filter": "Filtro de Areia",
+
+  "thirst.ponder.sand_filter.header": "Purificando água com Filtro de Areia",
+  "thirst.ponder.sand_filter.text_1": "O Filtro de Areia purificada a água que que passa por ele",
+  "thirst.ponder.sand_filter.text_2": "Água suja precisa passar por cima...",
+  "thirst.ponder.sand_filter.text_3": "e a água purificada é recolhida por baixo",
+  "command.thirst.query": "Current Thirst: %1$s, Current Quenched: %2$s",
+  "command.thirst.set": "set thirst to %1$s, set quenched to %2$s",
+  "command.thirst.enable": "Enable tick Thirst for %1$s",
+  "command.thirst.disable": "Disable tick Thirst for %1$s"
+}

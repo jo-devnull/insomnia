@@ -7,8 +7,8 @@ minecraft {
   "lava_bucket"
   "flint_and_steel"
 
+  "#toolworking:ingots"
   "#forge:nuggets"
-  "#forge:ingots"
   "#forge:plates"
 }
 
@@ -34,6 +34,7 @@ create_ironworks {
   "coal_dust"
   "charcoal_dust"
   "crushed_raw_tin"
+  "bronze_ingot"
 }
 
 createmetallurgy {

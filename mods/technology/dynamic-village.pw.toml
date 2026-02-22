@@ -1,6 +1,7 @@
 name = "Create: Dynamic Village"
 filename = "../dynamicvillage-v0.4-1.20.1.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/YCPmkFAm/versions/IuAUxMSk/dynamicvillage-v0.4-1.20.1.jar"

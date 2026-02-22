@@ -1,6 +1,7 @@
 name = "Insomnia Tweaks"
 filename = "../insomnia-0.3.6-BETA.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://github.com/jo-devnull/insomnia-tweaks/releases/download/v0.3.6-BETA/insomnia-0.3.6-BETA.jar"

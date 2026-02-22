@@ -1,0 +1,10 @@
+{
+  "itemGroup.thirstcanteen": "ThirstCanteen",
+  "item.thirstcanteen.dragon_bottle": "Garrafa de Dragão",
+  "item.thirstcanteen.dragon_bottle_full": "Garrafa de Dragão com água",
+  "item.thirstcanteen.military_bottle": "Garrafa Militar",
+  "item.thirstcanteen.military_bottle_full": "Garrafa Militar com Água",
+  "item.thirstcanteen.leather_canteen": "Cantil de Couro",
+  "item.thirstcanteen.leather_canteen_full": "Cantil de Couro com água",
+  "tooltips.drinkable": "Água: %1$s/%2$s"
+}

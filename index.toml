@@ -65,6 +65,10 @@ file = "config/incontrol/spawner.json"
 hash = "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f"
 
 [[files]]
+file = "config/insomnia.toml"
+hash = "5ccc0a286595769d163bc9c22514d97f23928b2d7c90bbea5568ab0b8fb86d15"
+
+[[files]]
 file = "config/lmft.json"
 hash = "616b89227e557c16754a9d89ac5b28bf18da1607cea770e2b92eb95a91c6538e"
 
@@ -78,7 +82,7 @@ hash = "1de6f2548f4c8d5e452acdd5de011cde5e6ea8f4004e16edb587ec91d8e8346f"
 
 [[files]]
 file = "config/particle_core_config.toml"
-hash = "03c02e1f58a91bd6483b635affa4ab4d120fe77018f9bb2b0fb90c64fd67385c"
+hash = "b241a76a0aa325bbbf79c634afa28a2faab3a154323ffc78e5a21fe0831cf0c4"
 
 [[files]]
 file = "config/prettyrain.json5"
@@ -322,7 +326,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "ae27ea55488c628b3bc4d4d2811b54a7dca8ea237d43f7cd5660f37758241f41"
+hash = "f02c76d985ce56fb69588a964b1049bc90640e2503700c8d94949d0cf2b95b5f"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -335,6 +339,10 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 [[files]]
 file = "kubejs/client_scripts/example.js"
 hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/client_scripts/misc.js"
+hash = "ab6b708f459d137e10e736de25f02f4b3ffc65e042fcbd8e8cf2804402bab2f9"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -358,7 +366,7 @@ hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
 file = "minepkl/assets.pkl"
-hash = "e0313738cb10d0b34bcc22621ea1b35710ae4581e325a02c0c36b04613837b84"
+hash = "7118ebd5193e361bef78f8dc1adc4a89b0962435b3e46e76eaacb037bdfea04c"
 
 [[files]]
 file = "minepkl/data.pkl"
@@ -374,11 +382,11 @@ hash = "feaad351bffe7bb5ce8074f4c92f5ebf34a0aa1e4eba0fca6d51c9d5754f0af5"
 
 [[files]]
 file = "minepkl/lib/utils.pkl"
-hash = "0da7320b0bc5349a75dc79b6321690d0484f7012de1d836dfa5ef3f22c6a4a5f"
+hash = "3fa26b4cbc2b772590d3f2b7932f5d6adca671e77f9cb957f7f7f662a5ae999c"
 
 [[files]]
 file = "minepkl/misc/emi.pkl"
-hash = "c20bb784062516f1d1724d9e023d9eb2268aca05e705576c63aa27c3a5604bc7"
+hash = "4d502f7bea2d22237bb9871ffb4b7b6aa7e3b10812f4a3cf5596a0f1a691cb27"
 
 [[files]]
 file = "minepkl/misc/fishing.pkl"
@@ -478,7 +486,7 @@ hash = "a27898bcf6b6d306000051b9457f073c7816017c458e961d21d69d17dee4a4d0"
 
 [[files]]
 file = "minepkl/tags/category/metalworking.pkl"
-hash = "9d7ad9306995c71486473d12e43b22ae75d61a84199e5ef77877fc68a5b599f1"
+hash = "4d74d24f5a7b4bcf945b76d0fa9d908a42e7fda54162562502d01417054e5a66"
 
 [[files]]
 file = "minepkl/tags/category/misc.pkl"
@@ -518,11 +526,11 @@ hash = "d751cf3469f83589001fea72d12a5fdf8f89e69d26166f9e144077ae069d4eb6"
 
 [[files]]
 file = "minepkl/toolworking/recipes/smelting.pkl"
-hash = "292f7492b1de26ea5a80c7c9e2ee2886be89b456805982e35a737102a70dcaa4"
+hash = "ae13ca345fb080b9d7308aa7aed9e4cf512168d591350395ef477f053d25fa21"
 
 [[files]]
 file = "minepkl/toolworking/tags.pkl"
-hash = "da3aeb76044a917af4830348bdc8403c9bbab21cca06bba83b2043b830470b2e"
+hash = "950bc5df8cfa28e04ee3da1a0a6c92fedcb2e33c32ce2536eedc2825ab0e039d"
 
 [[files]]
 file = "minepkl/toolworking/toolworking.pkl"
@@ -670,7 +678,7 @@ metafile = true
 
 [[files]]
 file = "mods/decoration/sooty-chimneys.pw.toml"
-hash = "6e3ce61b785c5f3ce35055dbdace1457c4bb54b50f58e7bb1f1c2af2ee020bf2"
+hash = "56d3daabfbf0a6edf36e705bfdee38b0d527a9b29d4ed3f44a9fbef2e35109d7"
 metafile = true
 
 [[files]]
@@ -685,7 +693,7 @@ metafile = true
 
 [[files]]
 file = "mods/decoration/supplementaries.pw.toml"
-hash = "015099066726e51f13ab0fac8471b2b9604970571ff0a101618c40863b1a19c6"
+hash = "19425f05452ab1f6b6cb8a24255b2f2c99e6ebf455f4f6d17a5d2bea727cf7a9"
 metafile = true
 
 [[files]]
@@ -1210,12 +1218,12 @@ metafile = true
 
 [[files]]
 file = "mods/mechanics/thirst-canteen.pw.toml"
-hash = "04104f00e60b3172a6cce977f3e86094d25ddaa936741daa64e0aec5f0621089"
+hash = "c7a7166875be6ca5922c559fab4c187bd3f88e91a7fad14f597665ff341a62a1"
 metafile = true
 
 [[files]]
 file = "mods/mechanics/thirst-was-taken.pw.toml"
-hash = "f63644a470fec30ec8f525c4189e6a61271e72b897b1b3ce1d29861d76dc70ad"
+hash = "9b2d88ac77a4497c9325954269dc5912ce0f387f020e22242911633ad1af596a"
 metafile = true
 
 [[files]]
@@ -1345,7 +1353,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/insomnia-tweaks.pw.toml"
-hash = "c53d831fc72cdb370b9794f95d876497aab215e34286fa1e059c5174f4484835"
+hash = "7660c39acb9cd5991504afd9be3741040aea8702f956ec848e4dbc8e25da1508"
 metafile = true
 
 [[files]]
@@ -1614,6 +1622,11 @@ hash = "f57a709135c703ddfde46802549c8aa4e961012b3088bfee527702fb9c296386"
 metafile = true
 
 [[files]]
+file = "mods/mobs/primal-frontier.pw.toml"
+hash = "4e99ac0c76a07ae1f27ca4437752e4901b06b2b5a505ddcd8ca74723c5f73db4"
+metafile = true
+
+[[files]]
 file = "mods/mobs/saints-dragons.pw.toml"
 hash = "6df0cefbeff5120edb3d6231517d52e06f9b75baa86eba6210ceb7f980b5b897"
 metafile = true
@@ -1764,6 +1777,11 @@ hash = "ed777a15d6936154186c41529e7d5d9e30bcf46ce388779be1f48a711ae736dd"
 metafile = true
 
 [[files]]
+file = "mods/performance/thulium.pw.toml"
+hash = "366fe663ebbb5356293318c853eb5203955d1f9c1fc3b976e731b2e9e28ae877"
+metafile = true
+
+[[files]]
 file = "mods/structures/camps_castles_carriages.pw.toml"
 hash = "794d3e00e0b9ac0749c1e8c9dd3f8566c71d4bb2e24dc7752fa7de8b6e00ac35"
 metafile = true
@@ -1806,6 +1824,11 @@ metafile = true
 [[files]]
 file = "mods/structures/sawmill-house.pw.toml"
 hash = "2acbd576cb89f951ff8257386702a005c8f6061584c0ba33d594a5f73d6b4536"
+metafile = true
+
+[[files]]
+file = "mods/structures/simply-houses.pw.toml"
+hash = "b2cef172c837758e7276f71392b9e40e512bc074dc8ff08af0f28a52dbca6388"
 metafile = true
 
 [[files]]
@@ -1855,17 +1878,17 @@ metafile = true
 
 [[files]]
 file = "mods/technology/create-diesel-generators.pw.toml"
-hash = "3478222a1fdfc97946f1ca9fbe8864dce012fae761e1960495607953ecc95be1"
+hash = "d18cf4d1d8ec18737ee3f230ceb0d11974d38a262d5bea1f036156a19bc8acb1"
 metafile = true
 
 [[files]]
 file = "mods/technology/create-ironworks.pw.toml"
-hash = "7d48387c4e77cf49a29e783b4fd90514de1b73ec8bc8240c15191cca6d16da85"
+hash = "7ed149d3dd0082a69b132ddf305497a982c51805ebe7badf56eaf1463fefbd1a"
 metafile = true
 
 [[files]]
 file = "mods/technology/create-low-heated.pw.toml"
-hash = "c5907c1c7084f0a39ea0f15940d6000fb5569e788e9e302a71c7c9bd56cef5c6"
+hash = "207747685a1f82f8aee0b4806cdf7d8cfffaadcea753e2f0ca0a1c08b497e79f"
 metafile = true
 
 [[files]]
@@ -1880,12 +1903,12 @@ metafile = true
 
 [[files]]
 file = "mods/technology/create-transmission.pw.toml"
-hash = "3ed143f127c2e38a669e13439e8ab8d30e95a8955ef6b3b0bfb902b4325a9065"
+hash = "d5dadaa20052d75a6085b43d415797e18642d20480c98938f4101aa72e0cd167"
 metafile = true
 
 [[files]]
 file = "mods/technology/create-wizardry.pw.toml"
-hash = "a877a416c19f4f89a74a1d2b4b3864a07d22748aece631044ca9e92f74f6fcdf"
+hash = "34cbe65ecccc1fbcb2e4a760903a1de864a37a51f02968fae74ae4e6810675c5"
 metafile = true
 
 [[files]]
@@ -1895,7 +1918,7 @@ metafile = true
 
 [[files]]
 file = "mods/technology/dynamic-village.pw.toml"
-hash = "7fcb62c416e5a006df425ccc89426aa8e31babf617c61d32d3930cefde7b33cf"
+hash = "bc8f06b176c88af658b7f87f991a049d319eb984ca8ec5e662f2429583713a36"
 metafile = true
 
 [[files]]
@@ -1905,7 +1928,7 @@ metafile = true
 
 [[files]]
 file = "mods/technology/petrols-parts.pw.toml"
-hash = "a469f2ed53ea7a19b27e5cf96f70b8f524a69ce7acf1f37cdb2ccc74ce1eb86c"
+hash = "489081e12d462b0e45471f3b5cfe643dbd4e95d93b9cfd0c2c71f1e95ead7c94"
 metafile = true
 
 [[files]]
@@ -1950,7 +1973,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/emi-backport.pw.toml"
-hash = "1d187fa190bbda48c3d91149302499596f4718e061e3c27cfc0fcf94231e2183"
+hash = "21a47c34732784bb936817973fd4e6d4d5dded3d6822c88dcab3f0a854237781"
 metafile = true
 
 [[files]]
@@ -2140,12 +2163,12 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "685948bd93df05bef344472e857596cba755d566b1dd63733cf4b89e5398b8f1"
+hash = "34402dcec7b01ae035bd80c51f59e3432bf88baeceee3070fb30c646b7bb5257"
 preserve = true
 
 [[files]]
 file = "resourcepacks/@insomnia.zip"
-hash = "ffdc802aa30ca3653ddc1856d70df224ae04663d1dd33110f730233b5d605788"
+hash = "c03970a3e56c928628a243e0d134f8e5ef2ecbac981951607543d52686fec6ff"
 
 [[files]]
 file = "resourcepacks/@integrated/assets/emi/textures/gui/background.png"
@@ -2194,6 +2217,14 @@ hash = "4b903f51d9cf9f06e6da00de273b7b1b751ff586b84128e6e2ddfaf5a2670e14"
 [[files]]
 file = "resourcepacks/@integrated/assets/minecraft/textures/gui/widgets.png"
 hash = "eed850e24c0caa985f55665308fe7b682c656f7c1764e427f0edd5ec1eae70f7"
+
+[[files]]
+file = "resourcepacks/@integrated/assets/thirst/lang/pt_br.json"
+hash = "374d3a5a4edadf44d6e205e86da3b71b2effda1f30ff360c99ca40024cb0b673"
+
+[[files]]
+file = "resourcepacks/@integrated/assets/thirst/thirstcanteen/lang/pt_br.json"
+hash = "85ff901ebcbe6be2a200370e7776d5c8a9609b5464081318b4512c14910081e4"
 
 [[files]]
 file = "resourcepacks/@integrated/pack.mcmeta"
