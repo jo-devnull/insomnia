@@ -1,0 +1,13 @@
+name = "Railways Untold"
+filename = "../railwaysuntold-forge-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R7r9n6Wu/versions/2xv7Krxk/railwaysuntold-forge-1.1.4.jar"
+hash-format = "sha512"
+hash = "2d3ba47ee6becc545ae1e7c1d311d15f11154a6e194d1f12febe4b0b87e36fdda9c748349e3d4159bcc74a6b6f949df13508c3ebacc87e9861f0cf3a2defcc9c"
+
+[update]
+[update.modrinth]
+mod-id = "R7r9n6Wu"
+version = "2xv7Krxk"

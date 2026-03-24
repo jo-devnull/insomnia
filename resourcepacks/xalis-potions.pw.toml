@@ -1,13 +1,13 @@
 name = "xali's Potions"
-filename = "xali's Potions v1.0.0.zip"
+filename = "xali's potion v1.2.0.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yFn9hTiq/versions/cCOinnlk/xali%27s%20Potions%20v1.0.0.zip"
+url = "https://cdn.modrinth.com/data/yFn9hTiq/versions/NIeabPaR/xali%27s%20potion%20v1.2.0.zip"
 hash-format = "sha512"
-hash = "5dc911c1999152ba233a3a35fdac00666a944b83a47c5ad1123f364b8bb9d11c9e93ba4f6130a035946bc662f79862a21f3801f131533797093ffe653b171b55"
+hash = "a98135129287309e7bafc38e16e3652edbad909d962461e3348d286b857ded87f36914db25865e80be695c82576c35b6c4037456ab09e38bf723922c094c417c"
 
 [update]
 [update.modrinth]
 mod-id = "yFn9hTiq"
-version = "cCOinnlk"
+version = "NIeabPaR"

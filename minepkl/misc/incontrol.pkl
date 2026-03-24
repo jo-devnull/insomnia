@@ -34,48 +34,25 @@ rules {
   }
 
   (default) {
-    spawner = true
-  }
-
-  (deny) {
-    phase = "safe_phase"
-    minheight = 40
-  }
-
-  (default) {
     lunar {
       "enhancedcelestials:blood_moon"
       "enhancedcelestials:super_blood_moon"
     }
   }
-  
+
   (deny) {
     lunar {
       "enhancedcelestials:blue_moon"
     }
-    
+
     minheight = 27
   }
 
-  (default) {
-    mob = "minecraft:guardian"
-  }
-
-  (deny) {
-    biometags = "minecraft:is_ocean"
-    minheight = -24
-  }
-
-  (default) {
-    mod {
-      "alexsmobs"
-      "alexscaves"
-      "aquamirae"
-      "cataclysm"
-      "mowziesmobs"
-      "cataclysm_spellbooks"
-      "enderman_overhaul"
-    }
+  new {
+    result = "deny"
+    mod = "legendarycreatures"
+    phase = "safe_phase"
+    `when` = "onjoin"
   }
 
   (deny) {
@@ -84,30 +61,18 @@ rules {
     minheight = 0
   }
 
-  (default) {
-    structuretags { "modpack:always_unsafe" }
-  }
-
   (deny) {
-    biometags = "modpack:kinda_safe"
+    biometags = "modpack:safe_biomes"
     minheight = 40
-  }
-
-  (default) {
-    biometags = "modpack:always_unsafe"
-  }
-
-  (deny) {
-    minheight = 54
   }
 }
 
 phases = new Listing {
   new {
     name = "safe_phase"
-    
+
     conditions {
-      maxdaycount = 7
+      maxdaycount = 16
     }
   }
 }

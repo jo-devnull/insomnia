@@ -11,4 +11,6 @@ ServerEvents.recipes(event => {
     event.remove({ type: "minecraft:blasting", input : "minecraft:raw_gold" })
 
     event.remove({ type: "minecraft:smelting", output: "minecraft:glass" })
+
+    event.replaceInput({ output: "backpacked:backpack" }, "minecraft:iron_ingot", "create:andesite_alloy")
 })

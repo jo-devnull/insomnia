@@ -111,28 +111,6 @@ redstonepen {
   "quill"
 }
 
-legendarysurvivaloverhaul {
-  "canteen"
-  "large_canteen"
-  "bandage"
-  "healing_herbs"
-  "medikit"
-  "morphine"
-  "plaster"
-  "cooling_coat"
-  "heating_coat"
-  "thermal_coat"
-  "seasonal_calendar"
-  "thermometer"
-  "nether_chalice"
-  "sponge"
-  "heat_resistance_ring"
-  "cold_resistance_ring"
-  "thermal_resistance_ring"
-  "first_aid_supplies"
-  "heart_container"
-}
-
 measurements {
   "tape_measure"
 }
@@ -154,4 +132,8 @@ cold_sweat {
   "soulspring_lamp"
   "thermometer"
   "minecart_insulation"
+}
+
+backpacked {
+  "backpack"
 }

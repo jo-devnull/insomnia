@@ -2,7 +2,7 @@
   {
     "name": "safe_phase",
     "conditions": {
-      "maxdaycount": 7
+      "maxdaycount": 16
     }
   }
 ]

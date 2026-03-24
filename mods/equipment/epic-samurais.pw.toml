@@ -1,13 +1,13 @@
 name = "Samurai Dynasty"
-filename = "../samurai_dynasty-0.1.0-1.20.1-forge.jar"
+filename = "../samurai_dynasty-0.0.51-1.20.1-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lMWJDrbO/versions/IMpIlgPC/samurai_dynasty-0.1.0-1.20.1-forge.jar"
+url = "https://cdn.modrinth.com/data/lMWJDrbO/versions/KzZfg6EC/samurai_dynasty-0.0.51-1.20.1-forge.jar"
 hash-format = "sha512"
-hash = "dc2c985947601d71b3a3da3949b522411c681d3995e9be861fb2f78c1d9810798b62a990517e77aeec6eb4230cc7171268a4f5a006ed9d00502aaaf60bf09833"
+hash = "848aa78e8494b7a93a550f1548699a87dd11599498e818709f8d8be8cc35459f81ba4b0825edd5bbd7f523475b109be9ad494823cddee932322282c1c5a3bb48"
 
 [update]
 [update.modrinth]
 mod-id = "lMWJDrbO"
-version = "IMpIlgPC"
+version = "KzZfg6EC"

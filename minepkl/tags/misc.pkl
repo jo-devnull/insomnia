@@ -12,9 +12,11 @@
   }
 }
 
-`modpack:tags/worldgen/biome/kinda_safe` {
+`modpack:tags/worldgen/biome/safe_biomes` {
   values {
-    "#minecraft:is_forest"
+    "minecraft:forest"
+    "minecraft:flower_forest"
+    "minecraft:birch_forest"
     "minecraft:meadow"
     "minecraft:plains"
     "minecraft:cherry_grove"
@@ -25,38 +27,38 @@
   }
 }
 
-`modpack:tags/worldgen/biome/always_unsafe` {
-  values {
-    "#minecraft:is_cave"
-    "#minecraft:is_ocean"
-    "biomesoplenty:dead_forest"
-    "biomesoplenty:old_growth_dead_forest"
-    "biomesoplenty:dryland"
-    "biomesoplenty:fungal_jungle"
-    "biomesoplenty:muskeg"
-    "biomesoplenty:ominous_woods"
-    "biomesoplenty:volcano"
-    "biomesoplenty:volcanic_plains"
-    "biomesoplenty:wasteland"
-    "biomesoplenty:wasteland_steppe"
+// `modpack:tags/worldgen/biome/always_unsafe` {
+//   values {
+//     "#minecraft:is_cave"
+//     "#minecraft:is_ocean"
+//     "biomesoplenty:dead_forest"
+//     "biomesoplenty:old_growth_dead_forest"
+//     "biomesoplenty:dryland"
+//     "biomesoplenty:fungal_jungle"
+//     "biomesoplenty:muskeg"
+//     "biomesoplenty:ominous_woods"
+//     "biomesoplenty:volcano"
+//     "biomesoplenty:volcanic_plains"
+//     "biomesoplenty:wasteland"
+//     "biomesoplenty:wasteland_steppe"
 
-    "nyctophobia:ancient_dead_coral_reef"
-    "nyctophobia:deep_dark_forest"
-    "nyctophobia:eroded_haunted_forest"
-    "nyctophobia:haunted_forest"
-    "nyctophobia:haunted_lakes"
+//     "nyctophobia:ancient_dead_coral_reef"
+//     "nyctophobia:deep_dark_forest"
+//     "nyctophobia:eroded_haunted_forest"
+//     "nyctophobia:haunted_forest"
+//     "nyctophobia:haunted_lakes"
 
-    "terralith:ancient_sands"
-    "terralith:ashen_savanna"
-    "terralith:caldera"
-    "terralith:mirage_isles"
-    "terralith:painted_mountains"
-    "terralith:rocky_shrubland"
-    "terralith:scarlet_mountains"
-    "terralith:warped_mesa"
-    "terralith:white_mesa"
-  }
-}
+//     "terralith:ancient_sands"
+//     "terralith:ashen_savanna"
+//     "terralith:caldera"
+//     "terralith:mirage_isles"
+//     "terralith:painted_mountains"
+//     "terralith:rocky_shrubland"
+//     "terralith:scarlet_mountains"
+//     "terralith:warped_mesa"
+//     "terralith:white_mesa"
+//   }
+// }
 
 `friendlyfire:tags/entity_types/player_protection` {
   replace = false
@@ -135,46 +137,6 @@
 
     "kobolds:kobold"
     "alexscaves:candicorn"
-  }
-}
-
-`modpack:tags/worldgen/structure/always_unsafe` {
-  values {
-    "minecraft:pillager_outpost"
-    "minecraft:mansion"
-    "minecraft:shipwreck"
-
-    "cataclysm:acropolis"
-    "cataclysm:ancient_factory"
-    "cataclysm:burning_arena"
-    "cataclysm:cursed_pyramid"
-    "cataclysm:frosted_prison"
-    "cataclysm:ruined_citadel"
-    "cataclysm:soul_black_smith"
-    "cataclysm:sunken_city"
-
-    "ctov:pillager_outpost_badlands"
-    "ctov:pillager_outpost_beach"
-    "ctov:pillager_outpost_dark_forest"
-    "ctov:pillager_outpost_desert"
-    "ctov:pillager_outpost_jungle"
-    "ctov:pillager_outpost_mesa"
-    "ctov:pillager_outpost_mountain"
-    "ctov:pillager_outpost_plains"
-    "ctov:pillager_outpost_savanna"
-    "ctov:pillager_outpost_snowy"
-    "ctov:pillager_outpost_swamp"
-    "ctov:pillager_outpost_taiga"
-
-    "terralith:mage_tower"
-    "terralith:mage_complex"
-    "terralith:witch_hut"
-
-    "betteroceanmonuments:ocean_monument"
-
-    "betterarcheology:catacombs"
-    "betterarcheology:temple_jungle"
-    "betterarcheology:villager_grave"
   }
 }
 

@@ -1,13 +1,13 @@
 name = "Friendly Fire"
-filename = "../FriendlyFire-Forge-1.20.1-18.0.7.jar"
+filename = "../FriendlyFire-Forge-1.20.1-18.0.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FTaA4pRW/versions/rlNy3xjc/FriendlyFire-Forge-1.20.1-18.0.7.jar"
-hash-format = "sha1"
-hash = "8305c031c1f8768611cce4692a0f68ee2311bcb4"
+url = "https://cdn.modrinth.com/data/FTaA4pRW/versions/NE99Epda/FriendlyFire-Forge-1.20.1-18.0.8.jar"
+hash-format = "sha512"
+hash = "0866a759989ac2b74bf5f1f9af39abacb3f869f2b0494f27ea5241cd6cedc42f1c7bd0632ab26b2250d306882df82b5b84e3c3e0a136ef307ec9e86b5b5d4818"
 
 [update]
 [update.modrinth]
 mod-id = "FTaA4pRW"
-version = "rlNy3xjc"
+version = "NE99Epda"

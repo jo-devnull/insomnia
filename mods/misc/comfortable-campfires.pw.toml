@@ -1,13 +1,13 @@
 name = "Comfortable Campfires"
-filename = "../comfortable-campfires-1.1.2+1.19.2.jar"
+filename = "../comfortable_campfires-2.0.1+1.20.1-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "309ea966d73f5ea11da3882b0e4e7ab316e225b0"
+hash = "f096ac755b245b0d59b6f8d5636092d1b4330d53"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6108452
+file-id = 7678514
 project-id = 1172718

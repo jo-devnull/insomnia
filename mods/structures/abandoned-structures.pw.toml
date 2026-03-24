@@ -1,0 +1,13 @@
+name = "Abandoned Structures"
+filename = "../abandoned_structures-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "569e36d1a15415f017598a6e67c8243d01a28724"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7430829
+project-id = 1398609

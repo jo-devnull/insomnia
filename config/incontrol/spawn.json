@@ -23,19 +23,6 @@
     "result": "default",
     "hostile": true,
     "dimension": "overworld",
-    "spawner": true
-  },
-  {
-    "result": "deny",
-    "hostile": true,
-    "dimension": "overworld",
-    "phase": "safe_phase",
-    "minheight": 40
-  },
-  {
-    "result": "default",
-    "hostile": true,
-    "dimension": "overworld",
     "lunar": [
       "enhancedcelestials:blood_moon",
       "enhancedcelestials:super_blood_moon"
@@ -51,31 +38,10 @@
     "minheight": 27
   },
   {
-    "result": "default",
-    "hostile": true,
-    "dimension": "overworld",
-    "mob": "minecraft:guardian"
-  },
-  {
     "result": "deny",
-    "hostile": true,
-    "dimension": "overworld",
-    "biometags": "minecraft:is_ocean",
-    "minheight": -24
-  },
-  {
-    "result": "default",
-    "hostile": true,
-    "dimension": "overworld",
-    "mod": [
-      "alexsmobs",
-      "alexscaves",
-      "aquamirae",
-      "cataclysm",
-      "mowziesmobs",
-      "cataclysm_spellbooks",
-      "enderman_overhaul"
-    ]
+    "mod": "legendarycreatures",
+    "phase": "safe_phase",
+    "when": "onjoin"
   },
   {
     "result": "deny",
@@ -86,30 +52,10 @@
     "minheight": 0
   },
   {
-    "result": "default",
-    "hostile": true,
-    "dimension": "overworld",
-    "structuretags": [
-      "modpack:always_unsafe"
-    ]
-  },
-  {
     "result": "deny",
     "hostile": true,
     "dimension": "overworld",
-    "biometags": "modpack:kinda_safe",
+    "biometags": "modpack:safe_biomes",
     "minheight": 40
-  },
-  {
-    "result": "default",
-    "hostile": true,
-    "dimension": "overworld",
-    "biometags": "modpack:always_unsafe"
-  },
-  {
-    "result": "deny",
-    "hostile": true,
-    "dimension": "overworld",
-    "minheight": 54
   }
 ]

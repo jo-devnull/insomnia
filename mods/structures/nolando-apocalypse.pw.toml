@@ -1,0 +1,13 @@
+name = "Nolando Apocalypse"
+filename = "../nolandoapocalypse-1.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "248a9121b00c23d8a96fba67013758254011817b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7667622
+project-id = 1325949

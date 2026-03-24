@@ -1,13 +1,13 @@
 name = "Primal Frontier"
-filename = "../primal_frontier-0.2.2-alpha-forge-1.20.1.jar"
+filename = "../primal_frontier-0.4.0-alpha-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bf555274100958750cfa9e04df54bc6d5f7f0c6e"
+hash = "6d2ba3f3746623129f9c1fb3cb9047615fbc3bb9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7293245
+file-id = 7801814
 project-id = 1336081
