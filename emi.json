@@ -1,4 +1,13 @@
 {
+  "hidden_stacks": [
+    "item:minecraft:goat_horn{instrument:\"minecraft:sing_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:admire_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:feel_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:seek_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:dream_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:yearn_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:call_goat_horn\"}"
+  ],
   "favorites": [
     {
       "stack": "#item:category:workbench"
@@ -75,76 +84,5 @@
     {
       "stack": "#item:category:transport"
     }
-  ],
-  "lookup_history": [
-    "item:notreepunching:flint_shovel{Damage:0}",
-    "item:notreepunching:flint_axe{Damage:0}",
-    "item:create:zinc_ingot",
-    "item:better_campfires:firewood",
-    "item:minecraft:leather",
-    "item:backpacked:backpack",
-    "item:thirst:clay_bowl",
-    "item:thirst:terracotta_bowl",
-    "item:minecraft:clay_ball",
-    {
-      "type": "item",
-      "id": "minecraft:string",
-      "amount": 39
-    },
-    "item:createlowheated:basic_burner",
-    "item:farmersdelight:cutting_board",
-    "item:brewinandchewin:coaster",
-    "item:minecraft:brick",
-    {
-      "type": "item",
-      "id": "minecraft:bricks",
-      "amount": 2
-    },
-    "item:notreepunching:flint_pickaxe{Damage:0}",
-    "item:insomnia:improvised_bed",
-    "item:minecraft:flint",
-    {
-      "type": "item",
-      "id": "minecraft:clay",
-      "amount": 2
-    }
-  ],
-  "craft_history": [
-    "insomnia:improvised_bed",
-    "notreepunching:flint_shovel",
-    "better_campfires:firewood",
-    "minecraft:crafting_table",
-    "notreepunching:generated/biomesoplenty_pine_planks",
-    "notreepunching:sticks_from_logs_with_flint_axe",
-    "notreepunching:flint_axe",
-    "notreepunching:plant_string",
-    "notreepunching:plant_fiber_from_small_flowers_with_knife",
-    "farmersdelight:flint_knife",
-    "notreepunching:flint_from_gravel",
-    "create_ironworks:tools/axe/copper",
-    "notreepunching:clay_tool",
-    "minecraft:clay",
-    "thirst:clay_bowl",
-    "minecraft:furnace",
-    "farmersdelight:cutting_board",
-    "notreepunching:flint_pickaxe",
-    "minecraft:white_wool_from_string",
-    "notreepunching:string_from_web_with_knife",
-    "notreepunching:generated/biomesoplenty_redwood_planks"
-  ],
-  "recipe_defaults": {
-    "added": [],
-    "tags": {},
-    "resolutions": {},
-    "disabled": []
-  },
-  "hidden_stacks": [
-    "item:minecraft:goat_horn{instrument:\"minecraft:sing_goat_horn\"}",
-    "item:minecraft:goat_horn{instrument:\"minecraft:admire_goat_horn\"}",
-    "item:minecraft:goat_horn{instrument:\"minecraft:feel_goat_horn\"}",
-    "item:minecraft:goat_horn{instrument:\"minecraft:seek_goat_horn\"}",
-    "item:minecraft:goat_horn{instrument:\"minecraft:dream_goat_horn\"}",
-    "item:minecraft:goat_horn{instrument:\"minecraft:yearn_goat_horn\"}",
-    "item:minecraft:goat_horn{instrument:\"minecraft:call_goat_horn\"}"
   ]
 }

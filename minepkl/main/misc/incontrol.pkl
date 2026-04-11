@@ -1,0 +1,76 @@
+const default {
+  result = "default"
+  hostile = true
+  dimension = "overworld"
+}
+
+const allow = (default) {
+  result = "allow"
+}
+
+const deny = (default) {
+  result = "deny"
+}
+
+rules {
+  new {
+    result = "deny"
+    dimension = "superflat:superflat"
+  }
+
+  (deny) {
+    phase = "safe_phase"
+    minheight = 27
+  }
+
+  (deny) {
+    mod {
+      "zoniex"
+    }
+
+    biome {
+      "alexscaves:candy_cavity"
+      "alexscaves:abyssal_chasm"
+      "alexscaves:forlorn_hollows"
+      "alexscaves:magnetic_caves"
+      "alexscaves:primordial_caves"
+      "alexscaves:toxic_caves"
+    }
+  }
+
+  (default) {
+    lunar {
+      "enhancedcelestials:blood_moon"
+      "enhancedcelestials:super_blood_moon"
+    }
+  }
+
+  (deny) {
+    lunar {
+      "enhancedcelestials:blue_moon"
+    }
+
+    minheight = 27
+  }
+
+  (deny) {
+    mod = "fromtheshadows"
+    biometags = "forge:is_cave"
+    minheight = 0
+  }
+
+  (deny) {
+    biometags = "modpack:safe_biomes"
+    minheight = 40
+  }
+}
+
+phases = new Listing {
+  new {
+    name = "safe_phase"
+
+    conditions {
+      maxdaycount = 3
+    }
+  }
+}

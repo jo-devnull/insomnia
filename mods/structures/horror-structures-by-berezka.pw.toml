@@ -1,0 +1,13 @@
+name = "Horror Structures (by Berezka)"
+filename = "../horror_structures-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d06735056aa92d8bc16ad85bf1f50827d87e9e4e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7589759
+project-id = 1401259

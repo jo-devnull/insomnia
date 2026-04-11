@@ -58,6 +58,9 @@ def install(type: str, url: str):
                 shutil.move(file, libpath)
 
     else:
+        if type == "datapcak":
+            type = "resourcepacks/@required_data"
+
         run(f"packwiz.exe -y {platform} add {url} --meta-folder {type}", shell=True)
 
     if tempdir.exists():

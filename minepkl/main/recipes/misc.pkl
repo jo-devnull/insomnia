@@ -1,0 +1,108 @@
+firewood_from_logs_with_flint_axe {
+  type = "notreepunching:tool_damaging_shaped"
+  recipe {
+    type = "minecraft:crafting_shaped"
+    pattern { "SW" }
+    key {
+      S { tag = "notreepunching:weak_saws" }
+      W { tag = "minecraft:logs" }
+    }
+    result {
+      item = "better_campfires:firewood"
+      count = 6
+    }
+  }
+}
+
+sticks_from_logs_with_saw {
+  type = "notreepunching:tool_damaging_shaped"
+  recipe {
+    type = "minecraft:crafting_shaped"
+    pattern { "   " "sP " "   " }
+    key {
+      s { tag = "notreepunching:saws" }
+      P { tag = "minecraft:logs" }
+    }
+    result {
+      item = "better_campfires:firewood"
+      count = 8
+    }
+  }
+}
+
+sticks_from_firewood_with_axe {
+  type = "notreepunching:tool_damaging_shapeless"
+  recipe {
+    type = "minecraft:crafting_shapeless"
+    ingredients {
+      new { tag = "notreepunching:weak_saws" }
+      new { item = "better_campfires:firewood" }
+    }
+    result {
+      item = "minecraft:stick"
+      count = 2
+    }
+  }
+}
+
+sticks_from_firewood_with_saw {
+  type = "minecraft:crafting_shapeless"
+  ingredients {
+    new { tag = "notreepunching:saws" }
+    new { item = "better_campfires:firewood" }
+  }
+  result {
+    item = "minecraft:stick"
+    count = 4
+  }
+}
+
+leather_from_mixing {
+  type = "create:mixing"
+  heatRequirement = "heated"
+
+  ingredients {
+    new { item = "minecraft:rotten_flesh" }
+    new { item = "minecraft:charcoal" }
+
+    new {
+      new { item = "supplementaries:soap" }
+      new { tag = "forge:raw_pork" amount = 2 }
+    }
+  }
+
+  results {
+    new { item = "minecraft:leather" }
+    new { item = "minecraft:leather" chance = 0.25 }
+  }
+}
+
+skin_template_from_skin {
+  type = "create:compacting"
+  heatRequirement = "none"
+
+  ingredients {
+    new { item = "armourers_workshop:skin" }
+  }
+
+  results {
+    new { item = "armourers_workshop:skin-template" }
+  }
+}
+
+supp_awning_with_fabric {
+  type = "minecraft:crafting_shaped"
+
+  pattern {
+    "ww"
+  }
+
+  key {
+    w { item = "redeco:white_upholstery" }
+  }
+
+  result {
+    item = "supplementaries:awning_white"
+    count = 2
+  }
+}

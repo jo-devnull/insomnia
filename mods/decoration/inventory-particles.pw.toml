@@ -11,3 +11,8 @@ hash = "5ae2ce1e0d2270c3beb941b2fb5771b373c2f1dea961a06d2e75ac6f13b4f0e87655b779
 [update.modrinth]
 mod-id = "XYnKrsxH"
 version = "IvoLnc1A"
+
+[option]
+optional = true
+default = true
+description = "Alguns efeitos visuais. Desative para mais performance."

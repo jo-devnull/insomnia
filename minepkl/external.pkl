@@ -1,6 +1,6 @@
-import "tags/category/@category.pkl" as categoryTags
+import "main/tags/category/@category.pkl" as categoryTags
 import "lib/utils.pkl" as utils
-import "misc/incontrol.pkl" as incontrol
+import "main/misc/incontrol.pkl" as incontrol
 
 function buildEmi() = new Mapping<String, FileOutput> {
   ["emi.json"] {

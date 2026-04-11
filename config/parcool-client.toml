@@ -53,17 +53,17 @@
 	#Stamina HUD shows action charge rate, cool time or etc
 	show_action_status_bar = true
 	#Light stamina HUD shows always
-	show_light_hud_always = false
+	show_light_hud_always = true
 
 [Animations]
 	#Enable custom animations
 	enable_animation = true
 	#Enable custom animation of falling
-	enable_falling_animation = false
+	enable_falling_animation = true
 	#Enable lean animation while FastRun
 	enable_lean_animation_fast_run = true
 	#Enable first-person-view animations
-	enable_fpv_animation = false
+	enable_fpv_animation = true
 	#Enable rotation of camera by Dodge
 	enable_camera_rotation_dodge = false
 	#Enable rotation of camera by Backward Wall-Jump
@@ -75,9 +75,9 @@
 	#Enable animation of camera by Vault
 	enable_camera_animation_vault = false
 	#Enable animation of camera by Horizontal-WallRun
-	enable_camera_animation_h-wall-run = true
+	enable_camera_animation_h-wall-run = false
 	#Enable animation of camera by Hang-Down
-	enable_camera_animation_hang-down = true
+	enable_camera_animation_hang-down = false
 
 	[Animations.Animators]
 		enable_BackwardWallJumpAnimator = true
@@ -159,6 +159,18 @@
 	#Lowest fall distance needed to trigger breakfall movements
 	#Range: 0.0 ~ 10.0
 	lowest_fall_distance_for_breakfall = 2.0
+	#Window time of just time breakfall
+	#Range: > 0
+	justtime_breakfall_tick = 5
+	#coyote time tick (how long tick player can behave like on ground after getting off ledge
+	#Range: 0 ~ 20
+	coyote_time = 3
+	#How long distance breakfall can remove damage
+	#Range: 0.0 ~ 1.7976931348623157E308
+	max_breakfall_damage_remove_height = 6.0
+	#Damage reduction rate of Breakfall
+	#Range: 0.0 ~ 1.0
+	max_breakfall_damage_reduction_rate = 0.6
 
 [Modifier]
 	#How long you can do Horizontal Wall Run
@@ -176,6 +188,9 @@
 	#Dodge speed modifier
 	#Range: 0.5 ~ 3.0
 	dodge-speed_modifier = 1.0
+	#SkyDive speed decreasement rate
+	#Range: 0.001 ~ 1.0
+	sky_dive-speed-decreasement = 0.98
 
 [Other_Configuration]
 	#Vault Animation(Dynamic is to select animation dynamically)

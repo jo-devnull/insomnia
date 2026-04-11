@@ -1,0 +1,13 @@
+name = "Jungle Treehouse Village"
+filename = "../jungle_treehouse_village-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a0df7a6782a9b82fd099a7362edd8938ef490ddf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6777072
+project-id = 1308266

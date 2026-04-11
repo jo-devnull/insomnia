@@ -7,6 +7,13 @@
     "result": "deny",
     "hostile": true,
     "dimension": "overworld",
+    "phase": "safe_phase",
+    "minheight": 27
+  },
+  {
+    "result": "deny",
+    "hostile": true,
+    "dimension": "overworld",
     "mod": [
       "zoniex"
     ],
@@ -36,12 +43,6 @@
       "enhancedcelestials:blue_moon"
     ],
     "minheight": 27
-  },
-  {
-    "result": "deny",
-    "mod": "legendarycreatures",
-    "phase": "safe_phase",
-    "when": "onjoin"
   },
   {
     "result": "deny",

@@ -1,0 +1,40 @@
+name: "Horror Soundpack"
+version: "1.0"
+author: "jo-devnull"
+description: "Reactive Music pack for horror modpacks"
+
+credits: "Aphex Twin"
+
+# Music Switch Speed defines the default for how fast music will stop when it's event becomes invalid
+# Available values: INSTANT, SHORT, NORMAL, LONG
+musicSwitchSpeed: LONG
+
+# Music Delay Length defines the default for how much silence there should be before a new song starts playing again
+# Available values: NONE, SHORT, NORMAL, LONG
+musicDelayLength: NORMAL
+
+entries:
+  - events: ["MAIN_MENU"]
+    forceStopMusicOnChanged: true
+    songs:
+      - ""
+
+#Generic
+  - events: ["DIM=OVERWORLD"]
+    songs:
+      - "Gathering Darkness"
+      - ""
+
+#Nether
+#Generic
+  - events: ["DIM=NETHER"]
+    forceStopMusicOnChanged: true
+    songs:
+      - ""
+
+#END
+#Generic
+  - events: ["DIM=END"]
+    forceStopMusicOnChanged: true
+    songs:
+      - ""

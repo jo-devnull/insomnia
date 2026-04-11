@@ -1,0 +1,13 @@
+name = "EverFurnace"
+filename = "../everfurnace-1.20.1-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc843ec791ea1f3b93444faf6246bf7bfa45c9ce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7819192
+project-id = 1155210

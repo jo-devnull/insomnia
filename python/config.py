@@ -1,8 +1,6 @@
 import os
 import sys
-import shutil
 
-from glob import glob
 from pathlib import Path
 
 ROOT = Path(os.getcwd())
