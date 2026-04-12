@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "ESM/soundsMuffled.dat"
+hash = "a4ad01e216995d1263a9c68535a559fc526308fbc2cf16d672822c9bb1a12528"
+
+[[files]]
 file = "config/alexsmobsinteraction-client.toml"
 hash = "021faa38625a6013550a1d99e311170fb89e54206cd5768f3b1f6297a61c5c7e"
 
@@ -18,7 +22,7 @@ hash = "68dac03e7b859abe617e30778911ba712ef55379d48591b430e0ddbbfc7b78d9"
 
 [[files]]
 file = "config/clienttweaks-common.toml"
-hash = "074b270daa74d16afeb59ed967cb1c42b25cb3da410224e525805381049e9129"
+hash = "7120d78c08a07e268bdbab4e1481f05b081df76f7ad1cc71e5993784e6bff5a6"
 
 [[files]]
 file = "config/embeddium-options.json"
@@ -94,7 +98,7 @@ hash = "fc1ebdb9057b250030dd4c3b288134dfec8be7b95f4037a9f79edd991b5a5061"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "152910bc20608b28c270a2ab0c203657af32298f3a33bfb901b44911358b16ed"
+hash = "f6f5db9cf2b9a295b26f8efef1b3e3dac2a083c20a6a710bf75a81d5127b0789"
 
 [[files]]
 file = "config/sanitydim/default.toml"
@@ -106,11 +110,15 @@ hash = "d1a64dd1237d7f7424a3006f22a2a06f6a578983d997474f600563c1164c9c03"
 
 [[files]]
 file = "config/sidebar_buttons.json"
-hash = "683e48eb46a4b6bbce973a2b5aec2fa2fa6eb922beeead44a7e8d718936513f4"
+hash = "bd06f02dd732a2b24c13b7b98a89ef873568f44fbcff1ca608f3fa9f70b05104"
 
 [[files]]
 file = "config/sodiumdynamiclights-client.toml"
 hash = "a07f02d32ca757d3aab93dbff71081a33ea30300d85a0e5defee53eb83e7161f"
+
+[[files]]
+file = "config/superior_ambience-client.json"
+hash = "52ddf5c4c461c7eedacc994293bd6d6da5b4ea6112a03df4f76805175d74d1e1"
 
 [[files]]
 file = "config/thirst/keyword.toml"
@@ -330,7 +338,7 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "f02c76d985ce56fb69588a964b1049bc90640e2503700c8d94949d0cf2b95b5f"
+hash = "a03f93b7019b9efc96cb6ec3862914ac81435fa3c77558bf7dbe96770afbc78e"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -398,7 +406,7 @@ hash = "e160d9646d77d5853e362f2b249e70ec0d318f5ee29555066e9c0dd791ad065d"
 
 [[files]]
 file = "minepkl/main/misc/emi.pkl"
-hash = "f1ef3a962f4bfe18e41de031c73d7a21a064838eaa93312c6021a5151e43d0e8"
+hash = "0bb8e1dc82ab4d26ab7bef2b93d87179c0b490407d60f951fd0e3dbf4397926b"
 
 [[files]]
 file = "minepkl/main/misc/fishing.pkl"
@@ -406,7 +414,7 @@ hash = "25192874347a58755fee43cfe7a09c45d35eb03064c2587dc3dee69192c32e84"
 
 [[files]]
 file = "minepkl/main/misc/incontrol.pkl"
-hash = "3db4c2c7ece2b33a1868bf9b1ace06d0e2e9000a14aa491593c2a0c5e3b137bf"
+hash = "9f2f423806d2ff5aafaf529447bf3ab4dc2c8d2caf18f5239248a3dee20ad6ad"
 
 [[files]]
 file = "minepkl/main/misc/replace.pkl"
@@ -530,7 +538,7 @@ hash = "ca7cf46caf5882ef8ebe91d9054d406cce9381ec96ce34db5ff5d007b23020da"
 
 [[files]]
 file = "minepkl/main/tags/misc.pkl"
-hash = "6bdf618bf377de2e0bf0bd7e7ef2a5164bafb0de5e56b1b934a4e0689975579e"
+hash = "4f2304a867dc21cf3727f02a966c2b95e9242d951faa02d05d22aafd0206f06a"
 
 [[files]]
 file = "minepkl/toolworking/recipes/misc.pkl"
@@ -646,6 +654,11 @@ metafile = true
 [[files]]
 file = "mods/decoration/field-guide.pw.toml"
 hash = "dfdc0e5b98dbc9100828f39f6f1de17fd56998bfe9fe14d48db2005c988a8e8a"
+metafile = true
+
+[[files]]
+file = "mods/decoration/figura.pw.toml"
+hash = "84805a220b9c0c045c0ededa7ffc585716799e0179b3f7c929dd5622b5d61e3d"
 metafile = true
 
 [[files]]
@@ -1094,6 +1107,11 @@ hash = "1f3aee9850d7de0c0c13630911678e86c4ea91ada0e687cc03cb3a26bfc3956a"
 metafile = true
 
 [[files]]
+file = "mods/equipment/comforts.pw.toml"
+hash = "f5ebe849d78646c2032284ba362812fc1d9997b77bf3ca703da538bb70864ce5"
+metafile = true
+
+[[files]]
 file = "mods/equipment/epic-samurais.pw.toml"
 hash = "add3736cdcb8af869cb59062d1c93e749dba10b53c78f3d12ee7d8ef189a0be8"
 metafile = true
@@ -1175,7 +1193,7 @@ metafile = true
 
 [[files]]
 file = "mods/mechanics/cold-sweat.pw.toml"
-hash = "d524348b2cdaca8d7782e68b9c28bbbdbac68d55e709b16d44530eebfd1dec60"
+hash = "00fa9c0e2927d90bfc04f3d536789f55681c055109f5b76ba34c8583c1f34699"
 metafile = true
 
 [[files]]
@@ -1301,11 +1319,6 @@ metafile = true
 [[files]]
 file = "mods/mechanics/xaeros-world-map.pw.toml"
 hash = "88a6b4d0ac80c9c14a5c17b6098b4faa56cc268393276b8026eb37397bafb260"
-metafile = true
-
-[[files]]
-file = "mods/misc/ambientsounds.pw.toml"
-hash = "3be7364fb5243392d1e5013e8e936e3ef027fef01963fe87befff2360c50e327"
 metafile = true
 
 [[files]]
@@ -1561,6 +1574,16 @@ metafile = true
 [[files]]
 file = "mods/misc/sound-physics-remastered.pw.toml"
 hash = "37d4344715945f7e0cb723ca828d70cbdc45f5ee5282b100d646ca8a52c3ea59"
+metafile = true
+
+[[files]]
+file = "mods/misc/superior-ambience.pw.toml"
+hash = "50226db5981f4bf92f87f6a415cc3361912f1296cc3d49bf91dac07a54d25f01"
+metafile = true
+
+[[files]]
+file = "mods/misc/tense-ambience.pw.toml"
+hash = "2c53d22f7154a7b502cc2eacbe803920115545fab002abd7d0c9e22011748cc6"
 metafile = true
 
 [[files]]
@@ -1999,11 +2022,6 @@ hash = "1d71a258c2ce5db5a08371292fd19b14bbd812c8d845ea4a96d75ec92780e85f"
 metafile = true
 
 [[files]]
-file = "mods/technology/create-automotives.pw.toml"
-hash = "6fd8bb5337b1961920706ff24521497015bbc2beb7746a0b499dc0977f98615c"
-metafile = true
-
-[[files]]
 file = "mods/technology/create-diesel-generators.pw.toml"
 hash = "8efba9ec10edc42cbc4b61e9b009ae6295da5e70b67a99f4a44b508cd6fae706"
 metafile = true
@@ -2051,11 +2069,6 @@ metafile = true
 [[files]]
 file = "mods/technology/immersive-aircraft.pw.toml"
 hash = "5866388ec5403e392a95b6a68e18224032cec17415ba18be6b7bf27ccabdb133"
-metafile = true
-
-[[files]]
-file = "mods/technology/immersive-vehicles.pw.toml"
-hash = "59bcd8e9363c871d1db501cd29454161f7503d4505b9ef8dfbd0f63965c609d1"
 metafile = true
 
 [[files]]
@@ -2290,7 +2303,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "5243c68185c19ed77eb0e39eb3d1b634c30c1a414b0cec90797f9e96f098f583"
+hash = "2a24441f0fb9636b65120f58a8ada07cf85f966a9ae9a42cdde1aa9fe23f73b6"
 preserve = true
 
 [[files]]
@@ -2332,6 +2345,10 @@ hash = "9a8e319d1d09cf8ad282fc295280ffa382eddaa353141395e29c9750db084636"
 [[files]]
 file = "resourcepacks/@integrated/assets/fieldguide/textures/gui/fieldguide_inventory_button.png"
 hash = "9a8e319d1d09cf8ad282fc295280ffa382eddaa353141395e29c9750db084636"
+
+[[files]]
+file = "resourcepacks/@integrated/assets/ftbteams/textures/teams.png"
+hash = "209dca791c291040fdccc9b7f8531365b106e49c5728155ec0981f5f40ae56bf"
 
 [[files]]
 file = "resourcepacks/@integrated/assets/insomnia/textures/gui/body_temp.apng.png"
@@ -2390,6 +2407,11 @@ file = "resourcepacks/@integrated/pack.mcmeta"
 hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
+file = "resourcepacks/c418-songs-only.pw.toml"
+hash = "291f92a8ce86e768012b8260217b33790ac837eeb0f7c36e65bbb9ed70580d2c"
+metafile = true
+
+[[files]]
 file = "resourcepacks/create-style-hopper.pw.toml"
 hash = "374fc3b531d1cff3d9dcafc73103797e44c5e27bce2ab414fab2695bde9d9284"
 metafile = true
@@ -2412,6 +2434,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-waystones-texture.pw.toml"
 hash = "30eb25d58845dd773eab2f7c275ad3b06b17b369f87ed89b64985bcd73fca16c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gentler-weather-sounds.pw.toml"
+hash = "dbcf037cfc9dbbc387d2689cee6693896cedf9b632a4047d6163eaa115b29f61"
 metafile = true
 
 [[files]]

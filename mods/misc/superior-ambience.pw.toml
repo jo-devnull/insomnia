@@ -1,0 +1,13 @@
+name = "Superior Ambience"
+filename = "../superior-ambience-0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2037793c9ae811f960c80083a3b8e424e8601c12"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7778818
+project-id = 1489853

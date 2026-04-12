@@ -14,7 +14,7 @@
 
 `modpack:tags/worldgen/biome/safe_biomes` {
   values {
-    "minecraft:forest"
+    "#minecraft:is_forest"
     "minecraft:flower_forest"
     "minecraft:birch_forest"
     "minecraft:meadow"
@@ -27,38 +27,38 @@
   }
 }
 
-// `modpack:tags/worldgen/biome/always_unsafe` {
-//   values {
-//     "#minecraft:is_cave"
-//     "#minecraft:is_ocean"
-//     "biomesoplenty:dead_forest"
-//     "biomesoplenty:old_growth_dead_forest"
-//     "biomesoplenty:dryland"
-//     "biomesoplenty:fungal_jungle"
-//     "biomesoplenty:muskeg"
-//     "biomesoplenty:ominous_woods"
-//     "biomesoplenty:volcano"
-//     "biomesoplenty:volcanic_plains"
-//     "biomesoplenty:wasteland"
-//     "biomesoplenty:wasteland_steppe"
+`modpack:tags/worldgen/biome/always_unsafe` {
+  values {
+    "#minecraft:is_cave"
+    "#minecraft:is_ocean"
+    "biomesoplenty:dead_forest"
+    "biomesoplenty:old_growth_dead_forest"
+    "biomesoplenty:dryland"
+    "biomesoplenty:fungal_jungle"
+    "biomesoplenty:muskeg"
+    "biomesoplenty:ominous_woods"
+    "biomesoplenty:volcano"
+    "biomesoplenty:volcanic_plains"
+    "biomesoplenty:wasteland"
+    "biomesoplenty:wasteland_steppe"
 
-//     "nyctophobia:ancient_dead_coral_reef"
-//     "nyctophobia:deep_dark_forest"
-//     "nyctophobia:eroded_haunted_forest"
-//     "nyctophobia:haunted_forest"
-//     "nyctophobia:haunted_lakes"
+    "nyctophobia:ancient_dead_coral_reef"
+    "nyctophobia:deep_dark_forest"
+    "nyctophobia:eroded_haunted_forest"
+    "nyctophobia:haunted_forest"
+    "nyctophobia:haunted_lakes"
 
-//     "terralith:ancient_sands"
-//     "terralith:ashen_savanna"
-//     "terralith:caldera"
-//     "terralith:mirage_isles"
-//     "terralith:painted_mountains"
-//     "terralith:rocky_shrubland"
-//     "terralith:scarlet_mountains"
-//     "terralith:warped_mesa"
-//     "terralith:white_mesa"
-//   }
-// }
+    "terralith:ancient_sands"
+    "terralith:ashen_savanna"
+    "terralith:caldera"
+    "terralith:mirage_isles"
+    "terralith:painted_mountains"
+    "terralith:rocky_shrubland"
+    "terralith:scarlet_mountains"
+    "terralith:warped_mesa"
+    "terralith:white_mesa"
+  }
+}
 
 `friendlyfire:tags/entity_types/player_protection` {
   replace = false

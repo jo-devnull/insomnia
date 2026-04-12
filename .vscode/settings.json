@@ -10,5 +10,6 @@
         "kubejs/startup_scripts/": true,
         "kubejs/client_scripts/": true,
         "kubejs/README.txt": true,
+        "ESM": true,
     },
 }

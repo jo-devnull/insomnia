@@ -58,3 +58,4 @@
 	fragileBlocks = ["minecraft:budding_amethyst", "minecraft:small_amethyst_bud", "minecraft:medium_amethyst_bud", "minecraft:large_amethyst_bud"]
 	#Items that count as food for the offhand-torch and -use tweak options.
 	foodItems = ["supplementaries:lunch_basket"]
+

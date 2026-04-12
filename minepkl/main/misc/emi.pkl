@@ -41,3 +41,11 @@ stackGroups {
     exclusions = new Listing {}
   }
 }
+
+assets {
+  ["category/properties/casting"] {
+    ["createmetallurgy:casting_in_table"] {
+      order = -1
+    }
+  }
+}

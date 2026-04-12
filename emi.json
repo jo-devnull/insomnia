@@ -1,13 +1,4 @@
 {
-  "hidden_stacks": [
-    "item:minecraft:goat_horn{instrument:\"minecraft:sing_goat_horn\"}",
-    "item:minecraft:goat_horn{instrument:\"minecraft:admire_goat_horn\"}",
-    "item:minecraft:goat_horn{instrument:\"minecraft:feel_goat_horn\"}",
-    "item:minecraft:goat_horn{instrument:\"minecraft:seek_goat_horn\"}",
-    "item:minecraft:goat_horn{instrument:\"minecraft:dream_goat_horn\"}",
-    "item:minecraft:goat_horn{instrument:\"minecraft:yearn_goat_horn\"}",
-    "item:minecraft:goat_horn{instrument:\"minecraft:call_goat_horn\"}"
-  ],
   "favorites": [
     {
       "stack": "#item:category:workbench"
@@ -83,6 +74,147 @@
     },
     {
       "stack": "#item:category:transport"
+    },
+    {
+      "stack": "item:minecraft:spruce_trapdoor"
+    },
+    {
+      "stack": "item:minecraft:birch_fence"
     }
+  ],
+  "lookup_history": [
+    {
+      "type": "fluid",
+      "id": "createmetallurgy:molten_iron",
+      "amount": 270
+    },
+    "item:create:crushed_raw_iron",
+    "item:create_ironworks:charcoal_dust",
+    [
+      "item:create_ironworks:coal_dust",
+      "item:create_ironworks:charcoal_dust"
+    ],
+    "item:create_ironworks:coal_dust",
+    "item:createmetallurgy:coke",
+    {
+      "type": "fluid",
+      "id": "createmetallurgy:molten_steel",
+      "amount": 90
+    },
+    "item:create_ironworks:steel_ingot",
+    "item:minecraft:compass",
+    "item:notreepunching:flint_axe{Damage:0}",
+    "item:notreepunching:flint_pickaxe{Damage:0}",
+    "item:minecraft:andesite",
+    "item:notreepunching:flint_shovel{Damage:0}",
+    "item:better_campfires:firewood",
+    "item:notreepunching:fire_starter{Damage:0}",
+    "item:minecraft:gravel",
+    "item:minecraft:stick",
+    "item:insomnia:improvised_bed",
+    "item:supplementaries:blackstone_lamp",
+    "item:immersive_weathering:red_sand_layer_block",
+    "item:immersive_weathering:frosty_glass",
+    "item:minecraft:lime_shulker_box",
+    "item:minecraft:tinted_glass",
+    "item:xenomorph_types:industrial_wall",
+    "item:minecraft:cobblestone",
+    "item:immersive_weathering:sandy_stone_wall",
+    "item:immersive_weathering:mossy_stone",
+    "item:minecraft:chiseled_stone_bricks",
+    "item:ceramicshears:clay_shears_part",
+    {
+      "type": "fluid",
+      "id": "toolworking:molten_glass",
+      "amount": 810
+    },
+    "item:minecraft:glass",
+    "item:createmetallurgy:graphite",
+    "item:supplementaries:bellows",
+    "#item:toolworking:hammers",
+    "item:createmetallurgy:graphite_blank_mold",
+    "item:createdieselgenerators:burner",
+    {
+      "type": "fluid",
+      "id": "createmetallurgy:molten_bronze",
+      "amount": 90
+    },
+    "item:create_ironworks:bronze_ingot",
+    "item:toolworking:ingot_clay_mold",
+    "item:createmetallurgy:faucet",
+    "item:createlowheated:basic_burner",
+    "item:createmetallurgy:foundry_basin",
+    "item:notreepunching:clay_brick",
+    "item:minecraft:brick",
+    "item:createmetallurgy:foundry_lid",
+    "item:createmetallurgy:refractory_mortar",
+    "item:create:andesite_alloy",
+    "item:createmetallurgy:casting_table",
+    "item:ceramicshears:ceramic_shears_part",
+    "item:ceramicshears:ceramic_shears{Damage:0}",
+    "#item:forge:sand",
+    "item:notreepunching:ceramic_bucket",
+    {
+      "type": "item",
+      "id": "notreepunching:ceramic_water_bucket",
+      "remainder": "item:notreepunching:ceramic_bucket"
+    },
+    [
+      {
+        "type": "item",
+        "id": "minecraft:water_bucket",
+        "remainder": "item:minecraft:bucket"
+      },
+      {
+        "type": "item",
+        "id": "notreepunching:ceramic_water_bucket",
+        "remainder": "item:notreepunching:ceramic_bucket"
+      }
+    ],
+    "item:minecraft:oak_planks",
+    "item:cold_sweat:waterskin",
+    "item:cold_sweat:icebox",
+    "item:cold_sweat:thermometer",
+    "item:xenomorph_types:alien_hide",
+    "item:cold_sweat:hearth",
+    "item:minecraft:campfire",
+    "item:cold_sweat:goat_fur_helmet{Damage:0}",
+    "item:thirst:clay_bowl",
+    "item:thirstcanteen:dragon_bottle",
+    "item:thirstcanteen:military_bottle",
+    "item:thirst:sand_filter",
+    "item:thirstcanteen:leather_canteen"
+  ],
+  "craft_history": [
+    "notreepunching:flint_axe",
+    "minecraft:furnace",
+    "insomnia:improvised_bed",
+    "notreepunching:flint_pickaxe",
+    "notreepunching:flint_shovel",
+    "minecraft:crafting_table",
+    "modpack:firewood_from_logs_with_flint_axe",
+    "better_campfires:firewood",
+    "notreepunching:fire_starter",
+    "notreepunching:generated/minecraft_oak_planks",
+    "notreepunching:flint_from_gravel",
+    "notreepunching:plant_string",
+    "notreepunching:plant_fiber_from_saplings_with_knife",
+    "modpack:sticks_from_firewood_with_axe",
+    "farmersdelight:flint_knife"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": [
+    "item:minecraft:goat_horn{instrument:\"minecraft:sing_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:admire_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:feel_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:seek_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:dream_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:yearn_goat_horn\"}",
+    "item:minecraft:goat_horn{instrument:\"minecraft:call_goat_horn\"}"
   ]
 }

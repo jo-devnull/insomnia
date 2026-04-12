@@ -1,6 +1,7 @@
 const default {
   result = "default"
   hostile = true
+  spawner = false
   dimension = "overworld"
 }
 
@@ -16,6 +17,13 @@ rules {
   new {
     result = "deny"
     dimension = "superflat:superflat"
+  }
+
+  new {
+    result = "deny"
+    mod { "saintsdragons" }
+    phase = "extended_safe"
+    `when` = "onjoin"
   }
 
   (deny) {
@@ -59,9 +67,14 @@ rules {
     minheight = 0
   }
 
+  (default) {
+    biometags = "modpack:always_unsafe"
+  }
+
   (deny) {
     biometags = "modpack:safe_biomes"
     minheight = 40
+    phase = "extended_safe"
   }
 }
 
@@ -71,6 +84,14 @@ phases = new Listing {
 
     conditions {
       maxdaycount = 3
+    }
+  }
+
+  new {
+    name = "extended_safe"
+
+    conditions {
+      maxdaycount = 16
     }
   }
 }
