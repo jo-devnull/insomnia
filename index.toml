@@ -657,11 +657,6 @@ hash = "dfdc0e5b98dbc9100828f39f6f1de17fd56998bfe9fe14d48db2005c988a8e8a"
 metafile = true
 
 [[files]]
-file = "mods/decoration/figura.pw.toml"
-hash = "84805a220b9c0c045c0ededa7ffc585716799e0179b3f7c929dd5622b5d61e3d"
-metafile = true
-
-[[files]]
 file = "mods/decoration/handcrafted.pw.toml"
 hash = "cab1eecd0d27269c0573fa77ef4c2461812f50aa941cceec389e50d5ad655f6f"
 metafile = true
