@@ -3,11 +3,11 @@ filename = "§6Immersive§8_§6Interfaces§8_§6Modded§8.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/zW0OkthM/versions/DneqRKyH/%C2%A76Immersive%C2%A78_%C2%A76Interfaces%C2%A78_%C2%A76Modded%C2%A78.zip"
+url = "https://cdn.modrinth.com/data/zW0OkthM/versions/6QMG8r6x/%C2%A76Immersive%C2%A78_%C2%A76Interfaces%C2%A78_%C2%A76Modded%C2%A78.zip"
 hash-format = "sha512"
-hash = "4f7af97c82e68f88c9ac01cb4b243642613a02a6d84b0e175bafd4d24b9da12f49ab77c2e7b53e972207194a63780c2307269132f4c4f6af53c1044fb03211ec"
+hash = "b8f606a9eccf5864d99e1e0d2a1cabab44dcbe52047f8f92e63dda87ebe0aa3cc2ef1df987ea1e5c1cab8227985efb4443c8a0f4b60d99a3966f2353701c023f"
 
 [update]
 [update.modrinth]
 mod-id = "zW0OkthM"
-version = "DneqRKyH"
+version = "6QMG8r6x"

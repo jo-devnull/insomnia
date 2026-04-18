@@ -1,13 +1,13 @@
 name = "MonoLib"
-filename = "../monolib-forge-1.20.1-2.1.0.jar"
+filename = "../monolib-forge-1.20.1-4.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b600741540e7a417ff851d5fe3add8014dc43f0f"
+hash = "92d27a058989632db2fff87d849ee60565660a68"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6544057
+file-id = 7936654
 project-id = 968432
