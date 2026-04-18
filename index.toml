@@ -317,6 +317,11 @@ hash = "cc56e4e8fe9bd679a355547810633fc7ac6a352fceddbfae3a051f64da4ce6df"
 metafile = true
 
 [[files]]
+file = "datapacks/wet-backapacks.pw.toml"
+hash = "b829c995d5195fbaf0d0803e8e3bb9711b5d427d9adc75ffaa7a2688337f7b53"
+metafile = true
+
+[[files]]
 file = "defaultconfigs/hourglass-server.toml"
 hash = "43e45a88286d8aa87e0681915d1f2147cb6ea79f75c1c6428161ed16e3e4705e"
 
@@ -923,7 +928,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/item-descriptions.pw.toml"
-hash = "55000603bb5b9872c40bd4e13a854a33429d3e5acc9a12d26098d88fe173ed68"
+hash = "ace74f19d320d45b1d3291e9a962d0601fabb54f1866547cafdb19bae27e07a6"
 metafile = true
 
 [[files]]

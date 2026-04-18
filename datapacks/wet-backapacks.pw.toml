@@ -1,0 +1,13 @@
+name = "Wet Backapacks"
+filename = "WetBackpacks.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lgqEhwGc/versions/3hd2nq86/WetBackpacks.zip"
+hash-format = "sha512"
+hash = "448743309b9a07c7a2e275c96ef9adf0d7a311aaea54f6c591ee5d655f0187d5a399f03b5647fa95f21dee52f0d4e7427d9e71a10a2e905cb25e2d77a34c02b2"
+
+[update]
+[update.modrinth]
+mod-id = "lgqEhwGc"
+version = "3hd2nq86"
