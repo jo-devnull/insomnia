@@ -54,7 +54,7 @@ hash = "e085dac49020171326b39c19645fa2a8399827a387874119d08a929014d1d275"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
-hash = "29a8e56da3425d99c3b09cee7ed0e12b91a69205afd4280df2235131b3f08671"
+hash = "5aa476d589acc718d98d77a2293bbb88afb13d0a724bd3e04773d2a0dfe1ba51"
 
 [[files]]
 file = "config/incontrol/phases.json"
@@ -98,7 +98,7 @@ hash = "fc1ebdb9057b250030dd4c3b288134dfec8be7b95f4037a9f79edd991b5a5061"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "f6f5db9cf2b9a295b26f8efef1b3e3dac2a083c20a6a710bf75a81d5127b0789"
+hash = "b02ceaaa0bdcd02c4df6a8556c3c84897cc90c431c7c7009653bdb1b03d01173"
 
 [[files]]
 file = "config/sanitydim/default.toml"
@@ -210,7 +210,7 @@ hash = "4d050532488b1b195a39f2c0e4528455ed8423848d11b6ea380667656230db93"
 
 [[files]]
 file = "credits.txt"
-hash = "cc0b0b216ef7f66513ac6277276bf274e2f2018e2cdc7836dada2bb0248210be"
+hash = "42ac02bc9c7f0924be2f779a85895b4f2a1538bdf4619024c7331a8dae808dc1"
 
 [[files]]
 file = "datapacks/cherry-villages.pw.toml"
@@ -317,11 +317,6 @@ hash = "cc56e4e8fe9bd679a355547810633fc7ac6a352fceddbfae3a051f64da4ce6df"
 metafile = true
 
 [[files]]
-file = "datapacks/wet-backapacks.pw.toml"
-hash = "b829c995d5195fbaf0d0803e8e3bb9711b5d427d9adc75ffaa7a2688337f7b53"
-metafile = true
-
-[[files]]
 file = "defaultconfigs/hourglass-server.toml"
 hash = "43e45a88286d8aa87e0681915d1f2147cb6ea79f75c1c6428161ed16e3e4705e"
 
@@ -370,10 +365,6 @@ file = "kubejs/config/common.properties"
 hash = "9c0e7b209d4dfb880001427452677b2b4d8b347c91b1b824fc2cd346d7ed4894"
 
 [[files]]
-file = "kubejs/server_scripts/commands.js"
-hash = "9622dfb72784b657f6e95546d47ca800d7618dd5bdd00aeab5e875d4dec3db9f"
-
-[[files]]
 file = "kubejs/server_scripts/misc.js"
 hash = "88ee956e1640f2822dec37c26b838ef4fb7304d18dc48e4ffd93ab58d64bccc7"
 
@@ -387,11 +378,11 @@ hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
 file = "minepkl/assets.pkl"
-hash = "d989339a94ead6171184cea6696990c83beba4729149e598859285f2730677c9"
+hash = "6b3cf27d50ad53ddbd61ace2ee66334820c9169b89a6b0ad461c78c266e8a8d3"
 
 [[files]]
-file = "minepkl/data.pkl"
-hash = "0a153b583bcb1c6b0b9e0a858e59dbe8fd675ce5997b6d1754c1db78936bee59"
+file = "minepkl/build.pkl"
+hash = "0ed4115f653607d1b4e319828049f6c2e2e0c5dcda71a5ce1c9c225cb84b757e"
 
 [[files]]
 file = "minepkl/external.pkl"
@@ -407,7 +398,7 @@ hash = "3fa26b4cbc2b772590d3f2b7932f5d6adca671e77f9cb957f7f7f662a5ae999c"
 
 [[files]]
 file = "minepkl/main/main.pkl"
-hash = "e160d9646d77d5853e362f2b249e70ec0d318f5ee29555066e9c0dd791ad065d"
+hash = "f04af7966057347cb6d4e4eaa21f784dc9121fbfedc3cc33b087d973d76befde"
 
 [[files]]
 file = "minepkl/main/misc/emi.pkl"
@@ -559,7 +550,7 @@ hash = "318ae2decf653e1d8bcb2fb1e6ed4bcef4d183570503d2cb29615e361cacdd2b"
 
 [[files]]
 file = "minepkl/toolworking/toolworking.pkl"
-hash = "7820049a1ff995205eef4ad8dcf56d76d7344d2fa3dabaf4a787c8ef69e3f612"
+hash = "837389147dc4f1ae7e330ee436a49e0c6b27a9d0f6f8fa7f180794cd10199c2b"
 
 [[files]]
 file = "mods/cooking/brewin-and-chewin.pw.toml"
@@ -2173,7 +2164,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/minepkl.pw.toml"
-hash = "1fbbbed69e17365794a03d1da207d93add6782080192057ff937656b762f0108"
+hash = "b8ef8e9dffc64bcf7352372b26c95ec647e9e66077b9747e440ba45cdd7eadda"
 metafile = true
 
 [[files]]
@@ -2311,10 +2302,6 @@ file = "resourcepacks/@VanillaTweaks.zip"
 hash = "622db52934292b831dd7a67bfc6ad22827fe00ce9fb228241c56a29362843aeb"
 
 [[files]]
-file = "resourcepacks/@insomnia.zip"
-hash = "1c40f66b9c13f566c4715ebd1e06423b63f7a9f7d109d0efabe6ccc6fd2ba4cc"
-
-[[files]]
 file = "resourcepacks/@integrated/assets/better_campfires/lang/pt_br.json"
 hash = "ecee0659fac024a106787b9a5e2ea011f8115fef5a348d3ed72bbdc66ae3fab4"
 
@@ -2405,6 +2392,102 @@ hash = "85ff901ebcbe6be2a200370e7776d5c8a9609b5464081318b4512c14910081e4"
 [[files]]
 file = "resourcepacks/@integrated/pack.mcmeta"
 hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
+
+[[files]]
+file = "resourcepacks/@wetbackpacks/LICENSE"
+hash = "6d489af6292662d9e36d34ce49423784984a5f6e41d7b58f49b01264df59fa03"
+
+[[files]]
+file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/lang/en_us.json"
+hash = "c5cd280890dbaf7aead4c49a67a9885542b5177aea48dc4aed473eaea76e0b93"
+
+[[files]]
+file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/models/backpacked/computer.json"
+hash = "b3b0fb3d05e25e3663a96e91554bde74c54103bb170eaed47687e573ef3b84df"
+
+[[files]]
+file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/models/backpacked/computer_straps.json"
+hash = "c3d466582b23a458cf85ffd298ea32c30e3ec8c045785b87efe9fd9c3a15c5cf"
+
+[[files]]
+file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/models/backpacked/explorer.json"
+hash = "c308373b3a977aca9e7ff39e95e89a939c89abb3ccd2612faf30191c2fe8a4af"
+
+[[files]]
+file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/models/backpacked/explorer_straps.json"
+hash = "bcc6f7043eed8d4efcc81720cdbf88e3e2ebdafacb894183c7088e97edf619cc"
+
+[[files]]
+file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/models/backpacked/micropack.json"
+hash = "25c37f7ea7231c9d7a2329b53c274047cd52110cedc0fdd4e1319b83631cbadc"
+
+[[files]]
+file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/models/backpacked/micropack_straps.json"
+hash = "b17dc65dfc91c461247d1f9c819baed4f586a1c58388d068a43c30dd33370916"
+
+[[files]]
+file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/models/backpacked/pirate_king.json"
+hash = "6eb66c3a5aa460b6a7a34f31291a501f6bc49acd6b6617d6167bd5e151638e7f"
+
+[[files]]
+file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/models/backpacked/pirate_king_straps.json"
+hash = "a680d992ade404111975dc8481355b87194f9f2e364da0ddbfe5cd3c84dd038b"
+
+[[files]]
+file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/models/backpacked/swordpack.json"
+hash = "a9b88ab699ae9f04bd84e48461534856989f4d896513c91b2cc0ec6e9adb7492"
+
+[[files]]
+file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/models/backpacked/swordpack_straps.json"
+hash = "1d0719f30bc1d514cccf4c671fef8bab59fde95d4361627043b1d9e43696c4f1"
+
+[[files]]
+file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/textures/backpack/computer.png"
+hash = "bd0fa7de0bbaa9e6f22f54aa837d5b2ead73b1bee32ae786f7077964533541b2"
+
+[[files]]
+file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/textures/backpack/explorer.png"
+hash = "87fbbd7d14145cb93a9fae9ccf949253c2ab1f5a89c38e321ca21d0c33694d0b"
+
+[[files]]
+file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/textures/backpack/micropack.png"
+hash = "d76eda9a42cf58ca8ad7587b66a849f7cb16ad7abe347a710d686e5e8c63932f"
+
+[[files]]
+file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/textures/backpack/pirate_king.png"
+hash = "c63a7449ca3c24bd7cc5c50aadba965e6c9d844fd0d3920c85e4f16d62018d33"
+
+[[files]]
+file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/textures/backpack/swordpack.png"
+hash = "f16714b11a2745755c2f2f887c491b1098b902260b67be3def84a81245a6b4f9"
+
+[[files]]
+file = "resourcepacks/@wetbackpacks/data/leans_extra_backpacks/backpacked/computer.json"
+hash = "c6f8281620c2b87cf6a94f523311eae977e420ef9a6cda8667f61be906ceca90"
+
+[[files]]
+file = "resourcepacks/@wetbackpacks/data/leans_extra_backpacks/backpacked/explorer.json"
+hash = "c88d8a78e470fad6cf553e87508db6bea48115daf09e087adeac2edefb71cf89"
+
+[[files]]
+file = "resourcepacks/@wetbackpacks/data/leans_extra_backpacks/backpacked/micropack.json"
+hash = "c6f8281620c2b87cf6a94f523311eae977e420ef9a6cda8667f61be906ceca90"
+
+[[files]]
+file = "resourcepacks/@wetbackpacks/data/leans_extra_backpacks/backpacked/pirate_king.json"
+hash = "a536767c57f22307d876e3a4e1521f4171d84f564d4974cdf85ddc551fa8c12d"
+
+[[files]]
+file = "resourcepacks/@wetbackpacks/data/leans_extra_backpacks/backpacked/swordpack.json"
+hash = "25fec9edc70a2a675387b08a8ff6d023ba90dcc477b35ebc326fad85fa69ca44"
+
+[[files]]
+file = "resourcepacks/@wetbackpacks/pack.mcmeta"
+hash = "a6a158da380cff716b7e6ac28600c2d2d86c4e6a4d963091e6c93215e1b8c3a4"
+
+[[files]]
+file = "resourcepacks/@wetbackpacks/pack.png"
+hash = "6e6a07bd07907a571751d4f54a466aeb0e1f04f585f7014cfe6ae23928929ee0"
 
 [[files]]
 file = "resourcepacks/c418-songs-only.pw.toml"

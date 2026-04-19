@@ -11,87 +11,66 @@ function getPath(path: String, type: String) =
   if (path.contains(":")) path
   else "modpack:\(type)/\(path)"
 
-function buildRecipes() = new Mapping<String, FileOutput> {
+function buildRecipes() = new {
   for (_, mod in recipes.toMap()) {
     for (key, recipe in mod.toMap()) {
-      [getPath(key, "recipes")] {
-        value = recipe
-        renderer = jsonRenderer
-      }
+      [getPath(key, "recipes")] = recipe
     }
   }
 
   for (_, list in import("recipes/remove.pkl").toMap()) {
     for (id in list) {
-      [Recipe.empty(id).getPath()] {
-        value = Recipe.empty(id)
-        renderer = jsonRenderer
-      }
+      [Recipe.empty(id).getPath()] = Recipe.empty(id)
     }
   }
 }
 
-function buildCategoryTags() = new Mapping<String, FileOutput> {
+function buildCategoryTags() = new {
   for (key, tag in categoryTags.toMap()) {
     ["category:tags/items/\(key)"] {
-      value {
-        replace = false
-        values = new Listing<String> {
-          for (modname, list in tag.mod) {
-            for (item in list) {
-              if (item.contains(":")) item else "\(modname):\(item)"
-            }
+      replace = false
+      values = new Listing<String> {
+        for (modname, list in tag.mod) {
+          for (item in list) {
+            if (item.contains(":")) item else "\(modname):\(item)"
           }
         }
       }
-
-      renderer = jsonRenderer
     }
   }
 }
 
-function buildTags() = new Mapping<String, FileOutput> {
+function buildTags() = new {
   for (key, tag in tags.toMap()) {
-    [getPath(key, "tags")] {
-      value = tag
-      renderer = jsonRenderer
-    }
+    [getPath(key, "tags")] = tag
   }
 }
 
-function buildReplacements() = new Mapping<String, FileOutput> {
+function buildReplacements() = new {
   ["oei:replacements/mod_replacements"] {
-    value {
-      for (mod, rules in replace.toMap()) {
-        for (item, inputs in rules) {
-          new {
-            matchItems = inputs
-            resultItems = "\(mod):\(item)"
-          }
+    for (mod, rules in replace.toMap()) {
+      for (item, inputs in rules) {
+        new {
+          matchItems = inputs
+          resultItems = "\(mod):\(item)"
         }
       }
     }
-
-    renderer = jsonRenderer
   }
 }
 
-function buildFishing() = new Mapping<String, FileOutput> {
+function buildFishing() = new {
   for (mod, map in fishing.toMap()) {
     for (key, val in map) {
       ["\(mod):fishing/\(key)"] {
-        value {
-          input { item = "\(mod):\(key)" }
-          result { id = if (val == "*") "\(mod):\(key)" else "\(mod):\(val)" }
-        }
-
-        renderer = jsonRenderer
+        input { item = "\(mod):\(key)" }
+        result { id = if (val == "*") "\(mod):\(key)" else "\(mod):\(val)" }
       }
     }
   }
 }
 
-function build() = new Mapping<String, FileOutput> {
+function build() = new {
   ...buildTags()
   ...buildRecipes()
   ...buildFishing()

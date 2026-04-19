@@ -15,7 +15,9 @@
         "file/Wide Mace.zip",
         "file/§3§lC418 Songs Only.zip",
         "file/Gentler Weather Sounds 2.2.0.zip",
-        "file/@insomnia.zip"
+        "file@WetBackpacks",
+        "file/@insomnia.zip",
+        "file/@toolworking.zip"
     ],
 
     "default_overrides": {
@@ -52,7 +54,9 @@
             "file/Wide Mace.zip",
             "file/§3§lC418 Songs Only.zip",
             "file/Gentler Weather Sounds 2.2.0.zip",
-            "file/@insomnia.zip"
+            "file/@wetbackpacks",
+            "file/@insomnia.zip",
+            "file/@toolworking.zip"
         ],
 
         "$$1": {

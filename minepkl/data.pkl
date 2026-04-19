@@ -1,9 +1,0 @@
-import "main/main.pkl"
-import "toolworking/toolworking.pkl"
-
-output {
-  files {
-    ...main.build()
-    ...toolworking.build()
-  }
-}

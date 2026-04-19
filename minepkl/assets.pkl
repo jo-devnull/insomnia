@@ -1,70 +1,40 @@
 import "main/misc/emi.pkl"
 import "main/tags/category/@category.pkl" as categoryTags
 
-const jsonRenderer = new JsonRenderer {}
-
-function buildLang() = new Mapping<String, FileOutput> {
+function buildLang() = new {
   ["category:lang/pt_br"] {
-    value {
-      for (key, tag in categoryTags.toMap()) {
-        ["tag.item.category.\(key)"] = tag.title
-      }
+    for (key, tag in categoryTags.toMap()) {
+      ["tag.item.category.\(key)"] = tag.title
     }
-    renderer = jsonRenderer
   }
 
   ["createlowheated:lang/pt_br"] {
-    value {
-      ["create.recipe.heat_requirement.lowheated"] = "Baixa Temp."
-    }
-
-    renderer = jsonRenderer
+    ["create.recipe.heat_requirement.lowheated"] = "Baixa Temp."
   }
 }
 
-function buildTagModels() = new Mapping<String, FileOutput> {
+function buildTagModels() = new {
   for (key, tag in categoryTags.toMap()) {
-    ["category:models/tag/item/\(key)"] {
-      value { parent = tag.icon }
-      renderer = jsonRenderer
-    }
+    ["category:models/tag/item/\(key)"] { parent = tag.icon }
   }
 }
 
-function buildAssets(mod) = new Mapping<String, FileOutput> {
+function buildAssets(mod) = new {
   for (location, val in mod.assets) {
-    [location] {
-      value = val
-      renderer = jsonRenderer
-    }
+    [location] = val
   }
 }
 
-function buildEmi() = new Mapping<String, FileOutput> {
+function buildEmi() = new {
   ["emi:recipe/filters/hidden_recipes"] {
-    value {
-      filters {
-        for (recipeType in emi.hiddenRecipeTypes) {
-          new { category = recipeType }
-        }
+    filters {
+      for (recipeType in emi.hiddenRecipeTypes) {
+        new { category = recipeType }
       }
     }
-
-    renderer = jsonRenderer
   }
 
   for (name, val in emi.stackGroups) {
-    ["insomnia:stack_groups/\(name)"] {
-      value = val
-      renderer = jsonRenderer
-    }
-  }
-}
-
-output {
-  files {
-    ...buildEmi()
-    ...buildLang()
-    ...buildTagModels()
+    ["insomnia:stack_groups/\(name)"] = val
   }
 }

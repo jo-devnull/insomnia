@@ -4,27 +4,21 @@ import "recipes/smelting.pkl"
 
 function res(path) = "toolworking:\(path)"
 
-function buildRecipes(object) = new Mapping<String, FileOutput> {
+function buildRecipes(object) = new {
   for (group, list in object.toMap()) {
     for (recipe in list) {
-      [recipe.getPath()] {
-        value = recipe
-        renderer = new JsonRenderer {}
-      }
+      [recipe.getPath()] = recipe
     }
   }
 }
 
-function buildTags(tags) = new Mapping<String, FileOutput> {
+function buildTags(tags) = new {
   for (name, items in tags.toMap()) {
-    ["toolworking:tags/items/\(name)"] {
-      value { values = items }
-      renderer = new JsonRenderer {}
-    }
+    ["toolworking:tags/items/\(name)"] { values = items }
   }
 }
 
-function build() = new Mapping<String, FileOutput> {
+function build() = new {
   ...buildTags(tags)
   ...buildRecipes(misc)
   ...buildRecipes(smelting)

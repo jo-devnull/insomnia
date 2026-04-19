@@ -2,3 +2,6 @@ Resource packs:
 
 - Vanilla Tweaks:
   https://vanillatweaks.net/
+
+- Wet Backpacks
+  https://modrinth.com/datapack/wet-backapacks
