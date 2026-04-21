@@ -1,15 +1,8 @@
 name = "minepkl"
-filename = "../minepkl-forge-0.2.1-BETA.jar"
+filename = "../minepkl-forge-1.20.1-0.3.0-BETA.jar"
 side = "both"
 
 [download]
-url = "https://github.com/jo-devnull/minepkl/releases/download/v0.2.1-FORGE/minepkl-forge-0.2.1-BETA.jar"
+url = "https://github.com/jo-devnull/minepkl/releases/download/v0.3.0-BETA/minepkl-forge-1.20.1-0.3.0-BETA.jar"
 hash-format = "sha256"
-hash = "424e1a6ed7594fb594d2fb130fa3508174867c0b74bfcf96f3163ec21b3617a8"
-
-[update]
-[update.github]
-branch = "master"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "jo-devnull/minepkl"
-tag = "v0.2.1-FORGE"
+hash = "eba49dc801e74e78d7ea81b3b9ed81091f9b22a1dcc08e33cb80ace521da5545"
