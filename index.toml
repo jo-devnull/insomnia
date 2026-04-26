@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "ESM/soundsMuffled.dat"
-hash = "a4ad01e216995d1263a9c68535a559fc526308fbc2cf16d672822c9bb1a12528"
-
-[[files]]
 file = "config/alexsmobsinteraction-client.toml"
 hash = "021faa38625a6013550a1d99e311170fb89e54206cd5768f3b1f6297a61c5c7e"
 
@@ -377,6 +373,14 @@ file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
+file = "minepkl/@lib/Recipe.pkl"
+hash = "feaad351bffe7bb5ce8074f4c92f5ebf34a0aa1e4eba0fca6d51c9d5754f0af5"
+
+[[files]]
+file = "minepkl/@lib/utils.pkl"
+hash = "3fa26b4cbc2b772590d3f2b7932f5d6adca671e77f9cb957f7f7f662a5ae999c"
+
+[[files]]
 file = "minepkl/assets.pkl"
 hash = "6b3cf27d50ad53ddbd61ace2ee66334820c9169b89a6b0ad461c78c266e8a8d3"
 
@@ -385,20 +389,20 @@ file = "minepkl/build.pkl"
 hash = "0ed4115f653607d1b4e319828049f6c2e2e0c5dcda71a5ce1c9c225cb84b757e"
 
 [[files]]
+file = "minepkl/config/esm.pkl"
+hash = "0a7fe08fc58ada569d6b360956896aab44f29b4276e678a5fc5702cf40d88de5"
+
+[[files]]
+file = "minepkl/config/incontrol.pkl"
+hash = "9f2f423806d2ff5aafaf529447bf3ab4dc2c8d2caf18f5239248a3dee20ad6ad"
+
+[[files]]
 file = "minepkl/external.pkl"
-hash = "bdf0850460536c29c50bd7e98a0c34c58b0d2bf93500e2d3aaad172c491c14ce"
-
-[[files]]
-file = "minepkl/lib/Recipe.pkl"
-hash = "feaad351bffe7bb5ce8074f4c92f5ebf34a0aa1e4eba0fca6d51c9d5754f0af5"
-
-[[files]]
-file = "minepkl/lib/utils.pkl"
-hash = "3fa26b4cbc2b772590d3f2b7932f5d6adca671e77f9cb957f7f7f662a5ae999c"
+hash = "837d9323b35b8ed99c2a81f7cb95ab2711fd3971c154c76172932a815521ea54"
 
 [[files]]
 file = "minepkl/main/main.pkl"
-hash = "f04af7966057347cb6d4e4eaa21f784dc9121fbfedc3cc33b087d973d76befde"
+hash = "fc7b376a95273c481763063193db96c8a610fccb2d478449753f11a14d4f5ded"
 
 [[files]]
 file = "minepkl/main/misc/emi.pkl"
@@ -442,7 +446,7 @@ hash = "8a1db9b3d2600ae2b54f9d9bef2b783ca82bfaeaead223b1f6bc96c0211eff3a"
 
 [[files]]
 file = "minepkl/main/tags/category/block_decoration.pkl"
-hash = "34c8f76f0f796d1102543425fbbebf9dc9c94075d9ca45f0069c3d2ec4354d04"
+hash = "3016ab8ad7f6965e774259738eba1de7835680e2871abdf47dce745b0c981dc8"
 
 [[files]]
 file = "minepkl/main/tags/category/brewing.pkl"
@@ -450,7 +454,7 @@ hash = "ae648aecfec19b0fb407f39960e11262ba6db373584b59d05e488498f92869aa"
 
 [[files]]
 file = "minepkl/main/tags/category/carpentry.pkl"
-hash = "4e75cd2ec9b9a48748538d93740ddca128776cb76c4aef62fa42d8fd942128a6"
+hash = "e3e2a80005081420e8043431d1b7d4d32f3fa2a0c841f2128343f23870649310"
 
 [[files]]
 file = "minepkl/main/tags/category/construction.pkl"
@@ -462,7 +466,7 @@ hash = "baadd9992992445b60718c8671af590b3d278a49e538767c695e534b8ad2ce24"
 
 [[files]]
 file = "minepkl/main/tags/category/decoration.pkl"
-hash = "5e3449a75f73be824524680b2edbc06c90f58a3c3334276f1cd0783b5c39f458"
+hash = "741a76ad6753f9da7b1ffe07c9c52ae46046f2a876e128e2f14e6291cb1f3755"
 
 [[files]]
 file = "minepkl/main/tags/category/enchanting.pkl"
@@ -490,7 +494,7 @@ hash = "fc67a0bdb94907aba80ad2f8803871094caf9ce37af79c04f49753049335f1f9"
 
 [[files]]
 file = "minepkl/main/tags/category/furniture.pkl"
-hash = "361b4394ccbdf6e1d1997f1218bb12185b8550bb1151bab5ed10372b09cc4772"
+hash = "8cc50966bf226490e2d182d43034f32ea6a639f7d2a86444e03a8c8208c084a4"
 
 [[files]]
 file = "minepkl/main/tags/category/masonry.pkl"
@@ -510,7 +514,7 @@ hash = "33df87cee65bb6c69f8d91b3bd3903df3dffd9b47700db527e91531e715dd9d0"
 
 [[files]]
 file = "minepkl/main/tags/category/storage.pkl"
-hash = "f888042498d8253351d75805ef6d3731608d91832bdf1f1aa3b7e4c609d0982f"
+hash = "85605519622b5770c27f4d9ea850830f5dc14febfbdf8901fa4a55b1016ccc3f"
 
 [[files]]
 file = "minepkl/main/tags/category/tools.pkl"
@@ -538,11 +542,11 @@ hash = "4f2304a867dc21cf3727f02a966c2b95e9242d951faa02d05d22aafd0206f06a"
 
 [[files]]
 file = "minepkl/toolworking/recipes/misc.pkl"
-hash = "d751cf3469f83589001fea72d12a5fdf8f89e69d26166f9e144077ae069d4eb6"
+hash = "a3455f63a26ebee050c36da8addec38d9c1245acdb986af75525ad695e47fa2d"
 
 [[files]]
 file = "minepkl/toolworking/recipes/smelting.pkl"
-hash = "ae13ca345fb080b9d7308aa7aed9e4cf512168d591350395ef477f053d25fa21"
+hash = "033414620c20258ccfaf5cf818fc42a47edd0a6627aa1e1a31bab720587b5a52"
 
 [[files]]
 file = "minepkl/toolworking/tags.pkl"

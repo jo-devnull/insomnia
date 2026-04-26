@@ -1,4 +1,4 @@
-import ".../lib/Recipe.pkl"
+import ".../@lib/Recipe.pkl"
 import "misc/fishing.pkl"
 import "tags/misc.pkl" as tags
 import* "recipes/*.pkl" as recipes

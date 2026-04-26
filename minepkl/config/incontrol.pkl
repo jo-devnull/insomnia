@@ -1,0 +1,97 @@
+const default {
+  result = "default"
+  hostile = true
+  spawner = false
+  dimension = "overworld"
+}
+
+const allow = (default) {
+  result = "allow"
+}
+
+const deny = (default) {
+  result = "deny"
+}
+
+rules {
+  new {
+    result = "deny"
+    dimension = "superflat:superflat"
+  }
+
+  new {
+    result = "deny"
+    mod { "saintsdragons" }
+    phase = "extended_safe"
+    `when` = "onjoin"
+  }
+
+  (deny) {
+    phase = "safe_phase"
+    minheight = 27
+  }
+
+  (deny) {
+    mod {
+      "zoniex"
+    }
+
+    biome {
+      "alexscaves:candy_cavity"
+      "alexscaves:abyssal_chasm"
+      "alexscaves:forlorn_hollows"
+      "alexscaves:magnetic_caves"
+      "alexscaves:primordial_caves"
+      "alexscaves:toxic_caves"
+    }
+  }
+
+  (default) {
+    lunar {
+      "enhancedcelestials:blood_moon"
+      "enhancedcelestials:super_blood_moon"
+    }
+  }
+
+  (deny) {
+    lunar {
+      "enhancedcelestials:blue_moon"
+    }
+
+    minheight = 27
+  }
+
+  (deny) {
+    mod = "fromtheshadows"
+    biometags = "forge:is_cave"
+    minheight = 0
+  }
+
+  (default) {
+    biometags = "modpack:always_unsafe"
+  }
+
+  (deny) {
+    biometags = "modpack:safe_biomes"
+    minheight = 40
+    phase = "extended_safe"
+  }
+}
+
+phases = new Listing {
+  new {
+    name = "safe_phase"
+
+    conditions {
+      maxdaycount = 3
+    }
+  }
+
+  new {
+    name = "extended_safe"
+
+    conditions {
+      maxdaycount = 16
+    }
+  }
+}

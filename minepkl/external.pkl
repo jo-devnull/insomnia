@@ -1,6 +1,6 @@
+import "./@lib/utils.pkl" as utils
+import "config/incontrol.pkl" as incontrol
 import "main/tags/category/@category.pkl" as categoryTags
-import "lib/utils.pkl" as utils
-import "main/misc/incontrol.pkl" as incontrol
 
 function buildEmi() = new Mapping<String, FileOutput> {
   ["emi.json"] {
@@ -35,5 +35,10 @@ output {
   files {
     ...buildEmi()
     ...buildIncontrol()
+
+    ["ESM/soundsMuffled.dat"] {
+      value = import("config/esm.pkl")
+      renderer = new JsonRenderer {}
+    }
   }
 }
