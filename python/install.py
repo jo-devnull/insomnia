@@ -4,6 +4,7 @@ import shutil
 
 from pathlib import Path
 from subprocess import run
+from urllib.parse import urlsplit
 
 ROOT = Path(os.getcwd())
 
@@ -15,10 +16,10 @@ def platform_of(url: str):
     elif "github.com" in url:
         return "github"
     else:
-        raise ValueError("Unsupported platform")
+        return "url"
 
 def is_mod(type: str):
-    return not type.endswith("packs")
+    return not type.endswith("packs") and type != "avatars"
 
 def install(type: str, url: str):
     platform = platform_of(url)
@@ -39,11 +40,11 @@ def install(type: str, url: str):
             if modname in url:
                 modfile = file
 
-            text = file.read_text()
+            text = file.read_text(encoding='utf-8')
             text = text.replace('filename = "', 'filename = "../')
             text = text.replace('side = "server"', 'side = "both"')
 
-            file.write_text(text)
+            file.write_text(text, encoding='utf-8')
 
         if modfile == None or not modfile.exists():
             raise FileNotFoundError("Mod not found")
@@ -56,17 +57,23 @@ def install(type: str, url: str):
 
             if not libpath.exists() and file != modfile:
                 shutil.move(file, libpath)
-
     else:
-        if type == "datapcak":
-            type = "resourcepacks/@required_data"
+        dir = type
 
-        run(f"packwiz.exe -y {platform} add {url} --meta-folder {type}", shell=True)
+        if type == "avatars":
+            dir = "figura/avatars"
+
+        if platform == "url":
+            name = Path(urlsplit(url).path).stem
+            run(["packwiz.exe", "-y", platform, "add", name, url, "--meta-folder", dir])
+
+        else:
+            run(["packwiz.exe", "-y", platform, "add", url, "--meta-folder", dir])
 
     if tempdir.exists():
         shutil.rmtree(".temp")
 
-    run(f"packwiz.exe refresh", shell=True)
+    run(["packwiz.exe", "refresh"])
 
 if __name__ == "__main__":
     urls = [path.strip() for path in sys.argv[2].split(";")]

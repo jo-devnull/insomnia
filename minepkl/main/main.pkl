@@ -3,6 +3,7 @@ import "misc/fishing.pkl"
 import "tags/misc.pkl" as tags
 import* "recipes/*.pkl" as recipes
 import "misc/replace.pkl"
+
 import "tags/category/@category.pkl" as categoryTags
 
 const jsonRenderer = new JsonRenderer {}

@@ -4,6 +4,11 @@ minecraft {
   "#forge:armor/chestplates"
   "#forge:armor/leggings"
   "#forge:armor/boots"
+
+  "#minecraft:head_armor"
+  "#minecraft:chest_armor"
+  "#minecraft:leg_armor"
+  "#minecraft:foot_armor"
 }
 
 immersive_armors {
