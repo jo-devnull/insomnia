@@ -2613,6 +2613,22 @@ hash = "04068eb4e791f540e90b43efac083243672ed3f0999754bca09ec7b1b49c9c3a"
 metafile = true
 
 [[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt"
+hash = "cb75369d77375fd7d9ab3ca9418df0750acb7fe37ccb8aac50a907bc4b39a0ab"
+
+[[files]]
+file = "shaderpacks/Glimmer-v1.5.2.zip.txt"
+hash = "300c3a665e748c134e4d39c5e541d5128c5f102cc4ebc1767a19a9dabb9a94f8"
+
+[[files]]
+file = "shaderpacks/I Like Vanilla v1.3.5.zip.txt"
+hash = "6b16b0fd8d254aaffb35955d1876f8c69d4d328bb9cb5d4df119872da8b4eadd"
+
+[[files]]
+file = "shaderpacks/Spooklementary_v2.0.4.zip.txt"
+hash = "c8ad743f0d23969e54e7025ffdf1e5fe7f9d44f9dc5ca509c06aae0d11adee58"
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
 metafile = true
@@ -2625,4 +2641,9 @@ metafile = true
 [[files]]
 file = "shaderpacks/i-like-vanilla.pw.toml"
 hash = "ba84e95d5df9b93a2d04eeedae0b2f76166f2e44226cb1a22884934069dc5601"
+metafile = true
+
+[[files]]
+file = "shaderpacks/spooklementary.pw.toml"
+hash = "98d266a803313736dee1d42d73779e8f50841a3d17f69b06dc2096f4c1b44ebe"
 metafile = true
