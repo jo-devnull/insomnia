@@ -1,0 +1,8 @@
+name = "horror-songpack"
+filename = "@Horror.Songpack.zip"
+side = "both"
+
+[download]
+url = "https://github.com/jo-devnull/insomnia/releases/download/v0.5.0/@Horror.Songpack.zip"
+hash-format = "sha256"
+hash = "f857336ad184af5009042c9c1660df01e202cd4c0d0cc03b4814c00c20709219"

@@ -1,0 +1,13 @@
+name = "Pale Garden Panorama with Shaders"
+filename = "1.21.4 Panorama with Shaders v2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/56akv6PC/versions/ztJD1rCc/1.21.4%20Panorama%20with%20Shaders%20v2.zip"
+hash-format = "sha512"
+hash = "f7a6ec1700eff0490130e03eb24c3c9851c3abd23e8d14c7989003e5250b59367fa117b8269b692f312670d4aa13c226cf47f715d87cc6f300f2d0ac4806e41e"
+
+[update]
+[update.modrinth]
+mod-id = "56akv6PC"
+version = "ztJD1rCc"

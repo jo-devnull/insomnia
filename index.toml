@@ -98,7 +98,7 @@ hash = "fc1ebdb9057b250030dd4c3b288134dfec8be7b95f4037a9f79edd991b5a5061"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "b02ceaaa0bdcd02c4df6a8556c3c84897cc90c431c7c7009653bdb1b03d01173"
+hash = "8048362baf87686b7d2bb3105dc0fe0c879086a7ede9ba0deaac5902ea7cd795"
 
 [[files]]
 file = "config/sanitydim/default.toml"
@@ -681,6 +681,11 @@ hash = "99151b223dc74ce5f862abcdd96bf5a9d0619606e9798da9c56a935253624eaf"
 metafile = true
 
 [[files]]
+file = "mods/decoration/oculus.pw.toml"
+hash = "a6e61dd6a3c72cebae8be048f90bfe15742dfe27ea4d80fc2c4244e245bbc62c"
+metafile = true
+
+[[files]]
 file = "mods/decoration/particular-reforged.pw.toml"
 hash = "d9662ed0c68e510fbbad50840fbbc129f9ada1c212f88ae34b6eeeba350a8014"
 metafile = true
@@ -793,11 +798,6 @@ metafile = true
 [[files]]
 file = "mods/dependency/bots-lib.pw.toml"
 hash = "3ffe175792af6932da12208cf32401fe761081b6f9640efa6ed9b9c1f823fc09"
-metafile = true
-
-[[files]]
-file = "mods/dependency/caelus.pw.toml"
-hash = "0d073b396ec842c34f9c68285378956d857476df5dc582ab7803839af3e6c447"
 metafile = true
 
 [[files]]
@@ -1566,6 +1566,11 @@ hash = "afb235d1c7d910384139e1316d4f03695bf1f37ecb23c22e098e1ca725a4321d"
 metafile = true
 
 [[files]]
+file = "mods/misc/reactive-music.pw.toml"
+hash = "9171a0a5c7765e640a5e50b95fc2dbb63c06e306718f91ac525145f65d804827"
+metafile = true
+
+[[files]]
 file = "mods/misc/responsive-shields.pw.toml"
 hash = "6567ad0aca62571be444a273fecaf30663be11bc393f28ed04ff7d636474a90c"
 metafile = true
@@ -1791,6 +1796,11 @@ hash = "8a438e66c758f28e19aa7687aa40becb21f74fbfa6c719c1c70d947ad174ffa4"
 metafile = true
 
 [[files]]
+file = "mods/performance/colorwheel.pw.toml"
+hash = "102dd0f2cf39e58b3f5e5390f3685b1950911736c0e9e6281a4bca528f44fd11"
+metafile = true
+
+[[files]]
 file = "mods/performance/connectivity.pw.toml"
 hash = "534e0e61295910efa5001430641a8b1720905e6e02b3df7585edfb8dd430ff50"
 metafile = true
@@ -1803,6 +1813,11 @@ metafile = true
 [[files]]
 file = "mods/performance/embeddium.pw.toml"
 hash = "4b9930bbefbf7f91c53ccdea60cfbd8ae2e3b476f07f5cc948b2bd905f3d6fb7"
+metafile = true
+
+[[files]]
+file = "mods/performance/entityculling.pw.toml"
+hash = "e821d37caa2df65bac513a4c63f47ad5c1051de9a9cc32520ddd00cdf850e607"
 metafile = true
 
 [[files]]
@@ -2533,6 +2548,11 @@ hash = "dbcf037cfc9dbbc387d2689cee6693896cedf9b632a4047d6163eaa115b29f61"
 metafile = true
 
 [[files]]
+file = "resourcepacks/horror-songpack.pw.toml"
+hash = "fb97448103a45c3257bd331dd87b38bbbae0b38b6f341b407b7a07d73a66fa4d"
+metafile = true
+
+[[files]]
 file = "resourcepacks/immersive-interfaces-mod-support-unofficial.pw.toml"
 hash = "046d887c022acb824b40ff0126cc1ab387f0846188b1b8968c7280b887a5f68c"
 metafile = true
@@ -2543,24 +2563,13 @@ hash = "c15efd64289159580f0997ace2c8b1b21ee81669417935aa31da1d0f0322951d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/insomnia_music/ReactiveMusic.yml"
-hash = "5dcae66ec42dc774852e7e2e314d4e0b9f0f72062970bb61bbbec53e6e9fe85e"
-
-[[files]]
-file = "resourcepacks/insomnia_music/credits.txt"
-hash = "806d0cc4887cfc1c3281119bd05a2cc149361ff4b33814229a9a9e1f482f0c87"
-
-[[files]]
-file = "resourcepacks/insomnia_music/music/Gathering Darkness.mp3"
-hash = "62d9f8a01262f351a7f02c32fae217a9cb32dd5aa1fc85c0bcb8c325a2663970"
-
-[[files]]
-file = "resourcepacks/insomnia_music/pack.mcmeta"
-hash = "919ba8ac6811bf7900a1fb41db18252054b3da3be9683b02c697a52c0b2c450f"
-
-[[files]]
 file = "resourcepacks/no-enchant-glint.pw.toml"
 hash = "d46c1e7989d2af9e8b115cf7923e4dbe449e32e1aa5b58492ac27f17bc985837"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pale-garden-panorama-with-shaders.pw.toml"
+hash = "6e4f076ebd0f0513413e5b37f72787c60bf2e2d88fa19e5c074d2bdc2fd9d8f6"
 metafile = true
 
 [[files]]
@@ -2606,4 +2615,14 @@ metafile = true
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/glimmer-shaders.pw.toml"
+hash = "84c1accef6768a316d35ea643f420a98183b01bd7948a314676315491b80ecbb"
+metafile = true
+
+[[files]]
+file = "shaderpacks/i-like-vanilla.pw.toml"
+hash = "ba84e95d5df9b93a2d04eeedae0b2f76166f2e44226cb1a22884934069dc5601"
 metafile = true

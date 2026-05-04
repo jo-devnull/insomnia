@@ -15,6 +15,7 @@
         "file/Wide Mace.zip",
         "file/§3§lC418 Songs Only.zip",
         "file/Gentler Weather Sounds 2.2.0.zip",
+        "file/1.21.4 Panorama with Shaders v2.zip",
         "file@WetBackpacks",
         "file/@insomnia.zip",
         "file/@toolworking.zip"
@@ -54,6 +55,7 @@
             "file/Wide Mace.zip",
             "file/§3§lC418 Songs Only.zip",
             "file/Gentler Weather Sounds 2.2.0.zip",
+            "file/1.21.4 Panorama with Shaders v2.zip",
             "file/@wetbackpacks",
             "file/@insomnia.zip",
             "file/@toolworking.zip"
@@ -62,6 +64,8 @@
         "$$1": {
             "hidden": true,
             "required": true
-        }
+        },
+
+        "2": ["file/@Horror Songpack.zip"], "$$2": { "hidden": true }
     }
 }

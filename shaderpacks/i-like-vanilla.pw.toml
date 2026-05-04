@@ -1,0 +1,13 @@
+name = "I Like Vanilla"
+filename = "I Like Vanilla v1.3.5.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DoODk4HD/versions/5XZ87HwT/I%20Like%20Vanilla%20v1.3.5.zip"
+hash-format = "sha512"
+hash = "33f380375dafb4622604213d2a1a113cda0c4e4045d159d27cdc63d3401e3767d0d2aeb30e2a0ba84fadb334d09525ee8ac0704300104ef8959abef6385d2641"
+
+[update]
+[update.modrinth]
+mod-id = "DoODk4HD"
+version = "5XZ87HwT"
