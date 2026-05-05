@@ -1567,7 +1567,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/reactive-music.pw.toml"
-hash = "9171a0a5c7765e640a5e50b95fc2dbb63c06e306718f91ac525145f65d804827"
+hash = "1bbb3211fd8b1ce654ac9824891a81de07e919284a7b982f2c34cd5b0b4f7b59"
 metafile = true
 
 [[files]]
@@ -1671,6 +1671,11 @@ hash = "1357dfcf6930fcee7b60ac832133c33688aa63f2339e7cdea053757fed8291ed"
 metafile = true
 
 [[files]]
+file = "mods/mobs/cosy-critters.pw.toml"
+hash = "646fc0b5861dae6b08ad7a0aa2db41a71561d134d02879cb76f9e7d60a132e0d"
+metafile = true
+
+[[files]]
 file = "mods/mobs/critters-and-companions.pw.toml"
 hash = "64058069f136312e3349d8d7b0d3fa07e1063948c1e5d5f600c39634d4a88b31"
 metafile = true
@@ -1738,6 +1743,11 @@ metafile = true
 [[files]]
 file = "mods/mobs/nyfs-spiders.pw.toml"
 hash = "7345ca030199ac72bbca28135b1a467df9656b946b22850d2de16a19baac4ee3"
+metafile = true
+
+[[files]]
+file = "mods/mobs/onlylooking-updated.pw.toml"
+hash = "2e748879c19b1f20ffb4ae50209c713f15520c29ebce6f1eff77da3336740ecd"
 metafile = true
 
 [[files]]

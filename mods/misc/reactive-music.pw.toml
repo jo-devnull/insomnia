@@ -11,3 +11,8 @@ hash = "d484f77a2de2f22d3aea64cdfffe147a0b70c206bcdeb5dc90d1050786e25ae52025942a
 [update.modrinth]
 mod-id = "Bqnfeesx"
 version = "z4GVPmVF"
+
+[option]
+optional = true
+default = true
+description = "Ative este modo para usar a trilha sonora de terror"
