@@ -12,7 +12,7 @@ hash = "cfd12eb9f566d4b40139e82d3d6c46107d92c4f9b7ecbfecd146f4510d760b1667ee32b9
 mod-id = "BzHgFoGz"
 version = "WPMWOZEv"
 
-[options]
+[option]
 optional = true
 default = true
 description = "Ative este mod se planejar usar Shaders (requer Oculus)"

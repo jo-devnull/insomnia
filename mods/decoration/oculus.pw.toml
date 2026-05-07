@@ -12,7 +12,7 @@ hash = "1bb4ac77400d6684347988ed298a692c2cb15cf7923693607eb8739b171a20fef7412259
 mod-id = "GchcoXML"
 version = "iQ1SwGc3"
 
-[options]
+[option]
 optional = true
 default = true
 description = "Ative este mod se planejar usar Shaders"

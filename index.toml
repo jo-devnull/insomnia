@@ -694,7 +694,7 @@ metafile = true
 
 [[files]]
 file = "mods/decoration/oculus.pw.toml"
-hash = "a6e61dd6a3c72cebae8be048f90bfe15742dfe27ea4d80fc2c4244e245bbc62c"
+hash = "9de286c5d8397dfd8415e13ba1a8a893973a56240aac4e28329a5a7cbc693074"
 metafile = true
 
 [[files]]
@@ -1349,7 +1349,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/automobility.pw.toml"
-hash = "4e969399064d3cd8962adc2f8a52b1172aaa5f69fc97b56557213c14f48155ee"
+hash = "3774aa450a17ec506ff817b750f4af0332de66ee68ec33bdf98831e4ca92b109"
 metafile = true
 
 [[files]]
@@ -1548,6 +1548,11 @@ hash = "9108297ff07845941f1cc01b3d7e36cca9c6615410aa955080e289bcaa55316c"
 metafile = true
 
 [[files]]
+file = "mods/misc/personality.pw.toml"
+hash = "d83830e20c4cf2b361ab77540eef79282616b6b167272079228f9a5d3139fabb"
+metafile = true
+
+[[files]]
 file = "mods/misc/pick-up-notifier.pw.toml"
 hash = "f5c825f17af15693d96da83506fe030ac5cafd6777d063273e857b71edc2652d"
 metafile = true
@@ -1585,6 +1590,11 @@ metafile = true
 [[files]]
 file = "mods/misc/responsive-shields.pw.toml"
 hash = "6567ad0aca62571be444a273fecaf30663be11bc393f28ed04ff7d636474a90c"
+metafile = true
+
+[[files]]
+file = "mods/misc/riautomobility.pw.toml"
+hash = "01734bd80c7d1cbbf6ff4423c57985eea5627dbaf30519ab317b2d137de75b90"
 metafile = true
 
 [[files]]
@@ -1640,6 +1650,11 @@ metafile = true
 [[files]]
 file = "mods/misc/yung-structures-addon-for-loot-integrations.pw.toml"
 hash = "98c9220ce02fdd695521ea3331107bbc673127c29f5c75d94b818e7f5426bf27"
+metafile = true
+
+[[files]]
+file = "mods/mobs/ai-myhs-plants-vs-zombies.pw.toml"
+hash = "9a11d3589b62c01f1ed7a35b8cfb618da5fd0586952c7bf09fc65d4600f206fb"
 metafile = true
 
 [[files]]
@@ -1819,7 +1834,7 @@ metafile = true
 
 [[files]]
 file = "mods/performance/colorwheel.pw.toml"
-hash = "102dd0f2cf39e58b3f5e5390f3685b1950911736c0e9e6281a4bca528f44fd11"
+hash = "2b883347baf870282f7a3ab14ec5d0128261387598ba0578fe8f454ec1499443"
 metafile = true
 
 [[files]]
