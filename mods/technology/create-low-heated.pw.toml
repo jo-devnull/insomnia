@@ -1,13 +1,13 @@
 name = "Create Low-Heated"
-filename = "../createlowheated-forge-1.20.1-6.0.8-4.jar"
+filename = "../createlowheated-forge-1.20.1-6.0.8-5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hd0gHVlC/versions/Vp7W4GHf/createlowheated-forge-1.20.1-6.0.8-4.jar"
+url = "https://cdn.modrinth.com/data/hd0gHVlC/versions/23Fy0Btv/createlowheated-forge-1.20.1-6.0.8-5.jar"
 hash-format = "sha512"
-hash = "755c92a6686bb78ac28e694bb49b98563c3870c06bdc617b2ddb1af60e0505351c759950f9b65ac4e23423d1fca6fabe028f65c7e02fe14f77bf741acfcc659e"
+hash = "766664d52d96a8e2d818ccb55253eaaddaff949e5bfa857c75188df7a681b203c219f280bbcaa1d653ce6760ecbf8c36881f880692600e18bbb26cef7857fe0f"
 
 [update]
 [update.modrinth]
 mod-id = "hd0gHVlC"
-version = "Vp7W4GHf"
+version = "23Fy0Btv"

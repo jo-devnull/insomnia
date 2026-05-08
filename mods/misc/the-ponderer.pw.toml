@@ -1,0 +1,13 @@
+name = "Ponderer - 思索者"
+filename = "../ponderer-1.20.1-forge-1.8.2-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/voXQB5Hr/versions/AB4Y1Sfs/ponderer-1.20.1-forge-1.8.2-all.jar"
+hash-format = "sha512"
+hash = "15b1e4fe1d7c67ba4452303a129ad8eb1dc8cb8856776c6509b70afae8e72a0f846603031fb7718c564bb43009f835656cdbcc498d21dc688e8cfc4f5685df3c"
+
+[update]
+[update.modrinth]
+mod-id = "voXQB5Hr"
+version = "AB4Y1Sfs"

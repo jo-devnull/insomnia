@@ -1,13 +1,13 @@
 name = "Homesteads - Villager Expansion & New Professions"
-filename = "../homesteads-2.0.0-for-forge-1.20.1.jar"
+filename = "../homesteads-2.0.1-for-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "400864ce3828b6851fa28f85cc0f965e69cce7b3"
+hash = "2ed1aea981c17a2bc53e9cd72ee6480fec4f513c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7694404
+file-id = 7970831
 project-id = 1336255

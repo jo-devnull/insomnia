@@ -1,13 +1,13 @@
 name = "Rustic Delight"
-filename = "../rusticdelight-forge-1.20.1-1.5.1.jar"
+filename = "../rusticdelight-forge-1.20.1-1.6.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/foa4fGIH/versions/nEj7qAPJ/rusticdelight-forge-1.20.1-1.5.1.jar"
+url = "https://cdn.modrinth.com/data/foa4fGIH/versions/zliUc7K6/rusticdelight-forge-1.20.1-1.6.0.jar"
 hash-format = "sha512"
-hash = "982d6066a8f929de697e71a21e36fc9b9a9e475ae335bfa9df3ab48b79f6ee27d694c732abe1c67eb41da38a67e0f041d70d00bf9b20835a378643f1c9d0f2c4"
+hash = "9589c37ddc1858c52764b17f5015ec6966c285447664ceac8a74b22c11f593db3d8e4ffff5172de8adf1c20d23a15b3d8793d1066ac3849f7c30becffbdf318a"
 
 [update]
 [update.modrinth]
 mod-id = "foa4fGIH"
-version = "nEj7qAPJ"
+version = "zliUc7K6"

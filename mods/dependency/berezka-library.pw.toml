@@ -1,13 +1,13 @@
 name = "Berezka's library"
-filename = "../berezka_api-1.2.9-beta5-forge-1.20.1.jar"
+filename = "../berezka_api-1.2.9-beta.10-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "82c2c8f41f265bf692014db7fba6d0dc2f047397"
+hash = "50e3eccec3938f679afba6a842dafa1862bd1a2f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7875154
+file-id = 8038397
 project-id = 1160598
