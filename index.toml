@@ -1476,6 +1476,11 @@ hash = "5aa4bf2d45a9809b095413b632e34c7120e3898e52656a32370ce0a1a434c6ab"
 metafile = true
 
 [[files]]
+file = "mods/misc/hourglass.pw.toml"
+hash = "56551a01beea4f7513f9ae1df294057378fd83e4f0c788eadd3ebd8139c324f9"
+metafile = true
+
+[[files]]
 file = "mods/misc/insomnia-tweaks.pw.toml"
 hash = "d6ea7fe14e6e3c76be8ec46dd2cc12a7949d31419a3daaacd9e33645640153aa"
 metafile = true
