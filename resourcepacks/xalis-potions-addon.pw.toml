@@ -1,13 +1,13 @@
 name = "xali's Potions - Addon"
-filename = "xali's Potions Addon v1.0.zip"
+filename = "xali's Potions Addon v1.1 for 1.21+.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/GRUV6SMM/versions/QmbWWvz7/xali%27s%20Potions%20Addon%20v1.0.zip"
+url = "https://cdn.modrinth.com/data/GRUV6SMM/versions/I2iJe2kO/xali%27s%20Potions%20Addon%20v1.1%20for%201.21%2B.zip"
 hash-format = "sha512"
-hash = "e6d961bf60644902a33f9c21b2df3535185a8af1b26fe865073d21257da5ca3f83f12bb0e1ce67a5b01ff69d1154562ebab195c4a042bdfcee200b0b7d775227"
+hash = "694168e424274ce56a4cfcf517e2d325941827e51973bee39157cec653255704a8da474992ae3f5a152d61b1f9cb5ee632c0819d58808e06e6ab272876129715"
 
 [update]
 [update.modrinth]
 mod-id = "GRUV6SMM"
-version = "QmbWWvz7"
+version = "I2iJe2kO"

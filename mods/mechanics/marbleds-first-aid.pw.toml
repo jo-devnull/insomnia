@@ -1,13 +1,13 @@
 name = "Medical Remedies (Formerly Marbled's First Aid)"
-filename = "../marbledsfirstaid-1.20.1forge-1.2.1.0.jar"
+filename = "../marbledsfirstaid-1.21.1neo-1.2.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "24316778c46c06e8d85458693fbe47d674f69fa0"
+hash = "beb70f9213dba3ab8420e478bdcda066d5b1d878"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8023446
+file-id = 8023449
 project-id = 1185929

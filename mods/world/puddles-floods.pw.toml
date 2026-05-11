@@ -1,13 +1,13 @@
 name = "Puddles & Floods"
-filename = "../puddleflood-1.1.4+1.20.1-forge.jar"
+filename = "../puddleflood-1.1.4+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d987e42fd4a9e6c761c3fbe086bb7111ead644c3"
+hash = "414ea301927685684cf8634cf6d8b45e6846ddce"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7858247
+file-id = 7858245
 project-id = 1450615

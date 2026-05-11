@@ -1,13 +1,13 @@
 name = "Hobbit House"
-filename = "../hobbit_house_-1.0.1-forge-1.20.1.jar"
+filename = "../hobbit_house_-1.0.1-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f3df1b28ddc9dfa4c664d11a91637181fb0906b6"
+hash = "0baa99404eca7613b71373d15b28a4abcc4c4870"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6497258
+file-id = 6497259
 project-id = 1193811

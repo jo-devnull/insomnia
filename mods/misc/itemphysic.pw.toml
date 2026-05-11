@@ -1,13 +1,13 @@
 name = "ItemPhysic Full"
-filename = "../ItemPhysic_FORGE_v1.8.12_mc1.20.1.jar"
+filename = "../ItemPhysic_NEOFORGE_v1.8.12_mc1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e091db4add549643378517b9f5a777cd13766c93"
+hash = "2ef4dfecfa5fa797647c7c88d37e0263f22179d0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8004878
+file-id = 8004800
 project-id = 258587

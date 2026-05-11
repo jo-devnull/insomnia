@@ -1,13 +1,13 @@
 name = "L_Ender 's Cataclysm"
-filename = "../L_Enders_Cataclysm-3.27-curios-fix.jar"
+filename = "../L_Ender's Cataclysm 1.21.1-3.27.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1ff5cd8d5bf6d20e7ac979a18ad57eb7dd831e45"
+hash = "f34a5e3994fff1953c631b87b3dfa89ed62c26dc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7934870
+file-id = 7908490
 project-id = 551586

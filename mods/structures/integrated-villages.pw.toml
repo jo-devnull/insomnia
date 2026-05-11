@@ -1,13 +1,13 @@
 name = "Integrated Villages"
-filename = "../integrated_villages-1.3.2+1.20.1-forge.jar"
+filename = "../integrated_villages-1.3.2+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d0b70444bb5312b1251a55756e9c21549419f9dd"
+hash = "0077389fff1c943010a683d246e4b077a9636452"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7830334
+file-id = 7815319
 project-id = 661376

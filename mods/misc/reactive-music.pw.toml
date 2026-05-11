@@ -1,18 +1,17 @@
 name = "Reactive Music"
-filename = "../reactivemusic-forge-1.3.0+1.20.1.jar"
+filename = "../reactivemusic-neoforge-1.3.0+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Bqnfeesx/versions/z4GVPmVF/reactivemusic-forge-1.3.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/Bqnfeesx/versions/n9oYTze1/reactivemusic-neoforge-1.3.0%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "d484f77a2de2f22d3aea64cdfffe147a0b70c206bcdeb5dc90d1050786e25ae52025942a9245b233d4d32bed4f6b7a38933dac44be8695d70626844d492e4776"
+hash = "bbab6a5d374a7260b62991422604f8b817566ed67af07d553d5fbb62c13b6c00de72cd3eb1110cbc4b29f4c4962e4d1d279af83f8c15c1fa9e8c3e8fbe542c9e"
 
 [update]
 [update.modrinth]
 mod-id = "Bqnfeesx"
-version = "z4GVPmVF"
+version = "n9oYTze1"
 
 [option]
 optional = true
-default = false
 description = "Ative este modo para usar a trilha sonora de terror"

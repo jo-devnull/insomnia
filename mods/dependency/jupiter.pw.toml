@@ -1,13 +1,13 @@
 name = "Jupiter"
-filename = "../jupiter-2.3.7-1.20.1-forge.jar"
+filename = "../jupiter-2.3.7-1.21.1-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a2d05f0e70ac59ea44f44642f94c0f99f4e80417"
+hash = "569fb484ea5c8e8d690945ad4cd132131a719751"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7738299
+file-id = 7738312
 project-id = 1072905

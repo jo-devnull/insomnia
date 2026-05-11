@@ -1,13 +1,13 @@
 name = "STRAYED FATES: Forsaken"
-filename = "strayed-fates-forsaken-v1.1.3.2.jar"
+filename = "strayed-fates-forsaken-v2.0.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3GGOgUqD/versions/XScJRlAB/strayed-fates-forsaken-v1.1.3.2.jar"
-hash-format = "sha1"
-hash = "87d40513a2b39ceb0a8654f9ff1a2d7d305f3eee"
+url = "https://cdn.modrinth.com/data/3GGOgUqD/versions/wYbDArxQ/strayed-fates-forsaken-v2.0.0.2.jar"
+hash-format = "sha512"
+hash = "df314995b28abe5d1bcb3080e3b351cf27decdfee7df802edfb6feda9ac560f9bc973cf8e263c11ecd97b81b9dda3eecffcee3a5c586397d0ce4a857663af988"
 
 [update]
 [update.modrinth]
 mod-id = "3GGOgUqD"
-version = "XScJRlAB"
+version = "wYbDArxQ"

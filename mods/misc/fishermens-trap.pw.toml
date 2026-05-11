@@ -1,13 +1,13 @@
 name = "Fishermen's Trap [Neo/Fabric]"
-filename = "../fishermens_trap-2.1.4.jar"
+filename = "../fishermens_trap-Neoforge-1.21.1-3.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ltRggnDx/versions/1zultZuQ/fishermens_trap-2.1.4.jar"
+url = "https://cdn.modrinth.com/data/ltRggnDx/versions/wvVNJYZw/fishermens_trap-Neoforge-1.21.1-3.1.0.jar"
 hash-format = "sha512"
-hash = "e45cc1e09d13da0256420a8c7ef6d6643719cdee217f2b961e01c3dc20ef48d7170b9645fb35b1e8280ca3dfb40ddbacb51a3be7945ad8db3c46e08e0d6a32bf"
+hash = "77bf2a24e645101de8961132626b8e0c29e1cc03fbbac5e4674b240e023760d81866d02994110de320e27a29d26ae3fd23678bbb84f34fad620f235984c1c03f"
 
 [update]
 [update.modrinth]
 mod-id = "ltRggnDx"
-version = "1zultZuQ"
+version = "wvVNJYZw"

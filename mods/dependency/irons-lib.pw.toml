@@ -1,13 +1,13 @@
 name = "Iron's Lib"
-filename = "../irons_lib-1.20.1-1.0.2.jar"
+filename = "../irons_lib-1.21.1-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9nfaJPtX/versions/FPYSRrdq/irons_lib-1.20.1-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/9nfaJPtX/versions/sRMMFgei/irons_lib-1.21.1-1.0.2.jar"
 hash-format = "sha512"
-hash = "c3aabab6b8f674270411a286f86605bfb50f752ea22e38e25aabb1ac127c6c09a60119d4bc18282ef03280406e41d170390e9cc1d63a1b84e4f89e6396b4f3d7"
+hash = "41aaf569abdfa6947ce72c076242b7d794307f37696350a3967e46a7d7390fc3569ce41335497d92e897d555be02c8b878ca43a0a7de039d262d26aedafd013e"
 
 [update]
 [update.modrinth]
 mod-id = "9nfaJPtX"
-version = "FPYSRrdq"
+version = "sRMMFgei"

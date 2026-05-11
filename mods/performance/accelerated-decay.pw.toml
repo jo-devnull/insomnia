@@ -1,13 +1,13 @@
 name = "Accelerated Decay"
-filename = "../accelerated-decay-forge-3.0.1+mc1.20.1.jar"
+filename = "../accelerated-decay-neoforge-21.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "89c85950e991cac0d8a17c46ac8fdc221acc0bd7"
+hash = "b023fe4daf1379f0f4233bea02ba112f3854db3e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4863307
+file-id = 5433036
 project-id = 699872

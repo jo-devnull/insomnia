@@ -1,18 +1,17 @@
 name = "Colorwheel"
-filename = "../colorwheel-forge-1.2.4+mc1.20.1.jar"
+filename = "../colorwheel-neoforge-1.2.5+mc1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BzHgFoGz/versions/WPMWOZEv/colorwheel-forge-1.2.4%2Bmc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/BzHgFoGz/versions/qIo72EWB/colorwheel-neoforge-1.2.5%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "cfd12eb9f566d4b40139e82d3d6c46107d92c4f9b7ecbfecd146f4510d760b1667ee32b9c3dc491b65cf5ec7d52867d055d7e174f4a2c18e3a03ee05568275ed"
+hash = "1c7ae274389829e8213be1ad3387c2bdc50266badef75a497435e0afab7a1f9eefc9252d59aa6d7360091f70326fd396df6dab29e612c47a2d88fa1d85c24565"
 
 [update]
 [update.modrinth]
 mod-id = "BzHgFoGz"
-version = "WPMWOZEv"
+version = "qIo72EWB"
 
 [option]
 optional = true
-default = false
 description = "Ative este mod se planejar usar Shaders (requer Oculus)"

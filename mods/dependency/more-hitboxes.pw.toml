@@ -1,13 +1,13 @@
 name = "More Hitboxes"
-filename = "../morehitboxes-forge-1.20.1-1.9.2.jar"
+filename = "../morehitboxes-neoforge-1.21.1-1.9.4-alpha.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/BOVAW87Z/versions/dPJQUPu9/morehitboxes-forge-1.20.1-1.9.2.jar"
+url = "https://cdn.modrinth.com/data/BOVAW87Z/versions/1Cu922wS/morehitboxes-neoforge-1.21.1-1.9.4-alpha.jar"
 hash-format = "sha512"
-hash = "4540869971009de3cc2c895a61fa1b84a715245202788df7124b6f5a31b82ca9854a2f1a8f14e8033d24669557cf31469d7ce61a0a4c68e90f3cfb83acc007f9"
+hash = "0025360f2960f420894ab12d1a070ca27814c7b2e09832cb4b57da581870216aa5234d620c31e71c5f3ccc4b942aeda028834a2a934a7fbd97117074f26520eb"
 
 [update]
 [update.modrinth]
 mod-id = "BOVAW87Z"
-version = "dPJQUPu9"
+version = "1Cu922wS"

@@ -1,13 +1,13 @@
-name = "Easy Magic [Forge & Fabric]"
-filename = "../EasyMagic-v8.0.1-1.20.1-Forge.jar"
+name = "Easy Magic"
+filename = "../EasyMagic-v21.1.4-1.21.1-NeoForge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9bfb5d63ac2e03ecdab8755c968ffa25b799469b"
+hash = "bbd1d7afd2b803f6c8055b5342d581ea542e132e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4658750
+file-id = 7151100
 project-id = 456239

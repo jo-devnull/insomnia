@@ -1,13 +1,13 @@
 name = "Better Animations Collection"
-filename = "../BetterAnimationsCollection-v8.0.1-1.20.1-Forge.jar"
+filename = "../BetterAnimationsCollection-v21.1.1-1.21.1-NeoForge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "015971d9ebfda64bc11ebc9e251704469fb467c0"
+hash = "1bacea8719a1af6079bb70a135129a2cd1559423"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7041304
+file-id = 7041300
 project-id = 323976

@@ -1,13 +1,13 @@
 name = "Landmarksㅤ"
-filename = "../landmarks-forge-1.2.0-1.20.jar"
+filename = "../landmarks-neoforge-1.2.0-1.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4abf34d462d72549228449e1bbb5959826fd7407"
+hash = "ae1a2998df9d27409f829f8607b72e1995255067"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7201071
+file-id = 7201073
 project-id = 1364401

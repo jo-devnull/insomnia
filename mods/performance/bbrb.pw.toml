@@ -1,13 +1,13 @@
 name = "Better Biome Reblend"
-filename = "../betterbiomereblend-1.5.3.jar"
+filename = "../betterbiomeblend-1.5.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Xh8hkQmD/versions/6MiqZPSM/betterbiomereblend-1.5.3.jar"
+url = "https://cdn.modrinth.com/data/Xh8hkQmD/versions/HZlLCOct/betterbiomeblend-1.5.2.jar"
 hash-format = "sha512"
-hash = "2f877b970ac31097d58af739abf6a2b0e974a78293ae295c357af086ba2b7ce009795ca2c22238d418781b3d99b169df26cff800da602d084bc69799d48f6111"
+hash = "dbd8caa967f2537a61e4a8d199e6a55f27418db521d8a11f1aa77e1dcc02ea340f5077b12c4053114db886fa3b0f8168e36231c22bde292d388952f34202391e"
 
 [update]
 [update.modrinth]
 mod-id = "Xh8hkQmD"
-version = "6MiqZPSM"
+version = "HZlLCOct"

@@ -3,11 +3,11 @@ filename = "../ColdSweat-2.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uXhSmPjd/versions/E456AXVt/ColdSweat-2.4.jar"
+url = "https://cdn.modrinth.com/data/uXhSmPjd/versions/Hx2FM8dR/ColdSweat-2.4.jar"
 hash-format = "sha512"
-hash = "95421a2d56a5c3d1bb9945d29916853ccdffe5e198d2d9a83893a0347a2e76fc4df7cea9db8bf5732d3f332daa83cf3e8e356e1614b543c83218bcb6c565539f"
+hash = "0f77faae22f6b9e9c8b621c4ba82330368506dec3048175ffeabd263e8a9facfd4d1c3360f0ae46423ace3be284bb0fcba7eacc5a14bb3a2c69e06681cbd52de"
 
 [update]
 [update.modrinth]
 mod-id = "uXhSmPjd"
-version = "E456AXVt"
+version = "Hx2FM8dR"

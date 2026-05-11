@@ -1,13 +1,13 @@
 name = "EverFurnace"
-filename = "../everfurnace-1.20.1-2.2.0.jar"
+filename = "../everfurnace-neoforge-1.21.1-2.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ba5193bb9bbcad8f0c08a9580fe0cf9c59ab4d47"
+hash = "e1403bc1c40a222fc4de99a4c25cb47abab3deaa"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8054746
+file-id = 8007643
 project-id = 1155210

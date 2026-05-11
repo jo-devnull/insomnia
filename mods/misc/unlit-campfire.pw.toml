@@ -1,13 +1,13 @@
 name = "Unlit Campfire"
-filename = "../unlitcampfire-forge-1.20.1-1.9.2.1.jar"
+filename = "../unlitcampfire-neoforge-1.21-3.1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yENm0xnb/versions/xYG7R9xD/unlitcampfire-forge-1.20.1-1.9.2.1.jar"
+url = "https://cdn.modrinth.com/data/yENm0xnb/versions/b7hIkXqU/unlitcampfire-neoforge-1.21-3.1.2.2.jar"
 hash-format = "sha512"
-hash = "34c532a5990a82d7c660fe64d6266db1115d4f130f8e9982939f73019da47711c61ad82d94fe7b738e6666ea021be517ca3dc344f85772d27e8adae15ab8867c"
+hash = "00bc83a564837e139002e47d62b671a8ba4a252f5d17e72b5360f185593101a4e67e311d1d58d89b7d8d7df6fa59f6f7d8ad68894703c7a069da29963cc1cecc"
 
 [update]
 [update.modrinth]
 mod-id = "yENm0xnb"
-version = "xYG7R9xD"
+version = "b7hIkXqU"

@@ -1,13 +1,13 @@
 name = "Fresh Waystones Texture"
-filename = "waystones_update_2_1.20.1.zip"
+filename = "waystones_1.21.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BcyGAwlg/versions/7vacRuYz/waystones_update_2_1.20.1.zip"
+url = "https://cdn.modrinth.com/data/BcyGAwlg/versions/nkupeJrA/waystones_1.21.1.zip"
 hash-format = "sha512"
-hash = "1e56e272f4848b024c6c083bffbef1f2f6f089d98dfd0387a2f545df9b118dbe9afc74a9b65e0b48b626920875dd4943cf94c7c1f5aaaaa2d573116b5e95a0ac"
+hash = "a109fe717c6b9b5a250e3394474658248606d2e2bd84cb7efd9d76fbc5f67ae28ac6331454574e967907f591e34a80e1e7385ffca66dfdc06737163b4b334466"
 
 [update]
 [update.modrinth]
 mod-id = "BcyGAwlg"
-version = "7vacRuYz"
+version = "nkupeJrA"
