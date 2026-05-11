@@ -14,5 +14,5 @@ version = "z4GVPmVF"
 
 [option]
 optional = true
-default = true
+default = false
 description = "Ative este modo para usar a trilha sonora de terror"

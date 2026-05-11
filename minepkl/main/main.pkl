@@ -43,7 +43,10 @@ function buildCategoryTags() = new {
 
 function buildTags() = new {
   for (key, tag in tags.toMap()) {
-    [getPath(key, "tags")] = tag
+    [getPath(key, "tags")] = new {
+      replace = false
+      values = tag
+    }
   }
 }
 

@@ -26,6 +26,12 @@ rules {
     `when` = "onjoin"
   }
 
+  (default) {
+    structure {
+      "minecraft:pillager_outpost"
+    }
+  }
+
   (deny) {
     phase = "safe_phase"
     minheight = 27

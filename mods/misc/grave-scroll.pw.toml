@@ -1,0 +1,13 @@
+name = "The Grave Scrolls"
+filename = "../gravescroll-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6097fe8e52e3d9beb97639fbf1cccc99e531f492"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7690969
+project-id = 1448844

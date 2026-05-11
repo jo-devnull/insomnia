@@ -437,7 +437,7 @@ hash = "0a7fe08fc58ada569d6b360956896aab44f29b4276e678a5fc5702cf40d88de5"
 
 [[files]]
 file = "minepkl/config/incontrol.pkl"
-hash = "9f2f423806d2ff5aafaf529447bf3ab4dc2c8d2caf18f5239248a3dee20ad6ad"
+hash = "db4c918a19540c1b4dbca019d510a35217ea730eb304ebd4b0016251a283f635"
 
 [[files]]
 file = "minepkl/external.pkl"
@@ -445,7 +445,7 @@ hash = "837d9323b35b8ed99c2a81f7cb95ab2711fd3971c154c76172932a815521ea54"
 
 [[files]]
 file = "minepkl/main/main.pkl"
-hash = "517184e87247ee1f0795eeee38861556c844155fef56fda10a82a81db0290cf2"
+hash = "1d720e8997e1cc507716b812e40877950699d6feaab78563279998fa94454554"
 
 [[files]]
 file = "minepkl/main/misc/emi.pkl"
@@ -581,7 +581,7 @@ hash = "ca7cf46caf5882ef8ebe91d9054d406cce9381ec96ce34db5ff5d007b23020da"
 
 [[files]]
 file = "minepkl/main/tags/misc.pkl"
-hash = "4f2304a867dc21cf3727f02a966c2b95e9242d951faa02d05d22aafd0206f06a"
+hash = "1f23ddfa4f7368be5f9480a9182830c6af95af7ffd48e5e8f8c8c249e0244506"
 
 [[files]]
 file = "minepkl/toolworking/recipes/misc.pkl"
@@ -1026,7 +1026,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/oculus.pw.toml"
-hash = "e209841af1f6aacb703b76508f2c98a5d446560e6e488ac2a3b349f6b45eb00b"
+hash = "9deebfa002493fee35c274758e66eb88d0f51ee1230e966663ee8c3cbde111bf"
 metafile = true
 
 [[files]]
@@ -1326,6 +1326,16 @@ hash = "e0d4fded38e6bf0ccc4206b160b5eae7a4a82175f0bd5bfb00b836572b718085"
 metafile = true
 
 [[files]]
+file = "mods/mechanics/sword-blocking-key.pw.toml"
+hash = "7a75a4ae79a15c6b346060f14be6656bb96920e299e286899614c1177942309e"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/sword-blocking-mechanics.pw.toml"
+hash = "6769d441896f51d35674df21780e9a8bb1518c332664c79d0a4577bc71fb7f3d"
+metafile = true
+
+[[files]]
 file = "mods/mechanics/thirst-canteen.pw.toml"
 hash = "0e819736352a995131a27aed251a522bc4dccf7472b56e72be275bc42decf84e"
 metafile = true
@@ -1471,6 +1481,11 @@ hash = "e6aa1b63dd24d7b8d77906a79cf1f9461e3ebc59a971b47200435befd5d32678"
 metafile = true
 
 [[files]]
+file = "mods/misc/grave-scroll.pw.toml"
+hash = "bd8e4e3ff2e769f4c786cd7167121b3e00c22f5c038b5d15502477e80eb1d241"
+metafile = true
+
+[[files]]
 file = "mods/misc/horseman.pw.toml"
 hash = "5aa4bf2d45a9809b095413b632e34c7120e3898e52656a32370ce0a1a434c6ab"
 metafile = true
@@ -1607,7 +1622,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/reactive-music.pw.toml"
-hash = "1bbb3211fd8b1ce654ac9824891a81de07e919284a7b982f2c34cd5b0b4f7b59"
+hash = "8ff0d1e82d02f68ee1bcea0c9cd80576fdf97a900cae236e5564edf7812b0923"
 metafile = true
 
 [[files]]
@@ -1857,7 +1872,7 @@ metafile = true
 
 [[files]]
 file = "mods/performance/colorwheel.pw.toml"
-hash = "2b883347baf870282f7a3ab14ec5d0128261387598ba0578fe8f454ec1499443"
+hash = "44c9e3492a2426245e68564bf0b00ff9fc23366c11aafc88576afe3fcc0d9496"
 metafile = true
 
 [[files]]
@@ -1911,11 +1926,6 @@ hash = "56d620253a32e57af58e53193056af8bfbea46bb3bd388a715076262689a928a"
 metafile = true
 
 [[files]]
-file = "mods/performance/krypton-fnp.pw.toml"
-hash = "5026918dac8458f9b0fd7887051e5640b80f28d8c5df9cfe463b30444162c12a"
-metafile = true
-
-[[files]]
 file = "mods/performance/mobtimizations.pw.toml"
 hash = "f86bee2ea8769e15b551f82031536a3f5ed97d488a95f4c91941b608c559d10d"
 metafile = true
@@ -1943,6 +1953,11 @@ metafile = true
 [[files]]
 file = "mods/performance/quick-pack.pw.toml"
 hash = "19172487d2950a4a8e37c1f817c280df61e1b7811c1c24281dc3dc18bf983e34"
+metafile = true
+
+[[files]]
+file = "mods/performance/radium.pw.toml"
+hash = "256acc1cdee0fbb80b41592579db2477972844c43c95bad0dc78a499a3644213"
 metafile = true
 
 [[files]]
