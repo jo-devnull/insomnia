@@ -348,7 +348,7 @@ hash = "d4c025c754d3d10e1d855436a2e2626969b83d38f7b63523a0e064e26aeeb049"
 
 [[files]]
 file = "datapacks/packdata/pack.mcmeta"
-hash = "fd15bf8b2e9c1a9c6f4163a6622aab52b85a579ae0c973e7eb4b6f4acf4d790d"
+hash = "4ce6484c27090ab10bc23cf1af8441aa611c0f1046a574f1df155d45c668a402"
 
 [[files]]
 file = "datapacks/strayed-fates-forsaken.pw.toml"
@@ -2219,7 +2219,7 @@ hash = "85ff901ebcbe6be2a200370e7776d5c8a9609b5464081318b4512c14910081e4"
 
 [[files]]
 file = "resourcepacks/@integrated/pack.mcmeta"
-hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
+hash = "3e163c86db6938386a01935b5d6552eb15e5e07c977bf7ceb3ab10ab24badad8"
 
 [[files]]
 file = "resourcepacks/@wetbackpacks/LICENSE"
@@ -2311,7 +2311,7 @@ hash = "25fec9edc70a2a675387b08a8ff6d023ba90dcc477b35ebc326fad85fa69ca44"
 
 [[files]]
 file = "resourcepacks/@wetbackpacks/pack.mcmeta"
-hash = "a6a158da380cff716b7e6ac28600c2d2d86c4e6a4d963091e6c93215e1b8c3a4"
+hash = "063ba9d1c5591cdcb090c53efe992ee197edce22c7b7a3babfde0ba7ee8d36f3"
 
 [[files]]
 file = "resourcepacks/@wetbackpacks/pack.png"
