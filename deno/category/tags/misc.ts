@@ -6,7 +6,7 @@ const category = namespace("category")
 
 categoryTag(category.misc, {
     title : "Miscelâneos",
-    icon  : "coldsweat:item/thermometer"
+    icon  : "supplementaries:item/altimeter"
 })
 
 tags.item(category.misc, [

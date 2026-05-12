@@ -1,7 +1,5 @@
 import { ConfigFile } from "@lib/core/resource.ts"
 
-import * as Toml from "@std/toml"
-import * as Path from "@std/path"
 import * as Files from "@lib/core/file.ts"
 
 const pack = (name: string) => {
@@ -16,6 +14,7 @@ const required_packs = [
     "file/insomnia.zip",
     "file/vanillatweaks.zip",
 
+    pack("mace-3d"),
     pack("improved-crafting-table-squarzy"),
     pack("c418-songs-only"),
     pack("gentler-weather-sounds"),

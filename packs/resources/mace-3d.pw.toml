@@ -1,0 +1,13 @@
+name = "Mace 3D"
+filename = "Mace3D.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nrI1MI2o/versions/ZnMkgG2L/Mace3D.zip"
+hash-format = "sha512"
+hash = "3d37842b80b4cf94d9be5c6b24b1913961ad7c5a1b8de19cca730fd579c14fcfa8d4f0192e8edfa33dd829097f0e4235d4e0d45e0caa8d7767586c3f616b9337"
+
+[update]
+[update.modrinth]
+mod-id = "nrI1MI2o"
+version = "ZnMkgG2L"

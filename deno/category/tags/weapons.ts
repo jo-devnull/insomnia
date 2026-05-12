@@ -6,7 +6,7 @@ const category = namespace("category")
 
 categoryTag(category.weapons, {
     title : "Armas",
-    icon  : "simply_swords:item/iron_katana"
+    icon  : "minecraft:item/mace"
 })
 
 tags.item(category.weapons, [

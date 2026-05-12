@@ -62,7 +62,7 @@ preserve = true
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "8c6a866c2ec5482339c42b2006e872f87e24634bb17322b479abd7adc49fdc96"
+hash = "fdf305dc54427e547a0b0f863375ddf97a9d7f95f677cc02dadef4a18e35bf30"
 preserve = true
 
 [[files]]
@@ -1740,6 +1740,10 @@ hash = "15835c562728fd289b479c5d70413b9b257728c74df36e513a9b87f66b5d88d9"
 metafile = true
 
 [[files]]
+file = "packs/bundled/insomnia.zip"
+hash = "44b203661d3625332e018352b31a30a1f6b962c18cce79a28be7dd6db6eaaa7e"
+
+[[files]]
 file = "packs/bundled/integrated/assets/better_campfires/lang/pt_br.json"
 hash = "ecee0659fac024a106787b9a5e2ea011f8115fef5a348d3ed72bbdc66ae3fab4"
 
@@ -1770,6 +1774,22 @@ hash = "9a8e319d1d09cf8ad282fc295280ffa382eddaa353141395e29c9750db084636"
 [[files]]
 file = "packs/bundled/integrated/assets/fieldguide/textures/gui/fieldguide_inventory_button.png"
 hash = "9a8e319d1d09cf8ad282fc295280ffa382eddaa353141395e29c9750db084636"
+
+[[files]]
+file = "packs/bundled/integrated/assets/fieldguide/textures/gui/sprites/widget/fieldguide_button.png"
+hash = "0e4f8e6847e145e65c3600cf8f9eb295c69a376d14afc0020eb9d917cd485b0d"
+
+[[files]]
+file = "packs/bundled/integrated/assets/fieldguide/textures/gui/sprites/widget/fieldguide_button_highlighted.png"
+hash = "b0882484f9253da7a892f6c9e4aced667d8c0fecc13a8c0eac7837fa0a67f2e2"
+
+[[files]]
+file = "packs/bundled/integrated/assets/fieldguide/textures/gui/sprites/widget/fieldguide_inventory_button.png"
+hash = "28d407a2c180874b2b9e55b3e43b9c57d8d68ec48b67c880dda500bfea52dd0d"
+
+[[files]]
+file = "packs/bundled/integrated/assets/fieldguide/textures/gui/sprites/widget/fieldguide_inventory_button_highlighted.png"
+hash = "15290f27b7b6d8d1256a7da3981b3a73961ff9e2e851f76cc62e06f076b3c473"
 
 [[files]]
 file = "packs/bundled/integrated/assets/insomnia/textures/gui/body_temp.apng.png"
@@ -2062,6 +2082,11 @@ metafile = true
 [[files]]
 file = "packs/resources/improved-crafting-table-squarzy.pw.toml"
 hash = "c15efd64289159580f0997ace2c8b1b21ee81669417935aa31da1d0f0322951d"
+metafile = true
+
+[[files]]
+file = "packs/resources/mace-3d.pw.toml"
+hash = "65a17d8f96867ff725f4ed3b4b739c040afa96950127e00052c480f2fa2717ef"
 metafile = true
 
 [[files]]
