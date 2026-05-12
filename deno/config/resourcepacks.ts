@@ -27,7 +27,7 @@ const required_packs = [
 ConfigFile.from("resourcepackoverrides.json", {
     failed_reloads_per_session: 5,
     schema_version: 2,
-    default_packs: required_packs,
+    default_packs: required_packs.toReversed(),
 
     default_overrides: {
         force_compatible: true
@@ -50,7 +50,7 @@ ConfigFile.from("resourcepackoverrides.json", {
             fixed_position: false
         },
 
-        "1": required_packs,
+        "1": required_packs.toReversed(),
         "$$1": { hidden: true, required: true }
     }
 })

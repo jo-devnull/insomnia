@@ -2,8 +2,7 @@ import { namespaceof, pathof } from "@lib/core/utils.ts"
 import { register } from "@lib/core/core.ts"
 
 export type ResourceLocation = "*" | `${string}:${string}`
-
-export type ResourceType = "asset" | "data" | "resource" | "config"
+export type ResourceType = "assets" | "data" | "resource" | "config"
 
 export interface Serializer {
     serialize: (obj: unknown) => string
@@ -21,7 +20,7 @@ export class Resource<T = unknown> {
     }
 
     public static asset<T>(path: ResourceLocation, content: T) {
-        return new Resource(path, "asset", content);
+        return new Resource(path, "assets", content);
     }
 
     public static data<T>(path: ResourceLocation, content: T) {

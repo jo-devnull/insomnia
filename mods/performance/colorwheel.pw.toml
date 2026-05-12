@@ -14,4 +14,5 @@ version = "qIo72EWB"
 
 [option]
 optional = true
-description = "Ative este mod se planejar usar Shaders (requer Oculus)"
+default = false
+description = "Ative este mod se planejar usar Shaders (requer Iris)"

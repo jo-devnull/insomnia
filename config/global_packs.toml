@@ -1,0 +1,12 @@
+enable_system_global_packs = false
+config_version = 4
+log_pack_ids = false
+
+[resourcepacks]
+	required = ["packs/resources/", "packs/bundled/"]
+	enable_builtin = []
+
+[datapacks]
+	required = ["datapacks/", "packs/datapacks/", "packs/bundled/", "resourcepacks/"]
+	optional = []
+	enable_builtin = []
