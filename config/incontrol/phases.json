@@ -1,0 +1,14 @@
+[
+    {
+        "name": "safe_phase",
+        "conditions": {
+            "maxdaycount": 3
+        }
+    },
+    {
+        "name": "extended_safe",
+        "conditions": {
+            "maxdaycount": 16
+        }
+    }
+]

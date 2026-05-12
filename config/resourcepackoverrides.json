@@ -1,71 +1,50 @@
 {
-    "schema_version": 2,
     "failed_reloads_per_session": 5,
+    "schema_version": 2,
     "default_packs": [
-        "file/Fancy_Beds-v4.0.zip",
-        "file/waystones_1.20.zip",
+        "file/integrated",
+        "file/wetbackpacks",
+        "file/insomnia.zip",
+        "file/vanillatweaks.zip",
         "file/Improved Crafting Table V1.0.zip",
-        "file/No Enchant Glint 1.20.1.zip",
-        "file/SmoothDrawers_1.20.1_v2.zip",
-        "file/@VanillaTweaks.zip",
-        "file/Detail-Brush-1.6-1.20.zip",
-        "file/Tool_Belt_Retextured_1.20.x_V3.zip",
-        "file/3.3.1v_VisualEnchantments.zip",
-        "file/Create_Style_Hopper_24_5_29.zip",
-        "file/Wide Mace.zip",
         "file/§3§lC418 Songs Only.zip",
         "file/Gentler Weather Sounds 2.2.0.zip",
-        "file/1.21.4 Panorama with Shaders v2.zip",
-        "file@WetBackpacks",
-        "file/@insomnia.zip",
-        "file/@toolworking.zip"
+        "file/4.0.0v_VisualEnchantments.zip",
+        "file/SmoothDrawers_1.20.1_v2.zip",
+        "file/Create_Style_Hopper_24_5_29.zip"
     ],
-
     "default_overrides": {
         "force_compatible": true
     },
-
     "pack_overrides": {
+        "1": [
+            "file/integrated",
+            "file/wetbackpacks",
+            "file/insomnia.zip",
+            "file/vanillatweaks.zip",
+            "file/Improved Crafting Table V1.0.zip",
+            "file/§3§lC418 Songs Only.zip",
+            "file/Gentler Weather Sounds 2.2.0.zip",
+            "file/4.0.0v_VisualEnchantments.zip",
+            "file/SmoothDrawers_1.20.1_v2.zip",
+            "file/Create_Style_Hopper_24_5_29.zip"
+        ],
         "vanilla": {
             "title": "\"Vanilla Assets\"",
             "description": "\"Resourcepacks from Minecraft\""
         },
-
         "mod_resources": {
             "title": "\"Modded Assets\"",
             "description": "\"Resourcepacks from mods\""
         },
-
         "server": {
             "default_position": "BOTTOM",
             "force_compatible": true,
             "fixed_position": false
         },
-
-        "1": [
-            "file/Fancy_Beds-v4.0.zip",
-            "file/waystones_1.20.zip",
-            "file/Improved Crafting Table V1.0.zip",
-            "file/No Enchant Glint 1.20.1.zip",
-            "file/SmoothDrawers_1.20.1_v2.zip",
-            "file/@VanillaTweaks.zip",
-            "file/Tool_Belt_Retextured_1.20.x_V3.zip",
-            "file/3.3.1v_VisualEnchantments.zip",
-            "file/Create_Style_Hopper_24_5_29.zip",
-            "file/Wide Mace.zip",
-            "file/§3§lC418 Songs Only.zip",
-            "file/Gentler Weather Sounds 2.2.0.zip",
-            "file/1.21.4 Panorama with Shaders v2.zip",
-            "file/@wetbackpacks",
-            "file/@insomnia.zip",
-            "file/@toolworking.zip"
-        ],
-
         "$$1": {
             "hidden": true,
             "required": true
-        },
-
-        "2": ["file/@Horror Songpack.zip"], "$$2": { "hidden": true }
+        }
     }
 }

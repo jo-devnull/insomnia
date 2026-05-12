@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Covers"
+filename = "../aeronauticscovers-1.21.1-NeoForge-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c4404a98d85c75e5e80ace462c3ed1bdf0b1c93e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7971997
+project-id = 1518758

@@ -1,5 +1,6 @@
-import "./tags/worldgen.ts"
+import "./tags/items.ts"
 import "./tags/mobs.ts"
+import "./tags/worldgen.ts"
 
 import "./tags/category/archery.ts"
 import "./tags/category/armor.ts"

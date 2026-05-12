@@ -1,0 +1,13 @@
+name = "Keybind for Sword Blocking"
+filename = "../sword_blocking_key-0.1.1-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "335911340d03945a945de5f385122f7ea2cfcd8b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8073491
+project-id = 1540324

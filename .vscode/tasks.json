@@ -18,7 +18,11 @@
         "color": "terminal.ansiYellow"
       },
       "type": "shell",
-      "command": "python ${workspaceFolder}/python/datagen.py",
+      "command": "deno",
+      "args": ["run", "build", "packs/bundled/insomnia.zip"],
+      "options": {
+        "cwd": "deno"
+      },
 
       "problemMatcher": [],
     },
