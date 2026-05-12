@@ -51,6 +51,6 @@ ConfigFile.from("resourcepackoverrides.json", {
         },
 
         "1": required_packs.toReversed(),
-        "$$1": { hidden: true, required: true }
+        "$$1": { hidden: false, required: true }
     }
 })

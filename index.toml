@@ -7,22 +7,27 @@ hash = "13a785a6198f2ddad23e23aedb1057918256c33866a0d7aeb77aadb1a2272356"
 [[files]]
 file = "config/carryon-common.toml"
 hash = "80f73b76cea4c7947c0a750b9567b0af2f905bc32d310beaae4cdc63efcc473b"
+preserve = true
 
 [[files]]
 file = "config/chloride-client.json"
 hash = "17372f92c0537606c5036551531c76adfad422f4895be390b1baf81e33828749"
+preserve = true
 
 [[files]]
 file = "config/clienttweaks-common.toml"
 hash = "6ac0da6a9980b4c618be1fc3a023061b9f81ce39bd768bdb27b1fd6ab11ee860"
+preserve = true
 
 [[files]]
 file = "config/emi.css"
 hash = "f9ac6ae6954b85730696fb0b3dd8ec04c490ef35a116d4cdd0125a1c986fa6b7"
+preserve = true
 
 [[files]]
 file = "config/emixx/emixx-client.toml"
 hash = "b29cd9ae257aade0ab0bd1ea4d8d287109cd35be1ed7552bbdf5882b306dece2"
+preserve = true
 
 [[files]]
 file = "config/global_packs.toml"
@@ -39,10 +44,12 @@ hash = "6f4bbc60bd6de2903378f0a550bd96acf07b3f8a5835de24c5e1085763cb95c3"
 [[files]]
 file = "config/itemphysic.json"
 hash = "13fbef2abb4c177abe992e64e252489d9c964d9d1f4d3fb9aebf00a51d48f6fa"
+preserve = true
 
 [[files]]
 file = "config/lithium.properties"
 hash = "ffc79d59723eaee9951360c633a3e204888d70e99cf16a95e695c62ed4c7a2f6"
+preserve = true
 
 [[files]]
 file = "config/lmft.json"
@@ -51,90 +58,112 @@ hash = "616b89227e557c16754a9d89ac5b28bf18da1607cea770e2b92eb95a91c6538e"
 [[files]]
 file = "config/particle_core_config.toml"
 hash = "9f21aae26ba31a4fd9bab85c4bb4e37d10ac408aff9feed91ad6acdf1e269634"
+preserve = true
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "45628d594db4d9df1414b4e7d9ebba691cf12eb600f08155a1c96648f8cef500"
+hash = "8c6a866c2ec5482339c42b2006e872f87e24634bb17322b479abd7adc49fdc96"
+preserve = true
 
 [[files]]
 file = "config/sidebar_buttons.json"
 hash = "a5f5bb97c33825e19dcb3c6dfee26fda97a148fba17aeed3de3ccdb79a71f085"
+preserve = true
 
 [[files]]
 file = "config/sodium-options.json"
 hash = "445a55bccce87dd8467f3265d1572827e8778e873e3bb70290adf0bb8a811e96"
+preserve = true
 
 [[files]]
 file = "config/sodiumdynamiclights-client.toml"
 hash = "9a439ebfe79ce34cd5ae800207fd2db3ca9740e969b580d788d4080b23b98dab"
+preserve = true
 
 [[files]]
 file = "config/xaero/lib/client.cfg"
 hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+preserve = true
 
 [[files]]
 file = "config/xaero/lib/common.cfg"
 hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+preserve = true
 
 [[files]]
 file = "config/xaero/lib/profiles/default.cfg"
 hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+preserve = true
 
 [[files]]
 file = "config/xaero/lib/server_profiles/default.cfg"
 hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/client.cfg"
 hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/common.cfg"
 hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/default_radar_categories_client.json"
 hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/default_radar_categories_server.json"
 hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
 hash = "43d7b01a8710687554de4935be83bb6f412a0e1b74638c945d5f2eb67dfb20c5"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
 hash = "80a5bb8e7f0a33895621290ddde389ffcd5105c5230dde1839af760e118281d8"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
 hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/server_profiles/default.cfg"
 hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+preserve = true
 
 [[files]]
 file = "config/xaero/world-map/client.cfg"
 hash = "deece0fe0d29f2203a9699143a6209c451e91d7ecb799489c328b0d0fa31a90d"
+preserve = true
 
 [[files]]
 file = "config/xaero/world-map/common.cfg"
 hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+preserve = true
 
 [[files]]
 file = "config/xaero/world-map/profiles/default.cfg"
 hash = "62c92e9b9a4b83f83eeba853a45a37e78f8b416d1f2df7d04ab05c85c0c23f24"
+preserve = true
 
 [[files]]
 file = "config/xaero/world-map/server_profiles/default.cfg"
 hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+preserve = true
 
 [[files]]
 file = "config/xaerohud.txt"
 hash = "58c9270f258d0b224bb7d0f7c927544d5fbe5f1b8027c820e1e14ecbf48fb88c"
+preserve = true
 
 [[files]]
 file = "credits.txt"
@@ -871,6 +900,11 @@ hash = "49c654bc452d839f7860c791d1e9eaf019948cd4a71d784be7f60523b5604c1a"
 metafile = true
 
 [[files]]
+file = "mods/misc/better-third-person.pw.toml"
+hash = "233425a80c78d50561ec3eef4343adf42b150ff34f4deef0090e107bf833484b"
+metafile = true
+
+[[files]]
 file = "mods/misc/black-moon.pw.toml"
 hash = "a44d889f6ecdb6f45de7b78cdf57c135aa9c6334a9bdb810a1ae060307ff51ce"
 metafile = true
@@ -993,11 +1027,6 @@ metafile = true
 [[files]]
 file = "mods/misc/keybind-for-sword-blocking.pw.toml"
 hash = "27e7c9c0d671a2d0758ed0980951d7abf2f33b0e93b72452359fd6e879240d00"
-metafile = true
-
-[[files]]
-file = "mods/misc/leawind-third-person.pw.toml"
-hash = "a980667854ef22c2c6b0efe6176e9dcc22f7bda5adcdcb7cce81af2783d62197"
 metafile = true
 
 [[files]]
@@ -1712,7 +1741,7 @@ metafile = true
 
 [[files]]
 file = "packs/bundled/insomnia.zip"
-hash = "4af6bd39cca034323d038e9514e7dc52df6bbfd26663e8f3719f175e5fc249b8"
+hash = "edcc857073ce5fe7eaff671752383849d8e346ceee0d99d14d6644de539d1d11"
 
 [[files]]
 file = "packs/bundled/integrated/assets/better_campfires/lang/pt_br.json"
