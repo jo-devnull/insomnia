@@ -33,190 +33,6 @@ file = "emi.json"
 hash = "a03f93b7019b9efc96cb6ec3862914ac81435fa3c77558bf7dbe96770afbc78e"
 
 [[files]]
-file = "minepkl/@lib/Recipe.pkl"
-hash = "feaad351bffe7bb5ce8074f4c92f5ebf34a0aa1e4eba0fca6d51c9d5754f0af5"
-
-[[files]]
-file = "minepkl/@lib/utils.pkl"
-hash = "3fa26b4cbc2b772590d3f2b7932f5d6adca671e77f9cb957f7f7f662a5ae999c"
-
-[[files]]
-file = "minepkl/assets.pkl"
-hash = "6b3cf27d50ad53ddbd61ace2ee66334820c9169b89a6b0ad461c78c266e8a8d3"
-
-[[files]]
-file = "minepkl/build.pkl"
-hash = "0ed4115f653607d1b4e319828049f6c2e2e0c5dcda71a5ce1c9c225cb84b757e"
-
-[[files]]
-file = "minepkl/config/esm.pkl"
-hash = "0a7fe08fc58ada569d6b360956896aab44f29b4276e678a5fc5702cf40d88de5"
-
-[[files]]
-file = "minepkl/config/incontrol.pkl"
-hash = "db4c918a19540c1b4dbca019d510a35217ea730eb304ebd4b0016251a283f635"
-
-[[files]]
-file = "minepkl/external.pkl"
-hash = "837d9323b35b8ed99c2a81f7cb95ab2711fd3971c154c76172932a815521ea54"
-
-[[files]]
-file = "minepkl/main/main.pkl"
-hash = "1d720e8997e1cc507716b812e40877950699d6feaab78563279998fa94454554"
-
-[[files]]
-file = "minepkl/main/misc/emi.pkl"
-hash = "0bb8e1dc82ab4d26ab7bef2b93d87179c0b490407d60f951fd0e3dbf4397926b"
-
-[[files]]
-file = "minepkl/main/misc/fishing.pkl"
-hash = "25192874347a58755fee43cfe7a09c45d35eb03064c2587dc3dee69192c32e84"
-
-[[files]]
-file = "minepkl/main/misc/incontrol.pkl"
-hash = "9f2f423806d2ff5aafaf529447bf3ab4dc2c8d2caf18f5239248a3dee20ad6ad"
-
-[[files]]
-file = "minepkl/main/misc/replace.pkl"
-hash = "d6b7e72202a83579eafa8729e5a55f1d301ce0df809f5cd2fa0ed4c00fd54f4e"
-
-[[files]]
-file = "minepkl/main/recipes/compat.pkl"
-hash = "3657a3fe96303dfa7e0926dec482fb0f5220d19dffb730b5d471e5e34cc62aa7"
-
-[[files]]
-file = "minepkl/main/recipes/misc.pkl"
-hash = "0611dc7e435ee4dd379fb1f003ef61e60556082aaed17a54be656109332a8f7f"
-
-[[files]]
-file = "minepkl/main/recipes/remove.pkl"
-hash = "2d0a0125c6b33f7f9dca4420345467a132bcc98717dece9e77afccc217102c99"
-
-[[files]]
-file = "minepkl/main/tags/category/@category.pkl"
-hash = "2ac1747b4ef9dad35447ddc4995423deb988b0f3e007b5c94a1df2b78ed14cca"
-
-[[files]]
-file = "minepkl/main/tags/category/archery.pkl"
-hash = "6a636991cceff775091c181e1f36ba275055c51a4b7a1e6c7e985adb87c7ae63"
-
-[[files]]
-file = "minepkl/main/tags/category/armor.pkl"
-hash = "94b0fa9aa2124f6b66a2323c4673753d9bddca07e73e2aa8fade592dfad652e9"
-
-[[files]]
-file = "minepkl/main/tags/category/block_decoration.pkl"
-hash = "3016ab8ad7f6965e774259738eba1de7835680e2871abdf47dce745b0c981dc8"
-
-[[files]]
-file = "minepkl/main/tags/category/brewing.pkl"
-hash = "5bd4ddbe32ba4b9673a3949cd98ec94809cb3809c846737f83db71d5cceac54a"
-
-[[files]]
-file = "minepkl/main/tags/category/carpentry.pkl"
-hash = "e3e2a80005081420e8043431d1b7d4d32f3fa2a0c841f2128343f23870649310"
-
-[[files]]
-file = "minepkl/main/tags/category/construction.pkl"
-hash = "dc709f64875763b0882c53fdeeec6610d10dbda85a6b30ad6a6e41a9864447ac"
-
-[[files]]
-file = "minepkl/main/tags/category/cooking.pkl"
-hash = "baadd9992992445b60718c8671af590b3d278a49e538767c695e534b8ad2ce24"
-
-[[files]]
-file = "minepkl/main/tags/category/decoration.pkl"
-hash = "741a76ad6753f9da7b1ffe07c9c52ae46046f2a876e128e2f14e6291cb1f3755"
-
-[[files]]
-file = "minepkl/main/tags/category/enchanting.pkl"
-hash = "1a2f08abce2e080142f2ab4631490fa6c6bdf83023f11091c15f92b7ab7729d9"
-
-[[files]]
-file = "minepkl/main/tags/category/engineering.pkl"
-hash = "c9ea3c6b513730273bf02dba24bc28cf8b240ad8341745d15b5167e9d2a892a0"
-
-[[files]]
-file = "minepkl/main/tags/category/farming.pkl"
-hash = "022182560e14cff7e24ad4dba082a115e62637626fcb048f97f5cae715dbb465"
-
-[[files]]
-file = "minepkl/main/tags/category/fishing.pkl"
-hash = "20d5345a7ea118d94c3da047b66f4811b84594a86e802629dc583c484d8a7fca"
-
-[[files]]
-file = "minepkl/main/tags/category/foods.pkl"
-hash = "98af70389583279bcbc4585ba7e8825d11bf8f68253d45a810b6ebefb69f55fd"
-
-[[files]]
-file = "minepkl/main/tags/category/functional_blocks.pkl"
-hash = "fc67a0bdb94907aba80ad2f8803871094caf9ce37af79c04f49753049335f1f9"
-
-[[files]]
-file = "minepkl/main/tags/category/furniture.pkl"
-hash = "8cc50966bf226490e2d182d43034f32ea6a639f7d2a86444e03a8c8208c084a4"
-
-[[files]]
-file = "minepkl/main/tags/category/masonry.pkl"
-hash = "66dbcf24699ad47ad824f3e0b4e860e1a8194ee8ffe2b23217cb2820a5f64a48"
-
-[[files]]
-file = "minepkl/main/tags/category/medicine.pkl"
-hash = "a27898bcf6b6d306000051b9457f073c7816017c458e961d21d69d17dee4a4d0"
-
-[[files]]
-file = "minepkl/main/tags/category/metalworking.pkl"
-hash = "4d74d24f5a7b4bcf945b76d0fa9d908a42e7fda54162562502d01417054e5a66"
-
-[[files]]
-file = "minepkl/main/tags/category/misc.pkl"
-hash = "33df87cee65bb6c69f8d91b3bd3903df3dffd9b47700db527e91531e715dd9d0"
-
-[[files]]
-file = "minepkl/main/tags/category/storage.pkl"
-hash = "85605519622b5770c27f4d9ea850830f5dc14febfbdf8901fa4a55b1016ccc3f"
-
-[[files]]
-file = "minepkl/main/tags/category/tools.pkl"
-hash = "9cf7bf31ce409780aec44a0f3494b7e288ef2886cf1c26bcf565747ec6986c9b"
-
-[[files]]
-file = "minepkl/main/tags/category/transport.pkl"
-hash = "79a739a296bfd5ee8651df464e5e2af8c3f3ef1f1b311beb676b4e8b0bcf234c"
-
-[[files]]
-file = "minepkl/main/tags/category/weapons.pkl"
-hash = "69fd8a82ed698fcb69cc1cc87883a539f493d6bf27a3dbb2a3f1e59a53a31b8d"
-
-[[files]]
-file = "minepkl/main/tags/category/witchcraft.pkl"
-hash = "3b2454488cdd6dd3766ef89c4a6aaf356a3c130672fd94b24ce3f0679ba8c2a2"
-
-[[files]]
-file = "minepkl/main/tags/category/workbench.pkl"
-hash = "ca7cf46caf5882ef8ebe91d9054d406cce9381ec96ce34db5ff5d007b23020da"
-
-[[files]]
-file = "minepkl/main/tags/misc.pkl"
-hash = "1f23ddfa4f7368be5f9480a9182830c6af95af7ffd48e5e8f8c8c249e0244506"
-
-[[files]]
-file = "minepkl/toolworking/recipes/misc.pkl"
-hash = "a3455f63a26ebee050c36da8addec38d9c1245acdb986af75525ad695e47fa2d"
-
-[[files]]
-file = "minepkl/toolworking/recipes/smelting.pkl"
-hash = "033414620c20258ccfaf5cf818fc42a47edd0a6627aa1e1a31bab720587b5a52"
-
-[[files]]
-file = "minepkl/toolworking/tags.pkl"
-hash = "318ae2decf653e1d8bcb2fb1e6ed4bcef4d183570503d2cb29615e361cacdd2b"
-
-[[files]]
-file = "minepkl/toolworking/toolworking.pkl"
-hash = "837389147dc4f1ae7e330ee436a49e0c6b27a9d0f6f8fa7f180794cd10199c2b"
-
-[[files]]
 file = "mods/cooking/brewin-and-chewin.pw.toml"
 hash = "aa8aebe39ddb4f3987072c4342414c4b09e861fdc7e45d545a8e79a2ff8d0682"
 metafile = true
@@ -2130,21 +1946,44 @@ hash = "04068eb4e791f540e90b43efac083243672ed3f0999754bca09ec7b1b49c9c3a"
 metafile = true
 
 [[files]]
-file = "packs/shaders/complementary-reimagined.pw.toml"
-hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
+file = "packs/shaders/complementary-reimagined-options.pw.toml"
+hash = "b91ad260ad29c65f4308173d7bbc2afd407ad373c9a4562a61719d3767408acc"
 metafile = true
+preserve = true
+
+[[files]]
+file = "packs/shaders/complementary-reimagined.pw.toml"
+hash = "164b2331e7b21204bfa38d3c2ad1adcd67424b666e1e1d7d49523b6fdb66c73a"
+metafile = true
+
+[[files]]
+file = "packs/shaders/glimmer-shaders-options.pw.toml"
+hash = "0b20504992bcd9592d7da8e2faaa7fe02612dda2216b46455efa88920a553efe"
+metafile = true
+preserve = true
 
 [[files]]
 file = "packs/shaders/glimmer-shaders.pw.toml"
-hash = "84c1accef6768a316d35ea643f420a98183b01bd7948a314676315491b80ecbb"
+hash = "be65c659a36a6fc75dff6263c8e4c69239b77aa4310599880ab2023605a7c55f"
 metafile = true
+
+[[files]]
+file = "packs/shaders/i-like-vanilla-options.pw.toml"
+hash = "cb6a0678b50a918efd7e8201fef6b0594e3f3541e4b9914c5ce69f5fdd6b3e34"
+metafile = true
+preserve = true
 
 [[files]]
 file = "packs/shaders/i-like-vanilla.pw.toml"
-hash = "9c064e00e3e2a0facd0c4738646c6a626005a5768afd3a6976f504a1d1c4bf62"
+hash = "2a81b23c3ca8f653508a89ae40516ecb2502a689161a12fe32a0e139efad7c92"
 metafile = true
 
 [[files]]
+file = "packs/shaders/spooklementary.pw-options.toml"
+hash = "04983a151c16cb5c3913914bef1566780ee14d78244cf91cba5a0587f9806268"
+preserve = true
+
+[[files]]
 file = "packs/shaders/spooklementary.pw.toml"
-hash = "98d266a803313736dee1d42d73779e8f50841a3d17f69b06dc2096f4c1b44ebe"
+hash = "c445a4b47ef0a05ad9f7153569b54da7fbb8bff6c4d75aed3cb213c9147c4e03"
 metafile = true

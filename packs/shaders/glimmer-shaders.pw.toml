@@ -1,5 +1,5 @@
 name = "Glimmer"
-filename = "Glimmer-v1.5.2.zip"
+filename = "../../shaderpacks/Glimmer-v1.5.2.zip"
 side = "client"
 
 [download]
