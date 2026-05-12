@@ -61,15 +61,11 @@ hash = "5aa476d589acc718d98d77a2293bbb88afb13d0a724bd3e04773d2a0dfe1ba51"
 
 [[files]]
 file = "config/incontrol/phases.json"
-hash = "adf61b3dd2c07d8649ce3973a1dbf04a0c663f7f8b6a2c3db96f991e1b3c6f14"
+hash = "70b13d7f21793b1c32c9566ba6f07289ca22cf32bde3c49bd2667126b71e1c3a"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "120b744d7e1df43fdce9b3d3524741ec871ad802f781243386c62f47288b8651"
-
-[[files]]
-file = "config/incontrol/spawner.json"
-hash = "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f"
+hash = "6f4bbc60bd6de2903378f0a550bd96acf07b3f8a5835de24c5e1085763cb95c3"
 
 [[files]]
 file = "config/insomnia.toml"
@@ -493,7 +489,7 @@ hash = "3016ab8ad7f6965e774259738eba1de7835680e2871abdf47dce745b0c981dc8"
 
 [[files]]
 file = "minepkl/main/tags/category/brewing.pkl"
-hash = "ae648aecfec19b0fb407f39960e11262ba6db373584b59d05e488498f92869aa"
+hash = "5bd4ddbe32ba4b9673a3949cd98ec94809cb3809c846737f83db71d5cceac54a"
 
 [[files]]
 file = "minepkl/main/tags/category/carpentry.pkl"

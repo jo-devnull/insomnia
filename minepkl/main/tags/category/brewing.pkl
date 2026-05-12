@@ -17,7 +17,6 @@ irons_spellbooks {
   "netherward_tincture"
 }
 
-
 create {
   "builders_tea"
 }
