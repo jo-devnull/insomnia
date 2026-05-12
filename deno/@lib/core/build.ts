@@ -7,10 +7,10 @@ import { appendFiles } from "./core.ts"
 import "../../build.ts"
 
 export async function build() {
-    const [outputDir] = Deno.args;
+    const [outputFile] = Deno.args;
 
     const rootDir = Path.dirname(Path.dirname(Path.dirname(import.meta.dirname!)));
-    const packFilePath = Path.join(rootDir, outputDir);
+    const packFilePath = Path.join(rootDir, outputFile);
 
     FileSystem.ensureDirSync(Path.dirname(packFilePath));
 
@@ -23,8 +23,12 @@ export async function build() {
 
     const zipWriter = new ZipFile.ZipWriter(zipFileWriter);
     appendFiles(zipWriter, rootDir);
+
     const blob = await zipWriter.close();
-    Deno.writeFile(packFilePath, await blob.bytes());
+    const bytes = await blob.bytes();
+
+    console.info("Writing file to: ", packFilePath);
+    Deno.writeFile(packFilePath, bytes);
 }
 
 await build();

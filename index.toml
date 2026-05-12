@@ -171,7 +171,7 @@ hash = "42ac02bc9c7f0924be2f779a85895b4f2a1538bdf4619024c7331a8dae808dc1"
 
 [[files]]
 file = "emi.json"
-hash = "720f13a064776147e29d6110390f2b8b23245b36c6616067fdadabc89e36446b"
+hash = "a6254f9e251b9cd40cdd0917c80aad4f0d6c62adfcf53d5a57945ed0bae3d530"
 
 [[files]]
 file = "mods/cooking/brewin-and-chewin.pw.toml"
@@ -1740,10 +1740,6 @@ hash = "15835c562728fd289b479c5d70413b9b257728c74df36e513a9b87f66b5d88d9"
 metafile = true
 
 [[files]]
-file = "packs/bundled/insomnia.zip"
-hash = "edcc857073ce5fe7eaff671752383849d8e346ceee0d99d14d6644de539d1d11"
-
-[[files]]
 file = "packs/bundled/integrated/assets/better_campfires/lang/pt_br.json"
 hash = "ecee0659fac024a106787b9a5e2ea011f8115fef5a348d3ed72bbdc66ae3fab4"
 
@@ -1776,20 +1772,8 @@ file = "packs/bundled/integrated/assets/fieldguide/textures/gui/fieldguide_inven
 hash = "9a8e319d1d09cf8ad282fc295280ffa382eddaa353141395e29c9750db084636"
 
 [[files]]
-file = "packs/bundled/integrated/assets/ftbteams/textures/teams.png"
-hash = "209dca791c291040fdccc9b7f8531365b106e49c5728155ec0981f5f40ae56bf"
-
-[[files]]
 file = "packs/bundled/integrated/assets/insomnia/textures/gui/body_temp.apng.png"
 hash = "f1a8152a0c1067654d5fc12627d3d8ee5fdf4abe0e2b6eee83049e24e83903bf"
-
-[[files]]
-file = "packs/bundled/integrated/assets/insomnia/textures/gui/structures/tenda_branca.png"
-hash = "53dba9bda3cab9b61b5bfe317a63842139d14ee901e6e500a81636efc76ec89d"
-
-[[files]]
-file = "packs/bundled/integrated/assets/insomnia/textures/gui/structures/tenda_branca_smaller.png"
-hash = "43bf4618e580fa61da7b56a8eb36e9ffb6216681f268adfc044a6c826f086c14"
 
 [[files]]
 file = "packs/bundled/integrated/assets/minecraft/lang/pt_br.json"
