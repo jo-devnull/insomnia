@@ -1,21 +1,18 @@
-node_modules/
-.vscode/
-.idea/
-.temp/
-python/
-datagen/
 .editorconfig
-minepkl/pack.json
 
 *.mrpack
 *.log
 *.lock
 *lock.*
-
 \!*
 
+.vscode/
+.idea/
+.temp/
+
 deno/
-
+python/
+datagen/
+node_modules/
 mods/@disabled/*
-
-README.md
+config/shaders/*.txt

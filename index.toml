@@ -1,79 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/ReactiveMusic.json5"
-hash = "be7fadd8f443677cc94e87b64dace88b81a6bd6fff48adb76aaf08ca2daea226"
-preserve = true
-
-[[files]]
-file = "config/alexsmobsinteraction-client.toml"
-hash = "021faa38625a6013550a1d99e311170fb89e54206cd5768f3b1f6297a61c5c7e"
-
-[[files]]
-file = "config/almostunified/unify.json"
-hash = "12a43b2f51d6e3fcc9903352eeb55167b0c27a72c5c4729378f89b1ab819a5e0"
-
-[[files]]
-file = "config/biome_replacer.properties"
-hash = "a29120a7deb7e407656c7b614fcca376b412249ba43e503e1fd962ffb4df6779"
-
-[[files]]
-file = "config/chloride-client.json"
-hash = "68dac03e7b859abe617e30778911ba712ef55379d48591b430e0ddbbfc7b78d9"
-preserve = true
-
-[[files]]
-file = "config/clienttweaks-common.toml"
-hash = "7120d78c08a07e268bdbab4e1481f05b081df76f7ad1cc71e5993784e6bff5a6"
-
-[[files]]
-file = "config/embeddium-options.json"
-hash = "24727b424eaa1ba003a8fbc4e11ec5a1bdbeae4661161cfbdbe0a825f165b901"
-preserve = true
-
-[[files]]
-file = "config/emi.css"
-hash = "5b975f7e9272270337840b1f69639e9a11a3b4bb2e8b76d3299eb1faf615bd63"
-
-[[files]]
-file = "config/emixx/emixx-client.toml"
-hash = "bb362e78f8337d7c2739110d322c531b23b845aea335c4d9c5230f598d0fe1f6"
-
-[[files]]
-file = "config/enhancedai/Mobs/Break Anger/break_anger_config.json"
-hash = "1ef8dc64a4aead2829923f15a78907e94b33ffb70471416fac0b50c10b14165c"
-
-[[files]]
-file = "config/enhancedai/Mobs/Flee/custom_flee.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/enhancedai/Mobs/Targeting/custom_hostile.json"
-hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
-
-[[files]]
-file = "config/enhancedai/common.toml"
-hash = "e085dac49020171326b39c19645fa2a8399827a387874119d08a929014d1d275"
+file = "README.md"
+hash = "13a785a6198f2ddad23e23aedb1057918256c33866a0d7aeb77aadb1a2272356"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
-hash = "5aa476d589acc718d98d77a2293bbb88afb13d0a724bd3e04773d2a0dfe1ba51"
-
-[[files]]
-file = "config/incontrol/phases.json"
-hash = "70b13d7f21793b1c32c9566ba6f07289ca22cf32bde3c49bd2667126b71e1c3a"
-
-[[files]]
-file = "config/incontrol/spawn.json"
-hash = "6f4bbc60bd6de2903378f0a550bd96acf07b3f8a5835de24c5e1085763cb95c3"
-
-[[files]]
-file = "config/insomnia.toml"
-hash = "5ccc0a286595769d163bc9c22514d97f23928b2d7c90bbea5568ab0b8fb86d15"
-
-[[files]]
-file = "config/key_binding_hider.toml"
-hash = "2dab7b0a74ee03abe3af6cccfd85ec80f1b7ad897bd8c5af7ff44fbc3c02fee2"
+hash = "61fd372e968155137112e3b688439432a402bd2e899126b0a3e500401c5c35dc"
 
 [[files]]
 file = "config/lithium.properties"
@@ -84,332 +17,20 @@ file = "config/lmft.json"
 hash = "616b89227e557c16754a9d89ac5b28bf18da1607cea770e2b92eb95a91c6538e"
 
 [[files]]
-file = "config/notreepunching.toml"
-hash = "d4ba161e86898376bc32edd89d2baef3ed961380cef2779209c8ea9fec611939"
-
-[[files]]
-file = "config/parcool-client.toml"
-hash = "6c487026054afabbff392a5d95230a625067b5877546a3bdd0a4bb740a1bf9aa"
-
-[[files]]
-file = "config/particle_core_config.toml"
-hash = "038d6c0419dcd07257b2c7c2ac2c21d0781a5fbdedb6ed2f724e4debe03bf981"
-
-[[files]]
-file = "config/prettyrain.json5"
-hash = "fc1ebdb9057b250030dd4c3b288134dfec8be7b95f4037a9f79edd991b5a5061"
-
-[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "8048362baf87686b7d2bb3105dc0fe0c879086a7ede9ba0deaac5902ea7cd795"
-
-[[files]]
-file = "config/sanitydim/default.toml"
-hash = "3a4b461505de169afa8d23f761d5ae8d70ad8374a6284d41c72e335a98c067bb"
-
-[[files]]
-file = "config/sanitydim/dimension/example.toml"
-hash = "d1a64dd1237d7f7424a3006f22a2a06f6a578983d997474f600563c1164c9c03"
 
 [[files]]
 file = "config/sidebar_buttons.json"
 hash = "a5f5bb97c33825e19dcb3c6dfee26fda97a148fba17aeed3de3ccdb79a71f085"
 
 [[files]]
-file = "config/sodiumdynamiclights-client.toml"
-hash = "a07f02d32ca757d3aab93dbff71081a33ea30300d85a0e5defee53eb83e7161f"
-preserve = true
-
-[[files]]
-file = "config/superior_ambience-client.json"
-hash = "52ddf5c4c461c7eedacc994293bd6d6da5b4ea6112a03df4f76805175d74d1e1"
-
-[[files]]
-file = "config/thirst/keyword.toml"
-hash = "c819bc219330aa57f7cba0c704af5781300514f03e0d21aa86754e779c780731"
-
-[[files]]
-file = "config/xaero/lib/client.cfg"
-hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
-preserve = true
-
-[[files]]
-file = "config/xaero/lib/common.cfg"
-hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
-preserve = true
-
-[[files]]
-file = "config/xaero/lib/profiles/default.cfg"
-hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
-preserve = true
-
-[[files]]
-file = "config/xaero/lib/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
-preserve = true
-
-[[files]]
-file = "config/xaero/minimap/client.cfg"
-hash = "e8990cb245f6f13cafebfa3e538cb09a706cc35be7b3e92a39334fa295c877f9"
-preserve = true
-
-[[files]]
-file = "config/xaero/minimap/common.cfg"
-hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
-preserve = true
-
-[[files]]
-file = "config/xaero/minimap/default_radar_categories_client.json"
-hash = "e8705b837c4e825c3fa33c528d116b93b3bd96beb6ac3552c25f09a0c90b7f2d"
-preserve = true
-
-[[files]]
-file = "config/xaero/minimap/default_radar_categories_server.json"
-hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
-preserve = true
-
-[[files]]
-file = "config/xaero/minimap/profiles/default.cfg"
-hash = "778fa18a4bebade6b224ff049b063b4eb175b5418e506f25a3f560044318c0a7"
-preserve = true
-
-[[files]]
-file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
-hash = "77fcdc22c31db42096edbe43c9b566605f63b61850018d335b13499736bc99dd"
-preserve = true
-
-[[files]]
-file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
-hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
-preserve = true
-
-[[files]]
-file = "config/xaero/minimap/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
-preserve = true
-
-[[files]]
-file = "config/xaero/world-map/client.cfg"
-hash = "706466efafa9f82cf95acd57f27908f7f79abfb59ad86331ce0cfd8fe71314c5"
-preserve = true
-
-[[files]]
-file = "config/xaero/world-map/common.cfg"
-hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
-preserve = true
-
-[[files]]
-file = "config/xaero/world-map/profiles/default.cfg"
-hash = "5c65fa9d2bb8f686032f8774940b3895daf033b98c4c44414f18f204000c3169"
-preserve = true
-
-[[files]]
-file = "config/xaero/world-map/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
-preserve = true
-
-[[files]]
-file = "config/xaerohud.txt"
-hash = "58c9270f258d0b224bb7d0f7c927544d5fbe5f1b8027c820e1e14ecbf48fb88c"
-preserve = true
-
-[[files]]
-file = "config/xaerominimap-common.txt"
-hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
-preserve = true
-
-[[files]]
-file = "config/xaerominimap.txt"
-hash = "9f4afef6c3307c3b418d9b897b912c7cbd33eacbceafd3a78c5f1abafc77f4b8"
-preserve = true
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "00d923a6ad25fa75c70bf6f5e91da9aa5dd15b9deb11f9e8c6be5560c7559126"
-preserve = true
-
-[[files]]
-file = "config/xaeropatreon.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-preserve = true
-
-[[files]]
-file = "config/xaeroworldmap-common.txt"
-hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
-preserve = true
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "4d050532488b1b195a39f2c0e4528455ed8423848d11b6ea380667656230db93"
-preserve = true
-
-[[files]]
 file = "credits.txt"
 hash = "42ac02bc9c7f0924be2f779a85895b4f2a1538bdf4619024c7331a8dae808dc1"
 
 [[files]]
-file = "datapacks/cherry-villages.pw.toml"
-hash = "ebd2d7b9f6991d780b9b3d1c8fd5f549ac1886ce9459d67c7f6a5aae4f1c3ad4"
-metafile = true
-
-[[files]]
-file = "datapacks/create-immersive-aircrafts-data-pack.pw.toml"
-hash = "22a5f14d3812e9b51ba33496d0bb685325dd7969c70ca13445c0622cd0dd5626"
-metafile = true
-
-[[files]]
-file = "datapacks/improved-pillager-outpost.pw.toml"
-hash = "b26d5949e773596d56bb310234f8682f8a9dafd377b2b5fb1bbdebb372e2a8fb"
-metafile = true
-
-[[files]]
-file = "datapacks/packdata/data/chovys_apocalypse_mod/weapon_attributes/aluminiumbat.json"
-hash = "fe30163fbfcebb82f080dbe29cecc43facd06c790c6fd4cc391d80120601fb82"
-
-[[files]]
-file = "datapacks/packdata/data/chovys_apocalypse_mod/weapon_attributes/baseballbat.json"
-hash = "fe30163fbfcebb82f080dbe29cecc43facd06c790c6fd4cc391d80120601fb82"
-
-[[files]]
-file = "datapacks/packdata/data/chovys_apocalypse_mod/weapon_attributes/crowbar.json"
-hash = "35122180a8d0d05c63311b32a8e202783c316a0ec164bc6457520b3551297c0c"
-
-[[files]]
-file = "datapacks/packdata/data/chovys_apocalypse_mod/weapon_attributes/pitchfork.json"
-hash = "e5b85bc5dbdd39ad3cbfff0d42191ee47b30698b0e682653fdb3a05d3c594b13"
-
-[[files]]
-file = "datapacks/packdata/data/enhancedcelestials/lunar/event/blood_moon.json"
-hash = "31d4c952aed240f3e6c6c92aa478cdc661ef581c44f240cdbb08a6fdb9edf29e"
-
-[[files]]
-file = "datapacks/packdata/data/enhancedcelestials/lunar/event/super_blood_moon.json"
-hash = "b1bda3b3bbd9e2420e2a04fdbb30f5716871f3b3ba77faaead02c23ef7a19f58"
-
-[[files]]
-file = "datapacks/packdata/data/farmersdelight/recipes/cutting/tag_dough.json"
-hash = "8a95dd39f97fca762a7d4ea285062f4813c6f006194e164e802b77b599a9ffe9"
-
-[[files]]
-file = "datapacks/packdata/data/fromtheshadows/forge/biome_modifier/nether_spawns.json"
-hash = "400a5209c3c2162552a4c3fe8a5ea846e8983e1258324787b2fe734ad5dd2393"
-
-[[files]]
-file = "datapacks/packdata/data/fromtheshadows/forge/biome_modifier/spawns.json"
-hash = "0371a4848c6eadf08597281d021526359542bb8ea3669ff4fccdf8969b4c0611"
-
-[[files]]
-file = "datapacks/packdata/data/modpack/recipes/wooden_shovel.json"
-hash = "4ff19cd29b3105b8a7ac7c298d5cb6695f1d6464e720e778b705e37b7800a1c8"
-
-[[files]]
-file = "datapacks/packdata/data/modpack/structures/base.nbt"
-hash = "dccee21134f6e1f445f88930c264597336aa14179a329cee53e8acc5574a5128"
-
-[[files]]
-file = "datapacks/packdata/data/modpack/structures/offshore_platform.nbt"
-hash = "8ebc0ddddef002ad212f0d054b74c44c9216ac4fcc3d7ce62cf6691d04a3b741"
-
-[[files]]
-file = "datapacks/packdata/data/simplymore/weapon_attributes/diamond_grandsword.json"
-hash = "a1fe62f8b65df5266692d9d613f9528177d89456fcf45baf658e8f6e0c1772ea"
-
-[[files]]
-file = "datapacks/packdata/data/simplymore/weapon_attributes/gold_grandsword.json"
-hash = "a1fe62f8b65df5266692d9d613f9528177d89456fcf45baf658e8f6e0c1772ea"
-
-[[files]]
-file = "datapacks/packdata/data/simplymore/weapon_attributes/iron_grandsword.json"
-hash = "a1fe62f8b65df5266692d9d613f9528177d89456fcf45baf658e8f6e0c1772ea"
-
-[[files]]
-file = "datapacks/packdata/data/simplymore/weapon_attributes/mimicry_grandsword.json"
-hash = "a1fe62f8b65df5266692d9d613f9528177d89456fcf45baf658e8f6e0c1772ea"
-
-[[files]]
-file = "datapacks/packdata/data/simplymore/weapon_attributes/netherite_grandsword.json"
-hash = "a1fe62f8b65df5266692d9d613f9528177d89456fcf45baf658e8f6e0c1772ea"
-
-[[files]]
-file = "datapacks/packdata/data/simplymore/weapon_attributes/runic_grandsword.json"
-hash = "a1fe62f8b65df5266692d9d613f9528177d89456fcf45baf658e8f6e0c1772ea"
-
-[[files]]
-file = "datapacks/packdata/data/superflat/dimension/superflat.json"
-hash = "6a73f3a9df16ad5113b464420a3adf0ba0d9be26c6df89a6d32dc5eaf042e89d"
-
-[[files]]
-file = "datapacks/packdata/data/walkers/tags/entity_types/flying.json"
-hash = "d4c025c754d3d10e1d855436a2e2626969b83d38f7b63523a0e064e26aeeb049"
-
-[[files]]
-file = "datapacks/packdata/pack.mcmeta"
-hash = "4ce6484c27090ab10bc23cf1af8441aa611c0f1046a574f1df155d45c668a402"
-
-[[files]]
-file = "datapacks/strayed-fates-forsaken.pw.toml"
-hash = "f66331aa9ef280410a0bd72644a81f0f5881617665c1d08dfdf9c393eef6e7d5"
-metafile = true
-
-[[files]]
-file = "defaultconfigs/hourglass-server.toml"
-hash = "43e45a88286d8aa87e0681915d1f2147cb6ea79f75c1c6428161ed16e3e4705e"
-
-[[files]]
-file = "defaultconfigs/pickerupper-server.toml"
-hash = "2eb6f5476d74fd27a4cd765e7579fc33ef303355dab8fe3557a70dc917d97ab1"
-
-[[files]]
-file = "defaultconfigs/travelersbackpack-server.toml"
-hash = "007f670b9f039f82f9803799d8b7267533086d3403727fceb162529b3c45c2e4"
-
-[[files]]
-file = "defaultconfigs/undeadnights-server.toml"
-hash = "f623513b4baa6d01da87349fcd7cc0df99376e13ccd76117aa2ad87ce40bd4a2"
-
-[[files]]
-file = "defaultconfigs/unlitcampfire-server.toml"
-hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
-
-[[files]]
 file = "emi.json"
 hash = "a03f93b7019b9efc96cb6ec3862914ac81435fa3c77558bf7dbe96770afbc78e"
-
-[[files]]
-file = "kubejs/README.txt"
-hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/example_item.png"
-hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
-
-[[files]]
-file = "kubejs/client_scripts/example.js"
-hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
-
-[[files]]
-file = "kubejs/client_scripts/misc.js"
-hash = "ab6b708f459d137e10e736de25f02f4b3ffc65e042fcbd8e8cf2804402bab2f9"
-
-[[files]]
-file = "kubejs/config/client.properties"
-hash = "8102efe72f95076f46b095c65fd7513379d6a1d5f40ffa6b58c74b10ba83351f"
-
-[[files]]
-file = "kubejs/config/common.properties"
-hash = "9c0e7b209d4dfb880001427452677b2b4d8b347c91b1b824fc2cd346d7ed4894"
-
-[[files]]
-file = "kubejs/server_scripts/misc.js"
-hash = "88ee956e1640f2822dec37c26b838ef4fb7304d18dc48e4ffd93ab58d64bccc7"
-
-[[files]]
-file = "kubejs/server_scripts/toolworking.js"
-hash = "b9239851a4ec6856edb460f991cb82c999c1f4af630dbaca5110858f2172a181"
-
-[[files]]
-file = "kubejs/startup_scripts/example.js"
-hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
 file = "minepkl/@lib/Recipe.pkl"
@@ -2122,328 +1743,408 @@ hash = "0dd3e96f400479a748c0fd3868dc716f66419f6f5154b55109c591cab308964e"
 preserve = true
 
 [[files]]
-file = "resourcepacks/@VanillaTweaks.zip"
+file = "packs/bundled/VanillaTweaks.zip"
 hash = "622db52934292b831dd7a67bfc6ad22827fe00ce9fb228241c56a29362843aeb"
 
 [[files]]
-file = "resourcepacks/@integrated/assets/better_campfires/lang/pt_br.json"
+file = "packs/bundled/integrated/assets/better_campfires/lang/pt_br.json"
 hash = "ecee0659fac024a106787b9a5e2ea011f8115fef5a348d3ed72bbdc66ae3fab4"
 
 [[files]]
-file = "resourcepacks/@integrated/assets/emi/textures/gui/background.png"
+file = "packs/bundled/integrated/assets/emi/textures/gui/background.png"
 hash = "46e92c340fc597c7ba4981c046a78ce4bc05eb170984fe51879e6da623a2155b"
 
 [[files]]
-file = "resourcepacks/@integrated/assets/emi/textures/gui/buttons.png"
+file = "packs/bundled/integrated/assets/emi/textures/gui/buttons.png"
 hash = "34bdfcb96aa3e382af5d582942baf3f164bf8fa814a5fe612ddd13becc7025bc"
 
 [[files]]
-file = "resourcepacks/@integrated/assets/emi/textures/gui/container/brewing_stand.png"
+file = "packs/bundled/integrated/assets/emi/textures/gui/container/brewing_stand.png"
 hash = "7102355a66f4ac0aef1491b06700a09f12713ebec891c7672a69d7aebba465c7"
 
 [[files]]
-file = "resourcepacks/@integrated/assets/emi/textures/gui/container/grindstone.png"
+file = "packs/bundled/integrated/assets/emi/textures/gui/container/grindstone.png"
 hash = "8ba6fcdca4c7f27524ed717d2eff47be415945dc1768a169fc6957ddf9756d68"
 
 [[files]]
-file = "resourcepacks/@integrated/assets/emi/textures/gui/widgets.png"
+file = "packs/bundled/integrated/assets/emi/textures/gui/widgets.png"
 hash = "da5559378ac5fd64611dcb9b0288da1b4f5f96d195070a5b0c300b60334c8db9"
 
 [[files]]
-file = "resourcepacks/@integrated/assets/fieldguide/textures/gui/fieldguide_button.png"
+file = "packs/bundled/integrated/assets/fieldguide/textures/gui/fieldguide_button.png"
 hash = "9a8e319d1d09cf8ad282fc295280ffa382eddaa353141395e29c9750db084636"
 
 [[files]]
-file = "resourcepacks/@integrated/assets/fieldguide/textures/gui/fieldguide_inventory_button.png"
+file = "packs/bundled/integrated/assets/fieldguide/textures/gui/fieldguide_inventory_button.png"
 hash = "9a8e319d1d09cf8ad282fc295280ffa382eddaa353141395e29c9750db084636"
 
 [[files]]
-file = "resourcepacks/@integrated/assets/ftbteams/textures/teams.png"
+file = "packs/bundled/integrated/assets/ftbteams/textures/teams.png"
 hash = "209dca791c291040fdccc9b7f8531365b106e49c5728155ec0981f5f40ae56bf"
 
 [[files]]
-file = "resourcepacks/@integrated/assets/insomnia/textures/gui/body_temp.apng.png"
+file = "packs/bundled/integrated/assets/insomnia/textures/gui/body_temp.apng.png"
 hash = "f1a8152a0c1067654d5fc12627d3d8ee5fdf4abe0e2b6eee83049e24e83903bf"
 
 [[files]]
-file = "resourcepacks/@integrated/assets/insomnia/textures/gui/structures/tenda_branca.png"
+file = "packs/bundled/integrated/assets/insomnia/textures/gui/structures/tenda_branca.png"
 hash = "53dba9bda3cab9b61b5bfe317a63842139d14ee901e6e500a81636efc76ec89d"
 
 [[files]]
-file = "resourcepacks/@integrated/assets/insomnia/textures/gui/structures/tenda_branca_smaller.png"
+file = "packs/bundled/integrated/assets/insomnia/textures/gui/structures/tenda_branca_smaller.png"
 hash = "43bf4618e580fa61da7b56a8eb36e9ffb6216681f268adfc044a6c826f086c14"
 
 [[files]]
-file = "resourcepacks/@integrated/assets/mace_backport/models/item/mace.json"
+file = "packs/bundled/integrated/assets/mace_backport/models/item/mace.json"
 hash = "8ecc1e97e2957b1a9c12260e5242f549a72bce3d838272b25778ffaeb03b0466"
 
 [[files]]
-file = "resourcepacks/@integrated/assets/mace_backport/models/item/mace1.json"
+file = "packs/bundled/integrated/assets/mace_backport/models/item/mace1.json"
 hash = "e3c28b42129b0a4c3be4f18a093f4d4a291c168cc6f01fa71097e1f499281e23"
 
 [[files]]
-file = "resourcepacks/@integrated/assets/mace_backport/textures/item/mace.png"
+file = "packs/bundled/integrated/assets/mace_backport/textures/item/mace.png"
 hash = "06ed23b44fb7294d7bde105971ecd90ae8ccb3734968816116de15bd198e805a"
 
 [[files]]
-file = "resourcepacks/@integrated/assets/mace_backport/textures/mace.png"
+file = "packs/bundled/integrated/assets/mace_backport/textures/mace.png"
 hash = "06ed23b44fb7294d7bde105971ecd90ae8ccb3734968816116de15bd198e805a"
 
 [[files]]
-file = "resourcepacks/@integrated/assets/minecraft/lang/pt_br.json"
+file = "packs/bundled/integrated/assets/minecraft/lang/pt_br.json"
 hash = "1f6c92d3ce1afe0c61ca786699683435660a5fe956d461ccbedb4b9da42f4b4f"
 
 [[files]]
-file = "resourcepacks/@integrated/assets/minecraft/textures/gui/interfaces/cancel_text.png"
+file = "packs/bundled/integrated/assets/minecraft/textures/gui/interfaces/cancel_text.png"
 hash = "c6b917d11c22a39b5fbeea779eb90652f82bd790517721dc792269fd369d642f"
 
 [[files]]
-file = "resourcepacks/@integrated/assets/minecraft/textures/gui/interfaces/done_text.png"
+file = "packs/bundled/integrated/assets/minecraft/textures/gui/interfaces/done_text.png"
 hash = "4b903f51d9cf9f06e6da00de273b7b1b751ff586b84128e6e2ddfaf5a2670e14"
 
 [[files]]
-file = "resourcepacks/@integrated/assets/minecraft/textures/gui/widgets.png"
+file = "packs/bundled/integrated/assets/minecraft/textures/gui/widgets.png"
 hash = "eed850e24c0caa985f55665308fe7b682c656f7c1764e427f0edd5ec1eae70f7"
 
 [[files]]
-file = "resourcepacks/@integrated/assets/thirst/lang/pt_br.json"
+file = "packs/bundled/integrated/assets/thirst/lang/pt_br.json"
 hash = "374d3a5a4edadf44d6e205e86da3b71b2effda1f30ff360c99ca40024cb0b673"
 
 [[files]]
-file = "resourcepacks/@integrated/assets/thirstcanteen/lang/pt_br.json"
+file = "packs/bundled/integrated/assets/thirstcanteen/lang/pt_br.json"
 hash = "85ff901ebcbe6be2a200370e7776d5c8a9609b5464081318b4512c14910081e4"
 
 [[files]]
-file = "resourcepacks/@integrated/pack.mcmeta"
+file = "packs/bundled/integrated/data/chovys_apocalypse_mod/weapon_attributes/aluminiumbat.json"
+hash = "fe30163fbfcebb82f080dbe29cecc43facd06c790c6fd4cc391d80120601fb82"
+
+[[files]]
+file = "packs/bundled/integrated/data/chovys_apocalypse_mod/weapon_attributes/baseballbat.json"
+hash = "fe30163fbfcebb82f080dbe29cecc43facd06c790c6fd4cc391d80120601fb82"
+
+[[files]]
+file = "packs/bundled/integrated/data/chovys_apocalypse_mod/weapon_attributes/crowbar.json"
+hash = "35122180a8d0d05c63311b32a8e202783c316a0ec164bc6457520b3551297c0c"
+
+[[files]]
+file = "packs/bundled/integrated/data/chovys_apocalypse_mod/weapon_attributes/pitchfork.json"
+hash = "e5b85bc5dbdd39ad3cbfff0d42191ee47b30698b0e682653fdb3a05d3c594b13"
+
+[[files]]
+file = "packs/bundled/integrated/data/enhancedcelestials/lunar/event/blood_moon.json"
+hash = "31d4c952aed240f3e6c6c92aa478cdc661ef581c44f240cdbb08a6fdb9edf29e"
+
+[[files]]
+file = "packs/bundled/integrated/data/enhancedcelestials/lunar/event/super_blood_moon.json"
+hash = "b1bda3b3bbd9e2420e2a04fdbb30f5716871f3b3ba77faaead02c23ef7a19f58"
+
+[[files]]
+file = "packs/bundled/integrated/data/farmersdelight/recipes/cutting/tag_dough.json"
+hash = "8a95dd39f97fca762a7d4ea285062f4813c6f006194e164e802b77b599a9ffe9"
+
+[[files]]
+file = "packs/bundled/integrated/data/fromtheshadows/forge/biome_modifier/nether_spawns.json"
+hash = "400a5209c3c2162552a4c3fe8a5ea846e8983e1258324787b2fe734ad5dd2393"
+
+[[files]]
+file = "packs/bundled/integrated/data/fromtheshadows/forge/biome_modifier/spawns.json"
+hash = "0371a4848c6eadf08597281d021526359542bb8ea3669ff4fccdf8969b4c0611"
+
+[[files]]
+file = "packs/bundled/integrated/data/modpack/recipes/wooden_shovel.json"
+hash = "4ff19cd29b3105b8a7ac7c298d5cb6695f1d6464e720e778b705e37b7800a1c8"
+
+[[files]]
+file = "packs/bundled/integrated/data/modpack/structures/base.nbt"
+hash = "dccee21134f6e1f445f88930c264597336aa14179a329cee53e8acc5574a5128"
+
+[[files]]
+file = "packs/bundled/integrated/data/modpack/structures/offshore_platform.nbt"
+hash = "8ebc0ddddef002ad212f0d054b74c44c9216ac4fcc3d7ce62cf6691d04a3b741"
+
+[[files]]
+file = "packs/bundled/integrated/data/simplymore/weapon_attributes/diamond_grandsword.json"
+hash = "a1fe62f8b65df5266692d9d613f9528177d89456fcf45baf658e8f6e0c1772ea"
+
+[[files]]
+file = "packs/bundled/integrated/data/simplymore/weapon_attributes/gold_grandsword.json"
+hash = "a1fe62f8b65df5266692d9d613f9528177d89456fcf45baf658e8f6e0c1772ea"
+
+[[files]]
+file = "packs/bundled/integrated/data/simplymore/weapon_attributes/iron_grandsword.json"
+hash = "a1fe62f8b65df5266692d9d613f9528177d89456fcf45baf658e8f6e0c1772ea"
+
+[[files]]
+file = "packs/bundled/integrated/data/simplymore/weapon_attributes/mimicry_grandsword.json"
+hash = "a1fe62f8b65df5266692d9d613f9528177d89456fcf45baf658e8f6e0c1772ea"
+
+[[files]]
+file = "packs/bundled/integrated/data/simplymore/weapon_attributes/netherite_grandsword.json"
+hash = "a1fe62f8b65df5266692d9d613f9528177d89456fcf45baf658e8f6e0c1772ea"
+
+[[files]]
+file = "packs/bundled/integrated/data/simplymore/weapon_attributes/runic_grandsword.json"
+hash = "a1fe62f8b65df5266692d9d613f9528177d89456fcf45baf658e8f6e0c1772ea"
+
+[[files]]
+file = "packs/bundled/integrated/data/superflat/dimension/superflat.json"
+hash = "6a73f3a9df16ad5113b464420a3adf0ba0d9be26c6df89a6d32dc5eaf042e89d"
+
+[[files]]
+file = "packs/bundled/integrated/data/walkers/tags/entity_types/flying.json"
+hash = "d4c025c754d3d10e1d855436a2e2626969b83d38f7b63523a0e064e26aeeb049"
+
+[[files]]
+file = "packs/bundled/integrated/pack.mcmeta"
 hash = "3e163c86db6938386a01935b5d6552eb15e5e07c977bf7ceb3ab10ab24badad8"
 
 [[files]]
-file = "resourcepacks/@wetbackpacks/LICENSE"
+file = "packs/bundled/wetbackpacks/LICENSE"
 hash = "6d489af6292662d9e36d34ce49423784984a5f6e41d7b58f49b01264df59fa03"
 
 [[files]]
-file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/lang/en_us.json"
+file = "packs/bundled/wetbackpacks/assets/leans_extra_backpacks/lang/en_us.json"
 hash = "c5cd280890dbaf7aead4c49a67a9885542b5177aea48dc4aed473eaea76e0b93"
 
 [[files]]
-file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/models/backpacked/computer.json"
+file = "packs/bundled/wetbackpacks/assets/leans_extra_backpacks/models/backpacked/computer.json"
 hash = "b3b0fb3d05e25e3663a96e91554bde74c54103bb170eaed47687e573ef3b84df"
 
 [[files]]
-file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/models/backpacked/computer_straps.json"
+file = "packs/bundled/wetbackpacks/assets/leans_extra_backpacks/models/backpacked/computer_straps.json"
 hash = "c3d466582b23a458cf85ffd298ea32c30e3ec8c045785b87efe9fd9c3a15c5cf"
 
 [[files]]
-file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/models/backpacked/explorer.json"
+file = "packs/bundled/wetbackpacks/assets/leans_extra_backpacks/models/backpacked/explorer.json"
 hash = "c308373b3a977aca9e7ff39e95e89a939c89abb3ccd2612faf30191c2fe8a4af"
 
 [[files]]
-file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/models/backpacked/explorer_straps.json"
+file = "packs/bundled/wetbackpacks/assets/leans_extra_backpacks/models/backpacked/explorer_straps.json"
 hash = "bcc6f7043eed8d4efcc81720cdbf88e3e2ebdafacb894183c7088e97edf619cc"
 
 [[files]]
-file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/models/backpacked/micropack.json"
+file = "packs/bundled/wetbackpacks/assets/leans_extra_backpacks/models/backpacked/micropack.json"
 hash = "25c37f7ea7231c9d7a2329b53c274047cd52110cedc0fdd4e1319b83631cbadc"
 
 [[files]]
-file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/models/backpacked/micropack_straps.json"
+file = "packs/bundled/wetbackpacks/assets/leans_extra_backpacks/models/backpacked/micropack_straps.json"
 hash = "b17dc65dfc91c461247d1f9c819baed4f586a1c58388d068a43c30dd33370916"
 
 [[files]]
-file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/models/backpacked/pirate_king.json"
+file = "packs/bundled/wetbackpacks/assets/leans_extra_backpacks/models/backpacked/pirate_king.json"
 hash = "6eb66c3a5aa460b6a7a34f31291a501f6bc49acd6b6617d6167bd5e151638e7f"
 
 [[files]]
-file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/models/backpacked/pirate_king_straps.json"
+file = "packs/bundled/wetbackpacks/assets/leans_extra_backpacks/models/backpacked/pirate_king_straps.json"
 hash = "a680d992ade404111975dc8481355b87194f9f2e364da0ddbfe5cd3c84dd038b"
 
 [[files]]
-file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/models/backpacked/swordpack.json"
+file = "packs/bundled/wetbackpacks/assets/leans_extra_backpacks/models/backpacked/swordpack.json"
 hash = "a9b88ab699ae9f04bd84e48461534856989f4d896513c91b2cc0ec6e9adb7492"
 
 [[files]]
-file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/models/backpacked/swordpack_straps.json"
+file = "packs/bundled/wetbackpacks/assets/leans_extra_backpacks/models/backpacked/swordpack_straps.json"
 hash = "1d0719f30bc1d514cccf4c671fef8bab59fde95d4361627043b1d9e43696c4f1"
 
 [[files]]
-file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/textures/backpack/computer.png"
+file = "packs/bundled/wetbackpacks/assets/leans_extra_backpacks/textures/backpack/computer.png"
 hash = "bd0fa7de0bbaa9e6f22f54aa837d5b2ead73b1bee32ae786f7077964533541b2"
 
 [[files]]
-file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/textures/backpack/explorer.png"
+file = "packs/bundled/wetbackpacks/assets/leans_extra_backpacks/textures/backpack/explorer.png"
 hash = "87fbbd7d14145cb93a9fae9ccf949253c2ab1f5a89c38e321ca21d0c33694d0b"
 
 [[files]]
-file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/textures/backpack/micropack.png"
+file = "packs/bundled/wetbackpacks/assets/leans_extra_backpacks/textures/backpack/micropack.png"
 hash = "d76eda9a42cf58ca8ad7587b66a849f7cb16ad7abe347a710d686e5e8c63932f"
 
 [[files]]
-file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/textures/backpack/pirate_king.png"
+file = "packs/bundled/wetbackpacks/assets/leans_extra_backpacks/textures/backpack/pirate_king.png"
 hash = "c63a7449ca3c24bd7cc5c50aadba965e6c9d844fd0d3920c85e4f16d62018d33"
 
 [[files]]
-file = "resourcepacks/@wetbackpacks/assets/leans_extra_backpacks/textures/backpack/swordpack.png"
+file = "packs/bundled/wetbackpacks/assets/leans_extra_backpacks/textures/backpack/swordpack.png"
 hash = "f16714b11a2745755c2f2f887c491b1098b902260b67be3def84a81245a6b4f9"
 
 [[files]]
-file = "resourcepacks/@wetbackpacks/data/leans_extra_backpacks/backpacked/computer.json"
+file = "packs/bundled/wetbackpacks/data/leans_extra_backpacks/backpacked/computer.json"
 hash = "c6f8281620c2b87cf6a94f523311eae977e420ef9a6cda8667f61be906ceca90"
 
 [[files]]
-file = "resourcepacks/@wetbackpacks/data/leans_extra_backpacks/backpacked/explorer.json"
+file = "packs/bundled/wetbackpacks/data/leans_extra_backpacks/backpacked/explorer.json"
 hash = "c88d8a78e470fad6cf553e87508db6bea48115daf09e087adeac2edefb71cf89"
 
 [[files]]
-file = "resourcepacks/@wetbackpacks/data/leans_extra_backpacks/backpacked/micropack.json"
+file = "packs/bundled/wetbackpacks/data/leans_extra_backpacks/backpacked/micropack.json"
 hash = "c6f8281620c2b87cf6a94f523311eae977e420ef9a6cda8667f61be906ceca90"
 
 [[files]]
-file = "resourcepacks/@wetbackpacks/data/leans_extra_backpacks/backpacked/pirate_king.json"
+file = "packs/bundled/wetbackpacks/data/leans_extra_backpacks/backpacked/pirate_king.json"
 hash = "a536767c57f22307d876e3a4e1521f4171d84f564d4974cdf85ddc551fa8c12d"
 
 [[files]]
-file = "resourcepacks/@wetbackpacks/data/leans_extra_backpacks/backpacked/swordpack.json"
+file = "packs/bundled/wetbackpacks/data/leans_extra_backpacks/backpacked/swordpack.json"
 hash = "25fec9edc70a2a675387b08a8ff6d023ba90dcc477b35ebc326fad85fa69ca44"
 
 [[files]]
-file = "resourcepacks/@wetbackpacks/pack.mcmeta"
+file = "packs/bundled/wetbackpacks/pack.mcmeta"
 hash = "063ba9d1c5591cdcb090c53efe992ee197edce22c7b7a3babfde0ba7ee8d36f3"
 
 [[files]]
-file = "resourcepacks/@wetbackpacks/pack.png"
+file = "packs/bundled/wetbackpacks/pack.png"
 hash = "6e6a07bd07907a571751d4f54a466aeb0e1f04f585f7014cfe6ae23928929ee0"
 
 [[files]]
-file = "resourcepacks/c418-songs-only.pw.toml"
+file = "packs/datapacks/cherry-villages.pw.toml"
+hash = "ebd2d7b9f6991d780b9b3d1c8fd5f549ac1886ce9459d67c7f6a5aae4f1c3ad4"
+metafile = true
+
+[[files]]
+file = "packs/datapacks/create-immersive-aircrafts-data-pack.pw.toml"
+hash = "22a5f14d3812e9b51ba33496d0bb685325dd7969c70ca13445c0622cd0dd5626"
+metafile = true
+
+[[files]]
+file = "packs/datapacks/improved-pillager-outpost.pw.toml"
+hash = "b26d5949e773596d56bb310234f8682f8a9dafd377b2b5fb1bbdebb372e2a8fb"
+metafile = true
+
+[[files]]
+file = "packs/datapacks/strayed-fates-forsaken.pw.toml"
+hash = "f66331aa9ef280410a0bd72644a81f0f5881617665c1d08dfdf9c393eef6e7d5"
+metafile = true
+
+[[files]]
+file = "packs/resources/c418-songs-only.pw.toml"
 hash = "255718ebcd13e05f2841c745e1902b50943c1bdc4a67484708de0cdbacbd4c4e"
 metafile = true
 
 [[files]]
-file = "resourcepacks/create-style-hopper.pw.toml"
+file = "packs/resources/create-style-hopper.pw.toml"
 hash = "374fc3b531d1cff3d9dcafc73103797e44c5e27bce2ab414fab2695bde9d9284"
 metafile = true
 
 [[files]]
-file = "resourcepacks/detail-brush.pw.toml"
+file = "packs/resources/detail-brush.pw.toml"
 hash = "27248db37de72a7da311aef7bab36707e08edeeb6307f4cb2d69d8e343fcd2e8"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fancy-beds.pw.toml"
+file = "packs/resources/fancy-beds.pw.toml"
 hash = "48f5227713491697281eec979e11c153c6fc68e7e43b9c2bb817dbe70fa3109b"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fast-better-grass.pw.toml"
+file = "packs/resources/fast-better-grass.pw.toml"
 hash = "9b3a80122c1b511ac0c134d34e3acbfa4662a0fbab2a9af630d9854bf7bc5678"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fresh-waystones-texture.pw.toml"
+file = "packs/resources/fresh-waystones-texture.pw.toml"
 hash = "f64002469dee1cadc9280a041f4c9df60dcb50422eb5f90fd11ec534f198517f"
 metafile = true
 
 [[files]]
-file = "resourcepacks/gentler-weather-sounds.pw.toml"
+file = "packs/resources/gentler-weather-sounds.pw.toml"
 hash = "dbcf037cfc9dbbc387d2689cee6693896cedf9b632a4047d6163eaa115b29f61"
 metafile = true
 
 [[files]]
-file = "resourcepacks/immersive-interfaces-mod-support-unofficial.pw.toml"
+file = "packs/resources/immersive-interfaces-mod-support-unofficial.pw.toml"
 hash = "046d887c022acb824b40ff0126cc1ab387f0846188b1b8968c7280b887a5f68c"
 metafile = true
 
 [[files]]
-file = "resourcepacks/improved-crafting-table-squarzy.pw.toml"
+file = "packs/resources/improved-crafting-table-squarzy.pw.toml"
 hash = "c15efd64289159580f0997ace2c8b1b21ee81669417935aa31da1d0f0322951d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/no-enchant-glint.pw.toml"
+file = "packs/resources/no-enchant-glint.pw.toml"
 hash = "1a65718fc93624cf33ec153ff009b852bac581bd2f3c42bced2ae6665195a0f3"
 metafile = true
 
 [[files]]
-file = "resourcepacks/pale-garden-panorama-with-shaders.pw.toml"
+file = "packs/resources/pale-garden-panorama-with-shaders.pw.toml"
 hash = "6e4f076ebd0f0513413e5b37f72787c60bf2e2d88fa19e5c074d2bdc2fd9d8f6"
 metafile = true
 
 [[files]]
-file = "resourcepacks/shrimps-immersive-interfaces.pw.toml"
+file = "packs/resources/shrimps-immersive-interfaces.pw.toml"
 hash = "778b249b3c633efca0089373bf8c8cd07a3ec9effc86542f87ec064a42e021b7"
 metafile = true
 
 [[files]]
-file = "resourcepacks/smooth-drawers.pw.toml"
+file = "packs/resources/smooth-drawers.pw.toml"
 hash = "b7916df107dead7f43e2398c0906d5794620e4ee61d3cac17a3fab5359cc215d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/tool-belt-retextured.pw.toml"
+file = "packs/resources/tool-belt-retextured.pw.toml"
 hash = "5e0b9c0e62b7836e2657252d6c773adc809b80e980f9d242ddde5ec67a590d86"
 metafile = true
 
 [[files]]
-file = "resourcepacks/unique-dark.pw.toml"
+file = "packs/resources/unique-dark.pw.toml"
 hash = "a1929fef93b6a0e906720916975879ee719772a3010809c3ab3b9c0562745ca7"
 metafile = true
 
 [[files]]
-file = "resourcepacks/visual-enchantments.pw.toml"
+file = "packs/resources/visual-enchantments.pw.toml"
 hash = "fc7d5811d41c8db882a9f6e9e1eb9a7285d237aae57f5187faf452c34f63b29b"
 metafile = true
 
 [[files]]
-file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
+file = "packs/resources/xalis-enhanced-vanilla.pw.toml"
 hash = "ae7edf88421a097a50a8d2081dad32598bc24fc3bff7f0961763645a6fff37d2"
 metafile = true
 
 [[files]]
-file = "resourcepacks/xalis-potions-addon.pw.toml"
+file = "packs/resources/xalis-potions-addon.pw.toml"
 hash = "f76d5b81167247d55cfef8adf4c89572b03b49bd46a4a0718346f8634ada7355"
 metafile = true
 
 [[files]]
-file = "resourcepacks/xalis-potions.pw.toml"
+file = "packs/resources/xalis-potions.pw.toml"
 hash = "04068eb4e791f540e90b43efac083243672ed3f0999754bca09ec7b1b49c9c3a"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt"
-hash = "cb75369d77375fd7d9ab3ca9418df0750acb7fe37ccb8aac50a907bc4b39a0ab"
-preserve = true
-
-[[files]]
-file = "shaderpacks/Glimmer-v1.5.2.zip.txt"
-hash = "300c3a665e748c134e4d39c5e541d5128c5f102cc4ebc1767a19a9dabb9a94f8"
-preserve = true
-
-[[files]]
-file = "shaderpacks/I Like Vanilla v1.3.5.zip.txt"
-hash = "6b16b0fd8d254aaffb35955d1876f8c69d4d328bb9cb5d4df119872da8b4eadd"
-preserve = true
-
-[[files]]
-file = "shaderpacks/Spooklementary_v2.0.4.zip.txt"
-hash = "c8ad743f0d23969e54e7025ffdf1e5fe7f9d44f9dc5ca509c06aae0d11adee58"
-preserve = true
-
-[[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
+file = "packs/shaders/complementary-reimagined.pw.toml"
 hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
 metafile = true
 
 [[files]]
-file = "shaderpacks/glimmer-shaders.pw.toml"
+file = "packs/shaders/glimmer-shaders.pw.toml"
 hash = "84c1accef6768a316d35ea643f420a98183b01bd7948a314676315491b80ecbb"
 metafile = true
 
 [[files]]
-file = "shaderpacks/i-like-vanilla.pw.toml"
+file = "packs/shaders/i-like-vanilla.pw.toml"
 hash = "9c064e00e3e2a0facd0c4738646c6a626005a5768afd3a6976f504a1d1c4bf62"
 metafile = true
 
 [[files]]
-file = "shaderpacks/spooklementary.pw.toml"
+file = "packs/shaders/spooklementary.pw.toml"
 hash = "98d266a803313736dee1d42d73779e8f50841a3d17f69b06dc2096f4c1b44ebe"
 metafile = true
