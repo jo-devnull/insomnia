@@ -1740,6 +1740,11 @@ hash = "15835c562728fd289b479c5d70413b9b257728c74df36e513a9b87f66b5d88d9"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "61129651db9ec20e5d914634f70d64ed8608bfcd580b406e6e2b3f8dce48bfff"
+preserve = true
+
+[[files]]
 file = "packs/bundled/insomnia.zip"
 hash = "44b203661d3625332e018352b31a30a1f6b962c18cce79a28be7dd6db6eaaa7e"
 
