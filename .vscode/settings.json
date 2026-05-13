@@ -11,5 +11,10 @@
         "kubejs/client_scripts/": true,
         "kubejs/README.txt": true,
         "deno/deno.lock": true,
+        "packs/bundled/insomnia": false,
+    },
+
+    "files.readonlyInclude": {
+        "packs/bundled/insomnia/**/*": true
     }
 }

@@ -1,0 +1,43 @@
+create_ironworks {
+  ["steel_ingot"] {
+    "samurai_dynasty:steel_ingot"
+    "createmetallurgy:steel_ingot"
+  }
+
+  ["steel_block"] {
+    "samurai_dynasty:steel_block"
+    "createmetallurgy:steel_block"
+  }
+
+  ["steel_nugget"] {
+    "samurai_dynasty:steel_nugget"
+  }
+}
+
+farmersdelight {
+  ["onion"] {
+    "farm_and_charm:onion"
+  }
+
+  ["onion_crate"] {
+    "farm_and_charm:onion_bag"
+  }
+
+  ["tomato_crate"] {
+    "farm_and_charm:tomato_bag"
+  }
+
+  ["rotten_tomato"] {
+    "farm_and_charm:rotten_tomato"
+  }
+
+  ["tomato_seeds"] {
+    "farm_and_charm:tomato_seeds"
+  }
+}
+
+create {
+  ["crushed_raw_tin"] {
+    "create_ironworks:crushed_raw_tin"
+  }
+}

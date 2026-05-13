@@ -19,7 +19,7 @@
       },
       "type": "shell",
       "command": "deno",
-      "args": ["run", "build", "packs/bundled/insomnia.zip"],
+      "args": ["run", "build", "packs/bundled/insomnia"],
       "options": {
         "cwd": "deno"
       },

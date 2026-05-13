@@ -1,0 +1,25 @@
+import "tags.pkl"
+import "recipes/misc.pkl"
+import "recipes/smelting.pkl"
+
+function res(path) = "toolworking:\(path)"
+
+function buildRecipes(object) = new {
+  for (group, list in object.toMap()) {
+    for (recipe in list) {
+      [recipe.getPath()] = recipe
+    }
+  }
+}
+
+function buildTags(tags) = new {
+  for (name, items in tags.toMap()) {
+    ["toolworking:tags/items/\(name)"] { values = items }
+  }
+}
+
+function build() = new {
+  ...buildTags(tags)
+  ...buildRecipes(misc)
+  ...buildRecipes(smelting)
+}

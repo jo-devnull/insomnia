@@ -1,0 +1,74 @@
+minecraft {
+  "crafting_table"
+  "stonecutter"
+  "cartography_table"
+  "fletching_table"
+  "smithing_table"
+  "grindstone"
+  "loom"
+  "furnace"
+  "smoker"
+  "blast_furnace"
+  "beehive"
+  "campfire"
+  "anvil"
+  "brewing_stand"
+  "enchanting_table"
+}
+
+create {
+  "schematic_table"
+  "schematicannon"
+  "crushing_wheel"
+  "millstone"
+  "basin"
+  "mechanical_mixer"
+  "mechanical_saw"
+  "mechanical_press"
+  "mechanical_drill"
+  "mechanical_arm"
+}
+
+automobility {
+  "auto_mechanic_table"
+  "automobile_assembler"
+}
+
+betterarcheology {
+  "archeology_table"
+}
+
+cold_sweat {
+  "sewing_table"
+}
+
+bakery {
+  "baker_station"
+}
+
+clanginghowl {
+  "stationary_charging_station"
+}
+
+disenchanting_table {
+  "disenchanting_table"
+}
+
+powergrid {
+  "circuit_design_table"
+}
+
+createmetallurgy {
+  "foundry_basin"
+  "casting_basin"
+  "casting_table"
+  "mechanical_belt_grinder"
+}
+
+simpleradio {
+  "radiosmither"
+}
+
+storagedrawers {
+  "framing_table"
+}

@@ -1,0 +1,57 @@
+minecraft {
+  "#minecraft:axes"
+  "#minecraft:swords"
+  "#c:weapons"
+  "#c:swords"
+  "#c:axes"
+  "trident"
+  "shield"
+}
+
+aquamirae {
+  "terrible_sword"
+  "fin_cutter"
+  "divider"
+  "whisper_of_the_abyss"
+  "remnants_saber"
+  "poisoned_blade"
+  "coral_lance"
+  "dagger_of_greed"
+}
+
+samurai_dynasty {
+  "katana"
+  "wakizashi"
+  "naginata"
+  "nagamaki"
+  "shuko"
+  "tetsubo"
+  "odachi"
+  "tonbukiri"
+  "kamayari"
+  "kunai"
+  "kama"
+  "sai"
+  "shuriken"
+  "katana_netherite"
+  "wakizashi_netherite"
+  "katana_oni"
+  "katana_kitsune"
+  "katana_kitsune_blue"
+  "katana_akaname"
+  "katana_jorogumo"
+  "naginata_netherite"
+  "nagamaki_netherite"
+  "shuko_netherite"
+  "tetsubo_netherite"
+  "odachi_netherite"
+  "tonbukiri_netherite"
+  "kamayari_netherite"
+  "kunai_netherite"
+  "kama_netherite"
+  "sai_netherite"
+}
+
+mace_backport {
+  "mace"
+}

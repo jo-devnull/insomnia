@@ -1,0 +1,5 @@
+minecraft {
+  "#c:bows"
+  "#forge:bows"
+  "#minecraft:arrows"
+}

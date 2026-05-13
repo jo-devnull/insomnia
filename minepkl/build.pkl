@@ -1,0 +1,22 @@
+import "assets.pkl" as modAssets
+import "main/main.pkl"
+import "toolworking/toolworking.pkl"
+
+packs {
+  ["@insomnia"] {
+    assets {
+      ...modAssets.buildEmi()
+      ...modAssets.buildLang()
+      ...modAssets.buildTagModels()
+    }
+
+    data = main.build()
+    description = "Insomnia Main Resources"
+  }
+
+  ["@toolworking"] {
+    data = toolworking.build()
+    assets = new Mapping {}
+    description = "Resources for Toolworking"
+  }
+}

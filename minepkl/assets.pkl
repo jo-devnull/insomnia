@@ -1,0 +1,40 @@
+import "main/misc/emi.pkl"
+import "main/tags/category/@category.pkl" as categoryTags
+
+function buildLang() = new {
+  ["category:lang/pt_br"] {
+    for (key, tag in categoryTags.toMap()) {
+      ["tag.item.category.\(key)"] = tag.title
+    }
+  }
+
+  ["createlowheated:lang/pt_br"] {
+    ["create.recipe.heat_requirement.lowheated"] = "Baixa Temp."
+  }
+}
+
+function buildTagModels() = new {
+  for (key, tag in categoryTags.toMap()) {
+    ["category:models/tag/item/\(key)"] { parent = tag.icon }
+  }
+}
+
+function buildAssets(mod) = new {
+  for (location, val in mod.assets) {
+    [location] = val
+  }
+}
+
+function buildEmi() = new {
+  ["emi:recipe/filters/hidden_recipes"] {
+    filters {
+      for (recipeType in emi.hiddenRecipeTypes) {
+        new { category = recipeType }
+      }
+    }
+  }
+
+  for (name, val in emi.stackGroups) {
+    ["insomnia:stack_groups/\(name)"] = val
+  }
+}

@@ -1,0 +1,16 @@
+minecraft {
+  "golden_apple"
+  "enchanted_golden_apple"
+}
+
+marbledsfirstaid {
+  "#marbledsfirstaid:firstaiditems"
+  "#marbledsfirstaid:pills"
+  "#marbledsfirstaid:ingredients"
+  "#marbledsfirstaid:medicines"
+  "#marbledsfirstaid:syringes"
+}
+
+irons_spellbooks {
+  "greater_healing_potion"
+}

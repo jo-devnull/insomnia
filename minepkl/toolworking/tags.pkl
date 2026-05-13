@@ -1,0 +1,29 @@
+hammers {
+  "redeco:hammer"
+  "handcrafted:hammer"
+  "createdieselgenerators:hammer"
+  "clanginghowl:extraterrestrial_hammer"
+  "create_ironworks:copper_hammer"
+  "create_ironworks:bronze_hammer"
+  "create_ironworks:brass_hammer"
+  "create_ironworks:gold_hammer"
+  "create_ironworks:iron_hammer"
+  "create_ironworks:steel_hammer"
+  "create_ironworks:diamond_hammer"
+}
+
+ingots {
+  "minecraft:copper_ingot"
+  "minecraft:iron_ingot"
+  "minecraft:gold_ingot"
+  "minecraft:netherite_ingot"
+  "clanginghowl:extraterrestrial_steel_ingot"
+  "samurai_dynasty:silver_ingot"
+  "create_ironworks:steel_ingot"
+  "create_ironworks:tin_ingot"
+  "create_ironworks:bronze_ingot"
+  "createmetallurgy:tungsten_ingot"
+  "createmetallurgy:obdurium_ingot"
+  "create:zinc_ingot"
+  "create:brass_ingot"
+}

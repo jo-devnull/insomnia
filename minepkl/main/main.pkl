@@ -1,0 +1,83 @@
+import ".../@lib/Recipe.pkl"
+import "misc/fishing.pkl"
+import "tags/misc.pkl" as tags
+import* "recipes/*.pkl" as recipes
+import "misc/replace.pkl"
+
+import "tags/category/@category.pkl" as categoryTags
+
+const jsonRenderer = new JsonRenderer {}
+
+function getPath(path: String, type: String) =
+  if (path.contains(":")) path
+  else "modpack:\(type)/\(path)"
+
+function buildRecipes() = new {
+  for (_, mod in recipes.toMap()) {
+    for (key, recipe in mod.toMap()) {
+      [getPath(key, "recipes")] = recipe
+    }
+  }
+
+  for (_, list in import("recipes/remove.pkl").toMap()) {
+    for (id in list) {
+      [Recipe.empty(id).getPath()] = Recipe.empty(id)
+    }
+  }
+}
+
+function buildCategoryTags() = new {
+  for (key, tag in categoryTags.toMap()) {
+    ["category:tags/items/\(key)"] {
+      replace = false
+      values = new Listing<String> {
+        for (modname, list in tag.mod) {
+          for (item in list) {
+            if (item.contains(":")) item else "\(modname):\(item)"
+          }
+        }
+      }
+    }
+  }
+}
+
+function buildTags() = new {
+  for (key, tag in tags.toMap()) {
+    [getPath(key, "tags")] = new {
+      replace = false
+      values = tag
+    }
+  }
+}
+
+function buildReplacements() = new {
+  ["oei:replacements/mod_replacements"] {
+    for (mod, rules in replace.toMap()) {
+      for (item, inputs in rules) {
+        new {
+          matchItems = inputs
+          resultItems = "\(mod):\(item)"
+        }
+      }
+    }
+  }
+}
+
+function buildFishing() = new {
+  for (mod, map in fishing.toMap()) {
+    for (key, val in map) {
+      ["\(mod):fishing/\(key)"] {
+        input { item = "\(mod):\(key)" }
+        result { id = if (val == "*") "\(mod):\(key)" else "\(mod):\(val)" }
+      }
+    }
+  }
+}
+
+function build() = new {
+  ...buildTags()
+  ...buildRecipes()
+  ...buildFishing()
+  ...buildCategoryTags()
+  ...buildReplacements()
+}

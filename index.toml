@@ -62,7 +62,7 @@ preserve = true
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "fdf305dc54427e547a0b0f863375ddf97a9d7f95f677cc02dadef4a18e35bf30"
+hash = "91d7b0f2462108af7b345ce884ab788fd2e81dee4778b3899390039ca7e80eb6"
 preserve = true
 
 [[files]]
@@ -172,6 +172,190 @@ hash = "42ac02bc9c7f0924be2f779a85895b4f2a1538bdf4619024c7331a8dae808dc1"
 [[files]]
 file = "emi.json"
 hash = "a6254f9e251b9cd40cdd0917c80aad4f0d6c62adfcf53d5a57945ed0bae3d530"
+
+[[files]]
+file = "minepkl/@lib/Recipe.pkl"
+hash = "feaad351bffe7bb5ce8074f4c92f5ebf34a0aa1e4eba0fca6d51c9d5754f0af5"
+
+[[files]]
+file = "minepkl/@lib/utils.pkl"
+hash = "3fa26b4cbc2b772590d3f2b7932f5d6adca671e77f9cb957f7f7f662a5ae999c"
+
+[[files]]
+file = "minepkl/assets.pkl"
+hash = "6b3cf27d50ad53ddbd61ace2ee66334820c9169b89a6b0ad461c78c266e8a8d3"
+
+[[files]]
+file = "minepkl/build.pkl"
+hash = "0ed4115f653607d1b4e319828049f6c2e2e0c5dcda71a5ce1c9c225cb84b757e"
+
+[[files]]
+file = "minepkl/config/esm.pkl"
+hash = "0a7fe08fc58ada569d6b360956896aab44f29b4276e678a5fc5702cf40d88de5"
+
+[[files]]
+file = "minepkl/config/incontrol.pkl"
+hash = "db4c918a19540c1b4dbca019d510a35217ea730eb304ebd4b0016251a283f635"
+
+[[files]]
+file = "minepkl/external.pkl"
+hash = "837d9323b35b8ed99c2a81f7cb95ab2711fd3971c154c76172932a815521ea54"
+
+[[files]]
+file = "minepkl/main/main.pkl"
+hash = "1d720e8997e1cc507716b812e40877950699d6feaab78563279998fa94454554"
+
+[[files]]
+file = "minepkl/main/misc/emi.pkl"
+hash = "0bb8e1dc82ab4d26ab7bef2b93d87179c0b490407d60f951fd0e3dbf4397926b"
+
+[[files]]
+file = "minepkl/main/misc/fishing.pkl"
+hash = "25192874347a58755fee43cfe7a09c45d35eb03064c2587dc3dee69192c32e84"
+
+[[files]]
+file = "minepkl/main/misc/incontrol.pkl"
+hash = "9f2f423806d2ff5aafaf529447bf3ab4dc2c8d2caf18f5239248a3dee20ad6ad"
+
+[[files]]
+file = "minepkl/main/misc/replace.pkl"
+hash = "d6b7e72202a83579eafa8729e5a55f1d301ce0df809f5cd2fa0ed4c00fd54f4e"
+
+[[files]]
+file = "minepkl/main/recipes/compat.pkl"
+hash = "3657a3fe96303dfa7e0926dec482fb0f5220d19dffb730b5d471e5e34cc62aa7"
+
+[[files]]
+file = "minepkl/main/recipes/misc.pkl"
+hash = "0611dc7e435ee4dd379fb1f003ef61e60556082aaed17a54be656109332a8f7f"
+
+[[files]]
+file = "minepkl/main/recipes/remove.pkl"
+hash = "2d0a0125c6b33f7f9dca4420345467a132bcc98717dece9e77afccc217102c99"
+
+[[files]]
+file = "minepkl/main/tags/category/@category.pkl"
+hash = "2ac1747b4ef9dad35447ddc4995423deb988b0f3e007b5c94a1df2b78ed14cca"
+
+[[files]]
+file = "minepkl/main/tags/category/archery.pkl"
+hash = "6a636991cceff775091c181e1f36ba275055c51a4b7a1e6c7e985adb87c7ae63"
+
+[[files]]
+file = "minepkl/main/tags/category/armor.pkl"
+hash = "94b0fa9aa2124f6b66a2323c4673753d9bddca07e73e2aa8fade592dfad652e9"
+
+[[files]]
+file = "minepkl/main/tags/category/block_decoration.pkl"
+hash = "3016ab8ad7f6965e774259738eba1de7835680e2871abdf47dce745b0c981dc8"
+
+[[files]]
+file = "minepkl/main/tags/category/brewing.pkl"
+hash = "ae648aecfec19b0fb407f39960e11262ba6db373584b59d05e488498f92869aa"
+
+[[files]]
+file = "minepkl/main/tags/category/carpentry.pkl"
+hash = "e3e2a80005081420e8043431d1b7d4d32f3fa2a0c841f2128343f23870649310"
+
+[[files]]
+file = "minepkl/main/tags/category/construction.pkl"
+hash = "dc709f64875763b0882c53fdeeec6610d10dbda85a6b30ad6a6e41a9864447ac"
+
+[[files]]
+file = "minepkl/main/tags/category/cooking.pkl"
+hash = "baadd9992992445b60718c8671af590b3d278a49e538767c695e534b8ad2ce24"
+
+[[files]]
+file = "minepkl/main/tags/category/decoration.pkl"
+hash = "741a76ad6753f9da7b1ffe07c9c52ae46046f2a876e128e2f14e6291cb1f3755"
+
+[[files]]
+file = "minepkl/main/tags/category/enchanting.pkl"
+hash = "1a2f08abce2e080142f2ab4631490fa6c6bdf83023f11091c15f92b7ab7729d9"
+
+[[files]]
+file = "minepkl/main/tags/category/engineering.pkl"
+hash = "c9ea3c6b513730273bf02dba24bc28cf8b240ad8341745d15b5167e9d2a892a0"
+
+[[files]]
+file = "minepkl/main/tags/category/farming.pkl"
+hash = "022182560e14cff7e24ad4dba082a115e62637626fcb048f97f5cae715dbb465"
+
+[[files]]
+file = "minepkl/main/tags/category/fishing.pkl"
+hash = "20d5345a7ea118d94c3da047b66f4811b84594a86e802629dc583c484d8a7fca"
+
+[[files]]
+file = "minepkl/main/tags/category/foods.pkl"
+hash = "98af70389583279bcbc4585ba7e8825d11bf8f68253d45a810b6ebefb69f55fd"
+
+[[files]]
+file = "minepkl/main/tags/category/functional_blocks.pkl"
+hash = "fc67a0bdb94907aba80ad2f8803871094caf9ce37af79c04f49753049335f1f9"
+
+[[files]]
+file = "minepkl/main/tags/category/furniture.pkl"
+hash = "8cc50966bf226490e2d182d43034f32ea6a639f7d2a86444e03a8c8208c084a4"
+
+[[files]]
+file = "minepkl/main/tags/category/masonry.pkl"
+hash = "66dbcf24699ad47ad824f3e0b4e860e1a8194ee8ffe2b23217cb2820a5f64a48"
+
+[[files]]
+file = "minepkl/main/tags/category/medicine.pkl"
+hash = "a27898bcf6b6d306000051b9457f073c7816017c458e961d21d69d17dee4a4d0"
+
+[[files]]
+file = "minepkl/main/tags/category/metalworking.pkl"
+hash = "4d74d24f5a7b4bcf945b76d0fa9d908a42e7fda54162562502d01417054e5a66"
+
+[[files]]
+file = "minepkl/main/tags/category/misc.pkl"
+hash = "33df87cee65bb6c69f8d91b3bd3903df3dffd9b47700db527e91531e715dd9d0"
+
+[[files]]
+file = "minepkl/main/tags/category/storage.pkl"
+hash = "85605519622b5770c27f4d9ea850830f5dc14febfbdf8901fa4a55b1016ccc3f"
+
+[[files]]
+file = "minepkl/main/tags/category/tools.pkl"
+hash = "9cf7bf31ce409780aec44a0f3494b7e288ef2886cf1c26bcf565747ec6986c9b"
+
+[[files]]
+file = "minepkl/main/tags/category/transport.pkl"
+hash = "79a739a296bfd5ee8651df464e5e2af8c3f3ef1f1b311beb676b4e8b0bcf234c"
+
+[[files]]
+file = "minepkl/main/tags/category/weapons.pkl"
+hash = "69fd8a82ed698fcb69cc1cc87883a539f493d6bf27a3dbb2a3f1e59a53a31b8d"
+
+[[files]]
+file = "minepkl/main/tags/category/witchcraft.pkl"
+hash = "3b2454488cdd6dd3766ef89c4a6aaf356a3c130672fd94b24ce3f0679ba8c2a2"
+
+[[files]]
+file = "minepkl/main/tags/category/workbench.pkl"
+hash = "ca7cf46caf5882ef8ebe91d9054d406cce9381ec96ce34db5ff5d007b23020da"
+
+[[files]]
+file = "minepkl/main/tags/misc.pkl"
+hash = "1f23ddfa4f7368be5f9480a9182830c6af95af7ffd48e5e8f8c8c249e0244506"
+
+[[files]]
+file = "minepkl/toolworking/recipes/misc.pkl"
+hash = "a3455f63a26ebee050c36da8addec38d9c1245acdb986af75525ad695e47fa2d"
+
+[[files]]
+file = "minepkl/toolworking/recipes/smelting.pkl"
+hash = "033414620c20258ccfaf5cf818fc42a47edd0a6627aa1e1a31bab720587b5a52"
+
+[[files]]
+file = "minepkl/toolworking/tags.pkl"
+hash = "318ae2decf653e1d8bcb2fb1e6ed4bcef4d183570503d2cb29615e361cacdd2b"
+
+[[files]]
+file = "minepkl/toolworking/toolworking.pkl"
+hash = "837389147dc4f1ae7e330ee436a49e0c6b27a9d0f6f8fa7f180794cd10199c2b"
 
 [[files]]
 file = "mods/cooking/brewin-and-chewin.pw.toml"
@@ -721,11 +905,6 @@ metafile = true
 [[files]]
 file = "mods/equipment/immersive-armors.pw.toml"
 hash = "ce0179eb5af628a21edada441edb6c1838a14ac4934e0fc533e11dfb200c703e"
-metafile = true
-
-[[files]]
-file = "mods/equipment/mace-backport.pw.toml"
-hash = "51f08d35ca88e7d72c2083d0c5211e883e6a718e1814e56554f0be4c1708df80"
 metafile = true
 
 [[files]]
@@ -1325,18 +1504,8 @@ hash = "54b061da11811ba7f657e69dad7677cbf45373a21f34a185764fd0b2847ce5d5"
 metafile = true
 
 [[files]]
-file = "mods/performance/quick-pack.pw.toml"
-hash = "e90a6695bfd8ce416b4cc08f9d2757f70af67c61bbc35c50566e5b9922ae5fcd"
-metafile = true
-
-[[files]]
 file = "mods/performance/reeses-sodium-options.pw.toml"
 hash = "af84c65a4e042901215c571155d8aefb9b5bcdb69f25133d1ec90f7145da4da6"
-metafile = true
-
-[[files]]
-file = "mods/performance/rrls.pw.toml"
-hash = "a44eeca1c3212384923bb781d0b32f5f3743fef87e20e3902bf3bedf81561f87"
 metafile = true
 
 [[files]]
@@ -1532,11 +1701,6 @@ metafile = true
 [[files]]
 file = "mods/technology/create.pw.toml"
 hash = "4be5ebf9ca8a5397131d6ad2db746029fc756ca83f431549e1d6b81dcf0142f2"
-metafile = true
-
-[[files]]
-file = "mods/technology/immersive-aircraft.pw.toml"
-hash = "d40f5ecaed842250c04482b011bb770c94cbca9bda0fd0bc1003a9fb7420e382"
 metafile = true
 
 [[files]]
@@ -1743,10 +1907,6 @@ metafile = true
 file = "options.txt"
 hash = "61129651db9ec20e5d914634f70d64ed8608bfcd580b406e6e2b3f8dce48bfff"
 preserve = true
-
-[[files]]
-file = "packs/bundled/insomnia.zip"
-hash = "44b203661d3625332e018352b31a30a1f6b962c18cce79a28be7dd6db6eaaa7e"
 
 [[files]]
 file = "packs/bundled/integrated/assets/better_campfires/lang/pt_br.json"
@@ -2030,11 +2190,6 @@ hash = "ebd2d7b9f6991d780b9b3d1c8fd5f549ac1886ce9459d67c7f6a5aae4f1c3ad4"
 metafile = true
 
 [[files]]
-file = "packs/datapacks/create-immersive-aircrafts-data-pack.pw.toml"
-hash = "22a5f14d3812e9b51ba33496d0bb685325dd7969c70ca13445c0622cd0dd5626"
-metafile = true
-
-[[files]]
 file = "packs/datapacks/improved-pillager-outpost.pw.toml"
 hash = "b26d5949e773596d56bb310234f8682f8a9dafd377b2b5fb1bbdebb372e2a8fb"
 metafile = true
@@ -2087,11 +2242,6 @@ metafile = true
 [[files]]
 file = "packs/resources/improved-crafting-table-squarzy.pw.toml"
 hash = "c15efd64289159580f0997ace2c8b1b21ee81669417935aa31da1d0f0322951d"
-metafile = true
-
-[[files]]
-file = "packs/resources/mace-3d.pw.toml"
-hash = "65a17d8f96867ff725f4ed3b4b739c040afa96950127e00052c480f2fa2717ef"
 metafile = true
 
 [[files]]
@@ -2176,3 +2326,227 @@ metafile = true
 file = "packs/shaders/spooklementary.pw.toml"
 hash = "c445a4b47ef0a05ad9f7153569b54da7fbb8bff6c4d75aed3cb213c9147c4e03"
 metafile = true
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/lang/pt_br.json"
+hash = "bbd64891cba69f8461fa9f0017725112a1a55d58cbdf8f3d3ad3c253683f6c16"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/archery.json"
+hash = "91aff75fb94d0ef8f4acac53b7cabef3f11f47a68e8f609335d772194dd686fb"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/armor.json"
+hash = "eb2c11094732614259155fe95ef3a003a444fb65513b2d922954a1511292bd8e"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/block_decoration.json"
+hash = "6e13458e3d9c7ab4069e7c21069d2e4f88fb5b49eb3ca72f04eb19a4e54122bf"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/brewing.json"
+hash = "cbb399004740410d3ab93395a9b32d10d7146e3358d48ec9447f34d3d192098f"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/carpentry.json"
+hash = "b97a6f8a46b1989703bff35db7454e53251054e12f7f4fb74844a6c7643f75ff"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/construction.json"
+hash = "bc690b3822bff0e1b2074bcc84c50ec2c5ff18293103703d071d7cb03303e6ea"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/cooking.json"
+hash = "528ab74d38978cc7de5d49c1f6df661f42ba2627a3777491ca3351a3e1063d1c"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/decoration.json"
+hash = "3c28a2dd94589521110910b37c943577c5d95f01c9a96abfeac6fd4835ef8219"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/enchanting.json"
+hash = "34fcaf3f0bfc2a722152f57e345c05ffbb6b60eff7ccb0c10f4e4dea0705eee1"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/engineering.json"
+hash = "84dd1be8e17c921183b727ec5b6de8259d6223b709d7240d9318cb88d6676058"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/farming.json"
+hash = "6e3702217b13eaeb4027ece81af3db9bb016d7df393d2abc00d3846d5a026d9b"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/fishing.json"
+hash = "b283da5b4b67207b5e6192f1b5bd06080af722cca47a2dd668311fae2dae692e"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/foods.json"
+hash = "0806c32cda67bc1f1cf0b4f990bcd12c824eee80c5756b9ecaeaa490ccbf8564"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/functional_blocks.json"
+hash = "3b26a6cae18f12503fc2f6f26175fe68ca91b365d84842dcee9ee8f78ed8d801"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/furniture.json"
+hash = "ae2fe29301427f8b18ffa70d3815e04b4cb59bd82906629ac19efa9ed698bb7c"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/masonry.json"
+hash = "522c33742fd97690d5c26c0a5da23066b7d1f4c2fbae3b32bbd28ffb8fd371cd"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/medicine.json"
+hash = "da78b5b18fa479524affd927d23eb04adc203c199674fe53025d8df77adc3970"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/metalworking.json"
+hash = "4f10ea60e1204581028ccd14e72b19b5e5bbde5c5010149b275d6991091bbe2b"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/misc.json"
+hash = "ed39e1d3ffc94128e8a61c30e08fbd8b1393fba35e51475281f3570dbab45d35"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/storage.json"
+hash = "3d0914d9b67f83cfc3de819da9813c99bf25ef5d1cb8bdd36830b2cc510f5894"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/tools.json"
+hash = "aefab9c35731ce69f5a299410c415c29bb3f7ace311a39cfce8c6f12679d8771"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/transport.json"
+hash = "309811eaa959b54fe3ef1bd36c4df5cf14d422c56392392bcbbf1554b8d06e41"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/weapons.json"
+hash = "30209ea765400e50c94eb4e05be52f24e87f760dc9504c5058e488abb8d377f1"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/witchcraft.json"
+hash = "3504f02b10d7205d24642afe52cc25c35389f8a04098d6c60c2c24dbb022c3f7"
+
+[[files]]
+file = "resourcepacks/@insomnia/assets/category/models/tag/item/workbench.json"
+hash = "6c487f31c06d85649cc154ef0b5bdb6e8d3151d6795f4de19309c32a8a7fa4c7"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/archery.json"
+hash = "a2a595cd4b594be2bd25e20254a6ca1cfbede0e07e081ed2fc1387f9f69ba89f"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/armor.json"
+hash = "ac002162201abeed5c89cc99977a8c974c681c66c2671a49031704700cc5ac40"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/block_decoration.json"
+hash = "28edee5d1476279810e8b11c7f189ea78a70c7b23ea8477d292f30fcdfff73bc"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/brewing.json"
+hash = "4ce3641d31c48cb75d081d26abec1e8e2b7a52b89311fdaa0677646631b360a8"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/carpentry.json"
+hash = "281e4e82282c6a3b5badfdd0d46194ea564cf4cdb8388149564a432c9779fec4"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/construction.json"
+hash = "55e1b5c51c127fbb6db04cbf32a31f55623fe6902d93cd661a2ba885d8882686"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/cooking.json"
+hash = "8b2e673b486a654bcb42386b0e1791a133f44f3818496dd6666f0b08ed602948"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/decoration.json"
+hash = "26d5bf390cdf8fa65cb881ae726a2fb5bdbc99feca6668ed921e11ab495ba752"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/enchanting.json"
+hash = "1a4dd0274eb679c484ebedc7b96d995717e941bdb72db62f0804e08081daa487"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/engineering.json"
+hash = "47c81f3ee25d0381b7e185451d4c095a1a33b5d8137eb0748c16ca395e586830"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/farming.json"
+hash = "0036ec9bae4b4f50a6b9ada29c1130e4cf73880c279ca8d764c4611f71930709"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/fishing.json"
+hash = "e089a6ef47289b46f980ced682c713f3243a2f74884fc13186778dd4131f9413"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/foods.json"
+hash = "587f31bff09c6c9ddd90b5d463219df16980d8bad902b6db5c67f82abab01ca7"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/functional_blocks.json"
+hash = "faca00c20956bf4cdef5736a76a85dd697b9447f0041cd96a861977f4798ee0a"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/furniture.json"
+hash = "e8e57af823ea166d352b81b39ee391bac9a55b65821b37a26ceccc52b80cc632"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/masonry.json"
+hash = "6795b7b6eb2a26809a7a838263f2f8bdfde196b6c68544eb1d53bab8945eae10"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/medicine.json"
+hash = "c5c70da275d81ff34340814e81ef6c1fbda820fff59db9003682c89674e5274e"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/metalworking.json"
+hash = "50a1971ac27587d97b57a88189e2acd64da0abb360b914dc1a569c5bb927801d"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/misc.json"
+hash = "8e6436e7fc1337f23693d9de683795de4182078432bf5c10092d09ca1fa10579"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/storage.json"
+hash = "604de38bcf529102f2edad9480a91bccbe7da88e53ba3704fa56c7a16fd82116"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/tools.json"
+hash = "589107d2772dafa1a9f02fe6323e29cb5f674a0fd43796352cce2b41d3d263ab"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/transport.json"
+hash = "4d91fc617e564fec65bc3422da9cf0de40675062114b15d8ff7d4e47d0ab882e"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/weapons.json"
+hash = "431182e06dbc5e0fc50814924744433c1ed927f43a5306ce34ea46578e1c3698"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/witchcraft.json"
+hash = "ad5a426b82db774930877dcd11cee101b08f42adc6d6b96c263267b455525a8b"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/category/tags/item/workbench.json"
+hash = "5c46bf98acef6f7623c285a4e4000792997b07dbd62a03180668a2a56b17b589"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/insomnia/tags/entity_type/player_protection.json"
+hash = "969dc0179f222bc307b9799aa3a4884409b3d39e980c967d2f4c2fb6e9218f36"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/modpack/tags/worldgen/biome/always_unsafe.json"
+hash = "a58c8ee02292c7750acadbe5f5d518f04e758a3506262d7fb54e74f6f0eb188b"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/modpack/tags/worldgen/biome/safe_biomes.json"
+hash = "5169fb38452958fe6c7db4aadb4d8f947a7675c9a86cac5d69356161c555dfd9"
+
+[[files]]
+file = "resourcepacks/@insomnia/data/swordblockingmechanics/tags/item/can_perform_sword_blocking.json"
+hash = "42ae51de1c384d2da0ab825223e5b19a9e4760ff5706ae6c62e740c7e39422b8"
+
+[[files]]
+file = "resourcepacks/@insomnia/pack.mcmeta"
+hash = "2e6810995c4b1ace6ed688a2f3b28b1241ea6edf48936fc2d24fc4ae3809419d"

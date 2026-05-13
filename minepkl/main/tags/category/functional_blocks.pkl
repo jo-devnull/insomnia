@@ -1,0 +1,105 @@
+minecraft {
+  "soul_campfire"
+  "composter"
+  "note_block"
+  "jukebox"
+  "cauldron"
+  "bell"
+  "beacon"
+  "ladder"
+  "scaffolding"
+  "armor_stand"
+  "bookshelf"
+  "chiseled_bookshelf"
+  "lectern"
+  "chest"
+  "barrel"
+  "ender_chest"
+}
+
+create {
+  "andesite_scaffolding"
+  "brass_scaffolding"
+  "copper_scaffolding"
+  "contraption_controls"
+  "deployer"
+  "track_station"
+  "track_signal"
+  "track_observer"
+  "controls"
+  "content_observer"
+  "item_hatch"
+  "display_board"
+  "nixie_tube"
+  "peculiar_bell"
+  "haunted_bell"
+}
+
+supplementaries {
+  "speaker_block"
+  "urn"
+  "hat_stand"
+  "hourglass"
+  "jar"
+  "cage"
+  "safe"
+  "sack"
+  "wind_vane"
+  "turn_table"
+  "spring_launcher"
+  "cannon"
+  "faucet"
+  "relayer"
+  "crystal_display"
+  "bellows"
+  "lock_block"
+}
+
+brewinandchewin {
+  "keg"
+  "heating_cask"
+  "ice_crate"
+  "coaster"
+}
+
+waystones {
+  "waystone"
+  "mossy_waystone"
+  "sandy_waystone"
+  "sharestone"
+}
+
+cold_sweat {
+  "thermolith"
+  "hearth"
+  "boiler"
+  "icebox"
+  "smokestack"
+}
+
+clanginghowl {
+  "crystal_former"
+}
+
+farm_and_charm {
+  "water_sprinkler"
+  "silo_wood"
+  "silo_copper"
+  "chicken_coop"
+}
+
+insomnia {
+  "improvised_bed"
+}
+
+alexscaves {
+  "quarry"
+}
+
+simpleradio {
+  "radio"
+  "speaker"
+  "microphone"
+  "transmitter"
+  "receiver"
+}
