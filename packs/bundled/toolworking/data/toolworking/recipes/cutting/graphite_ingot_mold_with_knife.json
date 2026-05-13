@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "createmetallurgy:graphite_blank_mold"
+    }
+  ],
+  "result": [
+    {
+      "item": "createmetallurgy:graphite_ingot_mold"
+    }
+  ],
+  "tool": {
+    "tag": "farmersdelight:tools/knives"
+  }
+}

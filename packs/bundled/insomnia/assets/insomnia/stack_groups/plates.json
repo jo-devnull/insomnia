@@ -1,0 +1,8 @@
+{
+  "id": "toolworking:placa_metalica",
+  "type": "emixx:group",
+  "contents": [
+    "#forge:plates"
+  ],
+  "exclusions": []
+}

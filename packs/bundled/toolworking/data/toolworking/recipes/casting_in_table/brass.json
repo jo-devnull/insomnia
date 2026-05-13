@@ -1,0 +1,17 @@
+{
+  "type": "createmetallurgy:casting_in_table",
+  "processingTime": 60,
+  "ingredients": [
+    {
+      "item": "toolworking:ingot_clay_mold"
+    },
+    {
+      "fluid": "createmetallurgy:molten_brass",
+      "amount": 90,
+      "nbt": {}
+    }
+  ],
+  "result": {
+    "item": "create:brass_ingot"
+  }
+}

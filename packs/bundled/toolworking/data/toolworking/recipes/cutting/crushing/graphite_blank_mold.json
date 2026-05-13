@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "createmetallurgy:graphite"
+    }
+  ],
+  "result": [
+    {
+      "item": "createmetallurgy:graphite_blank_mold"
+    }
+  ],
+  "tool": {
+    "tag": "toolworking:hammers"
+  }
+}

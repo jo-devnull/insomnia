@@ -1,0 +1,30 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:rotten_flesh"
+    },
+    {
+      "item": "minecraft:charcoal"
+    },
+    [
+      {
+        "item": "supplementaries:soap"
+      },
+      {
+        "tag": "forge:raw_pork",
+        "amount": 2
+      }
+    ]
+  ],
+  "results": [
+    {
+      "item": "minecraft:leather"
+    },
+    {
+      "item": "minecraft:leather",
+      "chance": 0.25
+    }
+  ]
+}

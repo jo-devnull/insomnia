@@ -1,0 +1,8 @@
+{
+  "id": "toolworking:material_bruto_esmagado",
+  "type": "emixx:group",
+  "contents": [
+    "#create:crushed_raw_materials"
+  ],
+  "exclusions": []
+}

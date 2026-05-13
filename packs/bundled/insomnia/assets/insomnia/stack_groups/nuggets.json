@@ -1,0 +1,8 @@
+{
+  "id": "toolworking:pepita",
+  "type": "emixx:group",
+  "contents": [
+    "#forge:nuggets"
+  ],
+  "exclusions": []
+}

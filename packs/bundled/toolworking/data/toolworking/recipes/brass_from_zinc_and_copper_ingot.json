@@ -1,0 +1,19 @@
+{
+  "type": "createmetallurgy:melting",
+  "heatRequirement": "heated",
+  "processingTime": 60,
+  "ingredients": [
+    {
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "item": "create:zinc_ingot"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "createmetallurgy:molten_brass",
+      "amount": 90
+    }
+  ]
+}

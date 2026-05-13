@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "createmetallurgy:raw_wolframite"
+    }
+  ],
+  "result": [
+    {
+      "item": "createmetallurgy:crushed_raw_wolframite"
+    }
+  ],
+  "tool": {
+    "tag": "toolworking:hammers"
+  }
+}

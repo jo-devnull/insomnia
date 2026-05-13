@@ -9,9 +9,11 @@
         "file/§3§lC418 Songs Only.zip",
         "file/Improved Crafting Table V1.0.zip",
         "file/vanillatweaks.zip",
-        "file/insomnia",
         "file/wetbackpacks",
-        "file/integrated"
+        "file/insomnia",
+        "file/integrated",
+        "file/fishing",
+        "file/category"
     ],
     "default_overrides": {
         "force_compatible": true
@@ -25,9 +27,11 @@
             "file/§3§lC418 Songs Only.zip",
             "file/Improved Crafting Table V1.0.zip",
             "file/vanillatweaks.zip",
-            "file/insomnia",
             "file/wetbackpacks",
-            "file/integrated"
+            "file/insomnia",
+            "file/integrated",
+            "file/fishing",
+            "file/category"
         ],
         "vanilla": {
             "title": "\"Vanilla Assets\"",
