@@ -4,7 +4,6 @@
     "default_packs": [
         "file/Create_Style_Hopper_24_5_29.zip",
         "file/SmoothDrawers_1.20.1_v2.zip",
-        "file/4.0.0v_VisualEnchantments.zip",
         "file/Gentler Weather Sounds 2.2.0.zip",
         "file/§3§lC418 Songs Only.zip",
         "file/Improved Crafting Table V1.0.zip",
@@ -13,7 +12,8 @@
         "file/insomnia",
         "file/integrated",
         "file/fishing",
-        "file/category"
+        "file/category",
+        "file/toolworking"
     ],
     "default_overrides": {
         "force_compatible": true
@@ -22,7 +22,6 @@
         "1": [
             "file/Create_Style_Hopper_24_5_29.zip",
             "file/SmoothDrawers_1.20.1_v2.zip",
-            "file/4.0.0v_VisualEnchantments.zip",
             "file/Gentler Weather Sounds 2.2.0.zip",
             "file/§3§lC418 Songs Only.zip",
             "file/Improved Crafting Table V1.0.zip",
@@ -31,7 +30,8 @@
             "file/insomnia",
             "file/integrated",
             "file/fishing",
-            "file/category"
+            "file/category",
+            "file/toolworking"
         ],
         "vanilla": {
             "title": "\"Vanilla Assets\"",

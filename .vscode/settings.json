@@ -11,5 +11,9 @@
         "kubejs/client_scripts/": true,
         "kubejs/README.txt": true,
         "deno/deno.lock": true,
+    },
+
+    "material-icon-theme.files.associations": {
+        "*.zs": "minecraft"
     }
 }

@@ -1,0 +1,13 @@
+{
+    "replace": false,
+
+    "values": [
+        "create:zinc_ore",
+        "create:deepslate_zinc_ore"
+    ],
+
+    "remove": [
+        "minecraft:iron_ore",
+        "minecraft:deepslate_iron_ore"
+    ]
+}
