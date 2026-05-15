@@ -1,0 +1,13 @@
+name = "Aftershock"
+filename = "../aftershock-neoforge-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ed6cd1995909996f0b5f78ac3a2bffe222cf2c4b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8071182
+project-id = 834959

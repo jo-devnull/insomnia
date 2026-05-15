@@ -57,7 +57,7 @@ preserve = true
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "fa9d9660ce47c5d7ab1fdf18ae8ea43d5a96b38919b76b114aafa836ff6055d6"
+hash = "8d79f0d36adcd0cb642b8288a4380f258ea1478702cd765cbf6a239c827b8eef"
 preserve = true
 
 [[files]]
@@ -165,8 +165,44 @@ file = "credits.txt"
 hash = "42ac02bc9c7f0924be2f779a85895b4f2a1538bdf4619024c7331a8dae808dc1"
 
 [[files]]
+file = "data/@lib/api/recipe.ts"
+hash = "3b03541aadbd65689ef122d71a4b4cb648199be6a05e1763ecf74d281dc52f27"
+
+[[files]]
+file = "data/@lib/api/types/recipe.ts"
+hash = "7aa07d906d7ba1a81494e4b510d27b5fa3bc0e025300563d6a730a4811673cb3"
+
+[[files]]
+file = "data/@lib/api/types/types.ts"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "data/@lib/build.ts"
+hash = "092c8a8966417bcd2bacbab4f3537beccca569dea0749571423ec0d568746ee9"
+
+[[files]]
+file = "data/@lib/core.ts"
+hash = "f73b35d82fcd08c234bf4653d70775db7334da8396269fc5abf15beb6776e17e"
+
+[[files]]
+file = "data/@lib/utils.ts"
+hash = "0d8089b268fb7ffe969d7b9f9147a1feb3eac8bf6d450500d269cab531fe5286"
+
+[[files]]
+file = "data/deno.json"
+hash = "30aa4d54dbd0cc5fca7d13c5287db42366ea8c342e880815f760a6cd8d00a274"
+
+[[files]]
+file = "data/main.ts"
+hash = "3099f0e8854893033cbfeb0b264fda388b741cf7787094cbc61c0336885a3480"
+
+[[files]]
+file = "data/toolworking/casting.ts"
+hash = "f54aa1d392af364fe7084af51f783c5cf2e3c29459c2e80c5c879e2b96b186d2"
+
+[[files]]
 file = "emi.json"
-hash = "a6254f9e251b9cd40cdd0917c80aad4f0d6c62adfcf53d5a57945ed0bae3d530"
+hash = "bc490445f56d706005ed8b74e26eea22e4655641999a768fd849a24800647109"
 
 [[files]]
 file = "mods/cooking/brewin-and-chewin.pw.toml"
@@ -371,6 +407,11 @@ metafile = true
 [[files]]
 file = "mods/dependency/bookshelf.pw.toml"
 hash = "2dc9cadd5be52cdee2d5a75089478fc8e1d7455ae5c6929921ecf542cf0665e6"
+metafile = true
+
+[[files]]
+file = "mods/dependency/bucketlib.pw.toml"
+hash = "0950f0c3890b4db7540aa0e3bc48f9d6db0fd80be1ddeb051e409b8bdbb74904"
 metafile = true
 
 [[files]]
@@ -900,6 +941,11 @@ hash = "a44d889f6ecdb6f45de7b78cdf57c135aa9c6334a9bdb810a1ae060307ff51ce"
 metafile = true
 
 [[files]]
+file = "mods/misc/ceramic-bucket.pw.toml"
+hash = "ad17a18d9a81858ebf2be3b2f5f9c8acd57bcab837b9d7e32d49bde443c06592"
+metafile = true
+
+[[files]]
 file = "mods/misc/certain-questing-additions.pw.toml"
 hash = "7468146e8006b6a1401ff75335cbe211f3292fab3d689133822c42301d769355"
 metafile = true
@@ -955,6 +1001,11 @@ hash = "f21672d5321b9ded65fba7ccb2f05b1355d23b337990a48ffd4fbf13f3e18581"
 metafile = true
 
 [[files]]
+file = "mods/misc/flint-required.pw.toml"
+hash = "a5f5dad40a588195814895a3119b221131187469fb691ffa72c36a87c2faf401"
+metafile = true
+
+[[files]]
 file = "mods/misc/ftb-filter-system.pw.toml"
 hash = "ac86570200b7bd4a0d57c00de020e2f84f1b16c2eedce6901533f4f372fa6dd5"
 metafile = true
@@ -986,7 +1037,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/insomnia-tweaks.pw.toml"
-hash = "464c5c029afb04a31c2f0f96614b162b6f5ea4200c6964a0c965d0075f6aac14"
+hash = "8fe08a564bcde520e5e6436905795f5029bbf2d231da8be2c4787b95b0e30f9d"
 metafile = true
 
 [[files]]
@@ -1095,11 +1146,6 @@ hash = "3f2ba04265946205772856990c29d4b785b907b5936d90f6a79e0a6a23fb1685"
 metafile = true
 
 [[files]]
-file = "mods/misc/survivalist-essentials.pw.toml"
-hash = "ca3f33acdebc753bd555f40193ad096adf1178751b5d064fdb73dab95b31cbff"
-metafile = true
-
-[[files]]
 file = "mods/misc/sword-blocking-mechanics.pw.toml"
 hash = "ca8b0fed0113c3cacd050ea0ad7a0e6fc289d7baa1bbd1918de61e5f24a3dc30"
 metafile = true
@@ -1130,6 +1176,11 @@ hash = "ba2ca8820d78f0cff2f87f6d1f060450673102c73e16bffa93b2218bd8646bb6"
 metafile = true
 
 [[files]]
+file = "mods/mobs/aftershock.pw.toml"
+hash = "d2b1ce5ecd685fb560b0859c9da70886c13d1188694497701c61c677d5797c39"
+metafile = true
+
+[[files]]
 file = "mods/mobs/alexs-mobs-1-21-1-port.pw.toml"
 hash = "280d30949406789cd964cda199ffad259824186547afd146e968648504bbc653"
 metafile = true
@@ -1155,6 +1206,11 @@ hash = "1497b3df3053bc5251f94219b0b9ef8a8a474502afec43c6d27fb6b3de47c712"
 metafile = true
 
 [[files]]
+file = "mods/mobs/distant-friends.pw.toml"
+hash = "f11902b51854faf26727d0daca83f3a8d039ffd8e06bf0c4bd9f5012fe82fbb9"
+metafile = true
+
+[[files]]
 file = "mods/mobs/ecologics.pw.toml"
 hash = "ba8764b7a84edd871f616c22b3148c1756617d8262b2905c6a29f7f12fafcf78"
 metafile = true
@@ -1167,6 +1223,11 @@ metafile = true
 [[files]]
 file = "mods/mobs/gigeresque.pw.toml"
 hash = "75a89059d6d50e069b1d85674e9eda77ee99a7a530ce00d99c44920907313921"
+metafile = true
+
+[[files]]
+file = "mods/mobs/herd-instinct.pw.toml"
+hash = "47e7d7d48b718aa7d2f65211575f4d02c8b8e3af473a73ec33bb12ef3ed45f61"
 metafile = true
 
 [[files]]
@@ -1192,6 +1253,16 @@ metafile = true
 [[files]]
 file = "mods/mobs/nyfs-spiders.pw.toml"
 hash = "4aeb4b911394679b962b010d53f324c6abe4c5253118cfc63842f38ef0e47a9f"
+metafile = true
+
+[[files]]
+file = "mods/mobs/redomesticate.pw.toml"
+hash = "67b0918eea2331b694c947709ad834d89202876a165093960e0e20ac2cccee2a"
+metafile = true
+
+[[files]]
+file = "mods/mobs/spiders-produce-webs.pw.toml"
+hash = "e6dee2bf4db1e3e7d23e6436be4e016a57763649e7dbd9090f3bbc6a1c761a30"
 metafile = true
 
 [[files]]
@@ -1580,6 +1651,11 @@ hash = "eb31f62aaceec534951c8257837f9c37dfff43dbfc18871144b5fc69c4d1b203"
 metafile = true
 
 [[files]]
+file = "mods/utilities/jei-swift-copy.pw.toml"
+hash = "64097f840394e9f4918bb5ca1a4232a57e64be9398ed9c534927ea4b67838161"
+metafile = true
+
+[[files]]
 file = "mods/utilities/jei.pw.toml"
 hash = "d24c98c2f65b9179eb245eb51f91e7c52b644da33044e9f1a7504efe68e40d10"
 metafile = true
@@ -1905,7 +1981,7 @@ hash = "19c96aba920a41e4174e68484d62bb91208f97932f0a9bf7930af8219c17b3ab"
 
 [[files]]
 file = "packs/bundled/category/data/category/tags/item/tools.json"
-hash = "624d0853945da613e94268e6e0104e79d941849a448c8ea04896fe682c35d3e1"
+hash = "c631b821aad7b16aee7b1cf876334c40710a2ce52241866f5793aea5559d3ca8"
 
 [[files]]
 file = "packs/bundled/category/data/category/tags/item/transport.json"
@@ -2084,68 +2160,24 @@ file = "packs/bundled/fishing/pack.mcmeta"
 hash = "bfddcecbf28c3c7fa24e4fd99f1b724099c5ccb6322107408b717e3c6eca415c"
 
 [[files]]
-file = "packs/bundled/insomnia/assets/createlowheated/lang/pt_br.json"
-hash = "27b94c252ba41777cc5c2c1cd755c7f071dace748f3ab74a5799665e71c00a83"
-
-[[files]]
-file = "packs/bundled/insomnia/assets/emi/recipe/filters/hidden_recipes.json"
-hash = "67c3997199a169d88183802a50f2d9cefd84f80726f165952d372e5ff4b80832"
-
-[[files]]
-file = "packs/bundled/insomnia/assets/insomnia/stack_groups/crushed_raw_materials.json"
-hash = "c143807312e927e269b6092c3d08411cf1d3e1b190e3899d5d9d551f91b97b51"
-
-[[files]]
-file = "packs/bundled/insomnia/assets/insomnia/stack_groups/ingots.json"
-hash = "3c51e19a18c09df6e7ca07021d668ecd008f752defcf057ccb3006c3b27f8f00"
-
-[[files]]
-file = "packs/bundled/insomnia/assets/insomnia/stack_groups/nuggets.json"
-hash = "5b21abd465ba8735fae98aefc4e7c88ec93cf733e4df128405cf4bb0417519d2"
-
-[[files]]
-file = "packs/bundled/insomnia/assets/insomnia/stack_groups/plates.json"
-hash = "97f0cdf57346ffad2ccaad4b6090e8fe86918e3b842c2f64b7f5edc5fdd905c9"
-
-[[files]]
-file = "packs/bundled/insomnia/data/friendlyfire/tags/entity_type/player_protection.json"
-hash = "6c11b052f420fba14ec8ce4ec53a7dcd3aad9297a1f9d4a924902541bdd5aca8"
-
-[[files]]
-file = "packs/bundled/insomnia/data/hangglider/recipes/glider_framework.json"
-hash = "b60f53df17e36849e0ee7e21a988d5e6ae781df18c8edc88815bf93bbcf8b0ec"
-
-[[files]]
-file = "packs/bundled/insomnia/data/hangglider/recipes/hang_glider.json"
-hash = "e6c00d8d0394f06644159a64af24ff353648f00db63f50c1c2a13927b4556892"
-
-[[files]]
-file = "packs/bundled/insomnia/data/insomnia/recipes/leather_from_mixing.json"
-hash = "aaad80294f4c5e16d88204c6c0595784ccd60e6ddcb37ab1b88be4b9256ca795"
-
-[[files]]
-file = "packs/bundled/insomnia/data/insomnia/tags/worldgen/biome/always_unsafe.json"
-hash = "eb8d71d71611386792283be7da13bb5c556e577dc2b72945eccbe2f3c863c46c"
-
-[[files]]
-file = "packs/bundled/insomnia/data/insomnia/tags/worldgen/biome/safe_biomes.json"
-hash = "0a71387ff661de908cfeeb889f5c417d91fdb962f16bf76c650a8973ea654ce0"
-
-[[files]]
-file = "packs/bundled/insomnia/data/oei/replacements/replace.json"
-hash = "b47e93d0a5861c33ae9c8e59623a417d712aa6a584ac2d4316d27484eae6e2ce"
-
-[[files]]
-file = "packs/bundled/insomnia/data/swordblockingmechanics/tags/item/can_perform_sword_blocking.json"
-hash = "3cdb844af44b2b1bebe789df58b7b271af1448813d5d8cd19bd99553da5c2c33"
+file = "packs/bundled/insomnia/data/toolworking/recipe/casting_in_basin/glass.json"
+hash = "952abbee75b4b72f48124420065c687e36e8bfcee3e3774f6d1ca3594e6c3c97"
 
 [[files]]
 file = "packs/bundled/insomnia/pack.mcmeta"
-hash = "bfddcecbf28c3c7fa24e4fd99f1b724099c5ccb6322107408b717e3c6eca415c"
+hash = "1ac45b5053cbb5321b2950efaccd3667917c7865ade57fb7756579faa583a04b"
 
 [[files]]
 file = "packs/bundled/integrated/assets/better_campfires/lang/pt_br.json"
 hash = "ecee0659fac024a106787b9a5e2ea011f8115fef5a348d3ed72bbdc66ae3fab4"
+
+[[files]]
+file = "packs/bundled/integrated/assets/createlowheated/lang/pt_br.json"
+hash = "27b94c252ba41777cc5c2c1cd755c7f071dace748f3ab74a5799665e71c00a83"
+
+[[files]]
+file = "packs/bundled/integrated/assets/emi/recipe/filters/hidden_recipes.json"
+hash = "67c3997199a169d88183802a50f2d9cefd84f80726f165952d372e5ff4b80832"
 
 [[files]]
 file = "packs/bundled/integrated/assets/emi/textures/gui/background.png"
@@ -2236,32 +2268,12 @@ file = "packs/bundled/integrated/assets/thirstcanteen/lang/pt_br.json"
 hash = "85ff901ebcbe6be2a200370e7776d5c8a9609b5464081318b4512c14910081e4"
 
 [[files]]
-file = "packs/bundled/integrated/data/chovys_apocalypse_mod/weapon_attributes/aluminiumbat.json"
-hash = "fe30163fbfcebb82f080dbe29cecc43facd06c790c6fd4cc391d80120601fb82"
-
-[[files]]
-file = "packs/bundled/integrated/data/chovys_apocalypse_mod/weapon_attributes/baseballbat.json"
-hash = "fe30163fbfcebb82f080dbe29cecc43facd06c790c6fd4cc391d80120601fb82"
-
-[[files]]
-file = "packs/bundled/integrated/data/chovys_apocalypse_mod/weapon_attributes/crowbar.json"
-hash = "35122180a8d0d05c63311b32a8e202783c316a0ec164bc6457520b3551297c0c"
-
-[[files]]
-file = "packs/bundled/integrated/data/chovys_apocalypse_mod/weapon_attributes/pitchfork.json"
-hash = "e5b85bc5dbdd39ad3cbfff0d42191ee47b30698b0e682653fdb3a05d3c594b13"
-
-[[files]]
 file = "packs/bundled/integrated/data/enhancedcelestials/lunar/event/blood_moon.json"
 hash = "31d4c952aed240f3e6c6c92aa478cdc661ef581c44f240cdbb08a6fdb9edf29e"
 
 [[files]]
 file = "packs/bundled/integrated/data/enhancedcelestials/lunar/event/super_blood_moon.json"
 hash = "b1bda3b3bbd9e2420e2a04fdbb30f5716871f3b3ba77faaead02c23ef7a19f58"
-
-[[files]]
-file = "packs/bundled/integrated/data/farmersdelight/recipes/cutting/tag_dough.json"
-hash = "8a95dd39f97fca762a7d4ea285062f4813c6f006194e164e802b77b599a9ffe9"
 
 [[files]]
 file = "packs/bundled/integrated/data/fromtheshadows/forge/biome_modifier/nether_spawns.json"
@@ -2272,16 +2284,8 @@ file = "packs/bundled/integrated/data/fromtheshadows/forge/biome_modifier/spawns
 hash = "0371a4848c6eadf08597281d021526359542bb8ea3669ff4fccdf8969b4c0611"
 
 [[files]]
-file = "packs/bundled/integrated/data/modpack/recipes/wooden_shovel.json"
-hash = "4ff19cd29b3105b8a7ac7c298d5cb6695f1d6464e720e778b705e37b7800a1c8"
-
-[[files]]
-file = "packs/bundled/integrated/data/modpack/structures/base.nbt"
-hash = "dccee21134f6e1f445f88930c264597336aa14179a329cee53e8acc5574a5128"
-
-[[files]]
-file = "packs/bundled/integrated/data/modpack/structures/offshore_platform.nbt"
-hash = "8ebc0ddddef002ad212f0d054b74c44c9216ac4fcc3d7ce62cf6691d04a3b741"
+file = "packs/bundled/integrated/data/minecraft/weapon_attributes/mace.json"
+hash = "ff51f7cf0ed0ebf661d4e879442c03a3ec992eafcd67f033277b9696a92b18b5"
 
 [[files]]
 file = "packs/bundled/integrated/data/simplymore/weapon_attributes/diamond_grandsword.json"
@@ -2312,144 +2316,8 @@ file = "packs/bundled/integrated/data/superflat/dimension/superflat.json"
 hash = "6a73f3a9df16ad5113b464420a3adf0ba0d9be26c6df89a6d32dc5eaf042e89d"
 
 [[files]]
-file = "packs/bundled/integrated/data/walkers/tags/entity_types/flying.json"
-hash = "d4c025c754d3d10e1d855436a2e2626969b83d38f7b63523a0e064e26aeeb049"
-
-[[files]]
 file = "packs/bundled/integrated/pack.mcmeta"
 hash = "3e163c86db6938386a01935b5d6552eb15e5e07c977bf7ceb3ab10ab24badad8"
-
-[[files]]
-file = "packs/bundled/toolworking/data/alexscaves/recipes/furnace/iron_from_galena_ore_blasting.json"
-hash = "ff7cef7184d9b1bc7745eb1b288a3583059a66b9ab85ccd2cb663707d4e06633"
-
-[[files]]
-file = "packs/bundled/toolworking/data/alexscaves/recipes/furnace/iron_from_galena_ore_smelting.json"
-hash = "ff7cef7184d9b1bc7745eb1b288a3583059a66b9ab85ccd2cb663707d4e06633"
-
-[[files]]
-file = "packs/bundled/toolworking/data/create/recipes/crafting/logistics/item_hatch.json"
-hash = "46969208067b21506583d600b28a3cdbb3c8ac3f2ac330f954bc97a8573f4f64"
-
-[[files]]
-file = "packs/bundled/toolworking/data/createlowheated/recipes/basic_burner.json"
-hash = "80a4ed575587722bcd613239f6ae8d59360e22e3bd8fb28541349f5004a76e06"
-
-[[files]]
-file = "packs/bundled/toolworking/data/createmetallurgy/recipes/casting_in_table/brass/ingot.json"
-hash = "09e355b040d3c453973b5384fbc4f32d80356dc5cec8c2a9038f407bd1e41f78"
-
-[[files]]
-file = "packs/bundled/toolworking/data/createmetallurgy/recipes/casting_in_table/bronze/ingot.json"
-hash = "6db2fc005102990c65dae026582ffb9cdeecdd1305a29e6bbf44c5349a793576"
-
-[[files]]
-file = "packs/bundled/toolworking/data/createmetallurgy/recipes/casting_in_table/copper/ingot.json"
-hash = "d957fdb80ef6e6403e626905661b49fbd03fcad15ac67e8bb80a44c5ba1e5964"
-
-[[files]]
-file = "packs/bundled/toolworking/data/createmetallurgy/recipes/casting_in_table/gold/ingot.json"
-hash = "0cec7c7809a6d03cf38ee2ed3de5c811c3db11d0f1e36db557f01189e4be7cf6"
-
-[[files]]
-file = "packs/bundled/toolworking/data/createmetallurgy/recipes/casting_in_table/iron/ingot.json"
-hash = "b2b7106a22ae3a15cfdb298fcd09fa3a649d57dd063c3ebad2fd0f4152007727"
-
-[[files]]
-file = "packs/bundled/toolworking/data/createmetallurgy/recipes/casting_in_table/steel/ingot.json"
-hash = "57d13f6be457bc667890fde2f3734c5ce63b3963ca5e6c742d8b3d45aa95abe0"
-
-[[files]]
-file = "packs/bundled/toolworking/data/minecraft/recipes/glass.json"
-hash = "0e3e8cc9b0d0c62301e28f27109469dc52265be35b84e9fac28fa0e507d804c2"
-
-[[files]]
-file = "packs/bundled/toolworking/data/minecraft/tags/block/needs_iron_tool.json"
-hash = "c269b0a0dbe81459e9d0496123049e33c49d37577036d1e607252cec7e9e3098"
-
-[[files]]
-file = "packs/bundled/toolworking/data/minecraft/tags/block/needs_stone_tool.json"
-hash = "8ac7ed8fe740c3dcc158a97769700382a097aadd6897e5af08362f57c75e3ac6"
-
-[[files]]
-file = "packs/bundled/toolworking/data/toolworking/recipes/brass_from_crushed_zinc_and_copper.json"
-hash = "d5146bfee496146050c4ca9f5f089fbadb59012624e438a249918ff63678e75d"
-
-[[files]]
-file = "packs/bundled/toolworking/data/toolworking/recipes/brass_from_raw_zinc_and_copper.json"
-hash = "b6dcdc05b0ed1ec0a13493d499c1aed0339493a17b2c246e8d4c1c1c6fd03cb5"
-
-[[files]]
-file = "packs/bundled/toolworking/data/toolworking/recipes/brass_from_zinc_and_copper_ingot.json"
-hash = "d3adf985c2871ac29a4c55cec9dbd4630a78f563bbb4da588b890f93492be9d3"
-
-[[files]]
-file = "packs/bundled/toolworking/data/toolworking/recipes/bronze_from_raw_tin_and_copper.json"
-hash = "e6d72cd2b9bee2adf5ce4f6800f25cd285e40c65ec6f19c9d766d81e1d37fa67"
-
-[[files]]
-file = "packs/bundled/toolworking/data/toolworking/recipes/bronze_from_tin_and_copper_ingot.json"
-hash = "63c1d206a2599ad3800954b9ca24a36f3351df991a3cf364b6ec5ad42a3cd5af"
-
-[[files]]
-file = "packs/bundled/toolworking/data/toolworking/recipes/casting_in_table/brass.json"
-hash = "1b94c63875d83b3362c0e349dd8a003301df7f28d29cfeadaea989ccb3158608"
-
-[[files]]
-file = "packs/bundled/toolworking/data/toolworking/recipes/casting_in_table/bronze.json"
-hash = "c9d67fa6fd3b38847f4799086d6bcd63c76feb89db4eead5ccf8ea00806d262f"
-
-[[files]]
-file = "packs/bundled/toolworking/data/toolworking/recipes/casting_in_table/copper.json"
-hash = "270fbf073a090b6e6c756b8a250cadd2d9a10a87926a0f3420fd4078810e4fd7"
-
-[[files]]
-file = "packs/bundled/toolworking/data/toolworking/recipes/cutting/crushing/crushed_raw_wolframite.json"
-hash = "e84d70bf3fb837fa0da7ff4bc543629bedf99f1946542daf4ff1ff78de5519aa"
-
-[[files]]
-file = "packs/bundled/toolworking/data/toolworking/recipes/cutting/crushing/graphite_blank_mold.json"
-hash = "13179212655a2338ab505d22f19fbb8f1a5441555663924165b23826f1c84963"
-
-[[files]]
-file = "packs/bundled/toolworking/data/toolworking/recipes/cutting/graphite_ingot_mold_with_knife.json"
-hash = "a236faf362a2c92c3b405155afc6da844fcf877aabf05e2345a6053355e0d8a9"
-
-[[files]]
-file = "packs/bundled/toolworking/data/toolworking/recipes/glass.json"
-hash = "b0df0002548c2a472cfffb4dcd215cc2bef54347b08c171bba26c36d6b33a1ce"
-
-[[files]]
-file = "packs/bundled/toolworking/data/toolworking/recipes/ingot_clay_mold.json"
-hash = "16a8411a9b00126426107c58f7a4be40d85b46f6b0c39857cf709e5a43254b6d"
-
-[[files]]
-file = "packs/bundled/toolworking/data/toolworking/recipes/refractory_mortar.json"
-hash = "6d9d985e5434af6ff4e29f899a140cbbd55f51eeaa84284436b7f2b6f8f6c99b"
-
-[[files]]
-file = "packs/bundled/toolworking/data/toolworking/recipes/steel_from_dirty_iron_dust.json"
-hash = "e923fc7633ace9248520fe1703d786b01ace5a785f56dab01ce2a6f9b6a9fa74"
-
-[[files]]
-file = "packs/bundled/toolworking/data/toolworking/recipes/steel_from_iron_dust.json"
-hash = "8eba16d041dccf68dfbf035b63437c568afff03a97bec7e4f81a9fa9fba5bb85"
-
-[[files]]
-file = "packs/bundled/toolworking/data/toolworking/recipes/steel_from_raw_crushed_iron.json"
-hash = "c1ae055edd11ec9cb0b86dbfa962fca2af705f6c96eef2a7ef3b032ff60a5a1c"
-
-[[files]]
-file = "packs/bundled/toolworking/data/toolworking/tags/item/hammers.json"
-hash = "a1ba81fbf6ccf47ee208227502fb272c001f5ef4fba45bd4eabb6c2372ab7c6f"
-
-[[files]]
-file = "packs/bundled/toolworking/data/toolworking/tags/item/ingots.json"
-hash = "ca8fea10b3733c3d732d6e2907b296ad8f54863ed36ef641e68dc6365b6ffc2f"
-
-[[files]]
-file = "packs/bundled/toolworking/pack.mcmeta"
-hash = "b175de6c01f4d0fcfb534b8fc433e726269bce9169932aa77b129abe96e44755"
 
 [[files]]
 file = "packs/bundled/vanillatweaks.zip"
@@ -2691,4 +2559,4 @@ metafile = true
 
 [[files]]
 file = "scripts/recipes.zs"
-hash = "a7aeb088d46cea96d8adf28375f0e4f569b47d904542d2ece12abcc879c436d3"
+hash = "69dad35857f763164207d4dc34d466f9a2e70f557928b8caaa319d18af32c680"

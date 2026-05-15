@@ -1,5 +1,5 @@
 {
-    "favorites": [
+    "categories": [
         {
             "stack": "#item:category:workbench"
         },
@@ -76,6 +76,7 @@
             "stack": "#item:category:transport"
         }
     ],
+    "favorites": [],
     "lookup_history": [],
     "craft_history": [],
     "recipe_defaults": {

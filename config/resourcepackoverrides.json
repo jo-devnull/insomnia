@@ -12,8 +12,7 @@
         "file/insomnia",
         "file/integrated",
         "file/fishing",
-        "file/category",
-        "file/toolworking"
+        "file/category"
     ],
     "default_overrides": {
         "force_compatible": true
@@ -30,8 +29,7 @@
             "file/insomnia",
             "file/integrated",
             "file/fishing",
-            "file/category",
-            "file/toolworking"
+            "file/category"
         ],
         "vanilla": {
             "title": "\"Vanilla Assets\"",

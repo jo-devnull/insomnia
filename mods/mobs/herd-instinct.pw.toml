@@ -1,0 +1,13 @@
+name = "Herd Instinct"
+filename = "../herdinstinct-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cee578c1a85d757e109fce90991e50e93eb1e0ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8001790
+project-id = 1527081

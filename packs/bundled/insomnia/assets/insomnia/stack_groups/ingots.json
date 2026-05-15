@@ -1,8 +1,0 @@
-{
-  "id": "toolworking:barra_metalica",
-  "type": "emixx:group",
-  "contents": [
-    "#toolworking:ingots"
-  ],
-  "exclusions": []
-}

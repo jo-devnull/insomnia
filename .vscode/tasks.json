@@ -19,11 +19,10 @@
       },
       "type": "shell",
       "command": "deno",
-      "args": ["run", "build", "packs/bundled/insomnia"],
+      "args": ["run", "--allow-read", "--allow-write", "${workspaceFolder}/data/main.ts", "insomnia"],
       "options": {
-        "cwd": "deno"
+        "cwd": "packs/bundled"
       },
-
       "problemMatcher": [],
     },
     {

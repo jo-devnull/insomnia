@@ -1,0 +1,20 @@
+import * as recipe from "@lib/api/recipe.ts";
+
+recipe.castingInBasin("toolworking:glass", {
+  ingredients: [
+    {
+      type: "neoforge:single",
+      amount: 810,
+      fluid: "toolworking:molten_glass",
+    },
+  ],
+
+  processing_time: 480,
+
+  result: {
+    item: {
+      count: 1,
+      id: "minecraft:glass",
+    },
+  },
+});

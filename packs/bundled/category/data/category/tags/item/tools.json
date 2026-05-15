@@ -1,7 +1,9 @@
 {
     "replace": false,
     "values": [
-        "#forge:tools/knives",
+        "#c:tools/knives",
+        "#farmersdelight:tools/knives",
+
         "#minecraft:axes",
         "#forge:tools/axes",
         "#minecraft:hoes",
@@ -10,6 +12,7 @@
         "#forge:tools/shovels",
         "#minecraft:pickaxes",
         "#forge:tools/pickaxes",
+
         "create:potato_cannon",
         "create:extendo_grip",
         "create:wand_of_symmetry",
