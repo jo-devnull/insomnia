@@ -1,13 +1,13 @@
 name = "Ecologics"
-filename = "../ecologics-1.21.1-2.3.4.jar"
+filename = "../ecologics-1.21.1-2.3.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "73be547bdf6410af1a1972baa20972d0a742d8b2"
+hash = "db1314544354d961873fd321d99fea5493a66e46"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7887579
+file-id = 8099762
 project-id = 570463

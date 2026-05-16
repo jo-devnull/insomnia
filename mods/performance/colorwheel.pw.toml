@@ -1,18 +1,17 @@
 name = "Colorwheel"
-filename = "../colorwheel-neoforge-1.2.5+mc1.21.1.jar"
+filename = "../colorwheel-neoforge-1.2.6+mc1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BzHgFoGz/versions/qIo72EWB/colorwheel-neoforge-1.2.5%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/BzHgFoGz/versions/HOqMxRV9/colorwheel-neoforge-1.2.6%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "1c7ae274389829e8213be1ad3387c2bdc50266badef75a497435e0afab7a1f9eefc9252d59aa6d7360091f70326fd396df6dab29e612c47a2d88fa1d85c24565"
+hash = "56db620d4c2573ac6415e96f23fe188225d3c461b4d65db64113681986c6a45f118e6c2ea71de6d2eebb0e08a8530cb456ecb038547ecf92759139c286b63818"
 
 [update]
 [update.modrinth]
 mod-id = "BzHgFoGz"
-version = "qIo72EWB"
+version = "HOqMxRV9"
 
 [option]
 optional = true
-default = false
 description = "Ative este mod se planejar usar Shaders (requer Iris)"

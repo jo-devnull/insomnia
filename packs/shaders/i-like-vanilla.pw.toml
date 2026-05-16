@@ -1,13 +1,13 @@
 name = "I Like Vanilla"
-filename = "../../shaderpacks/I Like Vanilla v1.3.6b.zip"
+filename = "../../shaderpacks/I Like Vanilla v1.3.7b.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/DoODk4HD/versions/nV1tAcTT/I%20Like%20Vanilla%20v1.3.6b.zip"
+url = "https://cdn.modrinth.com/data/DoODk4HD/versions/hTsN7d1l/I%20Like%20Vanilla%20v1.3.7b.zip"
 hash-format = "sha512"
-hash = "b3e294d95f4892e4c19de2438a967e70e1c0a09da2fc6d2d7140a27f1a8d5f1175be8ee5ed7fbdec710d62591deadf84d43f4e3197e6d86213a095f8c2f20e9f"
+hash = "eff73be44c24eda4e6a33acb5602222410f3d4d3778a286a0d6d9258a2dbd520ef80716a53fc178027c9a394e05c0f98b732c5de2e804c876f188367239a3e80"
 
 [update]
 [update.modrinth]
 mod-id = "DoODk4HD"
-version = "nV1tAcTT"
+version = "hTsN7d1l"
