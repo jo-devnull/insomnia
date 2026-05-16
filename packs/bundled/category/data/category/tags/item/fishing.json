@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "#forge:tools/fishing_rods",
+        "#c:tools/fishing_rods",
         "#c:entity_water_buckets",
         "#minecraft:fishes",
         "minecraft:bucket",

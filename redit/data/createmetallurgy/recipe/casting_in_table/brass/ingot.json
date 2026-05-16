@@ -1,0 +1,21 @@
+{
+  "type": "createmetallurgy:casting_in_table",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "amount": 90,
+      "fluid": "createmetallurgy:molten_brass"
+    },
+    [
+        { "item": "createmetallurgy:graphite_ingot_mold" },
+        { "item": "toolworking:ingot_clay_mold" }
+    ]
+  ],
+  "processing_time": 60,
+  "result": {
+    "item": {
+      "count": 1,
+      "id": "create:brass_ingot"
+    }
+  }
+}

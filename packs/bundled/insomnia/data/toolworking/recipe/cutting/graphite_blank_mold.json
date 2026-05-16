@@ -1,0 +1,24 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "item": "createmetallurgy:graphite"
+        }
+    ],
+    "result": [
+        {
+            "item": {
+                "count": 1,
+                "id": "createmetallurgy:graphite_blank_mold"
+            }
+        }
+    ],
+    "sound": {
+        "sound_id": "minecraft:item.axe.strip"
+    },
+    "tool": [
+        {
+            "tag": "toolworking:hammers"
+        }
+    ]
+}

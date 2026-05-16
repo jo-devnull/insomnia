@@ -5,13 +5,13 @@
         "#farmersdelight:tools/knives",
 
         "#minecraft:axes",
-        "#forge:tools/axes",
+        "#c:tools/axes",
         "#minecraft:hoes",
-        "#forge:tools/hoes",
+        "#c:tools/hoes",
         "#minecraft:shovels",
-        "#forge:tools/shovels",
+        "#c:tools/shovels",
         "#minecraft:pickaxes",
-        "#forge:tools/pickaxes",
+        "#c:tools/pickaxes",
 
         "create:potato_cannon",
         "create:extendo_grip",

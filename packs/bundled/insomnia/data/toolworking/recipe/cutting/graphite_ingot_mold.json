@@ -1,0 +1,28 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "item": "createmetallurgy:graphite_blank_mold"
+        }
+    ],
+    "result": [
+        {
+            "item": {
+                "count": 1,
+                "id": "createmetallurgy:graphite_ingot_mold"
+            }
+        }
+    ],
+    "sound": {
+        "sound_id": "minecraft:item.axe.strip"
+    },
+    "tool": [
+        {
+            "type": "farmersdelight:item_ability",
+            "action": "knife_dig"
+        },
+        {
+            "tag": "c:tools/knife"
+        }
+    ]
+}

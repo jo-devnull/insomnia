@@ -10,7 +10,7 @@
         "minecraft:chiseled_bookshelf",
         "minecraft:oak_chest_boat",
         "#minecraft:shulker_boxes",
-        "#forge:chests",
+        "#c:chests",
         "#create:packages",
         "create:item_vault",
         "create:item_hatch",

@@ -1,0 +1,19 @@
+{
+    "type": "createmetallurgy:melting",
+    "heat_requirement": "lowheated",
+    "processing_time": 60,
+    "ingredients": [
+        {
+            "item": "minecraft:copper_ingot"
+        },
+        {
+            "item": "create_ironworks:tin_ingot"
+        }
+    ],
+    "results": [
+        {
+            "id": "createmetallurgy:molten_bronze",
+            "amount": 90
+        }
+    ]
+}

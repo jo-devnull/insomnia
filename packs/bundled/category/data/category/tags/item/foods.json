@@ -3,7 +3,7 @@
     "values": [
         "#c:foods",
         "#salt:can_be_salted",
-        "#forge:food",
+        "#c:food",
         "create:bar_of_chocolate",
         "create:sweet_roll",
         "create:chocolate_glazed_berries",

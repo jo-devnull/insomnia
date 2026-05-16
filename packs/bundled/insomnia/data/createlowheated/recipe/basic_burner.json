@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "id": "createlowheated:basic_burner"
+  },
+  "key": {
+    "=": {
+      "item": "minecraft:brick"
+    },
+    "#": {
+      "tag": "minecraft:stone_tool_materials"
+    },
+    "_": {
+      "item": "createmetallurgy:refractory_mortar"
+    }
+  },
+  "pattern": [
+    "===",
+    "= =",
+    "#_#"
+  ]
+}

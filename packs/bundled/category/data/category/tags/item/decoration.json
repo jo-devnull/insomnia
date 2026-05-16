@@ -2,8 +2,8 @@
     "replace": false,
     "values": [
         "#minecraft:wool_carpets",
-        "#forge:heads",
-        "#forge:chimneys",
+        "#c:heads",
+        "#c:chimneys",
         "#wallpapers:wallpaper_rolls",
         "#wallpapers:skirting_boards",
         "#paintable:filled_paint_bucket",

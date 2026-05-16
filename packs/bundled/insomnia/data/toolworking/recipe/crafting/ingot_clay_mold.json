@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "result": {
+        "id": "toolworking:ingot_clay_mold"
+    },
+    "ingredients": [
+        [
+            { "tag": "c:ingots" },
+            { "item": "minecraft:brick" }
+        ],
+        { "item": "createmetallurgy:refractory_mortar" }
+    ]
+}

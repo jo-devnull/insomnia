@@ -20,7 +20,7 @@
         "minecraft:carrot_on_a_stick",
         "minecraft:warped_fungus_on_a_stick",
         "minecraft:goat_horn",
-        "#forge:shears",
+        "#c:shears",
         "create:wrench",
         "create:brown_toolbox",
         "create:clipboard",

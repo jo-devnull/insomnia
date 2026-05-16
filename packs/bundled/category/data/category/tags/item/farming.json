@@ -3,9 +3,9 @@
     "values": [
         "#minecraft:dirt",
         "#minecraft:saplings",
-        "#forge:mushrooms",
-        "#forge:seeds",
-        "#forge:crops",
+        "#c:mushrooms",
+        "#c:seeds",
+        "#c:crops",
         "minecraft:bamboo",
         "minecraft:sugar_cane",
         "minecraft:cactus",

@@ -1,15 +1,17 @@
 {
     "replace": false,
     "values": [
-        "#forge:armors",
-        "#forge:armor/helmets",
-        "#forge:armor/chestplates",
-        "#forge:armor/leggings",
-        "#forge:armor/boots",
+        "#c:armors",
+        "#c:armor/helmets",
+        "#c:armor/chestplates",
+        "#c:armor/leggings",
+        "#c:armor/boots",
+
         "#minecraft:head_armor",
         "#minecraft:chest_armor",
         "#minecraft:leg_armor",
         "#minecraft:foot_armor",
+
         "immersive_armors:bone_helmet",
         "immersive_armors:bone_chestplate",
         "immersive_armors:bone_leggings",

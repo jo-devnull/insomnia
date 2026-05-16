@@ -1,0 +1,15 @@
+name = "recipe-edit"
+filename = "../redit-0.1.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/jo-devnull/recipe-edit/releases/download/v0.1.1-1.21.1/redit-0.1.1-1.21.1.jar"
+hash-format = "sha256"
+hash = "985cd877fe4391ebcc03bccb52ecd2bdd6cf7b45c7f19e65722d0f3a0e52f54e"
+
+[update]
+[update.github]
+branch = "1.21.1"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "jo-devnull/recipe-edit"
+tag = "v0.1.1-1.21.1"

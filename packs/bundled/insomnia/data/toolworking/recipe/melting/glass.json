@@ -1,0 +1,16 @@
+{
+    "type": "createmetallurgy:melting",
+    "heat_requirement": "heated",
+    "ingredients": [
+        { "item" : "minecraft:kelp" },
+        { "tag"  : "minecraft:sand" },
+        { "item" : "minecraft:bone_meal" }
+    ],
+    "processing_time": 40,
+    "results": [
+        {
+            "amount": 90,
+            "id": "toolworking:molten_glass"
+        }
+    ]
+}
