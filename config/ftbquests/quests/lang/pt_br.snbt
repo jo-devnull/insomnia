@@ -2,9 +2,20 @@
 	chapter.061C86FEE52B010D.title: "Origem"
 	quest.00914B4D6DA3D4F6.quest_subtitle: "Somente uma origem pode ser selecionada"
 	quest.00914B4D6DA3D4F6.title: "Selecione uma origem"
+	quest.17FC24993BDA13FE.quest_desc: ["Cuidado com biomas como desertos e selvas, pois nestes a temperatura pode ser muito alta, tendo seu pico ao meio dia. Mergulhar na água ou ficar próximos a blocos que absorvem calor (como Gelo) pode ajudar a esfriar um pouco."]
+	quest.17FC24993BDA13FE.quest_subtitle: "Cuidado com o calor"
 	quest.3DC019F4C7A97DD8.quest_desc: ["Você pode usar uma fogueira ou uma fornalha para purificar um recipiente com água suja. Dependendo do estado da água, você precisará repetir esse processo várias vezes."]
 	quest.3DC019F4C7A97DD8.quest_subtitle: "Fazendo água potável"
 	quest.3DC019F4C7A97DD8.title: "Purificando Água"
 	quest.41FD0F2394AD707C.title: "Besta de Carregamento Automático"
+	quest.4D9347DDC18871B5.quest_desc: ["Cuidado com biomas de baixa temperatura, no início do jogo eles são particularmente mais difíceis de sobreviver. Você pode usar uma fogueira ou outros blocos que emitem calor para sobreviver do frio."]
+	quest.4D9347DDC18871B5.quest_subtitle: "Cuidado com o frio"
+	quest.520514D76C230444.quest_desc: [
+		"Você precisará tomar cuidado com a sua temperatura corporal. Dependendo do ambiente, se estiver muito frio ou muito calor você sofrerá penalidades, como lentidão ou distorções visuais, e, em casos extremos, você receberá dano. Fique de olho no indicador de temperatura corporal."
+		""
+		""
+	]
+	quest.520514D76C230444.quest_subtitle: "Cuidado com a temperatura"
+	quest.520514D76C230444.title: "Temperatura"
 	quest.521955ACF3E77C5E.title: "Exploração"
 }

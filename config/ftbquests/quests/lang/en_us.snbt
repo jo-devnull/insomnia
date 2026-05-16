@@ -1,11 +1,8 @@
 {
 	chapter.0C785D04B26395BD.title: "Água e Sede"
-	chapter.159A200CDC7680DD.title: "Estações"
 	chapter.1E39E785067E94ED.title: "Origem"
 	chapter.29BC9230AC7DB921.title: "Temperatura"
-	chapter.30BB112CD495FE8D.title: "Principal"
 	chapter_group.124F2CFDEDC92334.title: "Sistemas"
-	chapter_group.170FAB3B0685AD02.title: "Missões"
 	quest.00914B4D6DA3D4F6.quest_subtitle: "Somente uma origem pode ser selecionada"
 	quest.00914B4D6DA3D4F6.title: "Selecione uma origem"
 	quest.0380EC41C3B145D0.quest_desc: [
@@ -13,9 +10,6 @@
 		""
 		"No outono, a grama adquire uma coloração amarelada, enquanto a folhagem ganha um tom alaranjado, que atinge seu ápice de vivacidade. As temperaturas dos biomas começam a cair no final da estação, dando lugar ao inverno, e alguns biomas mais frios podem até começar a receber neve antes da chegada do inverno."
 	]
-	quest.03AC4F39D012EBEF.quest_desc: ["Coloque 4 Lenhas em um bloco para formar uma fogueira. Utilize o Iniciador de Fogo para acende-la."]
-	quest.03AC4F39D012EBEF.quest_subtitle: "Criando uma fogueira"
-	quest.03AC4F39D012EBEF.title: "Fogueira"
 	quest.0564C4F9C337ABB5.title: "Estanho e Cobre"
 	quest.072872707C9CAD72.title: "Stormbringer"
 	quest.0A8849C79848EEEF.title: "Biologia Marinha"

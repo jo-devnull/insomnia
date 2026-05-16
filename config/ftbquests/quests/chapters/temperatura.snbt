@@ -11,6 +11,9 @@
 		{
 			disable_toast: true
 			icon: {
+				components: {
+					"ftbquests:icon": "insomnia:textures/gui/body_temp.apng.png"
+				}
 				id: "ftbquests:custom_icon"
 			}
 			icon_scale: 0.75d
@@ -27,6 +30,9 @@
 		{
 			dependencies: ["520514D76C230444"]
 			disable_toast: true
+			icon: {
+				id: "minecraft:ice"
+			}
 			id: "4D9347DDC18871B5"
 			rewards: [
 				{
@@ -89,39 +95,19 @@
 			hide_until_deps_complete: true
 			id: "7998BF91E237F7CD"
 			tasks: [{
-				count: 4L
-				id: "3039C77C4D28AB62"
-				item: { components: { "ftbquests:missing_item": "better_campfires:firewood" }, count: 1, id: "ftbquests:missing_item" }
+				id: "589E6785AF2FED1C"
+				item: { count: 1, id: "minecraft:campfire" }
 				type: "item"
 			}]
 			x: 2.0d
 			y: -5.0d
 		}
 		{
-			dependencies: ["7998BF91E237F7CD"]
-			disable_toast: true
-			id: "03AC4F39D012EBEF"
-			rewards: [{
-				id: "698CC4CF36F73FB4"
-				item: {
-					components: {
-						"ftbquests:missing_item": "notreepunching:fire_starter"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "24488E8CD51958EE"
-				type: "checkmark"
-			}]
-			x: 2.0d
-			y: -7.0d
-		}
-		{
 			dependencies: ["520514D76C230444"]
 			disable_toast: true
+			icon: {
+				id: "minecraft:magma_block"
+			}
 			id: "17FC24993BDA13FE"
 			tasks: [{
 				id: "16AAB7B2700D014D"

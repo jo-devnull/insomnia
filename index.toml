@@ -38,11 +38,7 @@ hash = "6359364663ea3c418cacb79500bb529d4988ce1089d6e73ed5b2eef526f2e6d1"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "3a80de72446957eee21fd637188df11f92165df11c80ee5228e89e9881014925"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/estaes.snbt"
-hash = "e46006e6f0c50811bc417a7774b17f2858f769159e3cbbd49e5ae5cee50350a6"
+hash = "18d2ff1d32899d1f2832d5483760842fdd63aa205f9ec7ba37cda2a7adb99e0c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/gua_e_sede.snbt"
@@ -53,12 +49,8 @@ file = "config/ftbquests/quests/chapters/origem.snbt"
 hash = "d21eab133b506aa33b29d64c690cbb8f793bdb7aa32b44ce7d76ecd1fed65c56"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/sobrevivncia.snbt"
-hash = "9acdd686d8e7591385cff320108600df47b60af368fab0fc6c106fd79965afa5"
-
-[[files]]
 file = "config/ftbquests/quests/chapters/temperatura.snbt"
-hash = "cc248c230440a9768fdbd67b3bd21fff51e6274d65c4975825e19c8e0bf7aa8a"
+hash = "e63e84dcc066ef638699dab71b457d408608ab55f9ecb9c8d24e82e1d7012f67"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -66,11 +58,11 @@ hash = "b59c3fb5af6d3d0009e71c4b87b10fa51508f7c0eef5e277b97d32e0f25e4d8c"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "c105815192f0a6aa062b8b61e2f498c07b8c3bf681758fc6946b2e997353f3aa"
+hash = "43b6e835a50e363d596fa9df7095f24f064dacb4e2241e4b8f048c0e40f402f0"
 
 [[files]]
 file = "config/ftbquests/quests/lang/pt_br.snbt"
-hash = "5a71ad535020996f4fef860f2df6f22b913c7275a1b4517d1fd66581a83b0989"
+hash = "5a0862a0530202f512f74f9029b676f554efee478084131c9c27e0214b035ca0"
 
 [[files]]
 file = "config/ftbteams-server.snbt"
@@ -876,15 +868,15 @@ hash = "749d84babebec70c0d735ed833400e7dccfe865d9579e323ac7e21f7794de250"
 metafile = true
 
 [[files]]
+file = "mods/mechanics/pandas-falling-trees.pw.toml"
+hash = "8a319c2cb4b93f0d3b585f23c9ad8517516a15f77beabbb49a0035ca01ddd8ec"
+metafile = true
+
+[[files]]
 file = "mods/mechanics/parcool.pw.toml"
 hash = "03eb5843855089e1311cb08562ad7e2b07243a0b8be7173d123246960c2d4031"
 metafile = true
 preserve = true
-
-[[files]]
-file = "mods/mechanics/physical-falling-trees.pw.toml"
-hash = "0940de9dbb69e5f3237902b1ad3396e150859b539a8ce51bc93dcf6aaa98b069"
-metafile = true
 
 [[files]]
 file = "mods/mechanics/playerrevive.pw.toml"
@@ -2030,7 +2022,7 @@ hash = "b8d50b6ada51613a66cfb8772666b759c7ee7bac63687eb4420d394d0d58262b"
 
 [[files]]
 file = "packs/bundled/category/data/category/tags/item/weapons.json"
-hash = "0f53ffb6d11ff2a06194187b02a74d8aeed9e31d9d0088d1ae714dc9ccd5d6d7"
+hash = "1de340d136b918840f28b7712cc598e2b73b5c817625908d4d8b02570304c5d1"
 
 [[files]]
 file = "packs/bundled/category/data/category/tags/item/witchcraft.json"
@@ -2406,7 +2398,7 @@ hash = "0371a4848c6eadf08597281d021526359542bb8ea3669ff4fccdf8969b4c0611"
 
 [[files]]
 file = "packs/bundled/integrated/data/minecraft/weapon_attributes/mace.json"
-hash = "ff51f7cf0ed0ebf661d4e879442c03a3ec992eafcd67f033277b9696a92b18b5"
+hash = "9266a09ab0a6ca34b8fe843c1982e3ff676ca94b5cf189f23b24d95998b8d045"
 
 [[files]]
 file = "packs/bundled/integrated/data/oei/replacements/replacements.json"

@@ -3,9 +3,14 @@
     "values": [
         "#minecraft:axes",
         "#minecraft:swords",
+
         "#c:weapons",
+        "#c:tools/melee_weapon",
         "#c:swords",
+        "#c:tools/swords",
         "#c:axes",
+        "#c:tools/axes",
+
         "minecraft:trident",
         "minecraft:shield",
         "aquamirae:terrible_sword",
