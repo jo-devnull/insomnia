@@ -742,11 +742,6 @@ hash = "9c6ae333892f38b64c135a05d10c0edaa0b419f08235735d392e926c3ae66a21"
 metafile = true
 
 [[files]]
-file = "mods/equipment/archers.pw.toml"
-hash = "bdae8cf1ef53d7f1482993cdd2b6714927a0cc6931c10d3cbf9b739b98589f10"
-metafile = true
-
-[[files]]
 file = "mods/equipment/backpacked.pw.toml"
 hash = "1d680f7d77d9b3533aafb51fbcdaee9692d00ff2b2f2a3cc6ba4e890c888fc68"
 metafile = true
