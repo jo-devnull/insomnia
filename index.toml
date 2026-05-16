@@ -1314,11 +1314,6 @@ hash = "bf3851d03c66e486538bbd7b5f70d7cc337e7b17ef6b1eac4cfde7e886bd7223"
 metafile = true
 
 [[files]]
-file = "mods/performance/c2me-neoforge.pw.toml"
-hash = "35deee6ea8a52b4782551eb5c5bb3be8957c8b7411067e6752f82ebf8aa446c3"
-metafile = true
-
-[[files]]
 file = "mods/performance/chloride.pw.toml"
 hash = "957a49bf707ad7de9d16ccbb130d15346a76cd3d8fa396d9f31dc4b6f44d7e30"
 metafile = true
@@ -1401,11 +1396,6 @@ metafile = true
 [[files]]
 file = "mods/performance/saturn.pw.toml"
 hash = "ff0e32dcbfc3eef56ab70444695edd83f9bab4249b847ec75d618e00a20b30ba"
-metafile = true
-
-[[files]]
-file = "mods/performance/scalablelux.pw.toml"
-hash = "e1f7859c34ac8c28e344cd8f3143e82a112dd3a2c0423e77089850e7c0a760fa"
 metafile = true
 
 [[files]]
