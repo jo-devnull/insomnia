@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".zed/settings.json"
-hash = "19cdcde76c0c7762143765d6b05ecdcb966c40bf343c20c2ad4cb6cfc08a472e"
-
-[[files]]
 file = "README.md"
 hash = "13a785a6198f2ddad23e23aedb1057918256c33866a0d7aeb77aadb1a2272356"
 
