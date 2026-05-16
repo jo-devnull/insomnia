@@ -1,0 +1,563 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	disable_toast: true
+	filename: "temperatura"
+	group: "124F2CFDEDC92334"
+	icon: "cold_sweat:thermometer"
+	id: "29BC9230AC7DB921"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Você precisará tomar cuidado com a sua temperatura corporal. Dependendo do ambiente, se estiver muito frio ou muito calor você sofrerá penalidades, como lentidão ou distorções visuais, e, em casos extremos, você receberá dano. Fique de olho no indicador de temperatura corporal."
+				""
+				""
+			]
+			disable_toast: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "insomnia:textures/gui/body_temp.apng.png"
+				}
+			}
+			icon_scale: 0.75d
+			id: "520514D76C230444"
+			shape: "rsquare"
+			size: 1.0d
+			subtitle: "Cuidado com a temperatura"
+			tasks: [{
+				id: "6E0D27A63D918C8A"
+				title: "Ler"
+				type: "checkmark"
+			}]
+			title: "Temperatura"
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["520514D76C230444"]
+			description: ["Cuidado com biomas de baixa temperatura, no início do jogo eles são particularmente mais difíceis de sobreviver. Você pode usar uma fogueira ou outros blocos que emitem calor para sobreviver do frio."]
+			disable_toast: true
+			icon: "immersive_weathering:frosty_fern"
+			id: "4D9347DDC18871B5"
+			rewards: [
+				{
+					id: "5B3C33669064C434"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "cold_sweat:goat_fur_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2A5F916E020773D4"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "cold_sweat:goat_fur_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Cuidado com o frio"
+			tasks: [{
+				id: "6A620E5CF2EB6C87"
+				title: "Frio"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1C663FB18BA3FE6F"]
+			disable_toast: true
+			hide_until_deps_complete: true
+			id: "3A4AD3245DACC351"
+			subtitle: "Proteção contra o frio"
+			tasks: [
+				{
+					id: "179AAD6D0271B014"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "cold_sweat:goat_fur_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "337A59718A7E004D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "cold_sweat:goat_fur_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1064F21139FB71C2"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "cold_sweat:goat_fur_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "084BC31D2E37491A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "cold_sweat:goat_fur_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Roupa de Pele de Cabra"
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4D9347DDC18871B5"]
+			disable_toast: true
+			hide_until_deps_complete: true
+			id: "7998BF91E237F7CD"
+			tasks: [{
+				count: 4L
+				id: "3039C77C4D28AB62"
+				item: "better_campfires:firewood"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["7998BF91E237F7CD"]
+			description: ["Coloque 4 Lenhas em um bloco para formar uma fogueira. Utilize o Iniciador de Fogo para acende-la."]
+			disable_toast: true
+			icon: "minecraft:campfire"
+			id: "03AC4F39D012EBEF"
+			rewards: [{
+				id: "698CC4CF36F73FB4"
+				item: {
+					Count: 1
+					id: "notreepunching:fire_starter"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Criando uma fogueira"
+			tasks: [{
+				id: "24488E8CD51958EE"
+				title: "Fogueira"
+				type: "checkmark"
+			}]
+			title: "Fogueira"
+			x: 2.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["520514D76C230444"]
+			description: ["Cuidado com biomas como desertos e selvas, pois nestes a temperatura pode ser muito alta, tendo seu pico ao meio dia. Mergulhar na água ou ficar próximos a blocos que absorvem calor (como Gelo) pode ajudar a esfriar um pouco."]
+			disable_toast: true
+			icon: "minecraft:sand"
+			id: "17FC24993BDA13FE"
+			subtitle: "Cuidado com o calor"
+			tasks: [{
+				id: "16AAB7B2700D014D"
+				title: "Calor"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4D9347DDC18871B5"]
+			description: [
+				"Alguns materiais especiais podem ser adicionados a peças de armaduras para aumentar a proteção térmica que elas oferecem. Esse processo pode ser feito na Mesa de Costura."
+				""
+				""
+			]
+			disable_toast: true
+			hide_until_deps_complete: true
+			id: "1C663FB18BA3FE6F"
+			min_required_dependencies: 1
+			subtitle: "Aumentar o isolamento térmico de armaduras"
+			tasks: [
+				{
+					id: "3019479CC582449B"
+					item: "cold_sweat:goat_fur"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "6F5F35E65AB5FE62"
+					item: "cold_sweat:hoglin_hide"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "1F2D063622ED6CA0"
+					item: "cold_sweat:chameleon_molt"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "64B71529C30D9398"
+					item: "minecraft:rabbit_hide"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "32275E0F0872E286"
+					item: "minecraft:leather"
+					optional_task: true
+					type: "item"
+				}
+			]
+			title: "Isolantes Térmicos"
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1C663FB18BA3FE6F"]
+			description: [
+				"A função da Mesa de Costura é revestir peças de armadura com materiais especiais para aumentar sua proteção térmica."
+				""
+				"Você pode repetir esse processo na mesma peça de armadura para empilhar o nível de proteção térmica."
+				""
+				"Para remover um nível de proteção e recuperar o material térmico, utilize uma tesoura e coloque-a no slot de material."
+			]
+			disable_toast: true
+			id: "71BFDCF3CA4F42D6"
+			shape: "circle"
+			subtitle: "Melhorando armaduras"
+			tasks: [{
+				id: "13C882D0BB40E253"
+				item: "cold_sweat:sewing_table"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1C663FB18BA3FE6F"]
+			disable_toast: true
+			hide_until_deps_complete: true
+			id: "2086927FC923EF4E"
+			subtitle: "Proteção térmica adaptativa"
+			tasks: [
+				{
+					id: "5478F3C7EF4D2999"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "cold_sweat:chameleon_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7A4B770D86214FFA"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "cold_sweat:chameleon_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2445DF6921C94C04"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "cold_sweat:chameleon_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7D608B22EC0B117E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "cold_sweat:chameleon_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Roupa de Pele de Camaleão"
+			x: 4.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["2086927FC923EF4E"]
+			disable_toast: true
+			hide_until_deps_complete: true
+			id: "1E511D530457F5AB"
+			subtitle: "Proteção contra o calor"
+			tasks: [
+				{
+					id: "6DCCD74F2FDD4ADB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "cold_sweat:hoglin_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4C645B9C9006F8F9"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "cold_sweat:hoglin_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "670A11B2863B587B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "cold_sweat:hoglin_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7ACB5E87100FDDF2"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "cold_sweat:hoglin_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Armadura de Hoglin"
+			x: 4.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["520514D76C230444"]
+			disable_toast: true
+			id: "2EE8474E8F1623C8"
+			subtitle: "Monitorar a temperatura do ambiente"
+			tasks: [{
+				id: "642EEE0F74B5FEB3"
+				item: "cold_sweat:thermometer"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["12155F9F361B8423"]
+			disable_toast: true
+			id: "5FB6B2132290030F"
+			tasks: [{
+				id: "0AF25C9769139F77"
+				item: "cold_sweat:hearth"
+				type: "item"
+			}]
+			x: 13.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4301C34939C3D663"]
+			description: ["Utilize a Caldeira para esquentar/esfriar o ambiente próximo dependendo do material de combustível."]
+			disable_toast: true
+			id: "12155F9F361B8423"
+			tasks: [{
+				id: "2962E03F7EB4891A"
+				item: "cold_sweat:boiler"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["71BFDCF3CA4F42D6"]
+			description: ["Coloque a Chaminé em cima de uma Caldeira para fazer ela funcionar."]
+			disable_toast: true
+			hide_until_deps_complete: true
+			id: "4301C34939C3D663"
+			tasks: [{
+				id: "1C3786D2E86B2F1F"
+				item: "cold_sweat:smokestack"
+				type: "item"
+			}]
+			x: 8.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["520514D76C230444"]
+			disable_toast: true
+			id: "4C4D01F97E5DA513"
+			subtitle: "Vista uma armadura com proteção térmica"
+			tasks: [{
+				advancement: "cold_sweat:full_insulation"
+				criterion: ""
+				id: "33EB9003AFFA9003"
+				type: "advancement"
+			}]
+			title: "Vestido para Ocasião"
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1C5F5E0A87FBD135"]
+			description: [
+				"Clique com o botão direito na água para encher."
+				""
+				"Coloque em uma Caixa de Gelo para esfriar. Carregar uma Bolsa de Água congelada esfria o corpo temporariamente."
+				""
+				"Coloque em uma fornalha ou fogueira para esquentar. Carregar uma Bolsa de Água quente aquece o corpo temporariamente."
+			]
+			disable_toast: true
+			hide_until_deps_complete: true
+			id: "0B96398E08F8B009"
+			rewards: [
+				{
+					id: "2F6C7234AC188748"
+					item: "cold_sweat:waterskin"
+					type: "item"
+				}
+				{
+					id: "50B342DC9E52A830"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "0044FB6596722D7E"
+				item: "cold_sweat:waterskin"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["17FC24993BDA13FE"]
+			description: ["Adicione uma Bolsa de Água na Caixa de Gelo para esfriar. Segurar uma Bolsa de Água congelada na mão lentamente esfria o corpo e permite suportar altas temperaturas temporariamente."]
+			disable_toast: true
+			hide_until_deps_complete: true
+			id: "1C5F5E0A87FBD135"
+			rewards: [{
+				count: 8
+				id: "0E367E766C6ADBBF"
+				item: "minecraft:ice"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7EBFEA8AF40E9A69"
+				item: "cold_sweat:icebox"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+	]
+	title: "Temperatura"
+}

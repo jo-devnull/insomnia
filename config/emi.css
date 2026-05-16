@@ -167,7 +167,7 @@
 	/**
 	 * The pages in the left sidebar
 	 */
-	left-sidebar-pages: none;
+	left-sidebar-pages: favorites;
 
 	/**
 	 * The subpanels in the left sidebar
@@ -207,12 +207,12 @@
 	/**
 	 * The subpanels in the right sidebar
 	 */
-	right-sidebar-subpanels: favorites 3;
+	right-sidebar-subpanels: categories 3;
 
 	/**
 	 * How many columns and rows of ingredients to limit the right sidebar to
 	 */
-	right-sidebar-size: 11, 100;
+	right-sidebar-size: 9, 100;
 
 	/**
 	 * How much space to maintain between the right sidebar and obstructions, in pixels
@@ -338,7 +338,7 @@
 	 * Favorite the item to display on the side of the screen opposite of recipies for
 	 * quick access.
 	 */
-	favorite: "key.keyboard.unknown";
+	favorite: "key.keyboard.a";
 
 	/**
 	 * Set the default recipe for a given stack in the output of a recipe to that
@@ -433,6 +433,11 @@
 	copy-recipe-id: "key.keyboard.unknown";
 
 	/**
+	 * Open the recipe file in your default editor
+	 */
+	edit-recipe: "key.mouse.middle";
+
+	/**
 	 * In edit mode, hide the hovered stack
 	 */
 	hide-stack: "ctrl key.mouse.left";
@@ -441,6 +446,9 @@
 	 * In edit mode, hide stacks with the hovered stack's id
 	 */
 	hide-stack-by-id: "ctrl shift key.mouse.left";
+
+	/** unparsed */
+	open_recipe: "key.mouse.middle";
 }
 
 #dev {
@@ -468,7 +476,7 @@
 	/**
 	 * Whether hovering the output of a recipe should show the recipe's EMI ID.
 	 */
-	show-recipe-ids: false;
+	show-recipe-ids: true;
 
 	/**
 	 * Whether to display additional widgets added to recipes from other mods.

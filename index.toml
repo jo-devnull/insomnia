@@ -9,24 +9,76 @@ file = "README.md"
 hash = "13a785a6198f2ddad23e23aedb1057918256c33866a0d7aeb77aadb1a2272356"
 
 [[files]]
+file = "config/ThirstCanteen.toml"
+hash = "f483774afd8adfcd2cb279ee1108c7c58a72c637a0e80a0d66b66c4ff90e0d31"
+
+[[files]]
 file = "config/carryon-common.toml"
 hash = "80f73b76cea4c7947c0a750b9567b0af2f905bc32d310beaae4cdc63efcc473b"
 preserve = true
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "17372f92c0537606c5036551531c76adfad422f4895be390b1baf81e33828749"
+hash = "0a7f16bc3151b265876e77d46b1fc69053c5f06480680e649997bee480c8ac5d"
 preserve = true
 
 [[files]]
 file = "config/clienttweaks-common.toml"
-hash = "6ac0da6a9980b4c618be1fc3a023061b9f81ce39bd768bdb27b1fd6ab11ee860"
+hash = "6c4fa9c9ac4af83df36e11b1e2c1da5916e2581d6a6adce600856cadbc100c4e"
 preserve = true
 
 [[files]]
 file = "config/emi.css"
-hash = "f9ac6ae6954b85730696fb0b3dd8ec04c490ef35a116d4cdd0125a1c986fa6b7"
+hash = "7f0e87080257324cd29ab0d9ab1a4eaa914cec9198d8a4a405282374048f00ad"
 preserve = true
+
+[[files]]
+file = "config/ftblibrary-client.snbt"
+hash = "cc13e70fab7639c7383915088da21575b343eccbc9f2619a6a13fba5f3f89f95"
+
+[[files]]
+file = "config/ftbquests-client.snbt"
+hash = "6359364663ea3c418cacb79500bb529d4988ce1089d6e73ed5b2eef526f2e6d1"
+
+[[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "34174bd03fbe4e0d27780e7bf2d48c81e1fcb710cfb2a796769b0b19692b2c73"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/estaes.snbt"
+hash = "bd1dae5426b32e6dcaa02246309d9ae2342e076eb4a96419ae91474c161b97c1"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/gua_e_sede.snbt"
+hash = "0058dbf27ca69eec4637490b89ca7107126a26d767636f44718b0f40897f9013"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/origem.snbt"
+hash = "a30976ebed67e7a1685ad1e856fb3a5bd1ecca1b49481e9b02f0d89c3c1b088e"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/sobrevivncia.snbt"
+hash = "b7f62c9a05ea8b207ed48814810d505327c69657d00ccadeda2a29bfd31e6470"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/temperatura.snbt"
+hash = "7c220afbc5036034e342c26ab0d4afa8328be406f7fb2d421c641fe847f4274e"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "ed7875116d2c86b1e8c58e9a714c1566043be46ff1c927f8ab31b2a806c50acc"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br.snbt"
+hash = "95747c6ae1dada0e3981d34bdd80af6295a3a91ae93a310c9810bc22e825d64b"
+
+[[files]]
+file = "config/ftbteams-server.snbt"
+hash = "2ef5e2dca3a653ced3f3981a85a32832fb3716caa5fa05e233f50ab16044a2c4"
+
+[[files]]
+file = "config/ftbxmodcompat.snbt"
+hash = "5bd7b51a19e26a0da910d2cd3908cda0f56cc42396db00fc6d9f242ee9aeca6e"
 
 [[files]]
 file = "config/global_packs.toml"
@@ -38,11 +90,11 @@ hash = "70b13d7f21793b1c32c9566ba6f07289ca22cf32bde3c49bd2667126b71e1c3a"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "6f4bbc60bd6de2903378f0a550bd96acf07b3f8a5835de24c5e1085763cb95c3"
+hash = "3e6c3b18313d67efbe6df56843f2bc4093b55ce92bc6d93bbf4faab0e94b2858"
 
 [[files]]
 file = "config/itemphysic.json"
-hash = "13fbef2abb4c177abe992e64e252489d9c964d9d1f4d3fb9aebf00a51d48f6fa"
+hash = "6ae19cbf07f62aed630075929594369d677f749c838445df0c16043cf1bbe7ec"
 preserve = true
 
 [[files]]
@@ -171,6 +223,7 @@ hash = "42ac02bc9c7f0924be2f779a85895b4f2a1538bdf4619024c7331a8dae808dc1"
 [[files]]
 file = "emi.json"
 hash = "bc490445f56d706005ed8b74e26eea22e4655641999a768fd849a24800647109"
+preserve = true
 
 [[files]]
 file = "mods/cooking/brewin-and-chewin.pw.toml"
@@ -1800,7 +1853,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "61129651db9ec20e5d914634f70d64ed8608bfcd580b406e6e2b3f8dce48bfff"
+hash = "6c161f4d5764aebd90a1b916da5f2fc9215930c979af9cc184cde97363e48f6b"
 preserve = true
 
 [[files]]

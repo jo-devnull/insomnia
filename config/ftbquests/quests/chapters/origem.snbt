@@ -1,0 +1,745 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "origem"
+	group: ""
+	icon: "supplementaries:globe"
+	id: "1E39E785067E94ED"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: "supplementaries:globe"
+			id: "00914B4D6DA3D4F6"
+			max_completable_dependents: 1
+			shape: "rsquare"
+			size: 1.5d
+			subtitle: "Somente uma origem pode ser selecionada"
+			tasks: [{
+				id: "5794CB21CEE1F645"
+				title: "Origem"
+				type: "checkmark"
+			}]
+			title: "Selecione uma origem"
+			x: -4.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["00914B4D6DA3D4F6"]
+			icon: {
+				Count: 1
+				id: "aperture_innovations:portal_gun"
+				tag: {
+					variant: "aperture_innovations:chell"
+				}
+			}
+			id: "5C82E01B07C5D7A8"
+			rewards: [{
+				id: "29FBD499E7A29D47"
+				item: {
+					Count: 1
+					id: "aperture_innovations:portal_gun"
+					tag: {
+						variant: "aperture_innovations:chell"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Permite a criação de portais quânticos"
+			tasks: [{
+				id: "1AC9A2359F185D55"
+				title: "Clique para escolher"
+				type: "checkmark"
+			}]
+			title: "Mecânica Quântica"
+			x: -4.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["54B63C74D9DAB6EF"]
+			icon: {
+				Count: 1
+				id: "simplyswords:toxic_longsword"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "32398409D2285B9D"
+			rewards: [{
+				id: "6C69A5789DA4B354"
+				item: {
+					Count: 1
+					id: "simplyswords:toxic_longsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "66956B014FA0DC2B"
+				title: "Clique para escolher"
+				type: "checkmark"
+			}]
+			title: "Longsword of the Plage"
+			x: -7.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["00914B4D6DA3D4F6"]
+			icon: {
+				Count: 1
+				id: "kobolds:kobold_iron_pickaxe"
+				tag: {
+					Damage: 0
+					Enchantments: [{
+						id: "veinmining:vein_mining"
+						lvl: 1s
+					}]
+				}
+			}
+			id: "23FA820D26EA9165"
+			rewards: [
+				{
+					id: "208C2BA7BFC481A4"
+					item: {
+						Count: 1
+						id: "kobolds:kobold_iron_pickaxe"
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "veinmining:vein_mining"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "65CA62D75B6C912E"
+					item: "minecraft:lantern"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "606FD39FFE0D75E0"
+				title: "Clique para escolher"
+				type: "checkmark"
+			}]
+			title: "Mineração"
+			x: -4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["00914B4D6DA3D4F6"]
+			icon: {
+				Count: 1
+				id: "create:goggles"
+				tag: {
+					insulation: [ ]
+				}
+			}
+			id: "47023E0D5A89E83A"
+			rewards: [
+				{
+					id: "71FB70A9F2DEC172"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "create:goggles"
+						tag: {
+							insulation: [ ]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5DABECE29DE24530"
+					item: "create:wrench"
+					type: "item"
+				}
+				{
+					id: "7727B80CF5EFE959"
+					item: {
+						Count: 1
+						id: "toolbelt:belt"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "756BE316D684F233"
+					item: "measurements:tape_measure"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5E79772032F26378"
+				title: "Clique para escolher"
+				type: "checkmark"
+			}]
+			title: "Engenharia"
+			x: -3.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["00914B4D6DA3D4F6"]
+			icon: {
+				Count: 1
+				id: "irons_spellbooks:iron_spell_book"
+				tag: {
+					"irons_spellbooks:spell_container": {
+						data: [
+							{
+								id: "irons_spellbooks:icicle"
+								index: 0
+								level: 4
+							}
+							{
+								id: "irons_spellbooks:healing_circle"
+								index: 1
+								level: 5
+							}
+							{
+								id: "irons_spellbooks:fang_strike"
+								index: 2
+								level: 4
+							}
+						]
+						maxSpells: 6
+						mustEquip: 1b
+						spellWheel: 1b
+					}
+				}
+			}
+			id: "57AC5EF7668BFF46"
+			rewards: [
+				{
+					id: "3F0B2D2F02EB940C"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:iron_spell_book"
+						tag: {
+							"irons_spellbooks:spell_container": {
+								data: [
+									{
+										id: "irons_spellbooks:icicle"
+										index: 0
+										level: 4
+									}
+									{
+										id: "irons_spellbooks:healing_circle"
+										index: 1
+										level: 5
+									}
+									{
+										id: "irons_spellbooks:fang_strike"
+										index: 2
+										level: 4
+									}
+								]
+								maxSpells: 6
+								mustEquip: 1b
+								spellWheel: 1b
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0B2197C55C9AD358"
+					item: "irons_spellbooks:mana_ring"
+					type: "item"
+				}
+				{
+					id: "430A26C70AC5AA8D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "irons_spellbooks:wandering_magician_helmet"
+						tag: {
+							Damage: 0
+							insulation: [ ]
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "52743DED298F2544"
+				title: "Clique para escolher"
+				type: "checkmark"
+			}]
+			title: "Bruxaria"
+			x: -4.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["00914B4D6DA3D4F6"]
+			icon: "minecraft:spyglass"
+			id: "521955ACF3E77C5E"
+			rewards: [
+				{
+					id: "7F9593F4D122FE7B"
+					item: {
+						Count: 1
+						id: "backpacked:backpack"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "52E789197A040595"
+					item: "minecraft:spyglass"
+					type: "item"
+				}
+				{
+					id: "65AAB2DB6D25054D"
+					item: "thirstcanteen:leather_canteen"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "33D099F6C784698E"
+					item: "farmersdelight:rope"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6C0D31625D0A5F76"
+				title: "Clique para escolher"
+				type: "checkmark"
+			}]
+			title: "Exploração"
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["00914B4D6DA3D4F6"]
+			icon: {
+				Count: 1
+				id: "marbledsfirstaid:medkit"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "25285950671364AE"
+			rewards: [
+				{
+					id: "203210FA87738245"
+					item: {
+						Count: 1
+						id: "marbledsfirstaid:medkit"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0E488394EDF8A993"
+					item: {
+						Count: 1
+						id: "marbledsfirstaid:first_aid_kit"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "38FD9088540FB1EC"
+					item: {
+						Count: 1
+						id: "marbledsfirstaid:panacea_pills"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "125614691DA12FC3"
+					item: {
+						Count: 1
+						id: "marbledsfirstaid:curative_pills"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0A31880E791D5A7E"
+					item: {
+						Count: 1
+						id: "marbledsfirstaid:pain_pills"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0DAF416AC5C2F40A"
+				title: "Clique para escolher"
+				type: "checkmark"
+			}]
+			title: "Medicina"
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["00914B4D6DA3D4F6"]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					Parent: {
+						Items: [ ]
+						SelectedSlot: 0
+						Size: 6
+					}
+				}
+				id: "supplementaries:quiver"
+				tag: { }
+			}
+			id: "33BE05E88CB9FDB0"
+			max_completable_dependents: 1
+			rewards: [{
+				id: "4D29CD559C8BF990"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							Items: [
+								{
+									Count: 64b
+									Slot: 0
+									id: "minecraft:arrow"
+								}
+								{
+									Count: 16b
+									Slot: 1
+									id: "xtraarrows:flint_torch_arrow"
+								}
+								{
+									Count: 8b
+									Slot: 2
+									id: "xtraarrows:flint_explosive_arrow"
+								}
+								{
+									Count: 1b
+									Slot: 3
+									id: "supplementaries:rope_arrow"
+									tag: {
+										Damage: 0
+									}
+								}
+							]
+							SelectedSlot: 0
+							Size: 6
+						}
+					}
+					id: "supplementaries:quiver"
+					tag: { }
+				}
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "5B69089B7D65D354"
+				title: "Clique para escolher"
+				type: "checkmark"
+			}]
+			title: "Arquearia"
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["00914B4D6DA3D4F6"]
+			icon: {
+				Count: 1
+				id: "fantasy_armor:dragonslayer_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "54B63C74D9DAB6EF"
+			max_completable_dependents: 1
+			rewards: [{
+				id: "631B0F41CAE55F3D"
+				item: {
+					Count: 1
+					id: "shieldexp:iron_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "4EA0C1888A8137B9"
+				title: "Clique para escolher"
+				type: "checkmark"
+			}]
+			title: "Caçador de Monstros"
+			x: -7.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["54B63C74D9DAB6EF"]
+			icon: {
+				Count: 1
+				id: "simplyswords:stormbringer"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "072872707C9CAD72"
+			rewards: [{
+				id: "3D289485BA7970CC"
+				item: {
+					Count: 1
+					id: "simplyswords:stormbringer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6CF5AAEFF51555DE"
+				title: "Clique para escolher"
+				type: "checkmark"
+			}]
+			title: "Stormbringer"
+			x: -7.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["54B63C74D9DAB6EF"]
+			icon: {
+				Count: 1
+				id: "simplyswords:soulrender"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "4697349ADF077891"
+			rewards: [{
+				id: "56E172995CD57E2E"
+				item: {
+					Count: 1
+					id: "simplyswords:soulrender"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0B83554CC7CF4D40"
+				title: "Clique para escolher"
+				type: "checkmark"
+			}]
+			title: "Soulrender"
+			x: -8.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["33BE05E88CB9FDB0"]
+			icon: {
+				Count: 1
+				id: "simplybows:vine_bow/vine_bow"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "55DB77A64EA1D7B2"
+			rewards: [{
+				id: "41AF835606CA53FB"
+				item: {
+					Count: 1
+					id: "simplybows:vine_bow/vine_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "519CE6B222B0F644"
+				title: "Clique para escolher"
+				type: "checkmark"
+			}]
+			title: "Everbloom"
+			x: -1.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["33BE05E88CB9FDB0"]
+			icon: {
+				Count: 1
+				id: "simplybows:echo_bow/echo_bow"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "4202C32C3A071BD6"
+			rewards: [{
+				id: "14A014C4818E7855"
+				item: {
+					Count: 1
+					id: "simplybows:echo_bow/echo_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "39E3677C8AD00229"
+				title: "Clique para escolher"
+				type: "checkmark"
+			}]
+			title: "Echo"
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["33BE05E88CB9FDB0"]
+			icon: {
+				Count: 1
+				id: "morebows:flame_bow"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "41FD0F2394AD707C"
+			rewards: [{
+				id: "02BCFD2D3A6CED8E"
+				item: {
+					Count: 1
+					id: "morebows:flame_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1987F45E3B9BAB40"
+				title: "Clique para escolher"
+				type: "checkmark"
+			}]
+			title: "Blazing Bow"
+			x: 0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["00914B4D6DA3D4F6"]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"cold_sweat:item_insulation": {
+						insulation: [ ]
+					}
+				}
+				id: "create:copper_diving_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "0A8849C79848EEEF"
+			rewards: [
+				{
+					id: "40AD57DDD81D39A2"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "create:copper_backtank"
+						tag: {
+							Air: 900
+							insulation: [ ]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1FE81A1F4D74CAB8"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "create:copper_diving_helmet"
+						tag: {
+							Damage: 0
+							insulation: [ ]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0B3719AE73501DEA"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "create_ironworks:copper_armor_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "10A0A265FECCACE6"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"cold_sweat:item_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "create:copper_diving_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "00B09FD985E2A293"
+				title: "Clique para escolher"
+				type: "checkmark"
+			}]
+			title: "Biologia Marinha"
+			x: -5.0d
+			y: -7.5d
+		}
+	]
+	title: "Origem"
+}

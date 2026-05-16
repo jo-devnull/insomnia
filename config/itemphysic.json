@@ -170,7 +170,7 @@
     }
   },
   "pickup": {
-    "customPickup": false,
+    "customPickup": true,
     "pickupWhenSneaking": true,
     "pickupNormally": false,
     "walkOverRange": 1,

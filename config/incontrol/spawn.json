@@ -1,8 +1,6 @@
 [
     {
         "result": "deny",
-        "hostile": true,
-        "spawner": false,
         "dimension": "superflat:superflat"
     },
     {
@@ -10,9 +8,7 @@
         "hostile": true,
         "spawner": false,
         "dimension": "overworld",
-        "structure": [
-            "minecraft:pillager_outpost"
-        ]
+        "structure": ["minecraft:pillager_outpost"]
     },
     {
         "result": "deny",
@@ -44,9 +40,7 @@
         "hostile": true,
         "spawner": false,
         "dimension": "overworld",
-        "lunar": [
-            "enhancedcelestials:blue_moon"
-        ],
+        "lunar": ["enhancedcelestials:blue_moon"],
         "minheight": 27
     },
     {

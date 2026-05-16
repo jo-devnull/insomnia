@@ -1,0 +1,266 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	disable_toast: true
+	filename: "gua_e_sede"
+	group: "124F2CFDEDC92334"
+	icon: {
+		Count: 1
+		id: "minecraft:potion"
+		tag: {
+			Potion: "minecraft:water"
+			Purity: 3
+		}
+	}
+	id: "0C785D04B26395BD"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Você precisa beber água para sobreviver. Fique de olho no indicador de sede na interface. Você perderá vida se o indicador de sede chegar a zero."
+				""
+				"{image:thirst:textures/gui/thirst_icons.png width:74 height:24 align:center}"
+			]
+			disable_toast: true
+			icon: {
+				Count: 1
+				id: "minecraft:potion"
+				tag: {
+					Potion: "minecraft:water"
+				}
+			}
+			id: "7E4E644AF4C61F6A"
+			size: 1.25d
+			subtitle: "Você precisa beber água."
+			tasks: [{
+				id: "0853D57BE71E2BFD"
+				title: "Ler"
+				type: "checkmark"
+			}]
+			title: "Beba Água"
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7E4E644AF4C61F6A"]
+			description: ["Nem todas as fontes de água são potáveis. Recolher água de um rio ou do oceano resultará em um container com Água Suja. Você pode ficar doente ao beber água não-potável."]
+			disable_toast: true
+			icon: {
+				Count: 1
+				id: "minecraft:water_bucket"
+				tag: { }
+			}
+			id: "743B730129C3D0E2"
+			subtitle: "Qualidade da água"
+			tasks: [{
+				id: "4844A3027FB03071"
+				title: "Ler"
+				type: "checkmark"
+			}]
+			title: "Fontes de Água"
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["743B730129C3D0E2"]
+			description: ["Você pode usar uma fogueira ou uma fornalha para purificar um recipiente com água suja. Dependendo do estado da água, você precisará repetir esse processo várias vezes."]
+			disable_toast: true
+			icon: "minecraft:campfire"
+			id: "3DC019F4C7A97DD8"
+			subtitle: "Fazendo água potável"
+			tasks: [{
+				id: "4778B93E4FA6708C"
+				title: "Ler"
+				type: "checkmark"
+			}]
+			title: "Purificando Água"
+			x: 6.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["6A3108D7CE85B5D0"]
+			disable_toast: true
+			id: "27A9B9AD4453EC5C"
+			subtitle: "Leve ao forno para preparar"
+			tasks: [{
+				id: "59FA89B4D732385F"
+				item: "thirst:clay_bowl"
+				type: "item"
+			}]
+			x: 11.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["27A9B9AD4453EC5C"]
+			disable_toast: true
+			id: "5B09EEFF1393B6A1"
+			subtitle: "Clique com o botão direito para coletar água"
+			tasks: [{
+				id: "07BBF0EE9CF3E14B"
+				item: "thirst:terracotta_bowl"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5B09EEFF1393B6A1"]
+			disable_toast: true
+			id: "156417887AC6FFFA"
+			shape: "rsquare"
+			tasks: [{
+				id: "51169818D99C7503"
+				item: {
+					Count: 1
+					id: "thirst:terracotta_water_bowl"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 16.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["18EA0B219DBD6636"]
+			disable_toast: true
+			hide_until_deps_complete: true
+			id: "3FA67D74E018A489"
+			tasks: [{
+				id: "3FDE8C4173B441BE"
+				item: "minecraft:leather"
+				type: "item"
+			}]
+			x: 19.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["156417887AC6FFFA"]
+			disable_toast: true
+			hide_until_deps_complete: true
+			id: "18EA0B219DBD6636"
+			tasks: [{
+				id: "7063C3BFD57EA3EE"
+				item: "minecraft:glass"
+				type: "item"
+			}]
+			x: 19.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["18EA0B219DBD6636"]
+			disable_toast: true
+			hide_until_deps_complete: true
+			id: "7649AFC11DEE7A41"
+			tasks: [{
+				id: "2D32A16DE0879FD3"
+				item: "minecraft:glass_bottle"
+				type: "item"
+			}]
+			x: 19.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7649AFC11DEE7A41"]
+			disable_toast: true
+			id: "0EDAC75FDC57B771"
+			shape: "rsquare"
+			tasks: [{
+				id: "2CBD93202FF760EE"
+				item: {
+					Count: 1
+					id: "minecraft:potion"
+					tag: {
+						Potion: "minecraft:water"
+					}
+				}
+				type: "item"
+			}]
+			x: 19.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3FA67D74E018A489"]
+			disable_toast: true
+			id: "2C77B13F1BACECB1"
+			shape: "rsquare"
+			tasks: [{
+				id: "18D712C9D9F0648E"
+				item: "thirstcanteen:leather_canteen"
+				type: "item"
+			}]
+			x: 19.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["18EA0B219DBD6636"]
+			disable_toast: true
+			icon: "thirst:sand_filter"
+			id: "3900CBE81E7F5CCD"
+			rewards: [{
+				id: "37C2B0CE2B3A309F"
+				item: "thirst:sand_filter"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "67AAE0B37205E4F2"
+					item: "minecraft:sand"
+					type: "item"
+				}
+				{
+					id: "418A86D2FAA73259"
+					item: "create:nozzle"
+					type: "item"
+				}
+				{
+					id: "608151044F90E2A9"
+					item: "create:fluid_tank"
+					type: "item"
+				}
+			]
+			title: "Filtro de Areia"
+			x: 21.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["3DC019F4C7A97DD8"]
+			disable_toast: true
+			id: "6A3108D7CE85B5D0"
+			subtitle: "Coletar argila"
+			tasks: [{
+				count: 3L
+				id: "55630C71E645A237"
+				item: "minecraft:clay_ball"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2C77B13F1BACECB1"]
+			disable_toast: true
+			id: "75648637DB184232"
+			tasks: [{
+				id: "7B998E7076D397A5"
+				item: "thirstcanteen:military_bottle"
+				type: "item"
+			}]
+			x: 21.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["75648637DB184232"]
+			disable_toast: true
+			id: "527CEF91C13B8140"
+			tasks: [{
+				id: "59D932CA5C608E08"
+				item: "thirstcanteen:dragon_bottle"
+				type: "item"
+			}]
+			x: 24.0d
+			y: 5.0d
+		}
+	]
+	title: "Água e Sede"
+}
