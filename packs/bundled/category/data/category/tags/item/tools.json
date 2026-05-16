@@ -2,16 +2,19 @@
     "replace": false,
     "values": [
         "#c:tools/knives",
+        "#c:tools/axes",
+        "#c:tools/hoes",
+        "#c:tools/shovels",
+        "#c:tools/pickaxes",
+        "#c:tools/mining_tool",
+        "#flintrequired:flint_tools",
+
         "#farmersdelight:tools/knives",
 
         "#minecraft:axes",
-        "#c:tools/axes",
         "#minecraft:hoes",
-        "#c:tools/hoes",
         "#minecraft:shovels",
-        "#c:tools/shovels",
         "#minecraft:pickaxes",
-        "#c:tools/pickaxes",
 
         "create:potato_cannon",
         "create:extendo_grip",

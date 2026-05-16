@@ -38,35 +38,39 @@ hash = "6359364663ea3c418cacb79500bb529d4988ce1089d6e73ed5b2eef526f2e6d1"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "34174bd03fbe4e0d27780e7bf2d48c81e1fcb710cfb2a796769b0b19692b2c73"
+hash = "3a80de72446957eee21fd637188df11f92165df11c80ee5228e89e9881014925"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/estaes.snbt"
-hash = "bd1dae5426b32e6dcaa02246309d9ae2342e076eb4a96419ae91474c161b97c1"
+hash = "e46006e6f0c50811bc417a7774b17f2858f769159e3cbbd49e5ae5cee50350a6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/gua_e_sede.snbt"
-hash = "0058dbf27ca69eec4637490b89ca7107126a26d767636f44718b0f40897f9013"
+hash = "7a3e909a81f9f4293b77d0064e35a9368c948c29d5403e02b33ddb2a8ea076a6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/origem.snbt"
-hash = "a30976ebed67e7a1685ad1e856fb3a5bd1ecca1b49481e9b02f0d89c3c1b088e"
+hash = "d21eab133b506aa33b29d64c690cbb8f793bdb7aa32b44ce7d76ecd1fed65c56"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/sobrevivncia.snbt"
-hash = "b7f62c9a05ea8b207ed48814810d505327c69657d00ccadeda2a29bfd31e6470"
+hash = "9acdd686d8e7591385cff320108600df47b60af368fab0fc6c106fd79965afa5"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/temperatura.snbt"
-hash = "7c220afbc5036034e342c26ab0d4afa8328be406f7fb2d421c641fe847f4274e"
+hash = "cc248c230440a9768fdbd67b3bd21fff51e6274d65c4975825e19c8e0bf7aa8a"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
-hash = "ed7875116d2c86b1e8c58e9a714c1566043be46ff1c927f8ab31b2a806c50acc"
+hash = "b59c3fb5af6d3d0009e71c4b87b10fa51508f7c0eef5e277b97d32e0f25e4d8c"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us.snbt"
+hash = "c105815192f0a6aa062b8b61e2f498c07b8c3bf681758fc6946b2e997353f3aa"
 
 [[files]]
 file = "config/ftbquests/quests/lang/pt_br.snbt"
-hash = "95747c6ae1dada0e3981d34bdd80af6295a3a91ae93a310c9810bc22e825d64b"
+hash = "5a71ad535020996f4fef860f2df6f22b913c7275a1b4517d1fd66581a83b0989"
 
 [[files]]
 file = "config/ftbteams-server.snbt"
@@ -878,6 +882,11 @@ metafile = true
 preserve = true
 
 [[files]]
+file = "mods/mechanics/physical-falling-trees.pw.toml"
+hash = "0940de9dbb69e5f3237902b1ad3396e150859b539a8ce51bc93dcf6aaa98b069"
+metafile = true
+
+[[files]]
 file = "mods/mechanics/playerrevive.pw.toml"
 hash = "5a78f2190631de47f55489786e380126d1eb3df997aa183469f07d4a0ffac04e"
 metafile = true
@@ -910,6 +919,11 @@ metafile = true
 [[files]]
 file = "mods/mechanics/thirst-was-taken.pw.toml"
 hash = "a1e42699107f6e0ad4516ef8ac4ae86cdc3c87abf1ceebe686431150708cf066"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/treechop.pw.toml"
+hash = "94d260e0cbf6c5169f5ad26ea9cb8d7b20dc9b119bee50aff500bbf1d50924e6"
 metafile = true
 
 [[files]]
@@ -1000,11 +1014,6 @@ metafile = true
 [[files]]
 file = "mods/misc/everfurnace.pw.toml"
 hash = "05db4fa025f9e4cc8303bc0b996fb9147d4e45f4de927417faff1d00dbae4269"
-metafile = true
-
-[[files]]
-file = "mods/misc/falling-trees-physics.pw.toml"
-hash = "43c52f6fa891cfcf19b53b0854dcec47e354dcae02a050205a171663ab9c2224"
 metafile = true
 
 [[files]]
@@ -1933,7 +1942,7 @@ hash = "61f323f95c1522204432cc900e822fb912877f451645f05aab9a8e5d57df1368"
 
 [[files]]
 file = "packs/bundled/category/data/category/tags/item/archery.json"
-hash = "3ab9504d51b781d10f79aef7431e12f5e02e26babcd580c6a75d869bfb072f59"
+hash = "bca62153f5da48ce7afe16e2cf938f4ab723ee79d95aad2d2884e05c0ef2a798"
 
 [[files]]
 file = "packs/bundled/category/data/category/tags/item/armor.json"
@@ -2013,7 +2022,7 @@ hash = "df87da3561a2fcd5a1ee57dbd887aa2a8a575cd850e4d2a0a3c513a7b32a26a5"
 
 [[files]]
 file = "packs/bundled/category/data/category/tags/item/tools.json"
-hash = "9d75daa47dbd6bd6c6bcd546227c8d1c3dbca081025a18e042fd10a6df7d21cf"
+hash = "7bc2d09377ba05911a721262fd9eea91d7ea6979019f55cd9259b5cc557a2062"
 
 [[files]]
 file = "packs/bundled/category/data/category/tags/item/transport.json"

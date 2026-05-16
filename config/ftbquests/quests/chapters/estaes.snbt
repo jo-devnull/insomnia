@@ -4,32 +4,23 @@
 	disable_toast: true
 	filename: "estaes"
 	group: "124F2CFDEDC92334"
-	icon: "sereneseasons:calendar"
 	id: "159A200CDC7680DD"
 	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
-			description: [
-				"Existem quatro estações, cada uma afeta vários fatores do ambiente, como o clima, duração dos dias, chuva/tempestades e plantações."
-				""
-				"- Primavera;"
-				"- Verão;"
-				"- Outono; e"
-				"- Inverno"
-			]
 			disable_toast: true
-			icon: "sereneseasons:calendar"
 			id: "35DEE9F1BB0ED01E"
 			rewards: [{
 				id: "0F7A1B8CF607091D"
-				item: "sereneseasons:calendar"
+				item: {
+					count: 1
+					id: "sereneseasons:calendar"
+				}
 				type: "item"
 			}]
-			subtitle: "Estações do ano"
 			tasks: [{
 				id: "7F36328E416C63F2"
-				title: "Estações"
 				type: "checkmark"
 			}]
 			x: -5.5d
@@ -37,19 +28,10 @@
 		}
 		{
 			dependencies: ["0380EC41C3B145D0"]
-			description: [
-				"O inverno é a quarta estação do ano para os biomas temperados. Ele é dividido em três subestações: Início do Inverno, Meio do Inverno e Fim do Inverno. Cada subestação dura 8 dias no jogo, por padrão."
-				""
-				"No inverno, a grama e a folhagem perdem a cor."
-				""
-				"As temperaturas dos biomas caem, permitindo que a neve comece a cair nos biomas temperados. A precipitação também é mais frequente no inverno, mas não ocorrem tempestades."
-			]
 			disable_toast: true
-			icon: "immersive_weathering:frosty_grass"
 			id: "53C561294DA1CFE0"
 			tasks: [{
 				id: "65F0685D7DAEC2E6"
-				title: "Inverno"
 				type: "checkmark"
 			}]
 			x: 2.5d
@@ -57,38 +39,21 @@
 		}
 		{
 			dependencies: ["35DEE9F1BB0ED01E"]
-			description: [
-				"A primavera é a primeira estação do ano para os biomas temperados. Ela é dividida em três subestações: início da primavera, meio da primavera e final da primavera. Cada subestação dura 8 dias no jogo, por padrão."
-				""
-				"Na primavera, a grama e a folhagem adquirem uma coloração verde-azulada, e as temperaturas dos biomas começam a subir, saindo do inverno em direção ao final da estação, derretendo a neve nos biomas mais quentes. A precipitação também é mais frequente na primavera."
-			]
 			disable_toast: true
-			icon: "biomesoplenty:tall_lavender"
 			id: "7E825F7FF1BD69A4"
 			tasks: [{
 				id: "7B0099C85D7A261B"
-				title: "Primavera"
 				type: "checkmark"
 			}]
-			title: "Primavera"
 			x: -3.5d
 			y: -1.0d
 		}
 		{
 			dependencies: ["7E825F7FF1BD69A4"]
-			description: [
-				"O verão é a segunda estação do ano para biomas temperados. Ele é dividido em três subestações: início do verão, meio do verão e final do verão. Cada subestação dura 8 dias no jogo por padrão."
-				""
-				"No verão, a grama e a folhagem adquirem uma tonalidade verde-amarelada."
-				""
-				"Tempestades também são mais comuns no verão."
-			]
 			disable_toast: true
-			icon: "biomesoplenty:burning_blossom"
 			id: "755F74EBAEB81D15"
 			tasks: [{
 				id: "4A76C1CB5ED778F4"
-				title: "Verão"
 				type: "checkmark"
 			}]
 			x: -1.5d
@@ -96,23 +61,15 @@
 		}
 		{
 			dependencies: ["755F74EBAEB81D15"]
-			description: [
-				"O outono é a terceira estação do ano para os biomas temperados. Ele é dividido em três subestações: início do outono, meio do outono e final do outono. Cada subestação dura 8 dias no jogo, por padrão."
-				""
-				"No outono, a grama adquire uma coloração amarelada, enquanto a folhagem ganha um tom alaranjado, que atinge seu ápice de vivacidade. As temperaturas dos biomas começam a cair no final da estação, dando lugar ao inverno, e alguns biomas mais frios podem até começar a receber neve antes da chegada do inverno."
-			]
 			disable_toast: true
-			icon: "biomesoplenty:goldenrod"
 			id: "0380EC41C3B145D0"
 			shape: "circle"
 			tasks: [{
 				id: "4843C9ADABF0B216"
-				title: "Outono"
 				type: "checkmark"
 			}]
 			x: 0.5d
 			y: -1.0d
 		}
 	]
-	title: "Estações"
 }

@@ -5,11 +5,7 @@
 	filename: "sobrevivncia"
 	group: "170FAB3B0685AD02"
 	icon: {
-		Count: 1
 		id: "farmersdelight:flint_knife"
-		tag: {
-			Damage: 0
-		}
 	}
 	id: "30BB112CD495FE8D"
 	order_index: 0
@@ -21,7 +17,7 @@
 			id: "62FCBA131A778D75"
 			tasks: [{
 				id: "58E6E7F491254766"
-				item: "minecraft:stick"
+				item: { count: 1, id: "minecraft:stick" }
 				type: "item"
 			}]
 			x: -6.5d
@@ -34,7 +30,7 @@
 			tasks: [{
 				count: 3L
 				id: "1589BAB2C8B03165"
-				item: "minecraft:gravel"
+				item: { count: 1, id: "minecraft:gravel" }
 				type: "item"
 			}]
 			x: -4.0d
@@ -46,7 +42,7 @@
 			id: "2BF0782AD29A3A70"
 			tasks: [{
 				id: "7DED112F14ABBBD3"
-				item: "minecraft:flint"
+				item: { count: 1, id: "minecraft:flint" }
 				type: "item"
 			}]
 			x: -1.5d
@@ -59,13 +55,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "0DB807482EE914E4"
-				item: {
-					Count: 1
-					id: "farmersdelight:flint_knife"
-					tag: {
-						Damage: 0
-					}
-				}
+				item: { count: 1, id: "farmersdelight:flint_knife" }
 				type: "item"
 			}]
 			x: 1.0d
@@ -73,12 +63,11 @@
 		}
 		{
 			dependencies: ["09FD4AE84E3DFCAB"]
-			description: ["Clique com Sílex em uma pedra para transformar em Fragmentos de Sílex"]
 			disable_toast: true
 			id: "646751112566037E"
 			tasks: [{
 				id: "02E4A2A18627D9E0"
-				item: "notreepunching:flint_shard"
+				item: { components: { "ftbquests:missing_item": "notreepunching:flint_shard" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 8.5d
@@ -91,7 +80,7 @@
 			tasks: [{
 				count: 3L
 				id: "10C69E05FDC48424"
-				item: "notreepunching:plant_fiber"
+				item: { components: { "ftbquests:missing_item": "notreepunching:plant_fiber" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 3.5d
@@ -103,13 +92,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "16C797FD2DE253D1"
-				item: {
-					Count: 1
-					id: "notreepunching:flint_axe"
-					tag: {
-						Damage: 0
-					}
-				}
+				item: { components: { "ftbquests:missing_item": "notreepunching:flint_axe" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 13.5d
@@ -118,38 +101,21 @@
 		{
 			dependencies: ["2AAB3C985E6323FA"]
 			disable_toast: true
-			icon: "minecraft:oak_log"
 			id: "6B0E761D48BE29D6"
 			tasks: [{
 				id: "5DFF662DC3F1B737"
-				item: {
-					Count: 1
-					id: "ftbfiltersystem:smart_filter"
-					tag: {
-						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:logs_that_burn)"
-					}
-				}
-				title: "Qualquer tronco"
+				item: { count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			title: "Coletar Madeira"
 			x: 16.0d
 			y: -1.5d
 		}
 		{
 			dependencies: ["6B0E761D48BE29D6"]
-			icon: "minecraft:spruce_planks"
 			id: "49F1FAB0236323A6"
 			tasks: [{
 				id: "7BB0A3A8BAD51891"
-				item: {
-					Count: 1
-					id: "ftbfiltersystem:smart_filter"
-					tag: {
-						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:planks)"
-					}
-				}
-				title: "Qualquer tábua"
+				item: { count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 18.5d
@@ -163,7 +129,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "446A6614900E6859"
-				item: "minecraft:crafting_table"
+				item: { count: 1, id: "minecraft:crafting_table" }
 				type: "item"
 			}]
 			x: 21.0d
@@ -173,11 +139,10 @@
 			dependencies: ["6B0E761D48BE29D6"]
 			disable_toast: true
 			id: "1B6C73BF212BFBEF"
-			subtitle: "Use para criar uma fogueira"
 			tasks: [{
 				count: 4L
 				id: "5425673A69F2F57D"
-				item: { Count: 4, id: "better_campfires:firewood" }
+				item: { components: { "ftbquests:missing_item": "4x better_campfires:firewood" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 16.0d
@@ -190,13 +155,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "745B4C869D791151"
-				item: {
-					Count: 1
-					id: "notreepunching:flint_shovel"
-					tag: {
-						Damage: 0
-					}
-				}
+				item: { components: { "ftbquests:missing_item": "notreepunching:flint_shovel" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 21.0d
@@ -208,7 +167,7 @@
 			id: "09FD4AE84E3DFCAB"
 			tasks: [{
 				id: "5AA90B4B4D5A520B"
-				item: "notreepunching:plant_string"
+				item: { components: { "ftbquests:missing_item": "notreepunching:plant_string" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 6.0d
@@ -221,13 +180,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "07D371C7BF5AA0E8"
-				item: {
-					Count: 1
-					id: "notreepunching:flint_pickaxe"
-					tag: {
-						Damage: 0
-					}
-				}
+				item: { components: { "ftbquests:missing_item": "notreepunching:flint_pickaxe" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 23.5d
@@ -239,7 +192,7 @@
 			id: "13E95287C0EBCDA0"
 			tasks: [{
 				id: "68DFCC308E723FAE"
-				item: "minecraft:clay_ball"
+				item: { count: 1, id: "minecraft:clay_ball" }
 				type: "item"
 			}]
 			x: 23.5d
@@ -248,21 +201,12 @@
 		{
 			dependencies: ["1344784BD9205F26"]
 			disable_toast: true
-			icon: "minecraft:cobblestone"
 			id: "127F433C5A67A121"
 			tasks: [{
 				id: "3A65F874BA95D115"
-				item: {
-					Count: 1
-					id: "ftbfiltersystem:smart_filter"
-					tag: {
-						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:stone_tool_materials)"
-					}
-				}
-				title: "Coletar pedra"
+				item: { count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			title: "Pedra"
 			x: 26.0d
 			y: -1.5d
 		}
@@ -274,7 +218,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "61A8E298C0C5CE41"
-				item: "minecraft:furnace"
+				item: { count: 1, id: "minecraft:furnace" }
 				type: "item"
 			}]
 			x: 31.0d
@@ -286,14 +230,7 @@
 			id: "628852BC25103C5B"
 			tasks: [{
 				id: "74FB34F59280CFEE"
-				item: {
-					Count: 1
-					id: "ftbfiltersystem:smart_filter"
-					tag: {
-						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:coals)"
-					}
-				}
-				title: "Carvão"
+				item: { count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 28.5d
@@ -306,7 +243,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "22E439DB55A5CC15"
-				item: "minecraft:torch"
+				item: { count: 1, id: "minecraft:torch" }
 				type: "item"
 			}]
 			x: 28.5d
@@ -318,13 +255,7 @@
 			id: "0EF00F6049FDB2C5"
 			tasks: [{
 				id: "3AB729A40BEDFAE2"
-				item: {
-					Count: 1
-					id: "notreepunching:clay_tool"
-					tag: {
-						Damage: 0
-					}
-				}
+				item: { components: { "ftbquests:missing_item": "notreepunching:clay_tool" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 26.0d
@@ -332,12 +263,11 @@
 		}
 		{
 			dependencies: ["0EF00F6049FDB2C5"]
-			description: ["Use a Ferramenta de Argila em um bloco de Argila para criar um balde."]
 			disable_toast: true
 			id: "1B4CD8FCC9B9F765"
 			tasks: [{
 				id: "3DE7BA3793708C82"
-				item: "notreepunching:clay_bucket"
+				item: { components: { "ftbquests:missing_item": "notreepunching:clay_bucket" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 26.0d
@@ -352,7 +282,7 @@
 			id: "5242F09FFC850B56"
 			tasks: [{
 				id: "23A96683D7E1F23E"
-				item: "notreepunching:ceramic_bucket"
+				item: { components: { "ftbquests:missing_item": "notreepunching:ceramic_bucket" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 31.0d
@@ -364,7 +294,7 @@
 			id: "6919E3C9579AC6F8"
 			tasks: [{
 				id: "4918F1096C05395B"
-				item: "createmetallurgy:refractory_mortar"
+				item: { count: 1, id: "createmetallurgy:refractory_mortar" }
 				type: "item"
 			}]
 			x: 46.0d
@@ -376,7 +306,7 @@
 			id: "3A486F498D62BF0B"
 			tasks: [{
 				id: "2062C0ADA95A2D23"
-				item: "minecraft:raw_copper"
+				item: { count: 1, id: "minecraft:raw_copper" }
 				type: "item"
 			}]
 			x: 33.5d
@@ -388,10 +318,9 @@
 			shape: "hexagon"
 			tasks: [{
 				id: "6509E4A1B31FFE70"
-				item: "minecraft:copper_ingot"
+				item: { count: 1, id: "minecraft:copper_ingot" }
 				type: "item"
 			}]
-			title: "Era do Cobre"
 			x: 36.0d
 			y: -1.5d
 		}
@@ -402,13 +331,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "4843ECA663B88331"
-				item: {
-					Count: 1
-					id: "create_ironworks:copper_pickaxe"
-					tag: {
-						Damage: 0
-					}
-				}
+				item: { count: 1, id: "create_ironworks:copper_pickaxe" }
 				type: "item"
 			}]
 			x: 38.5d
@@ -421,13 +344,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "7F9BF0FCBC04D73E"
-				item: {
-					Count: 1
-					id: "create_ironworks:copper_axe"
-					tag: {
-						Damage: 0
-					}
-				}
+				item: { count: 1, id: "create_ironworks:copper_axe" }
 				type: "item"
 			}]
 			x: 36.0d
@@ -439,7 +356,7 @@
 			id: "0E54B03E82D0BE61"
 			tasks: [{
 				id: "4524A0EBCBE38E16"
-				item: "minecraft:andesite"
+				item: { count: 1, id: "minecraft:andesite" }
 				type: "item"
 			}]
 			x: 46.0d
@@ -451,7 +368,7 @@
 			id: "14B067DB1FFF16FA"
 			tasks: [{
 				id: "018D796D077E3E1B"
-				item: "create:raw_zinc"
+				item: { count: 1, id: "create:raw_zinc" }
 				type: "item"
 			}]
 			x: 41.0d
@@ -463,7 +380,7 @@
 			id: "27B713DEB9233380"
 			tasks: [{
 				id: "0D5101E74CA44FEB"
-				item: "create:zinc_ingot"
+				item: { count: 1, id: "create:zinc_ingot" }
 				type: "item"
 			}]
 			x: 43.5d
@@ -476,7 +393,7 @@
 			shape: "hexagon"
 			tasks: [{
 				id: "18676F8A08084891"
-				item: "create:andesite_alloy"
+				item: { count: 1, id: "create:andesite_alloy" }
 				type: "item"
 			}]
 			x: 48.5d
@@ -488,7 +405,7 @@
 			id: "100401F610FE76B3"
 			tasks: [{
 				id: "4A7602FD68750F5F"
-				item: "notreepunching:clay_brick"
+				item: { components: { "ftbquests:missing_item": "notreepunching:clay_brick" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 28.5d
@@ -502,7 +419,7 @@
 			id: "1DD6DB8867EA723F"
 			tasks: [{
 				id: "59430FE5FCBF5409"
-				item: "minecraft:brick"
+				item: { count: 1, id: "minecraft:brick" }
 				type: "item"
 			}]
 			x: 31.0d
@@ -515,10 +432,9 @@
 			id: "0EB27C9D51B69D57"
 			tasks: [{
 				id: "589C0329384DFCA3"
-				item: "notreepunching:ceramic_water_bucket"
+				item: { components: { "ftbquests:missing_item": "notreepunching:ceramic_water_bucket" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
-			title: "Água"
 			x: 33.5d
 			y: -5.5d
 		}
@@ -531,7 +447,7 @@
 			id: "4EDCB67983BECEE8"
 			tasks: [{
 				id: "0DB46AE3F1E4038C"
-				item: "createlowheated:basic_burner"
+				item: { count: 1, id: "createlowheated:basic_burner" }
 				type: "item"
 			}]
 			x: 46.0d
@@ -548,26 +464,25 @@
 			tasks: [
 				{
 					id: "1F99D0DD64FB4C2B"
-					item: "createmetallurgy:foundry_lid"
+					item: { count: 1, id: "createmetallurgy:foundry_lid" }
 					type: "item"
 				}
 				{
 					id: "1F889112A34720F0"
-					item: "createmetallurgy:foundry_basin"
+					item: { count: 1, id: "createmetallurgy:foundry_basin" }
 					type: "item"
 				}
 				{
 					id: "3AF64ABFAF6F84A5"
-					item: "createmetallurgy:casting_table"
+					item: { count: 1, id: "createmetallurgy:casting_table" }
 					type: "item"
 				}
 				{
 					id: "469A75824E011903"
-					item: "createmetallurgy:faucet"
+					item: { count: 1, id: "createmetallurgy:faucet" }
 					type: "item"
 				}
 			]
-			title: "Metalurgia"
 			x: 48.5d
 			y: -3.5d
 		}
@@ -577,13 +492,7 @@
 			id: "509ABF2952B748B4"
 			tasks: [{
 				id: "164D9028AF2F5566"
-				item: {
-					Count: 1
-					id: "notreepunching:fire_starter"
-					tag: {
-						Damage: 0
-					}
-				}
+				item: { components: { "ftbquests:missing_item": "notreepunching:fire_starter" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 11.0d
@@ -598,7 +507,7 @@
 			id: "2E16F711AF3104E2"
 			tasks: [{
 				id: "739D30A634E05396"
-				item: "toolworking:ingot_clay_mold"
+				item: { count: 1, id: "toolworking:ingot_clay_mold" }
 				type: "item"
 			}]
 			x: 51.0d
@@ -610,16 +519,15 @@
 			tasks: [
 				{
 					id: "00308EF741E1C933"
-					item: "create_ironworks:raw_tin"
+					item: { count: 1, id: "create_ironworks:raw_tin" }
 					type: "item"
 				}
 				{
 					id: "239A6E37E956C984"
-					item: "minecraft:raw_copper"
+					item: { count: 1, id: "minecraft:raw_copper" }
 					type: "item"
 				}
 			]
-			title: "Estanho e Cobre"
 			x: 51.0d
 			y: -1.5d
 		}
@@ -629,10 +537,9 @@
 			shape: "hexagon"
 			tasks: [{
 				id: "519E709B8BBB37D3"
-				item: "create_ironworks:bronze_ingot"
+				item: { count: 1, id: "create_ironworks:bronze_ingot" }
 				type: "item"
 			}]
-			title: "Era do Bronze"
 			x: 53.5d
 			y: -3.5d
 		}
@@ -643,13 +550,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "7C2EDBCD7C642543"
-				item: {
-					Count: 1
-					id: "create_ironworks:bronze_pickaxe"
-					tag: {
-						Damage: 0
-					}
-				}
+				item: { count: 1, id: "create_ironworks:bronze_pickaxe" }
 				type: "item"
 			}]
 			x: 56.0d
@@ -661,13 +562,7 @@
 			id: "1CCA56F3CEF99790"
 			tasks: [{
 				id: "73B9F12A138AB742"
-				item: {
-					Count: 1
-					id: "create_ironworks:bronze_axe"
-					tag: {
-						Damage: 0
-					}
-				}
+				item: { count: 1, id: "create_ironworks:bronze_axe" }
 				type: "item"
 			}]
 			x: 53.5d
@@ -679,7 +574,7 @@
 			id: "007071D123A9BD74"
 			tasks: [{
 				id: "60FFA3AE4D3CCED4"
-				item: "createmetallurgy:graphite"
+				item: { count: 1, id: "createmetallurgy:graphite" }
 				type: "item"
 			}]
 			x: 53.5d
@@ -691,7 +586,7 @@
 			id: "2BC3F8B3EF7CDA07"
 			tasks: [{
 				id: "24188FE251A7DE67"
-				item: "createmetallurgy:graphite_blank_mold"
+				item: { count: 1, id: "createmetallurgy:graphite_blank_mold" }
 				type: "item"
 			}]
 			x: 56.0d
@@ -703,7 +598,7 @@
 			id: "5E76EC6B72501DA3"
 			tasks: [{
 				id: "21FB4D2E2AACF443"
-				item: "createmetallurgy:graphite_ingot_mold"
+				item: { count: 1, id: "createmetallurgy:graphite_ingot_mold" }
 				type: "item"
 			}]
 			x: 58.5d
@@ -718,7 +613,7 @@
 			id: "32AF1FA7F7C60F8A"
 			tasks: [{
 				id: "52F322EE00AAF7D8"
-				item: "minecraft:raw_iron"
+				item: { count: 1, id: "minecraft:raw_iron" }
 				type: "item"
 			}]
 			x: 58.5d
@@ -733,10 +628,9 @@
 			shape: "hexagon"
 			tasks: [{
 				id: "4AC2DBAC881B4FF4"
-				item: "minecraft:iron_ingot"
+				item: { count: 1, id: "minecraft:iron_ingot" }
 				type: "item"
 			}]
-			title: "Era do Ferro"
 			x: 61.0d
 			y: -3.5d
 		}
@@ -746,13 +640,7 @@
 			id: "6BEBB994E1BD1DC1"
 			tasks: [{
 				id: "021B471AC3C16A2B"
-				item: {
-					Count: 1
-					id: "minecraft:iron_pickaxe"
-					tag: {
-						Damage: 0
-					}
-				}
+				item: { count: 1, id: "minecraft:iron_pickaxe" }
 				type: "item"
 			}]
 			x: 63.5d
@@ -764,13 +652,7 @@
 			id: "481B8E8227527977"
 			tasks: [{
 				id: "7EBD74C98A73ECD7"
-				item: {
-					Count: 1
-					id: "minecraft:iron_axe"
-					tag: {
-						Damage: 0
-					}
-				}
+				item: { count: 1, id: "minecraft:iron_axe" }
 				type: "item"
 			}]
 			x: 61.0d
@@ -782,7 +664,7 @@
 			id: "124C7AAB74C9F416"
 			tasks: [{
 				id: "171845979E8DB95C"
-				item: "supplementaries:bellows"
+				item: { count: 1, id: "supplementaries:bellows" }
 				type: "item"
 			}]
 			x: 61.0d
@@ -795,7 +677,7 @@
 			tasks: [{
 				count: 2L
 				id: "454118FC9C4B6695"
-				item: "ceramicshears:clay_shears_part"
+				item: { count: 1, id: "ceramicshears:clay_shears_part" }
 				type: "item"
 			}]
 			x: 23.5d
@@ -808,7 +690,7 @@
 			tasks: [{
 				count: 2L
 				id: "234C7C06B123DCC0"
-				item: { Count: 2, id: "ceramicshears:ceramic_shears_part" }
+				item: { count: 1, id: "ceramicshears:ceramic_shears_part" }
 				type: "item"
 			}]
 			x: 23.5d
@@ -820,7 +702,7 @@
 			id: "69ADD952AB49F094"
 			tasks: [{
 				id: "1E37BC3FC9235FBA"
-				item: "createmetallurgy:casting_basin"
+				item: { count: 1, id: "createmetallurgy:casting_basin" }
 				type: "item"
 			}]
 			x: 63.5d
@@ -832,7 +714,7 @@
 			shape: "hexagon"
 			tasks: [{
 				id: "24DB5DFDB2FED63E"
-				item: "minecraft:glass"
+				item: { count: 1, id: "minecraft:glass" }
 				type: "item"
 			}]
 			x: 68.5d
@@ -845,45 +727,29 @@
 			tasks: [
 				{
 					id: "2A3012A155A4517C"
-					item: {
-						Count: 1
-						id: "ftbfiltersystem:smart_filter"
-						tag: {
-							"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:sand)"
-						}
-					}
-					title: "Areia"
+					item: { count: 1, id: "ftbfiltersystem:smart_filter" }
 					type: "item"
 				}
 				{
 					id: "27335A6EEBA6212B"
-					item: "minecraft:bone_meal"
+					item: { count: 1, id: "minecraft:bone_meal" }
 					type: "item"
 				}
 				{
 					id: "06D39FA16E117FB4"
-					item: "minecraft:kelp"
+					item: { count: 1, id: "minecraft:kelp" }
 					type: "item"
 				}
 			]
-			title: "Areia, Alga e Farinha de Osso"
 			x: 66.0d
 			y: -5.5d
 		}
 		{
 			disable_toast: true
-			icon: "biomesoplenty:flowering_oak_sapling"
 			id: "5EDF55B2C082CDF5"
 			tasks: [{
 				id: "360E0576CB06E52E"
-				item: {
-					Count: 1
-					id: "ftbfiltersystem:smart_filter"
-					tag: {
-						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:saplings)"
-					}
-				}
-				title: "Muda de Árvore"
+				item: { count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -9.0d
@@ -896,7 +762,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "2F3552446D7C8906"
-				item: "insomnia:improvised_bed"
+				item: { components: { "ftbquests:missing_item": "insomnia:improvised_bed" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -6.5d
@@ -908,18 +774,11 @@
 			id: "17E0CA5CEDEEAA3A"
 			tasks: [{
 				id: "508083C9BBCD875C"
-				item: {
-					Count: 1
-					id: "ceramicshears:ceramic_shears"
-					tag: {
-						Damage: 0
-					}
-				}
+				item: { count: 1, id: "ceramicshears:ceramic_shears" }
 				type: "item"
 			}]
 			x: 23.5d
 			y: -9.5d
 		}
 	]
-	title: "Principal"
 }

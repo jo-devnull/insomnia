@@ -1,3 +1,10 @@
 {
 	chapter.061C86FEE52B010D.title: "Origem"
+	quest.00914B4D6DA3D4F6.quest_subtitle: "Somente uma origem pode ser selecionada"
+	quest.00914B4D6DA3D4F6.title: "Selecione uma origem"
+	quest.3DC019F4C7A97DD8.quest_desc: ["Você pode usar uma fogueira ou uma fornalha para purificar um recipiente com água suja. Dependendo do estado da água, você precisará repetir esse processo várias vezes."]
+	quest.3DC019F4C7A97DD8.quest_subtitle: "Fazendo água potável"
+	quest.3DC019F4C7A97DD8.title: "Purificando Água"
+	quest.41FD0F2394AD707C.title: "Besta de Carregamento Automático"
+	quest.521955ACF3E77C5E.title: "Exploração"
 }

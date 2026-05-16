@@ -2,7 +2,11 @@
     "replace": false,
     "values": [
         "#c:bows",
+        "#c:tools/bows",
+        "#c:tools/crossbows",
         "#minecraft:bows",
-        "#minecraft:arrows"
+        "#minecraft:arrows",
+        "#minecraft:enchantable/bow",
+        "#simplybows:bows"
     ]
 }
