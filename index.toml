@@ -392,11 +392,6 @@ hash = "fb5bec1abee990f5c788639ab1822b0d290d11a8bc59cd81473a3d306b2c0186"
 metafile = true
 
 [[files]]
-file = "mods/dependency/azurelib-armor.pw.toml"
-hash = "dd1889c72d1a5d387328a0b876991318bd2803386e47a79278a5068d8ec96375"
-metafile = true
-
-[[files]]
 file = "mods/dependency/azurelib.pw.toml"
 hash = "a08713c1a7c1962209d73041d6058567e089ee682a04c1f052615e084371a6cd"
 metafile = true
@@ -677,11 +672,6 @@ hash = "7ffe898fcb56f398a5c3f57e24215110506386ce1e7d816283e7e35fd7374d6f"
 metafile = true
 
 [[files]]
-file = "mods/dependency/ranged-weapon-api.pw.toml"
-hash = "3fd4f5167d4e8f496347482f53cbb1f105e1195d4c73952728730ea2a664c4c6"
-metafile = true
-
-[[files]]
 file = "mods/dependency/resourceful-config.pw.toml"
 hash = "ee9ec700f7b0a9015d5753c5d116aeb70400ff8149122692461a5706cddd605b"
 metafile = true
@@ -727,18 +717,8 @@ hash = "c4e773c1f886b9153d20ca475658864e7183477a14619bcd2da820b4db1ff3dc"
 metafile = true
 
 [[files]]
-file = "mods/dependency/spell-engine.pw.toml"
-hash = "44fe0410956f17115d432c509384a08146bb00920740b6d047253555ddabe0ee"
-metafile = true
-
-[[files]]
 file = "mods/dependency/stateobserver.pw.toml"
 hash = "60e0d5d386d5cd0eff99a737abedf6f63d561fbf3f92a82479fe1ad17567a82c"
-metafile = true
-
-[[files]]
-file = "mods/dependency/structure-pool-api.pw.toml"
-hash = "88f4782ae3edc0c9ab2e57682dad46cc9ca2c0aae6ace7a652ef2760bdd89592"
 metafile = true
 
 [[files]]
