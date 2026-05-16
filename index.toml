@@ -46,7 +46,7 @@ hash = "7a3e909a81f9f4293b77d0064e35a9368c948c29d5403e02b33ddb2a8ea076a6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/origem.snbt"
-hash = "d21eab133b506aa33b29d64c690cbb8f793bdb7aa32b44ce7d76ecd1fed65c56"
+hash = "0d762c81daae6dac0d1d09b8632eae52b7ffd72ac76913cc69dd68e532c2f4ef"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/temperatura.snbt"
@@ -420,11 +420,6 @@ metafile = true
 [[files]]
 file = "mods/dependency/bookshelf.pw.toml"
 hash = "2dc9cadd5be52cdee2d5a75089478fc8e1d7455ae5c6929921ecf542cf0665e6"
-metafile = true
-
-[[files]]
-file = "mods/dependency/bucketlib.pw.toml"
-hash = "0950f0c3890b4db7540aa0e3bc48f9d6db0fd80be1ddeb051e409b8bdbb74904"
 metafile = true
 
 [[files]]
@@ -964,11 +959,6 @@ hash = "a44d889f6ecdb6f45de7b78cdf57c135aa9c6334a9bdb810a1ae060307ff51ce"
 metafile = true
 
 [[files]]
-file = "mods/misc/ceramic-bucket.pw.toml"
-hash = "ad17a18d9a81858ebf2be3b2f5f9c8acd57bcab837b9d7e32d49bde443c06592"
-metafile = true
-
-[[files]]
 file = "mods/misc/certain-questing-additions.pw.toml"
 hash = "7468146e8006b6a1401ff75335cbe211f3292fab3d689133822c42301d769355"
 metafile = true
@@ -1209,6 +1199,11 @@ hash = "093d8e74071e91fa36312ffcf33d05d8024c01ad46604907e46613985bd21e0a"
 metafile = true
 
 [[files]]
+file = "mods/mobs/companions-mod.pw.toml"
+hash = "fd2bf5b0da0d1ae279ea73facf916588ed3b49cad74e529b5045c880cf83bdfa"
+metafile = true
+
+[[files]]
 file = "mods/mobs/cosy-critters.pw.toml"
 hash = "3d49cbcee8dd6029c7ace39ec2ea244c30a4e65db991684100ae1bdf8f6189df"
 metafile = true
@@ -1289,16 +1284,6 @@ hash = "6e561ff5458eb24647c54ea2840931ed780ccc7d961c2e3619f73673104a96c2"
 metafile = true
 
 [[files]]
-file = "mods/mobs/touhou-little-maid-spell.pw.toml"
-hash = "990b10a18f4c78f165904811f28b93db3833fb53e3355339672e70d4967c1076"
-metafile = true
-
-[[files]]
-file = "mods/mobs/touhou-little-maid.pw.toml"
-hash = "0f24df0a392cce097249822ebff59d5dcb2a95838c1adb9b4aa6c6d54d8818b5"
-metafile = true
-
-[[files]]
 file = "mods/mobs/untitled-duck-mod-forge.pw.toml"
 hash = "07551e2a561f0134a40210a44a3641a2c298425dd64e2ce807bdfea21b8117da"
 metafile = true
@@ -1326,6 +1311,11 @@ metafile = true
 [[files]]
 file = "mods/performance/bbrb.pw.toml"
 hash = "bf3851d03c66e486538bbd7b5f70d7cc337e7b17ef6b1eac4cfde7e886bd7223"
+metafile = true
+
+[[files]]
+file = "mods/performance/c2me-neoforge.pw.toml"
+hash = "35deee6ea8a52b4782551eb5c5bb3be8957c8b7411067e6752f82ebf8aa446c3"
 metafile = true
 
 [[files]]
@@ -1411,6 +1401,11 @@ metafile = true
 [[files]]
 file = "mods/performance/saturn.pw.toml"
 hash = "ff0e32dcbfc3eef56ab70444695edd83f9bab4249b847ec75d618e00a20b30ba"
+metafile = true
+
+[[files]]
+file = "mods/performance/scalablelux.pw.toml"
+hash = "e1f7859c34ac8c28e344cd8f3143e82a112dd3a2c0423e77089850e7c0a760fa"
 metafile = true
 
 [[files]]
@@ -1670,7 +1665,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/insomnia-tweaks.pw.toml"
-hash = "0c5c852dfcd90a83de7d1297b7cf8ca7cb520ca681ccf09b2ee52a8f7d8d0a09"
+hash = "4b4815ca697fcfc10d350216ea95539b8de27e18c03d210d58e68af1d53f84cf"
 metafile = true
 
 [[files]]
@@ -1781,11 +1776,6 @@ metafile = true
 [[files]]
 file = "mods/world/large-ore-deposits.pw.toml"
 hash = "0b1b410e7fdcd4306ee0142c251bd4f4ac58c16e63b5328e68737bcb271485a8"
-metafile = true
-
-[[files]]
-file = "mods/world/natures-spirit.pw.toml"
-hash = "bf3468f2d83cd9e75e3e5d154b3c2c1df129f62e104e378b8f1f9261c7577b0e"
 metafile = true
 
 [[files]]
@@ -2387,6 +2377,10 @@ hash = "31d4c952aed240f3e6c6c92aa478cdc661ef581c44f240cdbb08a6fdb9edf29e"
 [[files]]
 file = "packs/bundled/integrated/data/enhancedcelestials/lunar/event/super_blood_moon.json"
 hash = "b1bda3b3bbd9e2420e2a04fdbb30f5716871f3b3ba77faaead02c23ef7a19f58"
+
+[[files]]
+file = "packs/bundled/integrated/data/friendlyfire/tags/entity_type/player_protection.json"
+hash = "4a774c9a9e639c40f2014c8dbac034434329ee0b360b9bccfc785e3544506747"
 
 [[files]]
 file = "packs/bundled/integrated/data/fromtheshadows/forge/biome_modifier/nether_spawns.json"
