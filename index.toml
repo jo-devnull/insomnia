@@ -1124,11 +1124,6 @@ hash = "9f1fbce6d99b453f22c3a1f9bec3a7d84054bac8f568a3db42b169b7b7427b00"
 metafile = true
 
 [[files]]
-file = "mods/misc/reactive-music.pw.toml"
-hash = "acb9afa2323067cd2ed1675734d97d680528909aaa0c9da809a7b651fa8ff0e6"
-metafile = true
-
-[[files]]
 file = "mods/misc/responsive-shields.pw.toml"
 hash = "146575c3d5ae6fea26f8aa5ac6277006556a3b226b18ae4ea22e61e145617720"
 metafile = true
