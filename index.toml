@@ -1789,11 +1789,6 @@ hash = "dd0377b2fa3ad520cf17c708efd43afb0a6294df88e6bfeb01eaf3cfa65131af"
 metafile = true
 
 [[files]]
-file = "mods/world/tongda-railway.pw.toml"
-hash = "fce5f12ae49645ac39dde5331b4187f7751d53e28005b0db8f0bfe2c3548da84"
-metafile = true
-
-[[files]]
 file = "mods/world/yungs-cave-biomes.pw.toml"
 hash = "15835c562728fd289b479c5d70413b9b257728c74df36e513a9b87f66b5d88d9"
 metafile = true
