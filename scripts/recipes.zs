@@ -1,3 +1,7 @@
+import crafttweaker.api.ingredient.type.TagIngredient;
+import crafttweaker.api.data.IData;
+import crafttweaker.api.item.IItemStack;
+
 // remove iron and gold smelting/blasting recipes
 furnace.remove(<item:minecraft:iron_ingot>);
 furnace.remove(<item:minecraft:gold_ingot>);
@@ -28,3 +32,20 @@ blastFurnace.addRecipe("gold_ingot_from_crushed", <item:minecraft:gold_ingot>, <
 
 blastFurnace.addRecipe("iron_ingot_from_deepslate_ore", <item:minecraft:iron_ingot>, <item:minecraft:deepslate_iron_ore>, 1, 1200);
 blastFurnace.addRecipe("gold_ingot_from_deepslate_ore", <item:minecraft:gold_ingot>, <item:minecraft:deepslate_gold_ore>, 1, 1200);
+
+// Replace logs -> planks recipes, requiring an axe
+for holder in craftingTable.getRecipesByOutput(<tag:item:minecraft:planks>) {
+    var recipe = holder.value;
+
+    if recipe.ingredients.length == 1 {
+        var input = recipe.ingredients[0];
+
+        if input is TagIngredient && input in <tag:item:minecraft:logs>.asIIngredient() {
+            var output = (recipe.resultItem as IData)["base"]["item"];
+            craftingTable.removeByName(holder.id);
+
+            var id = recipe.resultItem.registryName.path + "_from_logs";
+            craftingTable.addShaped(id, recipe.resultItem, [[<tag:item:minecraft:axes>], [input]]);
+        }
+    }
+}

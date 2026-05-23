@@ -44,6 +44,13 @@
         "minheight": 27
     },
     {
+        "result": "deny",
+        "hostile": true,
+        "mobs": ["minecraft:drowned"],
+        "biometags": "#minecraft:is_ocean",
+        "phases": "extended_safe"
+    },
+    {
         "result": "default",
         "hostile": true,
         "spawner": false,
