@@ -1,13 +1,13 @@
 name = "Kobolds"
-filename = "../Kobolds-3.0.41.jar"
+filename = "../Kobolds-4.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ufaxN0Ay/versions/nvPUjaxs/Kobolds-3.0.41.jar"
+url = "https://cdn.modrinth.com/data/ufaxN0Ay/versions/Z85VHlew/Kobolds-4.0.0.jar"
 hash-format = "sha512"
-hash = "da05f6e1f9e173b505174d9e6b8dfc8c07131917f37cb7ff0bb39a6ce216e994f31b1431b5881da6b4bbd2e588ac1e62beead3a2b189b6fa5cc95f3a3edd76b4"
+hash = "dd7842eec24f7fa4369f1137a55b8ac939bff7ff763fc9d68ea27390f9158aa9c5fdc3236896b09824db5acfdf06a4aafe4a1335e2df28abb6e8675a7af347ff"
 
 [update]
 [update.modrinth]
 mod-id = "ufaxN0Ay"
-version = "nvPUjaxs"
+version = "Z85VHlew"

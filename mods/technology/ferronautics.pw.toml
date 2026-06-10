@@ -1,0 +1,13 @@
+name = "Ferronautics"
+filename = "../create_ferronautics-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b7b0c66bbee8efcfbd6ae75e6b3b65c283aca2ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8139786
+project-id = 1539179

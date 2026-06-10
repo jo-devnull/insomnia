@@ -1,13 +1,13 @@
 name = "The Grave Scrolls"
-filename = "../TGS-1.0.2-neoforge-1.21.1.jar"
+filename = "../TGS-1.0.2.1-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "28afd510509af52fc121b2eb1004e5bd00d15421"
+hash = "a36f4f30045406d3633ea24e2f8c6c1084456d7f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8065704
+file-id = 8152676
 project-id = 1448844

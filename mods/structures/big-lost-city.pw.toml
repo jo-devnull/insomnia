@@ -1,13 +1,13 @@
 name = "Big Lost City - Apocalyptic Structures!"
-filename = "../big_lost_city-1.0.0-neoforge-1.21.1.jar"
+filename = "../big_lost_city-1.0.1-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e2ccb390164f32b13bd595363aa1bbccef62bc68"
+hash = "c742f011c995c681b3497312d77a50a287fa49f0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7689974
+file-id = 8110093
 project-id = 1472594

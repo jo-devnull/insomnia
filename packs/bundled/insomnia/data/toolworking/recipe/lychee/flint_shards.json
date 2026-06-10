@@ -2,8 +2,14 @@
     "type": "lychee:block_interacting",
     "ghost": true,
     "item_in": "minecraft:flint",
-    "block_in": "#c:stones",
+    "block_in": {
+        "blocks": "#c:stones"
+    },
     "post": [
-        { "type": "drop_item", "id": "flintrequired:flint_shard" }
+        {
+            "type": "drop_item",
+            "id": "flintrequired:flint_shard",
+            "components": {}
+        }
     ]
 }
