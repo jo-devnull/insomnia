@@ -1154,11 +1154,6 @@ hash = "ca8b0fed0113c3cacd050ea0ad7a0e6fc289d7baa1bbd1918de61e5f24a3dc30"
 metafile = true
 
 [[files]]
-file = "mods/misc/the-ponderer.pw.toml"
-hash = "4eb246335b99dc4818815793a7d60eeaf23d0952ab7d687ba9e55661025e8bf5"
-metafile = true
-
-[[files]]
 file = "mods/misc/two-players-one-horse.pw.toml"
 hash = "03b573b841224e079fc9b385913fe1d6ee7b2d47b8c08bdbdac3b0fcb169f1a3"
 metafile = true
@@ -1405,7 +1400,7 @@ metafile = true
 
 [[files]]
 file = "mods/performance/sodium.pw.toml"
-hash = "2e32857cb0eba3d755582abef0918e92bbbca70712b1f8db37045cd9bed134a0"
+hash = "abd1e691659d432cc0e2b03fafc75cdc8523e07b07b89fc4279668229564b231"
 metafile = true
 
 [[files]]
@@ -2232,6 +2227,10 @@ hash = "b317b533ab0f5152f49b7ee4b7ecebe2f022250919c82fcf3e4242a0458ea1ae"
 [[files]]
 file = "packs/bundled/insomnia/data/toolworking/recipe/lychee/flint_shards.json"
 hash = "9e6d0827a0ea47d099fbcbd07ccb3632758520bd61c5a876c665ce08551aef79"
+
+[[files]]
+file = "packs/bundled/insomnia/data/toolworking/recipe/lychee/lit_basic_burner.json"
+hash = "8a9506eca81589c47c3c27ea3a1c9d1318794db21206efe26f204078dba7d47c"
 
 [[files]]
 file = "packs/bundled/insomnia/data/toolworking/recipe/melting/brass/from_crushed_zinc_and_copper.json"
