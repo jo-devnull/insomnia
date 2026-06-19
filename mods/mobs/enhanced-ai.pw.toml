@@ -1,13 +1,13 @@
 name = "Enhanced AI"
-filename = "../enhancedai-4.1.0.0.jar"
+filename = "../enhancedai-4.1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TDdoftI1/versions/538LxAV3/enhancedai-4.1.0.0.jar"
+url = "https://cdn.modrinth.com/data/TDdoftI1/versions/VxuGZvp1/enhancedai-4.1.0.1.jar"
 hash-format = "sha512"
-hash = "ed003e0be771cd63dad2b54edb8ce966ed191e4607ae32bbf60cd9e6a7ea099f3cd781703a1796a717aba371b60d42be89be6ed308810bd4803cf285b3520501"
+hash = "65875abd3d6089711a69e3cb1d1e80006f541e3354230334eb515c99b0cea11f644a7199ebed2b9a24f0123554cf236d136c0d167c03841b0ad39565c51c2370"
 
 [update]
 [update.modrinth]
 mod-id = "TDdoftI1"
-version = "538LxAV3"
+version = "VxuGZvp1"
