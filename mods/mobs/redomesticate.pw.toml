@@ -1,13 +1,13 @@
 name = "Redomesticate"
-filename = "../redomesticate-neoforge-1.21.1-1.8.1.jar"
+filename = "../redomesticate-neoforge-1.21.1-1.8.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "db2ea954de15ae2e08b1cc85bd8d0cb9892295e4"
+hash = "2e047dac60d4d5c14dec9d65ecacd7a23e1ae8b6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8214971
+file-id = 8249325
 project-id = 1541881

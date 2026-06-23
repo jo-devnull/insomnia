@@ -1,0 +1,13 @@
+name = "Create: Blueprinted"
+filename = "../create_blueprinted-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "332d2528c84dd0f9d1aceef30c3ab3a072afe4cc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8289174
+project-id = 1487864

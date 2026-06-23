@@ -3,11 +3,11 @@ filename = "§3§lC418 Songs Only.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/jJAtxomy/versions/Mff6aykx/%C2%A73%C2%A7lC418%20Songs%20Only.zip"
+url = "https://cdn.modrinth.com/data/jJAtxomy/versions/H0pVGFqx/%C2%A73%C2%A7lC418%20Songs%20Only.zip"
 hash-format = "sha512"
-hash = "f5e84f746a9f798ccee263bcac21bd551fa442cf86b5105031a1054f7c6870219c38d167977f907e126372841d5c8b5a6e41987a8c8f73c90ca6bebb67d5bd3d"
+hash = "22fe35e8d5d378556fc83a031b9ef31d484d38dc04ab92d445f66ca901e621f35e36ea67799d9d2fa980bec1eb2c6ec4a85dea0a6e20c36191fcb7ec1d60586d"
 
 [update]
 [update.modrinth]
 mod-id = "jJAtxomy"
-version = "Mff6aykx"
+version = "H0pVGFqx"
