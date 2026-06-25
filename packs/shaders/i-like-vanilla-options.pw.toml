@@ -1,0 +1,8 @@
+name = "I Like Vanilla [Options]"
+filename = "../../shaderpacks/I Like Vanilla v1.4.2b.zip.txt"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/jo-devnull/insomnia/refs/heads/dev%2F1.20.1/config/shaders/I%20Like%20Vanilla%20v1.4.2b.zip.txt"
+hash-format = "sha256"
+hash = "6b16b0fd8d254aaffb35955d1876f8c69d4d328bb9cb5d4df119872da8b4eadd"

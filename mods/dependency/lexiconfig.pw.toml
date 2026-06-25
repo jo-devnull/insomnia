@@ -1,13 +1,13 @@
 name = "Lexiconfig"
-filename = "../lexiconfig-forge-1.4.18-1.jar"
+filename = "../lexiconfig-forge-1.4.21-epic.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/D157Rgyf/versions/iv3Hdpa6/lexiconfig-forge-1.4.18-1.jar"
+url = "https://cdn.modrinth.com/data/D157Rgyf/versions/ETnNoR2R/lexiconfig-forge-1.4.21-epic.jar"
 hash-format = "sha512"
-hash = "6050924134d594dd7031061bfe70b34429842516b388262335024206e50993794baa3697f08053bd001e728d3ce42875ee5215e819ed2c595a002cec46c40985"
+hash = "48b708d692c6a7c143d14a3e32d8ea016336fc5fd5ac59f65fc2913bc302e3d5ae9ddea4c09e7f886e5bbf277bb9e935c1fc3fa425f15773e233e84bd448356b"
 
 [update]
 [update.modrinth]
 mod-id = "D157Rgyf"
-version = "iv3Hdpa6"
+version = "ETnNoR2R"

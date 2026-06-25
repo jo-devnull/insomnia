@@ -1,0 +1,8 @@
+name = "Glimmer [Options]"
+filename = "../../shaderpacks/Glimmer-v1.5.2.zip.txt"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/jo-devnull/insomnia/refs/heads/dev%2F1.20.1/config/shaders/Glimmer-v1.5.2.zip.txt"
+hash-format = "sha256"
+hash = "300c3a665e748c134e4d39c5e541d5128c5f102cc4ebc1767a19a9dabb9a94f8"

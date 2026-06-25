@@ -1,13 +1,13 @@
 name = "Build Your Campfire"
-filename = "../bettercampfires-2.0.0.jar"
+filename = "../bettercampfires-2.2.0+1.20.1-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "67edd242b63be848ea7533c39bba89315286e816"
+hash = "958839148e89de2b5ce5bfc2cffe6ab6e1040ef3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6719202
+file-id = 8212788
 project-id = 996598

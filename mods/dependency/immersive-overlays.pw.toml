@@ -1,13 +1,13 @@
 name = "Immersive Overlays"
-filename = "../immersiveoverlays-1.7.0+1.20.1-forge.jar"
+filename = "../immersiveoverlays-1.7.2+1.20.1-forge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/PKoLkD98/versions/rqnIKwp3/immersiveoverlays-1.7.0%2B1.20.1-forge.jar"
+url = "https://cdn.modrinth.com/data/PKoLkD98/versions/8DHCwPho/immersiveoverlays-1.7.2%2B1.20.1-forge.jar"
 hash-format = "sha512"
-hash = "9e2ee48b8f1a812b1177e5988cb9d9c256e113909fb4b04a0aa6eb5a74ce84aab0356169e4e4649d0a0c8060f719a344c8a853f18da7cdbf44b0503617843956"
+hash = "7f6a30c1d923471eec0d45a5e6f0d29223a8154f0f549230fcf99f6573716e5df9e341670f5990d1992711f52a42b540502bc1bc66c2ce4fa22a6ddc6c5ee3a0"
 
 [update]
 [update.modrinth]
 mod-id = "PKoLkD98"
-version = "rqnIKwp3"
+version = "8DHCwPho"

@@ -1,0 +1,8 @@
+name = "Complementary Reimagined [Options]"
+filename = "../../shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/jo-devnull/insomnia/refs/heads/dev%2F1.20.1/config/shaders/ComplementaryReimagined_r5.8.1.zip.txt"
+hash-format = "sha256"
+hash = "cb75369d77375fd7d9ab3ca9418df0750acb7fe37ccb8aac50a907bc4b39a0ab"
