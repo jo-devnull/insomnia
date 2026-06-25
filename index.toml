@@ -1327,11 +1327,6 @@ hash = "50226db5981f4bf92f87f6a415cc3361912f1296cc3d49bf91dac07a54d25f01"
 metafile = true
 
 [[files]]
-file = "mods/misc/the-ponderer.pw.toml"
-hash = "f12a91f552277406faa2a553c94fdae3663fb109e46b7b8bd2f4a802d6110566"
-metafile = true
-
-[[files]]
 file = "mods/misc/two-players-one-horse.pw.toml"
 hash = "ec13bd2b7d0d3aa2633259965a5bf6b6d7335e792ac2569c5fd8c069b81bb052"
 metafile = true
@@ -1874,11 +1869,6 @@ metafile = true
 [[files]]
 file = "mods/utilities/controlling.pw.toml"
 hash = "b60a704def5b23aed6139adcd5ab9b467fdfcb791bb98807555575c7e9aadac1"
-metafile = true
-
-[[files]]
-file = "mods/utilities/emi-backport.pw.toml"
-hash = "add35572da4f55a67f4f0201c0bfb9115987059823c6142d8e32bece5aed3b6b"
 metafile = true
 
 [[files]]

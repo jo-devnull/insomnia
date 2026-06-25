@@ -8,6 +8,12 @@ from urllib.parse import urlsplit
 
 ROOT = Path(os.getcwd())
 
+PACK_DIR = {
+    "datapacks": "packs/datapack",
+    "shaderpacks": "packs/shaders",
+    "resourcepacks": "packs/resources",
+}
+
 def platform_of(url: str):
     if "modrinth.com" in url:
         return "modrinth"
@@ -58,10 +64,7 @@ def install(type: str, url: str):
             if not libpath.exists() and file != modfile:
                 shutil.move(file, libpath)
     else:
-        dir = type
-
-        if type == "avatars":
-            dir = "figura/avatars"
+        dir = PACK_DIR[type]
 
         if platform == "url":
             name = Path(urlsplit(url).path).stem

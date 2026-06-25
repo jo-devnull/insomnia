@@ -76,7 +76,6 @@
       "type": "pickString",
       "description": "The category to add to",
       "options": [
-        "avatars",
         "datapacks",
         "resourcepacks",
         "shaderpacks",
