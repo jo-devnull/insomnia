@@ -736,11 +736,6 @@ hash = "3b5f083e308bd58f69cb50e2ac875de802d0a8c60ee895e880620ceb961a71f4"
 metafile = true
 
 [[files]]
-file = "mods/dependency/rhino.pw.toml"
-hash = "bde2bc24703df3a2d2032b68fd5de549f8dcab8e0c12be57c5657f1e0d684ce1"
-metafile = true
-
-[[files]]
 file = "mods/dependency/runiclib.pw.toml"
 hash = "94e69f7daf343c9d9155e84eafe54c7d2bd46bd5d69a1c724bee24207cb6f7fc"
 metafile = true
@@ -1274,11 +1269,6 @@ metafile = true
 [[files]]
 file = "mods/misc/polymorph.pw.toml"
 hash = "afb235d1c7d910384139e1316d4f03695bf1f37ecb23c22e098e1ca725a4321d"
-metafile = true
-
-[[files]]
-file = "mods/misc/reactive-music.pw.toml"
-hash = "1afc569b7058fc463e2fd62b696fd3a61129e4f2c55695b05103bca40256c2ff"
 metafile = true
 
 [[files]]
@@ -1902,11 +1892,6 @@ hash = "e49ead7959a2340131d56a040475500700053734b7cbf72ab4fe7f7d0347a16f"
 metafile = true
 
 [[files]]
-file = "mods/utilities/kubejs.pw.toml"
-hash = "196c56695a75e8d4adbcc9bd383bdb64ef3b2eb8633fb22c40e0eda20b2c1928"
-metafile = true
-
-[[files]]
 file = "mods/utilities/lmft.pw.toml"
 hash = "6f0c8702e940a3067fc10f9c1cea497a81ce42be9e7e0dbd4891ae264318862e"
 metafile = true
@@ -1919,11 +1904,6 @@ metafile = true
 [[files]]
 file = "mods/utilities/mcwifipnp.pw.toml"
 hash = "39dcfe1e4d395ad674b475a6442c815af276e5ffb6d9af82d9817cda432e72c8"
-metafile = true
-
-[[files]]
-file = "mods/utilities/minepkl.pw.toml"
-hash = "6955470ac4f4a41d3c42ce41c1b6a96b3d1941fe3725fedbd08ddb61f19c5952"
 metafile = true
 
 [[files]]
