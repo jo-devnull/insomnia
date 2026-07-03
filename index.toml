@@ -921,6 +921,11 @@ hash = "6aef066919582cf3a62ef3277c9410ec3f00541820d1a797edb3c70aee240865"
 metafile = true
 
 [[files]]
+file = "mods/mechanics/flowing-fluids.pw.toml"
+hash = "625358e0881b5699f3f88e24af326672c53e8e8b82a768b27675f66d87b70519"
+metafile = true
+
+[[files]]
 file = "mods/mechanics/irons-spells-n-spellbooks.pw.toml"
 hash = "7c56764bade81b34f949efcc493ab7f027fbdf01ed89963d5a90f3aef22a6098"
 metafile = true
@@ -949,7 +954,6 @@ metafile = true
 file = "mods/mechanics/parcool.pw.toml"
 hash = "7a5209d26df1c8f3dc8f83d7605f6b1e273dc4bc7ed95fbbfc8fb64c321e8a62"
 metafile = true
-preserve = true
 
 [[files]]
 file = "mods/mechanics/playerrevive.pw.toml"
@@ -1064,6 +1068,11 @@ metafile = true
 [[files]]
 file = "mods/misc/corpse-x-curios-api-compat.pw.toml"
 hash = "5d586fc8d1031f133ac248626bd99e139a513346e0d751cbd2d7e6bc088a3b31"
+metafile = true
+
+[[files]]
+file = "mods/misc/crafttweaker.pw.toml"
+hash = "c9224374ce506897b09bae46a08c8ac436fbdb93aca2e59469125485d4d4c66c"
 metafile = true
 
 [[files]]
@@ -1269,11 +1278,6 @@ metafile = true
 [[files]]
 file = "mods/misc/polymorph.pw.toml"
 hash = "afb235d1c7d910384139e1316d4f03695bf1f37ecb23c22e098e1ca725a4321d"
-metafile = true
-
-[[files]]
-file = "mods/misc/recipe-edit.pw.toml"
-hash = "8d1a56a9b3f3fd4ace1d5ef108232cdb0f08e9367ba7873e7982c1c8fe2c768b"
 metafile = true
 
 [[files]]
@@ -2040,6 +2044,118 @@ file = "packs/bundled/insomnia/assets/better_campfires/lang/pt_br.json"
 hash = "ecee0659fac024a106787b9a5e2ea011f8115fef5a348d3ed72bbdc66ae3fab4"
 
 [[files]]
+file = "packs/bundled/insomnia/assets/category/lang/pt_br.json"
+hash = "9842ea3f5c472bd95f6507250f9903092feb1ec5714493aabd2a604aaad7cb1e"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/archery.json"
+hash = "542883cd28e621f7ccd4947b7ffacc1a8d77d4d7ef67469009e28e15fae7eab0"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/armor.json"
+hash = "09c3d894bcfc732015a3d6717a62b8fe0b2ac5e7b627ef7bd25432633766fb02"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/block_decoration.json"
+hash = "e75e6312e28a6708d2fed6054cbeafab783a1fc39e8db8faa42282e3e36ec753"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/brewing.json"
+hash = "0716931bc9ed7cda8bd760eecc7f7f087a57df0836eef2f0e89a68972a83cee3"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/carpentry.json"
+hash = "d16b85c8af69a8f082052b72b89e2f7a468f62773dbec6b368299e0c232e53c0"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/construction.json"
+hash = "7a6881282f0b9b9c486f587732d8c103e12a01557913a9590be71d117db1052e"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/cooking.json"
+hash = "cf17d9c7a90bd98c95dbd99201f98cd1b1b6a2c1f5a55c03ff50843e12dd64fc"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/decoration.json"
+hash = "1c62d0a55526426d21eec385184b4c7d1602f53199b460bfccf2c1f5b7979dae"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/enchanting.json"
+hash = "5d9e075ca14acde90eb67c780035f08304bd034709db9a83a6f2f8048e3f739a"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/engineering.json"
+hash = "6ec0a8ba385d18961d26ac9d871b5b7be0c28b6ce661f8efc118222540f7f787"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/farming.json"
+hash = "740b68a98e8b164aa06cf5dab07cedcf4294441c59acc51db53536d5edf33159"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/fishing.json"
+hash = "ae846e4c89649ccb80626a1b3948f3f20853164f9dd7315e3b75fd12937fe6fb"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/foods.json"
+hash = "d8bc9333857e908b8874590fc81e9a32408f6d065b1bf7e6269a0ec5eec8f51e"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/functional_blocks.json"
+hash = "6de5828c71d3bc83e7551435734bca0070767dee4b1dc8b1072b95951abb3376"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/furniture.json"
+hash = "afeaea0a2e118733f33bb5b3c30338414246463dbf0d546838b9dc1f0800f539"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/masonry.json"
+hash = "902fc14450507bf015d3ca7dd129df71a1f35c4fef64f249778ed9ce23888c1b"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/medicine.json"
+hash = "3ffcc317253db81a8fd8573f4186a2462884bd6e25e3a5f79536b31df0c5527d"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/metalworking.json"
+hash = "1a9850630a09d5d9a8df2ba26b16475083341d5d478df024d4732a319b91e284"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/misc.json"
+hash = "fd33e61bbac186471667b100ea96409a3d42848a03b821d86646dd5db78122e3"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/storage.json"
+hash = "91363aeb54b2aff98a350d412ae5a63ab0ae4b8bbb4924c02dbbdce7bf26872e"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/tools.json"
+hash = "71cb08e08dd31ae6e9f4fb2306284628e766ed365f371d4a9adb409c4bdcad84"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/transport.json"
+hash = "06a482960eb8aabc581032a54c1dc183adc58f9e2e75d6b8d151b7e05918b75e"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/weapons.json"
+hash = "475bc445e5756d2aa0b02ee4cdb4a99e2b207e6b37119f0c19e80ea983a95b00"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/witchcraft.json"
+hash = "c3900ef4ca0c22dfc00e0bd2b8cc13d3bce52116438c69b2eb0674cc1f9e4b1d"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/category/models/tag/item/workbench.json"
+hash = "61f323f95c1522204432cc900e822fb912877f451645f05aab9a8e5d57df1368"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/createlowheated/lang/pt_br.json"
+hash = "27b94c252ba41777cc5c2c1cd755c7f071dace748f3ab74a5799665e71c00a83"
+
+[[files]]
+file = "packs/bundled/insomnia/assets/emi/recipe/filters/hidden_recipes.json"
+hash = "67c3997199a169d88183802a50f2d9cefd84f80726f165952d372e5ff4b80832"
+
+[[files]]
 file = "packs/bundled/insomnia/assets/emi/textures/gui/background.png"
 hash = "46e92c340fc597c7ba4981c046a78ce4bc05eb170984fe51879e6da623a2155b"
 
@@ -2124,6 +2240,262 @@ file = "packs/bundled/insomnia/assets/thirstcanteen/lang/pt_br.json"
 hash = "85ff901ebcbe6be2a200370e7776d5c8a9609b5464081318b4512c14910081e4"
 
 [[files]]
+file = "packs/bundled/insomnia/data/alexscaves/fishing/lanternfish.json"
+hash = "ee8217d02f91eec7012b3b703bec065176aa8b4116c890b2204b34fb1b5e3daf"
+
+[[files]]
+file = "packs/bundled/insomnia/data/alexscaves/fishing/radgill.json"
+hash = "56d02147ea17610c9c1b3bfb4d23d994964da47f68d4813cd4184d5c754de41b"
+
+[[files]]
+file = "packs/bundled/insomnia/data/alexscaves/fishing/tripodfish.json"
+hash = "d7c31ab9766c62d27126be4bcae3677815c8fc594a62a4b144978689cf881b35"
+
+[[files]]
+file = "packs/bundled/insomnia/data/alexsmobs/fishing/blobfish.json"
+hash = "1f730cf81b85da813a8b70c2c1f182f9c5df2b30dc3800641f4402da5d14e167"
+
+[[files]]
+file = "packs/bundled/insomnia/data/alexsmobs/fishing/cosmic_cod.json"
+hash = "6a48fade83fd7c2aa0e7fe16ad91ba7bde8c0db9441cc3917949ea81dce53f91"
+
+[[files]]
+file = "packs/bundled/insomnia/data/alexsmobs/fishing/flying_fish.json"
+hash = "a5c60d9df8696ffa441e876683ca920faae845740aacb98ced0034444bfc0d2b"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/arapaima.json"
+hash = "9d18354a5eef8c85454153dcc21f9f388f057e6d28fd53f4e476a3fc0c6568b9"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/atlantic_cod.json"
+hash = "10ba19ab1e61b5c827b6a8aa1845413f5d96b40e38b0688b0fc51a4fb83fb118"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/atlantic_halibut.json"
+hash = "8df8ea059f1ec91ecccf8ec494b022deb36044cba538da1d138517444d0548b3"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/atlantic_herring.json"
+hash = "05e25b33810a324fc4ebb9d0f997b3120712ee9f08984035129d3f9285fc3217"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/bayad.json"
+hash = "15e4ff18ede4c112a5574121308feb3d3919a721908209208ba454a87cf96b3e"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/blackfish.json"
+hash = "c10971d7f33726f88bdb8a8100dd2ed6b80c93d59cb4af59fd325a6a43ab74a0"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/bluegill.json"
+hash = "6aa337d05ef8b0c33902d7d62f7fbb1c59156e7b7d266b94215b43f0613d6672"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/boulti.json"
+hash = "f9e2f3f34a087c09d49e0d22b13ebd470de1f4ea99143b8b2576e8535bc402fb"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/brown_shrooma.json"
+hash = "1f298faf64831cf1f3a58637c1d9c7e3c4ae7afa0e7fc7ffac6fdef454c74fbe"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/brown_trout.json"
+hash = "6efdd1658e21f07ff1e5bb46ee8715aaecf1089a3d746c8b147635c3cc169d4e"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/capitaine.json"
+hash = "07b63adfc38c978df3704a887e8d639659920f34033601ef82811491e54aa4ad"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/carp.json"
+hash = "8257cacdbdeb1dd259deb375fc516ae1cd6c6486060a05ec8f73b18357de0569"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/catfish.json"
+hash = "9106fd1d82923c14eb4458dbc7a04be149d773a999e3d9630fbfccf4eb1bf0bc"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/gar.json"
+hash = "7d360bcafa3c95bb9adebe2dc05562dce00796e1f5449efb40fceb5d1782e780"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/jellyfish.json"
+hash = "684740a4034fe7b6b63a005e02ced3fe075a7ab2d2e461f1ce1edee10b8df529"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/minnow.json"
+hash = "e8f5586273e398f10b9e122f26ead1237674ae555307dc71a45c356b84e39376"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/muskellunge.json"
+hash = "320f2d8e9036cb77c4db0ca68630ab6128af519152191ba22d98b5a0eee808ab"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/pacific_halibut.json"
+hash = "2f3fcf2c1f63a493c7e3a17c904feb427e445b0eed279a9dc8ae93b6d0ccbfac"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/perch.json"
+hash = "8fd39bfb865ddd7c293a327f298bb9048ac1092434e7158a93c6d58b90b8a09f"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/pink_salmon.json"
+hash = "7702d2356371c187ee9118f03b7caef9cc24f5d6ce9e3f6abc319c92a3a49c82"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/piranha.json"
+hash = "db6f620184c28ea611b2c3d13aecc17e847a094e67a200d16456aa1b85f67757"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/rainbow_trout.json"
+hash = "4284a4dfafb0e3ffa270442af8fe14a2f0c58551abbb770a07d66b78ececdfa5"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/red_grouper.json"
+hash = "50b09667d50c0baa482248cbb0b8bcc0a74608c34bf0d77a7bcd8a240b5df7d6"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/red_shrooma.json"
+hash = "a213ad7d10590993119fd999a38615a5c60b9b12dab8338454458f400cbad230"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/smallmouth_bass.json"
+hash = "be13862952e33423425533b4980cdc0ae481384b71b77e85894278eb44743a28"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/synodontis.json"
+hash = "64c98cea759a7bc182f0ac84487597a2e19b28120b80ce52d6be5dc1c6714ad8"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/tambaqui.json"
+hash = "9b3d434382fca48e483ff373912119aee82de60553a78e580066d385bfa02b18"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquaculture/fishing/tuna.json"
+hash = "e1b7de7b5a8aca0a4230fc1fce1368396380ebc4cb3b59668732984a43f8c458"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquamirae/fishing/angler_fish.json"
+hash = "faa46ff9de00a4fa33060511c46bd85235a4df61e4d0b111bed2bd6c39ec0495"
+
+[[files]]
+file = "packs/bundled/insomnia/data/aquamirae/fishing/spinefish.json"
+hash = "2a5c6f4cfe09960e4b25fbc38f535d7d4798e5a835d023f082dfe810e1e9daef"
+
+[[files]]
+file = "packs/bundled/insomnia/data/c/tags/items/hidden_from_recipe_viewers.json"
+hash = "e1f62a0d151a2fd28139b3e8c30cf02a582954bb782bde7d98024c25722cfb5b"
+
+[[files]]
+file = "packs/bundled/insomnia/data/cataclysm/fishing/lionfish.json"
+hash = "4d924a1b0358983d546caddfda3882ab7addb70c64649e62030b458c96b04f7b"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/archery.json"
+hash = "738f650273a94c83ee35d048c88f291db4839a32d9a882bb3075df3264e33d78"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/armor.json"
+hash = "dda48f8dacaa1adcbcdaf3acca414c849987ef8e3f463064242c1011f040755f"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/block_decoration.json"
+hash = "4c62694cfbdf2154a76153c601367600875344f40c9dc3fc5fe6d08d13e22e6d"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/brewing.json"
+hash = "fd60712e13b0e839945e530f6210d1b2cbea7baacf2b5ccb220e471be400a0f5"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/carpentry.json"
+hash = "b3d4d83c02307ab4e2444afa58d4466e94e910797c9f3f60ff51d6a0aebe9b18"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/construction.json"
+hash = "3331d0d25f8af1b799abf25868f4de404b1557730cb832e194df8c4f7ae1dacb"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/cooking.json"
+hash = "44d9b9eed7bb96cf3fe456c3b41cc6ccb3da14c40a62abb4799c1b7fa742c396"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/decoration.json"
+hash = "d73d3b785f41e9da7ebe33d02fda5e4e633fe670fdd350cbc1db324be3d795de"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/enchanting.json"
+hash = "3cb86ee9f5d1c549f920d87e6a0c595a21db670054f744f4590d7420b3634d0c"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/engineering.json"
+hash = "27ad28a80fca2444910f388f2697695aa2444e54f97018bd136d04fc15ba5726"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/farming.json"
+hash = "1d36070027f7aa346df0b869653f0f796163b920447880cbf5adeb17e814f2f4"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/fishing.json"
+hash = "15beeff8c42155fee19fd0f1425709aebb83925fd378dfdde74caa7c783037a9"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/foods.json"
+hash = "79c180c3c4f033735de7936b2f057657c52b36324d064918d7bf899741e66c85"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/functional_blocks.json"
+hash = "65354cb24a045379f1a3e85a49fcfb994d9aff807ef17f4736ff4c22dedfa1c8"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/furniture.json"
+hash = "ada2c309aa7b36b9bc712482562b511e71fd4272dc34f950c99fd46c0f134cbd"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/masonry.json"
+hash = "47639d0220c9f93e672a643723667aa2c5ba9fa43c1c8e5367da6bde1504914e"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/medicine.json"
+hash = "86612366aab996ab2fa1b44ae1dc1a252ad7a2553c942a4facbe28869d2525f6"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/metalworking.json"
+hash = "f391ab998517b16c8e872aceef8ef7cbc6fca7c356cae31a9276127b6718188b"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/misc.json"
+hash = "e902548319b975587220f56a365519c4430ee981dfef1830502b7a6857712023"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/storage.json"
+hash = "163082a8957e70f892094c4dee2593983ea2e047401a40b9c0af07248e9876be"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/tools.json"
+hash = "9e352aef0982188ed9d7328031a0491e10003d050050fe4c61dea4966a7d0972"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/transport.json"
+hash = "21e51ad7243952c1426504d97d6ab482f787f11053ce759f53e44550bc0a91a2"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/weapons.json"
+hash = "4960a89edfa59958605d0e7fc9123448eea05b76aefa8fd0bdced5e394bbc2cc"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/witchcraft.json"
+hash = "e6da50f0daab0f426cdb3d5d48df48c5f1db3040af144150efb6a79c77b65159"
+
+[[files]]
+file = "packs/bundled/insomnia/data/category/tags/items/workbench.json"
+hash = "ece965abc02b80a7485b6e8bfc4f3f9375c5ed441bb78cf68a425890acd36587"
+
+[[files]]
+file = "packs/bundled/insomnia/data/crittersandcompanion/fishing/koi_fish.json"
+hash = "f0550fde5350e7524993a36dd46fb51af717b3b71ea7f3608a66b12d7c30ac32"
+
+[[files]]
 file = "packs/bundled/insomnia/data/enhancedcelestials/lunar/event/blood_moon.json"
 hash = "31d4c952aed240f3e6c6c92aa478cdc661ef581c44f240cdbb08a6fdb9edf29e"
 
@@ -2132,8 +2504,8 @@ file = "packs/bundled/insomnia/data/enhancedcelestials/lunar/event/super_blood_m
 hash = "b1bda3b3bbd9e2420e2a04fdbb30f5716871f3b3ba77faaead02c23ef7a19f58"
 
 [[files]]
-file = "packs/bundled/insomnia/data/farmersdelight/recipes/cutting/tag_dough.json"
-hash = "8a95dd39f97fca762a7d4ea285062f4813c6f006194e164e802b77b599a9ffe9"
+file = "packs/bundled/insomnia/data/friendlyfire/tags/entity_types/player_protection.json"
+hash = "6c11b052f420fba14ec8ce4ec53a7dcd3aad9297a1f9d4a924902541bdd5aca8"
 
 [[files]]
 file = "packs/bundled/insomnia/data/fromtheshadows/forge/biome_modifier/nether_spawns.json"
@@ -2142,6 +2514,18 @@ hash = "400a5209c3c2162552a4c3fe8a5ea846e8983e1258324787b2fe734ad5dd2393"
 [[files]]
 file = "packs/bundled/insomnia/data/fromtheshadows/forge/biome_modifier/spawns.json"
 hash = "0371a4848c6eadf08597281d021526359542bb8ea3669ff4fccdf8969b4c0611"
+
+[[files]]
+file = "packs/bundled/insomnia/data/insomnia/tags/worldgen/biome/nehemoth_spawns.json"
+hash = "b8e614dbb6da70e259e77e50e1f3396cd827bf7c9b5bb735912323a1e9d6548c"
+
+[[files]]
+file = "packs/bundled/insomnia/data/modpack/tags/worldgen/biome/always_unsafe.json"
+hash = "eb8d71d71611386792283be7da13bb5c556e577dc2b72945eccbe2f3c863c46c"
+
+[[files]]
+file = "packs/bundled/insomnia/data/modpack/tags/worldgen/biome/safe_biomes.json"
+hash = "0a71387ff661de908cfeeb889f5c417d91fdb962f16bf76c650a8973ea654ce0"
 
 [[files]]
 file = "packs/bundled/insomnia/data/simplymore/weapon_attributes/diamond_grandsword.json"
@@ -2170,6 +2554,18 @@ hash = "a1fe62f8b65df5266692d9d613f9528177d89456fcf45baf658e8f6e0c1772ea"
 [[files]]
 file = "packs/bundled/insomnia/data/superflat/dimension/superflat.json"
 hash = "6a73f3a9df16ad5113b464420a3adf0ba0d9be26c6df89a6d32dc5eaf042e89d"
+
+[[files]]
+file = "packs/bundled/insomnia/data/swordblockingmechanics/tags/items/can_perform_sword_blocking.json"
+hash = "11f16e9d189b0016efd740830c9325b848a9cce20de46cde2dd45cc4aca06dff"
+
+[[files]]
+file = "packs/bundled/insomnia/data/toolworking/tags/items/hammers.json"
+hash = "a1ba81fbf6ccf47ee208227502fb272c001f5ef4fba45bd4eabb6c2372ab7c6f"
+
+[[files]]
+file = "packs/bundled/insomnia/data/toolworking/tags/items/ingots.json"
+hash = "ca8fea10b3733c3d732d6e2907b296ad8f54863ed36ef641e68dc6365b6ffc2f"
 
 [[files]]
 file = "packs/bundled/insomnia/pack.mcmeta"

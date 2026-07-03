@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:elytra",
+    "minecraft:saddle",
+    "minecraft:lead",
+    "#minecraft:rails",
+    "minecraft:minecart",
+    "minecraft:hopper_minecart",
+    "minecraft:chest_minecart",
+    "minecraft:furnace_minecart",
+    "minecraft:tnt_minecart",
+    "minecraft:oak_boat",
+    "minecraft:oak_chest_boat",
+    "create:cart_assembler",
+    "create:controller_rail",
+    "create:track",
+    "create:railway_casing",
+    "create:schedule",
+    "create:track_station",
+    "create:track_signal",
+    "create:track_observer",
+    "create:controls",
+    "alexscaves:submarine",
+    "automobility:automobile",
+    "vanillabackport:white_harness",
+    "#immersive_aircraft:aircraft",
+    "hangglider:hang_glider",
+    "hangglider:reinforced_hang_glider",
+    "enchanted:enchanted_broomstick"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "notreepunching:iron_mattock",
+    "notreepunching:gold_mattock",
+    "notreepunching:diamond_mattock",
+    "notreepunching:netherite_mattock",
+    "notreepunching:iron_knife",
+    "notreepunching:gold_knife",
+    "notreepunching:diamond_knife",
+    "notreepunching:netherite_knife"
+  ]
+}
