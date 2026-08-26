@@ -38,16 +38,17 @@ def main():
   mods = get_mods()
 
   for category in mods:
-    print(f'## {category.title()}')
+    print(f'# {category.title()}')
     print()
-    print('| Mod | Link |')
-    print('|------|------|')
+    # print('| Mod | Link |')
+    # print('|------|------|')
 
     for mod in mods[category]:
       with open(mod, 'rb') as io:
         meta = tomllib.load(io)
         try:
-          print(f'| {meta['name']} | {get_link(mod, meta)} |')
+        #   print(f'| {meta['name']} | {get_link(mod, meta)} |')
+          print(f'- {meta['name']}')
         except:
           pass
 

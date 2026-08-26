@@ -1,0 +1,13 @@
+name = "Metal Works"
+filename = "../metal_works-1.2.12-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zDHcyHBx/versions/Sa3Ejzub/metal_works-1.2.12-1.20.1.jar"
+hash-format = "sha512"
+hash = "0826bb97300c1545f85fbd8be4a48f04cc4dccd3e2a9fcb9027ff8c17f59db6fe4b4fd4aa7b1e55f233c4b6a023b6a3e513111029c150a831cab371cf38e2c10"
+
+[update]
+[update.modrinth]
+mod-id = "zDHcyHBx"
+version = "Sa3Ejzub"

@@ -1,0 +1,319 @@
+# Cooking
+
+- Brewin' And Chewin'
+- Chef's Delight [Forge] - Farmer's Delight Villagers
+- Dungeons Delight
+- Farmer's Delight
+- [Let's Do] Bakery - Farm&Charm Compat
+- [Let's Do] Candlelight - Farm&Charm Compat
+- [Let's Do] Farm & Charm
+- Oceanic Delight
+- Rustic Delight
+- The Salt
+
+# Decoration
+
+- Amendments
+- Cable Facades
+- Chimes
+- Coastal Waves
+- Cosmetic Armor Reworked
+- Create Deco
+- Drip Sounds
+- Explosive Enhancement: Reforged
+- Fancy Toasts | Better Advancements
+- Field Guide
+- Handcrafted
+- Macaw's Holidays
+- Cursors Extended
+- Polytone
+- Pretty Rain
+- Radiant Gear (Fabric/Forge/Quilt)
+- Re:Deco
+- Sooty Chimneys
+- Storage Delight
+- Storage Drawers
+- Supplementaries
+- Underlay
+- Visual Workbench
+- Visuality: Reforged
+- Wakes Reforged
+- Wallpapers
+
+# Equipment
+
+- Backpacked
+- Ceramic Shears
+- Comforts
+- Samurai Dynasty
+- Fantasy Armor (Medieval Series)
+- Hang Glider [Forge & Fabric]
+- Immersive Armors
+- Mace Port
+- Measurements
+- Metal Works
+- More Bows: Restrung!
+- Shield Expansion
+- Simply Bows
+- Simply More
+- Simply Swords
+- Tool Belt
+- Trimmable Tools
+- Xtra Arrows
+
+# Mechanics
+
+- Aperture Innovations - Portal Gun
+- Better Combat
+- Carry On
+- Cold Sweat
+- Corpse
+- Dis-Enchanting Table
+- Domestication Innovation
+- Enhanced Celestials
+- Fishing Real
+- Flowing Fluids
+- Iron's Spells 'n Spellbooks
+- Medical Remedies (Formerly Marbled's First Aid)
+- No Hostiles Around Campfire
+- No Tree Punching
+- Panda's Falling Trees
+- ParCool! ~ Minecraft Parkour ~
+- PlayerRevive
+- Portable blueprints
+- Redstone Pen
+- Sleep Tight
+- Starcatcher
+- Sturdy Farmland - Growth Edition
+- sword-blocking-key
+- Sword Blocking Mechanics
+- Thirst Canteen
+- Thirst Was Taken
+- HT's TreeChop
+- Vanilla Backport
+- Waystones
+- Xaero's Minimap & World Map - Waystones Compatibility [Forge]
+- Xaero's Minimap
+- Xaero's World Map
+
+# Misc
+
+- Armor Damage Limit
+- Automobility
+- Better Bundle
+- Black Moon
+- Build Your Campfire
+- Certain Questing Additions
+- Comfortable Campfires
+- Corpse x Curios API Compat
+- CraftTweaker
+- Create Repair
+- Curious Lanterns
+- Dismount Entity
+- Easy Anvils
+- Easy Magic [Forge & Fabric]
+- Enchantment Descriptions
+- EverFurnace
+- Farmer's Cutting: Biomes O' Plenty
+- Fishermen's Trap [Neo/Fabric]
+- Friendly Fire
+- FTB Filter System
+- FTB Quests (NeoForge)
+- FTB XMod Compat
+- The Grave Scrolls (forge/neoforge)
+- Horseman
+- Hourglass
+- Insomnia Tweaks
+- Inventory Essentials
+- Inventory Sorter
+- ItemPhysic Full
+- Jade Addons (Neo/Forge)
+- Leawind's Third Person
+- Loot Integrations: Better Archeology
+- Loot Integrations: L_Ender 's Cataclysm
+- Loot Integrations: ChoiceTheorem's Overhauled Village & Immersive Structures
+- Loot Integrations: Hopo Better Mineshaft, Ruins & Portals
+- Loot Integrations
+- MasterCutter
+- Mouse Tweaks
+- Not Enough Animations
+- Overflowing Bars
+- ParCool+ / Compatibility Addon
+- Patchouli's Library
+- Personality
+- Pick Up Notifier
+- Picker-Upper
+- Picture Mode
+- Piggybacks
+- Ping Wheel
+- Polymorph
+- Reconnectible Chains
+- Responsive Shields
+- RIAutomobility (Automobility Addon)
+- Seasonal Let's Do
+- Simple Radio
+- Simple Voice Chat
+- Sound Physics Remastered
+- Spyglass of Curios
+- Superior Ambience
+- Two Players One Horse
+- Unlit Campfire
+- Loot Integrations: Randomized Loot Compatibility
+- Vein Mining
+- Yung Structures Addon for Loot Integrations
+
+# Mobs
+
+- Ai_myh's Plants Vs. Zombies
+- Alex's Mobs Interaction
+- Alex's Mobs
+- All Bark, All Bite
+- Aquaculture 2
+- Aquamirae
+- Better Animations Collection
+- Clanging Howl
+- Cosy Critters & Creepy Crawlies
+- Critters and Companions
+- Ecologics
+- EEEAB's Mobs
+- Enderman Overhaul
+- Fathomless Crimson (Tribute to Horror)
+- From The Shadows Reborn
+- Herd Mentality
+- Kobolds
+- L_Ender 's Cataclysm
+- Migamigos
+- More Mob Variants
+- Mowzie's Mobs
+- Mutant Monsters
+- Nyf's Spiders
+- OnlyLooking Updated
+- Primal Frontier
+- Saint's Dragons
+- Untitled Duck Mod (Forge)
+- Upgrade Aquatic
+- Xenomorph Types
+- Zombie Nightmare Expansions - Undead Horror Monsters
+
+# Performance
+
+- Accelerated Decay
+- BadOptimizations
+- Better Biome Reblend
+- Chloride (Embeddium++/Sodium++)
+- Colorwheel
+- Connectivity
+- Cull Less Leaves Reforged
+- Embeddium
+- Entity Culling
+- Fast Paintings
+- FerriteCore
+- Flerovium
+- GPUBooster
+- ImmediatelyFast
+- Killing Waves
+- Mobtimizations - Entity Performance Fixes
+- ModernFix
+- Optimization of Campfire Smoke
+- Packet Fixer
+- Particle Core
+- quick pack
+- Radium
+- Remove Reloading Screen
+- Saturn
+- ServerCore
+- Structure Essentials
+- Structure Layout Optimizer
+- TerraBlenderFix
+
+# Structures
+
+- Abandoned Structures
+- Abandoned Watchtowers
+- Big Lost City - Apocalyptic Structures!
+- Desert Survival House
+- Giant Plane Wreck
+- Grim kingdoms: Vanilla Edition
+- Lios Hobbit Hill Village
+- Hobbit House
+- Homesteads - Villager Expansion & New Professions
+- Hopo Better Underwater Ruins
+- Horror Elements mod
+- Horror Structures (by Berezka)
+- Improved Village Placement
+- Integrated Villages
+- Jungle Treehouse Village
+- Sawmill House
+- Simply Houses
+- Unnamed Sea
+- YUNG's Better Dungeons
+- YUNG's Better End Island (Forge/NeoForge)
+- YUNG's Better Mineshafts
+- YUNG's Better Nether Fortresses
+- YUNG's Better Ocean Monuments (Forge/NeoForge)
+- YUNG's Better Strongholds
+- YUNG's Extras (Forge/NeoForge)
+
+# Technology
+
+- Create: Copycats+
+- Create: Diesel Generators
+- Create: Ironworks [Forge/Fabric/NeoForge]
+- Create Low-Heated
+- Create: Metallurgy
+- create-toolworking
+- Create: Transmission!
+- Create: Wizardry
+- Create
+- Create: Dynamic Village
+- Immersive Aircraft
+- Petrol's Parts (Create add-on)
+- Create: Power Grid
+- Create Slice & Dice
+
+# Utilities
+
+- Berezka API for Horror Elements mod
+- Biome Replacer
+- Catalogue
+- Change Items Durability
+- Client Tweaks
+- Configured
+- Controlling
+- EMI
+- EverFurnace
+- Extreme sound muffler - (Neo)Forge
+- Global Packs
+- In Control!
+- Just Enough Items (JEI)
+- Load My F***ing Tags
+- Lychee
+- LAN World Plug-n-Play (mcwifipnp)
+- One Enough Block
+- One Enough Item
+- Resource Pack Overrides
+- Simple Discord RPC
+- Sodium Dynamic Lights
+- Sparse Structures
+- WITS (What Is This Structure?)
+- XP Tome
+
+# World
+
+- Alex's Caves
+- Better Archeology
+- Biomes O' Plenty
+- Deeper and Darker
+- Feur - Extension Fossil
+- Geophilic Reforged – Biome Additions
+- Immersive Weathering
+- Incendium
+- Large Ore Deposits
+- Nyctophobia (FORGE)
+- Puddles & Floods
+- Serene Seasons
+- Snowy Tents
+- Tectonic
+- Terralith
+- YUNG's Cave Biomes (Forge)
+

@@ -1,0 +1,18 @@
+[
+    {
+        "resultItems": "metal_works:bronze_helmet",
+        "matchItems": ["create_ironworks:bronze_armor_helmet"]
+    },
+    {
+        "resultItems": "metal_works:bronze_chestplate",
+        "matchItems": ["create_ironworks:bronze_armor_chestplate"]
+    },
+    {
+        "resultItems": "metal_works:bronze_leggings",
+        "matchItems": ["create_ironworks:bronze_armor_leggings"]
+    },
+    {
+        "resultItems": "metal_works:bronze_boots",
+        "matchItems": ["create_ironworks:bronze_armor_boots"]
+    }
+]

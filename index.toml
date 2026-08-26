@@ -18,6 +18,10 @@ file = "config/biome_replacer.properties"
 hash = "a29120a7deb7e407656c7b614fcca376b412249ba43e503e1fd962ffb4df6779"
 
 [[files]]
+file = "config/changeitemsdurability.conf"
+hash = "fa8e62165c002ae76fadc18d144ff5d71d7e396be0fa35a58cb66f3f7d40f80a"
+
+[[files]]
 file = "config/chloride-client.json"
 hash = "68dac03e7b859abe617e30778911ba712ef55379d48591b430e0ddbbfc7b78d9"
 preserve = true
@@ -253,7 +257,11 @@ hash = "9036ca65ec3c3f91331ad698b195d6de2a81cf5ecee1adcdcc59d451fc713efd"
 
 [[files]]
 file = "emi.json"
-hash = "a03f93b7019b9efc96cb6ec3862914ac81435fa3c77558bf7dbe96770afbc78e"
+hash = "90fe7e9b643b074e808a17cc615877b12581867082275400c6c96f2a4dc5a07b"
+
+[[files]]
+file = "mods.txt"
+hash = "e4100a3a968ba33e5791ded5a375d7c8a903922b1b8f1fca1c35f637aeb76ba9"
 
 [[files]]
 file = "mods/cooking/brewin-and-chewin.pw.toml"
@@ -836,6 +844,11 @@ hash = "f51783b8ab56bacd9728ffac2932cc015cb95b0fda7b11e83368c71a19c80bcb"
 metafile = true
 
 [[files]]
+file = "mods/equipment/metal-works.pw.toml"
+hash = "c137247757af55f9eb346f31e9456ca221b055a70997a5f254fb561d52d8c76c"
+metafile = true
+
+[[files]]
 file = "mods/equipment/more-bows-restrung.pw.toml"
 hash = "9808c609356761f828fb17be1e609103f36edeb744791a4221f2884fd5eb86d5"
 metafile = true
@@ -973,6 +986,11 @@ metafile = true
 [[files]]
 file = "mods/mechanics/sleep-tight.pw.toml"
 hash = "62942e06c49aa0e8856b2764e755df803fe4ce071738eed1d6afe2219712cc25"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/starcatcher.pw.toml"
+hash = "9141bb91fc2e47a02159254d73eb30a7672a6b9377d7b112017ff396297522eb"
 metafile = true
 
 [[files]]
@@ -1281,6 +1299,11 @@ hash = "afb235d1c7d910384139e1316d4f03695bf1f37ecb23c22e098e1ca725a4321d"
 metafile = true
 
 [[files]]
+file = "mods/misc/reconnectible-chains.pw.toml"
+hash = "24a52c3a1606028964c6edd4631bc750f9752b29d500ded95a2df283056b031d"
+metafile = true
+
+[[files]]
 file = "mods/misc/responsive-shields.pw.toml"
 hash = "6567ad0aca62571be444a273fecaf30663be11bc393f28ed04ff7d636474a90c"
 metafile = true
@@ -1473,11 +1496,6 @@ metafile = true
 [[files]]
 file = "mods/mobs/saints-dragons.pw.toml"
 hash = "ffa08003c8db28bb982447e4ae230d5b3c893b8d865059ca832d7a5145d398ab"
-metafile = true
-
-[[files]]
-file = "mods/mobs/tide.pw.toml"
-hash = "05d09f479195bd105824eaa32043c04866f5db525b158f1055d3cd7eea766cbe"
 metafile = true
 
 [[files]]
@@ -1792,7 +1810,7 @@ metafile = true
 
 [[files]]
 file = "mods/technology/create-toolworking.pw.toml"
-hash = "2fd33aa604faa8e771ca9ad1e233b49e486194621a7bde5983f68c111276c209"
+hash = "1cf97b2609cec62dc939c2e1f668b2d3b57456d48c3aaf6cee30c0a91341e15e"
 metafile = true
 
 [[files]]
@@ -1848,6 +1866,11 @@ metafile = true
 [[files]]
 file = "mods/utilities/catalogue.pw.toml"
 hash = "7b153ce3599bf752f8a77d8a3567c3876fbeae0cfeed050e0b86b8022271437a"
+metafile = true
+
+[[files]]
+file = "mods/utilities/change-items-durability.pw.toml"
+hash = "d427c12a40ad892fb3af7605eb30f0fb2ac33a51939fe759520af9c3d2929e39"
 metafile = true
 
 [[files]]
@@ -2572,6 +2595,34 @@ file = "packs/bundled/insomnia/pack.mcmeta"
 hash = "9af58c7b6062aa141f0f58aaae1ae44787534c01d564ee1b46c68f7fa1fb2bbc"
 
 [[files]]
+file = "packs/bundled/toolworking/data/oeb/replacements/materials.json"
+hash = "df87e2754c759e15a4a51e21ad0fdf47c7aed9a66a8ad22df2aa1284477429ea"
+
+[[files]]
+file = "packs/bundled/toolworking/data/oei/replacements/armor.json"
+hash = "6aecbe7d307ccaaf6d7ecc5a17625e072577395e19698fe75956d45e9cc9c0e2"
+
+[[files]]
+file = "packs/bundled/toolworking/data/oei/replacements/materials.json"
+hash = "9df3618b96cb5b92f898457a9d9e76a972d7190901bc49f2fc54ed4140f2da4c"
+
+[[files]]
+file = "packs/bundled/toolworking/data/oei/replacements/steel.json"
+hash = "2227154a3e7a0f3289f762a52d1974730a1a20e90f6aa2a08d118bdafafd3272"
+
+[[files]]
+file = "packs/bundled/toolworking/data/oei/replacements/tools.json"
+hash = "dff9c38522a2d0ffc1940f4a53aae9a39fd0093dcf0e7e860a696da7f658b377"
+
+[[files]]
+file = "packs/bundled/toolworking/data/toolworking/recipes/refractory_mortar.json"
+hash = "94731c8fd767644d50e478db20b566ac289d24f44b0932e2b30337300b836c0e"
+
+[[files]]
+file = "packs/bundled/toolworking/pack.mcmeta"
+hash = "676932ec6a1c5ecd9cdffaacccb5048f41473cce512c2a625be6d77d4588c6a8"
+
+[[files]]
 file = "packs/bundled/wetbackpacks/LICENSE"
 hash = "6d489af6292662d9e36d34ce49423784984a5f6e41d7b58f49b01264df59fa03"
 
@@ -2811,3 +2862,11 @@ metafile = true
 file = "packs/shaders/spooklementary.pw.toml"
 hash = "c445a4b47ef0a05ad9f7153569b54da7fbb8bff6c4d75aed3cb213c9147c4e03"
 metafile = true
+
+[[files]]
+file = "scripts/remove.zs"
+hash = "e0aec4411262085812a0ed6c48f6f0d02b5f04aef1b009b0f5869f33a8250531"
+
+[[files]]
+file = "scripts/tags.zs"
+hash = "b8f9f849ac776c18320a17e708b36c37bfabf2c6624186ac08d1083fd71f6147"

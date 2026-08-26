@@ -1,0 +1,22 @@
+[
+    {
+        "resultItems": "metal_works:bronze_axe",
+        "matchItems": ["create_ironworks:bronze_axe"]
+    },
+    {
+        "resultItems": "metal_works:bronze_pickaxe",
+        "matchItems": ["create_ironworks:bronze_pickaxe"]
+    },
+    {
+        "resultItems": "metal_works:bronze_shovel",
+        "matchItems": ["create_ironworks:bronze_shovel"]
+    },
+    {
+        "resultItems": "metal_works:bronze_hoe",
+        "matchItems": ["create_ironworks:bronze_hoe"]
+    },
+    {
+        "resultItems": "metal_works:bronze_sword",
+        "matchItems": ["create_ironworks:bronze_sword"]
+    }
+]

@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        { "item": "minecraft:clay_ball" },
+        { "tag": "forge:sand" },
+        [
+            { "item": "minecraft:water_bucket" },
+            { "item": "notreepunching:ceramic_water_bucket" }
+        ]
+    ],
+    "result": {
+        "item": "createmetallurgy:refractory_mortar"
+    }
+}

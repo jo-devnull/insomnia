@@ -1,0 +1,23 @@
+[
+    {
+        "resultItems": "create_ironworks:steel_ingot",
+        "matchItems": [
+            "createmetallurgy:steel_ingot",
+            "samurai_dynasty:steel_ingot"
+        ]
+    },
+    {
+        "resultItems": "create_ironworks:steel_nugget",
+        "matchItems": [
+            "createmetallurgy:steel_nugget",
+            "samurai_dynasty:steel_nugget"
+        ]
+    },
+    {
+        "resultItems": "create_ironworks:steel_block",
+        "matchItems": [
+            "createmetallurgy:steel_block",
+            "samurai_dynasty:steel_block"
+        ]
+    }
+]

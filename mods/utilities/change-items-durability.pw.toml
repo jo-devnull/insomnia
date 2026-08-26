@@ -1,0 +1,13 @@
+name = "Change Items Durability"
+filename = "../changeitemsdurability-1.20-1.20.1--1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tmK5xaFv/versions/qoHenGfY/changeitemsdurability-1.20-1.20.1--1.0.0.jar"
+hash-format = "sha512"
+hash = "e62c7127f9794b49e504e3b6cb38fb64d444e5fe438a7f1a949713fa8b3303cbe9403a421b1ffff222bc0b3f9bfad236cac4113d6a15a860c942e9ce0c2cb587"
+
+[update]
+[update.modrinth]
+mod-id = "tmK5xaFv"
+version = "qoHenGfY"

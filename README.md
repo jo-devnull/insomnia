@@ -9,7 +9,6 @@
 | [Let's Do] Bakery - Farm&Charm Compat | https://www.curseforge.com/minecraft/mc-mods/lets-do-bakery-farm-charm-compat |
 | [Let's Do] Candlelight - Farm&Charm Compat | https://www.curseforge.com/minecraft/mc-mods/lets-do-candlelight-farm-charm-compat |
 | [Let's Do] Farm & Charm | https://www.curseforge.com/minecraft/mc-mods/lets-do-farm-charm |
-| Miner's Delight | https://modrinth.com/mod/miners-delight |
 | Oceanic Delight | https://www.curseforge.com/minecraft/mc-mods/oceanic-delight |
 | Rustic Delight | https://modrinth.com/mod/rustic-delight |
 | The Salt | https://www.curseforge.com/minecraft/mc-mods/salt |
@@ -22,13 +21,13 @@
 | Cable Facades | https://www.curseforge.com/minecraft/mc-mods/cable-facades |
 | Chimes | https://www.curseforge.com/minecraft/mc-mods/chimes |
 | Coastal Waves | https://www.curseforge.com/minecraft/mc-mods/coastal-waves |
+| Cosmetic Armor Reworked | https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked |
 | Create Deco | https://www.curseforge.com/minecraft/mc-mods/create-deco |
 | Drip Sounds | https://modrinth.com/mod/dripsounds |
 | Explosive Enhancement: Reforged | https://modrinth.com/mod/explosive-enhancement-forge |
 | Fancy Toasts | Better Advancements | https://www.curseforge.com/minecraft/mc-mods/fancy-toasts |
 | Field Guide | https://modrinth.com/mod/field-guide |
 | Handcrafted | https://modrinth.com/mod/handcrafted |
-| Inventory Particles | https://modrinth.com/mod/inventory-particles |
 | Macaw's Holidays | https://modrinth.com/mod/macaws-holidays |
 | Cursors Extended | https://www.curseforge.com/minecraft/mc-mods/minecraft-cursor |
 | Polytone | https://modrinth.com/mod/polytone |
@@ -58,8 +57,10 @@
 | Immersive Armors | https://modrinth.com/mod/immersive-armors |
 | Mace Port | https://www.curseforge.com/minecraft/mc-mods/mace-backport |
 | Measurements | https://www.curseforge.com/minecraft/mc-mods/measurements |
+| Metal Works | https://modrinth.com/mod/metal-works |
 | More Bows: Restrung! | https://modrinth.com/mod/more-bows-restrung |
 | Shield Expansion | https://modrinth.com/mod/shield-expansion |
+| Simply Bows | https://www.curseforge.com/minecraft/mc-mods/simply-bows |
 | Simply More | https://www.curseforge.com/minecraft/mc-mods/simply-more |
 | Simply Swords | https://modrinth.com/mod/simply-swords |
 | Tool Belt | https://www.curseforge.com/minecraft/mc-mods/tool-belt |
@@ -70,17 +71,18 @@
 
 | Mod | Link |
 |------|------|
+| Aperture Innovations - Portal Gun | https://www.curseforge.com/minecraft/mc-mods/aperture-innovations |
 | Better Combat | https://modrinth.com/mod/better-combat |
 | Carry On | https://modrinth.com/mod/carry-on |
 | Cold Sweat | https://modrinth.com/mod/cold-sweat |
 | Corpse | https://modrinth.com/mod/corpse |
 | Dis-Enchanting Table | https://www.curseforge.com/minecraft/mc-mods/dis-enchanting-table |
 | Domestication Innovation | https://modrinth.com/mod/domestication-innovation |
-| Enchanted: Witchcraft | https://www.curseforge.com/minecraft/mc-mods/enchanted-witchcraft |
 | Enhanced Celestials | https://modrinth.com/mod/enhanced-celestials |
 | Fishing Real | https://www.curseforge.com/minecraft/mc-mods/fishing-real |
+| Flowing Fluids | https://modrinth.com/mod/flowing-fluids |
 | Iron's Spells 'n Spellbooks | https://modrinth.com/mod/irons-spells-n-spellbooks |
-| Marbled's First Aid | https://www.curseforge.com/minecraft/mc-mods/marbleds-first-aid |
+| Medical Remedies (Formerly Marbled's First Aid) | https://www.curseforge.com/minecraft/mc-mods/marbleds-first-aid |
 | No Hostiles Around Campfire | https://www.curseforge.com/minecraft/mc-mods/no-hostiles-around-campfire |
 | No Tree Punching | https://www.curseforge.com/minecraft/mc-mods/no-tree-punching |
 | Panda's Falling Trees | https://www.curseforge.com/minecraft/mc-mods/pandas-falling-trees |
@@ -89,7 +91,9 @@
 | Portable blueprints | https://www.curseforge.com/minecraft/mc-mods/portable-blueprints |
 | Redstone Pen | https://modrinth.com/mod/redstonepen |
 | Sleep Tight | https://www.curseforge.com/minecraft/mc-mods/sleep-tight |
+| Starcatcher | https://modrinth.com/mod/starcatcher |
 | Sturdy Farmland - Growth Edition | https://www.curseforge.com/minecraft/mc-mods/sturdy-farmland-growth-edition |
+| Sword Blocking Mechanics | https://modrinth.com/mod/sword-blocking-mechanics |
 | Thirst Canteen | https://modrinth.com/mod/thirst-canteen |
 | Thirst Was Taken | https://modrinth.com/mod/thirst-was-taken |
 | HT's TreeChop | https://modrinth.com/mod/treechop |
@@ -104,13 +108,15 @@
 | Mod | Link |
 |------|------|
 | Armor Damage Limit | https://www.curseforge.com/minecraft/mc-mods/armor-damage-limit |
-| Automobility | https://modrinth.com/mod/automobility |
+| Automobility | https://www.curseforge.com/minecraft/mc-mods/automobility |
 | Better Bundle | https://modrinth.com/mod/better-bundle |
 | Black Moon | https://www.curseforge.com/minecraft/mc-mods/black-moon |
 | Build Your Campfire | https://www.curseforge.com/minecraft/mc-mods/build-your-campfire |
 | Certain Questing Additions | https://www.curseforge.com/minecraft/mc-mods/certain-questing-additions |
 | Comfortable Campfires | https://www.curseforge.com/minecraft/mc-mods/comfortable-campfires |
 | Corpse x Curios API Compat | https://www.curseforge.com/minecraft/mc-mods/corpse-x-curios-api-compat |
+| CraftTweaker | https://modrinth.com/mod/crafttweaker |
+| Create Repair | https://www.curseforge.com/minecraft/mc-mods/create-repair |
 | Curious Lanterns | https://www.curseforge.com/minecraft/mc-mods/curious-lanterns |
 | Dismount Entity | https://modrinth.com/mod/dismount-entity |
 | Easy Anvils | https://modrinth.com/mod/easy-anvils |
@@ -123,8 +129,9 @@
 | FTB Filter System | https://www.curseforge.com/minecraft/mc-mods/ftb-filter-system |
 | FTB Quests (NeoForge) | https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge |
 | FTB XMod Compat | https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat |
+| The Grave Scrolls (forge/neoforge) | https://www.curseforge.com/minecraft/mc-mods/grave-scroll |
 | Horseman | https://www.curseforge.com/minecraft/mc-mods/horseman |
-| Hourglass | https://modrinth.com/mod/hourglass |
+| Hourglass | https://www.curseforge.com/minecraft/mc-mods/hourglass |
 | Inventory Essentials | https://modrinth.com/mod/inventory-essentials |
 | Inventory Sorter | https://www.curseforge.com/minecraft/mc-mods/inventory-sorter |
 | ItemPhysic Full | https://www.curseforge.com/minecraft/mc-mods/itemphysic |
@@ -141,19 +148,22 @@
 | Overflowing Bars | https://modrinth.com/mod/overflowing-bars |
 | ParCool+ / Compatibility Addon | https://www.curseforge.com/minecraft/mc-mods/parcool-compatibility-addon |
 | Patchouli's Library | https://www.curseforge.com/minecraft/mc-mods/patchouli-library |
+| Personality | https://www.curseforge.com/minecraft/mc-mods/personality |
 | Pick Up Notifier | https://modrinth.com/mod/pick-up-notifier |
 | Picker-Upper | https://www.curseforge.com/minecraft/mc-mods/picker-upper |
 | Picture Mode | https://www.curseforge.com/minecraft/mc-mods/picture-mode |
 | Piggybacks | https://modrinth.com/mod/piggybacks |
 | Ping Wheel | https://modrinth.com/mod/ping-wheel |
 | Polymorph | https://modrinth.com/mod/polymorph |
+| Reconnectible Chains | https://modrinth.com/mod/reconnectible-chains |
 | Responsive Shields | https://www.curseforge.com/minecraft/mc-mods/responsive-shields |
+| RIAutomobility (Automobility Addon) | https://www.curseforge.com/minecraft/mc-mods/riautomobility |
 | Seasonal Let's Do | https://modrinth.com/mod/seasonal-lets-do |
 | Simple Radio | https://modrinth.com/mod/simple-radio |
 | Simple Voice Chat | https://modrinth.com/mod/simple-voice-chat |
 | Sound Physics Remastered | https://modrinth.com/mod/sound-physics-remastered |
+| Spyglass of Curios | https://www.curseforge.com/minecraft/mc-mods/spyglass-of-curios |
 | Superior Ambience | https://www.curseforge.com/minecraft/mc-mods/superior-ambience |
-| Tense Ambience | https://modrinth.com/mod/tense-ambience |
 | Two Players One Horse | https://modrinth.com/mod/two-players-one-horse |
 | Unlit Campfire | https://modrinth.com/mod/unlit-campfire |
 | Loot Integrations: Randomized Loot Compatibility | https://www.curseforge.com/minecraft/mc-mods/vanilla-loot-addon-for-loot-integrations |
@@ -164,14 +174,15 @@
 
 | Mod | Link |
 |------|------|
+| Ai_myh's Plants Vs. Zombies | https://www.curseforge.com/minecraft/mc-mods/ai-myhs-plants-vs-zombies |
 | Alex's Mobs Interaction | https://www.curseforge.com/minecraft/mc-mods/alexs-mobs-interaction |
 | Alex's Mobs | https://www.curseforge.com/minecraft/mc-mods/alexs-mobs |
 | All Bark, All Bite | https://www.curseforge.com/minecraft/mc-mods/all-bark-all-bite |
 | Aquaculture 2 | https://www.curseforge.com/minecraft/mc-mods/aquaculture |
 | Aquamirae | https://modrinth.com/mod/aquamirae |
 | Better Animations Collection | https://www.curseforge.com/minecraft/mc-mods/better-animations-collection |
-| ChickensShed | https://modrinth.com/mod/chickensshed |
 | Clanging Howl | https://www.curseforge.com/minecraft/mc-mods/clanging-howl |
+| Cosy Critters & Creepy Crawlies | https://www.curseforge.com/minecraft/mc-mods/cosy-critters |
 | Critters and Companions | https://modrinth.com/mod/critters-and-companions |
 | Ecologics | https://www.curseforge.com/minecraft/mc-mods/ecologics |
 | EEEAB's Mobs | https://www.curseforge.com/minecraft/mc-mods/eeeabs-mobs |
@@ -186,9 +197,9 @@
 | Mowzie's Mobs | https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs |
 | Mutant Monsters | https://modrinth.com/mod/mutant-monsters |
 | Nyf's Spiders | https://www.curseforge.com/minecraft/mc-mods/nyfs-spiders |
+| OnlyLooking Updated | https://www.curseforge.com/minecraft/mc-mods/onlylooking-updated |
 | Primal Frontier | https://www.curseforge.com/minecraft/mc-mods/primal-frontier |
 | Saint's Dragons | https://www.curseforge.com/minecraft/mc-mods/saints-dragons |
-| Tide 2 | https://www.curseforge.com/minecraft/mc-mods/tide |
 | Untitled Duck Mod (Forge) | https://www.curseforge.com/minecraft/mc-mods/untitled-duck-mod-forge |
 | Upgrade Aquatic | https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic |
 | Xenomorph Types | https://www.curseforge.com/minecraft/mc-mods/xenomorph-types |
@@ -199,33 +210,33 @@
 | Mod | Link |
 |------|------|
 | Accelerated Decay | https://www.curseforge.com/minecraft/mc-mods/accelerated-decay |
-| AsyncParticles(Archived) | https://www.curseforge.com/minecraft/mc-mods/asyncparticles |
 | BadOptimizations | https://modrinth.com/mod/badoptimizations |
 | Better Biome Reblend | https://modrinth.com/mod/bbrb |
 | Chloride (Embeddium++/Sodium++) | https://modrinth.com/mod/chloride |
+| Colorwheel | https://modrinth.com/mod/colorwheel |
 | Connectivity | https://www.curseforge.com/minecraft/mc-mods/connectivity |
 | Cull Less Leaves Reforged | https://modrinth.com/mod/cull-less-leaves-reforged |
 | Embeddium | https://modrinth.com/mod/embeddium |
 | Entity Culling | https://modrinth.com/mod/entityculling |
 | Fast Paintings | https://modrinth.com/mod/fast-paintings |
-| FastBoot | https://modrinth.com/mod/fastboot |
 | FerriteCore | https://modrinth.com/mod/ferrite-core |
 | Flerovium | https://modrinth.com/mod/flerovium |
+| GPUBooster | https://modrinth.com/mod/gputape |
 | ImmediatelyFast | https://modrinth.com/mod/immediatelyfast |
-| Ixeris | https://www.curseforge.com/minecraft/mc-mods/ixeris |
 | Killing Waves | https://www.curseforge.com/minecraft/mc-mods/killing-waves |
 | Mobtimizations - Entity Performance Fixes | https://modrinth.com/mod/mobtimizations |
 | ModernFix | https://modrinth.com/mod/modernfix |
 | Optimization of Campfire Smoke | https://www.curseforge.com/minecraft/mc-mods/optimization-of-campfire-smoke |
 | Packet Fixer | https://modrinth.com/mod/packet-fixer |
 | Particle Core | https://modrinth.com/mod/particle-core |
+| quick pack | https://modrinth.com/mod/quick-pack |
 | Radium | https://modrinth.com/mod/radium |
+| Remove Reloading Screen | https://modrinth.com/mod/rrls |
 | Saturn | https://modrinth.com/mod/saturn |
 | ServerCore | https://modrinth.com/mod/servercore |
 | Structure Essentials | https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric |
 | Structure Layout Optimizer | https://modrinth.com/mod/structure-layout-optimizer |
 | TerraBlenderFix | https://modrinth.com/mod/terrablenderfix |
-| Thulium | https://www.curseforge.com/minecraft/mc-mods/thulium |
 
 ## Structures
 
@@ -236,6 +247,7 @@
 | Big Lost City - Apocalyptic Structures! | https://www.curseforge.com/minecraft/mc-mods/big-lost-city |
 | Desert Survival House | https://modrinth.com/mod/desert-survival-house |
 | Giant Plane Wreck | https://www.curseforge.com/minecraft/mc-mods/giant-plane-wreck |
+| Grim kingdoms: Vanilla Edition | https://www.curseforge.com/minecraft/mc-mods/grim-kingdoms-lost-structures-ruins-vanilla |
 | Lios Hobbit Hill Village | https://www.curseforge.com/minecraft/mc-mods/hobbit-hill-village |
 | Hobbit House | https://www.curseforge.com/minecraft/mc-mods/hobbit-house |
 | Homesteads - Villager Expansion & New Professions | https://www.curseforge.com/minecraft/mc-mods/homesteads |
@@ -281,20 +293,20 @@
 | Berezka API for Horror Elements mod | https://www.curseforge.com/minecraft/mc-mods/berezka-api-for-horror-elements-mod |
 | Biome Replacer | https://modrinth.com/mod/biome-replacer |
 | Catalogue | https://www.curseforge.com/minecraft/mc-mods/catalogue |
+| Change Items Durability | https://modrinth.com/mod/change-items-durability |
 | Client Tweaks | https://modrinth.com/mod/client-tweaks |
 | Configured | https://www.curseforge.com/minecraft/mc-mods/configured |
 | Controlling | https://modrinth.com/mod/controlling |
-| EMI++ Backport | https://www.curseforge.com/minecraft/mc-mods/emi-backport |
 | EMI | https://modrinth.com/mod/emi |
 | EverFurnace | https://www.curseforge.com/minecraft/mc-mods/everfurnace |
 | Extreme sound muffler - (Neo)Forge | https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler |
 | Global Packs | https://modrinth.com/mod/globalpacks |
 | In Control! | https://modrinth.com/mod/in-control |
 | Just Enough Items (JEI) | https://www.curseforge.com/minecraft/mc-mods/jei |
-| KubeJS | https://www.curseforge.com/minecraft/mc-mods/kubejs |
 | Load My F***ing Tags | https://modrinth.com/mod/lmft |
 | Lychee | https://modrinth.com/mod/lychee |
 | LAN World Plug-n-Play (mcwifipnp) | https://modrinth.com/mod/mcwifipnp |
+| One Enough Block | https://modrinth.com/mod/one-enough-block |
 | One Enough Item | https://www.curseforge.com/minecraft/mc-mods/one-enough-item |
 | Resource Pack Overrides | https://modrinth.com/mod/resource-pack-overrides |
 | Simple Discord RPC | https://modrinth.com/mod/simple-discord-rpc |
@@ -312,7 +324,7 @@
 | Biomes O' Plenty | https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty |
 | Deeper and Darker | https://modrinth.com/mod/deeperdarker |
 | Feur - Extension Fossil | https://www.curseforge.com/minecraft/mc-mods/feur-extension-fossil |
-| Geophilic Reforged ï¿½ Biome Additions | https://www.curseforge.com/minecraft/mc-mods/geophilic-reforged |
+| Geophilic Reforged – Biome Additions | https://www.curseforge.com/minecraft/mc-mods/geophilic-reforged |
 | Immersive Weathering | https://modrinth.com/mod/immersive-weathering |
 | Incendium | https://modrinth.com/mod/incendium |
 | Large Ore Deposits | https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits |
@@ -323,3 +335,4 @@
 | Tectonic | https://modrinth.com/mod/tectonic |
 | Terralith | https://modrinth.com/mod/terralith |
 | YUNG's Cave Biomes (Forge) | https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes |
+

@@ -1,0 +1,38 @@
+[
+    {
+        "resultItems": "metal_works:bronze_ingot",
+        "matchItems": ["create_ironworks:bronze_ingot"]
+    },
+    {
+        "resultItems": "metal_works:bronze_nugget",
+        "matchItems": ["create_ironworks:bronze_nugget"]
+    },
+    {
+        "resultItems": "metal_works:bronze_block",
+        "matchItems": ["create_ironworks:bronze_block"]
+    },
+    {
+        "resultItems": "metal_works:raw_tin",
+        "matchItems": ["create_ironworks:raw_tin"]
+    },
+    {
+        "resultItems": "metal_works:tin_ingot",
+        "matchItems": ["create_ironworks:tin_ingot"]
+    },
+    {
+        "resultItems": "metal_works:tin_nugget",
+        "matchItems": ["create_ironworks:tin_nugget"]
+    },
+    {
+        "resultItems": "metal_works:tin_block",
+        "matchItems": ["create_ironworks:tin_block"]
+    },
+    {
+        "resultItems": "metal_works:tin_ore",
+        "matchItems": ["create_ironworks:tin_ore"]
+    },
+    {
+        "resultItems": "metal_works:deepslate_tin_ore",
+        "matchItems": ["create_ironworks:deepslate_tin_ore"]
+    }
+]

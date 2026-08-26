@@ -1,0 +1,18 @@
+[
+    {
+        "resultBlock": "metal_works:bronze_block",
+        "matchBlock": ["create_ironworks:bronze_block"]
+    },
+    {
+        "resultBlock": "metal_works:tin_block",
+        "matchBlock": ["create_ironworks:tin_block"]
+    },
+    {
+        "resultItems": "metal_works:tin_ore",
+        "matchBlock": ["create_ironworks:tin_ore"]
+    },
+    {
+        "resultItems": "metal_works:deepslate_tin_ore",
+        "matchBlock": ["create_ironworks:deepslate_tin_ore"]
+    }
+]

@@ -1,15 +1,8 @@
 name = "create-toolworking"
-filename = "../toolworking-1.0.0-1.21.1.jar"
+filename = "../toolworking-0.2.1-ALPHA.jar"
 side = "both"
 
 [download]
-url = "https://github.com/jo-devnull/create-toolworking/releases/download/v1.0.0-1.21.1/toolworking-1.0.0-1.21.1.jar"
+url = "https://github.com/jo-devnull/create-toolworking/releases/download/v0.2.1-ALPHA/toolworking-0.2.1-ALPHA.jar"
 hash-format = "sha256"
-hash = "adc63d672cf0fba56addfcf42807a872cf53732412c328dd967820b4ffe55127"
-
-[update]
-[update.github]
-branch = "main"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "jo-devnull/create-toolworking"
-tag = "v1.0.0-1.21.1"
+hash = "d1a30eede506b251b09cd41d04d11eec59d7c6f0d77c609fc9a31cafe60c1808"
