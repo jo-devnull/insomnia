@@ -1,13 +1,13 @@
 name = "Berezka API for Horror Elements mod"
-filename = "../berezka_api_for_horror_elements-1.3.0.jar"
+filename = "../berezka_api_for_horror_elements-1.4.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c26f5505f0110c5ccdc927f99cd20d8ca17e68a9"
+hash = "2e3351ec853e2cfb78e012228f828692fca1cd7f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8168841
+file-id = 8615411
 project-id = 1320728

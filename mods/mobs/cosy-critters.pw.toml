@@ -1,18 +1,18 @@
 name = "Cosy Critters & Creepy Crawlies"
-filename = "../cosycritters-0.3.2+1.20.1-forge.jar"
+filename = "../cosycritters-0.3.3+1.20.1-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ea2c53b109f9181282b9897e9c5c8a3beac76576"
+hash = "26db309a19862fd1923288392973f3a893afe1b3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7892037
+file-id = 8390090
 project-id = 1182393
 
 [option]
 optional = true
-default = true
 description = "Alguns efeitos visuais. Desative para mais performance."
+default = true

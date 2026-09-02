@@ -1,13 +1,13 @@
 name = "Reconnectible Chains"
-filename = "../connectiblechains-forge-1.20.1-2.2.3.jar"
+filename = "../connectiblechains-forge-1.20.1-2.2.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5pzBXDS3/versions/4a0HdXLa/connectiblechains-forge-1.20.1-2.2.3.jar"
+url = "https://cdn.modrinth.com/data/5pzBXDS3/versions/nwJ6Xxt3/connectiblechains-forge-1.20.1-2.2.5.jar"
 hash-format = "sha512"
-hash = "9e50924959408e27fed8263f73f1a57c8daf8dab8aea8717d3365db3046ccc9e3f68ea3112da3db7e9e5b809308fda3224062c21a064d288abea9db0a69ed547"
+hash = "54a6494e4cc0cc5fe68171fa94e5e3f12f2fcfc6595c961fcde1798fed441abf98ff561749151034775e697b38152bed6e8034ee6c95d6b53dd2dcac766278fe"
 
 [update]
 [update.modrinth]
 mod-id = "5pzBXDS3"
-version = "4a0HdXLa"
+version = "nwJ6Xxt3"

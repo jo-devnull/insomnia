@@ -1,13 +1,13 @@
 name = "Xenomorph Types"
-filename = "../xenomorph_types-0.9.26-forge-1.20.1.jar"
+filename = "../xenomorph_types-0.9.27-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c9f79a2c55841ea56c7ed8fa35625c80e4991ee6"
+hash = "16f3063dba16ff34737ddfd6ade0a5a3aba0ff0f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7975632
+file-id = 8711930
 project-id = 1259207

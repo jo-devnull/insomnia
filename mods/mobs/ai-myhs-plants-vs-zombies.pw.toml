@@ -1,13 +1,13 @@
 name = "Ai_myh's Plants Vs. Zombies"
-filename = "../pvzmod-1.0.2.jar"
+filename = "../pvzmod-1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "81853c4dbf5a6cf19674d72f1f1fcb11a5c8dc72"
+hash = "29260e4d6e57bc7f65c6bb526157a1aaaed0a46b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8082577
+file-id = 8457054
 project-id = 1532740

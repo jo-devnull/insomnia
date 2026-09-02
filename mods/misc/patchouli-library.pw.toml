@@ -1,13 +1,13 @@
-name = "Patchouli's Library"
-filename = "../patchouli_library-1.1.0.jar"
+name = "Guide Shelf"
+filename = "../guide_shelf-1.3.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0d50a75bc68b54f4fac0c59f2668e9c19b1eba8d"
+hash = "5b1bb5a30bab0faed5cc798970c5612a31b57c9e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7910031
+file-id = 8714860
 project-id = 1500922

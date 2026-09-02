@@ -1,13 +1,13 @@
 name = "M.R.U"
-filename = "../MRU-1.0.4+1.20.1+forge.jar"
+filename = "../mru-1.0.33+1.20.1-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SNVQ2c0g/versions/nKL4LKzM/MRU-1.0.4%2B1.20.1%2Bforge.jar"
+url = "https://cdn.modrinth.com/data/SNVQ2c0g/versions/PwaB1olj/mru-1.0.33%2B1.20.1-forge.jar"
 hash-format = "sha512"
-hash = "be202bfeb3724ff4433b51e02764c2498c36ed01229306492260c0bc2f3c62b9f8a3f500baf083210fc683723a60793db8c3e384b28e7da599806cf3c489fdac"
+hash = "87b631f57fa1748d95e391b3f3b949957d8b09d400e444a3c0aba51805e195f6a2be5f1cddc2f7c9eef16db02e520463a2afca9ecab242fe4d61835d1f9b388b"
 
 [update]
 [update.modrinth]
 mod-id = "SNVQ2c0g"
-version = "nKL4LKzM"
+version = "PwaB1olj"

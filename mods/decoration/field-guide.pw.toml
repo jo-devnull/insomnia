@@ -1,13 +1,13 @@
 name = "Field Guide"
-filename = "../fieldguide-forge-1.20.1-1.8.3.jar"
+filename = "../fieldguide-forge-1.20.1-1.8.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/72RRCWM6/versions/v6Wkr3ws/fieldguide-forge-1.20.1-1.8.3.jar"
+url = "https://cdn.modrinth.com/data/72RRCWM6/versions/1w9SQ2g3/fieldguide-forge-1.20.1-1.8.4.jar"
 hash-format = "sha512"
-hash = "a397d292351139bf726f7b96fab298079d360dad04ccba6c852053ca8786d7f75b0a5c23c112b7a80ff24c1e8bcc1842244884f78e7169eb84892c52519ed9d7"
+hash = "f21913aece344326265f8894ae28f90654e87d3d346eb7bf8a778940be245b37151b5282a97433fe5c954a822cf12327a493293e1cdbf3e0241f67068d2c271d"
 
 [update]
 [update.modrinth]
 mod-id = "72RRCWM6"
-version = "v6Wkr3ws"
+version = "1w9SQ2g3"

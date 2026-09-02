@@ -1,13 +1,13 @@
 name = "Underlay"
-filename = "../underlay-1.0.2-forge-mc1.20.1.jar"
+filename = "../underlay-1.0.4-forge-mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iltKD9qU/versions/46b3Utkz/underlay-1.0.2-forge-mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/iltKD9qU/versions/rAgWAACB/underlay-1.0.4-forge-mc1.20.1.jar"
 hash-format = "sha512"
-hash = "b285f32797392bbd22b2ae7a04b49892a45b0d9d910458c989e70cc9f6365c4f10903b8d2586bf91a602bff5849dad4a2f6b531776e0f8a20c101489b81789d4"
+hash = "481340d14fc0e74efc33d47aabc430b1dc945d6695283968f4ff1ae2ce0316e495fcfa90038d4cc95bf60f5e6f5b0c1f01fbf964c44c9a03938b3d5cb3dbb36c"
 
 [update]
 [update.modrinth]
 mod-id = "iltKD9qU"
-version = "46b3Utkz"
+version = "rAgWAACB"

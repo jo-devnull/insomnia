@@ -1,13 +1,13 @@
 name = "Fancy Beds"
-filename = "Fancy_Beds-v4.1.zip"
+filename = "Fancy_Beds-v4.2.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/hFoOkEdk/versions/l3RTAoaC/Fancy_Beds-v4.1.zip"
+url = "https://cdn.modrinth.com/data/hFoOkEdk/versions/Zdz7XQhL/Fancy_Beds-v4.2.zip"
 hash-format = "sha512"
-hash = "618569a5ab692d0a6c0405a942b8d9366395423d938a8b4560d4f8d0c3f31a1ad91c89ac925b3d72905e71d600e59ec7dd978382286ddec5560089e417b6ce28"
+hash = "6a2016a67e4b81eab7ab5623513f496aedade6d7c674009a8f24f96e7768c8685f098b3d7cad0751fd06646afa995ce17ec17a5d3c59f9be3a7def2cb87340de"
 
 [update]
 [update.modrinth]
 mod-id = "hFoOkEdk"
-version = "l3RTAoaC"
+version = "Zdz7XQhL"

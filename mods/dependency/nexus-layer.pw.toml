@@ -1,13 +1,13 @@
 name = "Nexus Layer"
-filename = "../NexusLayer-1.1.3.jar"
+filename = "../NexusLayer-1.1.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d2cfb3710af145a94af352b1f116e4507250e10a"
+hash = "afaa5071d50689705625bd2eb243bd97ef353f66"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8316055
+file-id = 8442672
 project-id = 1305942

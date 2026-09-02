@@ -1,13 +1,13 @@
 name = "Leawind's Third Person"
-filename = "../leawind_third_person-v2.2.0-mc1.20-1.20.1-forge.jar"
+filename = "../leawind_third_person-3.0.3-beta+forge-1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/S3D3QF0M/versions/nCkriW6F/leawind_third_person-v2.2.0-mc1.20-1.20.1-forge.jar"
-hash-format = "sha1"
-hash = "acd53eaae56f6bc0b3b60b9cda1f37dcc71ec9d3"
+url = "https://cdn.modrinth.com/data/S3D3QF0M/versions/GQLUkudi/leawind_third_person-3.0.3-beta%2Bforge-1.20.1.jar"
+hash-format = "sha512"
+hash = "5cb03d067194b21aab4624e0057deaad48d9c6049901c389dde7c73beacedb1f466a2c0550c60bd84615173758858f2141ce2952c3bc9be116826d103c2b2e76"
 
 [update]
 [update.modrinth]
 mod-id = "S3D3QF0M"
-version = "nCkriW6F"
+version = "GQLUkudi"

@@ -1,13 +1,13 @@
 name = "Simply Swords"
-filename = "../simplyswords-forge-1.56.0-1.20.1.jar"
+filename = "../simplyswords-forge-neoforge-1.70.1-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bK3Ubu9p/versions/OFYmngee/simplyswords-forge-1.56.0-1.20.1.jar"
-hash-format = "sha1"
-hash = "ff801e939da0f9afc2d96cce4375d8c4bb368533"
+url = "https://cdn.modrinth.com/data/bK3Ubu9p/versions/36ve22gq/simplyswords-forge-neoforge-1.70.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "c67fbb45b6a769c2830f1f2be2b17af3a43aa0cffcfc5456e67d5e153f2fb7a6c7d46b026d4157853896d1fafb82377853592ec2b279ea2b7cb9703e15dd7ced"
 
 [update]
 [update.modrinth]
 mod-id = "bK3Ubu9p"
-version = "OFYmngee"
+version = "36ve22gq"
