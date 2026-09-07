@@ -1,13 +1,13 @@
 name = "Item Descriptions"
-filename = "../item-descriptions-1.11+1.20.jar"
+filename = "../item-descriptions-2.5.4+1.20.1-forge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UaizcMKP/versions/AWqigEhr/item-descriptions-1.11%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/UaizcMKP/versions/LD1xqfoY/item-descriptions-2.5.4%2B1.20.1-forge.jar"
 hash-format = "sha512"
-hash = "3fd9dddfa5173a23ad8ca584b546f93b4e114e1dd81c672506dee835a66f34b94801c51b0debae14ac3cff9727b50b1a42e7d3c8408d64d4f8c7fbdc2982b3ca"
+hash = "225d97a1a3decfeee8f542db3a5b32a9505a40eaf0a7fb514b0fadb4f4e319d04658d1e1da208cbac2070be3f7b630134cac2631604a811555c6c86d9412e9d8"
 
 [update]
 [update.modrinth]
 mod-id = "UaizcMKP"
-version = "AWqigEhr"
+version = "LD1xqfoY"

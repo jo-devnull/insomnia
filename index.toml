@@ -1,19 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/ReactiveMusic.json5"
-hash = "be7fadd8f443677cc94e87b64dace88b81a6bd6fff48adb76aaf08ca2daea226"
-preserve = true
-
-[[files]]
-file = "config/alexsmobsinteraction-client.toml"
-hash = "021faa38625a6013550a1d99e311170fb89e54206cd5768f3b1f6297a61c5c7e"
-
-[[files]]
-file = "config/almostunified/unify.json"
-hash = "12a43b2f51d6e3fcc9903352eeb55167b0c27a72c5c4729378f89b1ab819a5e0"
-
-[[files]]
 file = "config/biome_replacer.properties"
 hash = "a29120a7deb7e407656c7b614fcca376b412249ba43e503e1fd962ffb4df6779"
 
@@ -22,38 +9,8 @@ file = "config/changeitemsdurability.conf"
 hash = "fa8e62165c002ae76fadc18d144ff5d71d7e396be0fa35a58cb66f3f7d40f80a"
 
 [[files]]
-file = "config/chloride-client.json"
-hash = "68dac03e7b859abe617e30778911ba712ef55379d48591b430e0ddbbfc7b78d9"
-preserve = true
-
-[[files]]
-file = "config/clienttweaks-common.toml"
-hash = "7120d78c08a07e268bdbab4e1481f05b081df76f7ad1cc71e5993784e6bff5a6"
-
-[[files]]
-file = "config/embeddium-options.json"
-hash = "24727b424eaa1ba003a8fbc4e11ec5a1bdbeae4661161cfbdbe0a825f165b901"
-preserve = true
-
-[[files]]
 file = "config/emi.css"
 hash = "5b975f7e9272270337840b1f69639e9a11a3b4bb2e8b76d3299eb1faf615bd63"
-
-[[files]]
-file = "config/enhancedai/Mobs/Break Anger/break_anger_config.json"
-hash = "1ef8dc64a4aead2829923f15a78907e94b33ffb70471416fac0b50c10b14165c"
-
-[[files]]
-file = "config/enhancedai/Mobs/Flee/custom_flee.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/enhancedai/Mobs/Targeting/custom_hostile.json"
-hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
-
-[[files]]
-file = "config/enhancedai/common.toml"
-hash = "e085dac49020171326b39c19645fa2a8399827a387874119d08a929014d1d275"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
@@ -84,32 +41,8 @@ file = "config/notreepunching.toml"
 hash = "d4ba161e86898376bc32edd89d2baef3ed961380cef2779209c8ea9fec611939"
 
 [[files]]
-file = "config/parcool-client.toml"
-hash = "6c487026054afabbff392a5d95230a625067b5877546a3bdd0a4bb740a1bf9aa"
-
-[[files]]
-file = "config/particle_core_config.toml"
-hash = "038d6c0419dcd07257b2c7c2ac2c21d0781a5fbdedb6ed2f724e4debe03bf981"
-
-[[files]]
-file = "config/prettyrain.json5"
-hash = "fc1ebdb9057b250030dd4c3b288134dfec8be7b95f4037a9f79edd991b5a5061"
-
-[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "2f6ed2ff379d94ea9f9c5310444bb9d4b16a47b5e32566ea73cba0789783039a"
-
-[[files]]
-file = "config/sanitydim/default.toml"
-hash = "3a4b461505de169afa8d23f761d5ae8d70ad8374a6284d41c72e335a98c067bb"
-
-[[files]]
-file = "config/sanitydim/dimension/example.toml"
-hash = "d1a64dd1237d7f7424a3006f22a2a06f6a578983d997474f600563c1164c9c03"
-
-[[files]]
-file = "config/sidebar_buttons.json"
-hash = "a5f5bb97c33825e19dcb3c6dfee26fda97a148fba17aeed3de3ccdb79a71f085"
 
 [[files]]
 file = "config/sodiumdynamiclights-client.toml"
@@ -119,125 +52,6 @@ preserve = true
 [[files]]
 file = "config/superior_ambience-client.json"
 hash = "52ddf5c4c461c7eedacc994293bd6d6da5b4ea6112a03df4f76805175d74d1e1"
-
-[[files]]
-file = "config/thirst/keyword.toml"
-hash = "c819bc219330aa57f7cba0c704af5781300514f03e0d21aa86754e779c780731"
-
-[[files]]
-file = "config/xaero/lib/client.cfg"
-hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
-preserve = true
-
-[[files]]
-file = "config/xaero/lib/common.cfg"
-hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
-preserve = true
-
-[[files]]
-file = "config/xaero/lib/profiles/default.cfg"
-hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
-preserve = true
-
-[[files]]
-file = "config/xaero/lib/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
-preserve = true
-
-[[files]]
-file = "config/xaero/minimap/client.cfg"
-hash = "e8990cb245f6f13cafebfa3e538cb09a706cc35be7b3e92a39334fa295c877f9"
-preserve = true
-
-[[files]]
-file = "config/xaero/minimap/common.cfg"
-hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
-preserve = true
-
-[[files]]
-file = "config/xaero/minimap/default_radar_categories_client.json"
-hash = "e8705b837c4e825c3fa33c528d116b93b3bd96beb6ac3552c25f09a0c90b7f2d"
-preserve = true
-
-[[files]]
-file = "config/xaero/minimap/default_radar_categories_server.json"
-hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
-preserve = true
-
-[[files]]
-file = "config/xaero/minimap/profiles/default.cfg"
-hash = "778fa18a4bebade6b224ff049b063b4eb175b5418e506f25a3f560044318c0a7"
-preserve = true
-
-[[files]]
-file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
-hash = "77fcdc22c31db42096edbe43c9b566605f63b61850018d335b13499736bc99dd"
-preserve = true
-
-[[files]]
-file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
-hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
-preserve = true
-
-[[files]]
-file = "config/xaero/minimap/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
-preserve = true
-
-[[files]]
-file = "config/xaero/world-map/client.cfg"
-hash = "706466efafa9f82cf95acd57f27908f7f79abfb59ad86331ce0cfd8fe71314c5"
-preserve = true
-
-[[files]]
-file = "config/xaero/world-map/common.cfg"
-hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
-preserve = true
-
-[[files]]
-file = "config/xaero/world-map/profiles/default.cfg"
-hash = "5c65fa9d2bb8f686032f8774940b3895daf033b98c4c44414f18f204000c3169"
-preserve = true
-
-[[files]]
-file = "config/xaero/world-map/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
-preserve = true
-
-[[files]]
-file = "config/xaerohud.txt"
-hash = "58c9270f258d0b224bb7d0f7c927544d5fbe5f1b8027c820e1e14ecbf48fb88c"
-preserve = true
-
-[[files]]
-file = "config/xaerominimap-common.txt"
-hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
-preserve = true
-
-[[files]]
-file = "config/xaerominimap.txt"
-hash = "9f4afef6c3307c3b418d9b897b912c7cbd33eacbceafd3a78c5f1abafc77f4b8"
-preserve = true
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "00d923a6ad25fa75c70bf6f5e91da9aa5dd15b9deb11f9e8c6be5560c7559126"
-preserve = true
-
-[[files]]
-file = "config/xaeropatreon.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-preserve = true
-
-[[files]]
-file = "config/xaeroworldmap-common.txt"
-hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
-preserve = true
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "4d050532488b1b195a39f2c0e4528455ed8423848d11b6ea380667656230db93"
-preserve = true
 
 [[files]]
 file = "credits.txt"
@@ -280,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/cooking/farmers-delight.pw.toml"
-hash = "f50fcc69310bd837cbc527bdd82be6f8004beda5f92a6da4e3e1aa4fd43905a6"
+hash = "42d8b7e764572b026bbd0761be9462bee652f7545b96ed3775d894312235cb3b"
 metafile = true
 
 [[files]]
@@ -355,12 +169,12 @@ metafile = true
 
 [[files]]
 file = "mods/decoration/fancy-toasts.pw.toml"
-hash = "199df859affc6151f2f544cd63c2dda89aae0c715d5551a3d913eb7f0e8fc6d9"
+hash = "9622a95c9f57625484a9afb99fe8780f37501f271d7262b13a9d7d5f16c338be"
 metafile = true
 
 [[files]]
 file = "mods/decoration/field-guide.pw.toml"
-hash = "48a8c5534dbb6968f1209d55026487dda493cd52fb580409f6f6776a75f57c19"
+hash = "7c569b015d122129b49277e750e00dc0e364a516aa7be8574acf32b43b8722ac"
 metafile = true
 
 [[files]]
@@ -425,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/decoration/underlay.pw.toml"
-hash = "f1bc27b30f5c4088d0a96d3fc17ee1d254f428249f6c62f66acf12202f6880f2"
+hash = "ab035106155387a4dcb57985213362833ca6f34f3e5fa6ce2561ad3fde613b97"
 metafile = true
 
 [[files]]
@@ -460,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/baguettelib.pw.toml"
-hash = "c3bb9c514fff23d8420c0239b6372c4a3c822163cf0d11ee4c581264bf7d34c3"
+hash = "0c4b23710edacf76ebf90b64b9e8184d53a1713ed3f54e3a63329b63a8634830"
 metafile = true
 
 [[files]]
@@ -470,12 +284,12 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/berezka-library.pw.toml"
-hash = "41289f827a14744606a345b838c9124fde57f367ac6fcde0c674feeb9128e86d"
+hash = "4e65bf6e7d0a3e22be6c9c005a235b8540bd42641739226a42dde731565e3895"
 metafile = true
 
 [[files]]
 file = "mods/dependency/blueprint.pw.toml"
-hash = "07c6a9251635afb698c07838cca2dc054e11c3a65d4590d0d06f3d814944b0a3"
+hash = "4b69867af6e0abb1ff4ee9929c632bb0b7e804c43b0776e0382f2deaf2dd3995"
 metafile = true
 
 [[files]]
@@ -540,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/cupboard.pw.toml"
-hash = "b1b3f1f2f86c8561be3b575468067548807a58ce7bd7201f55e47041a5d0ade8"
+hash = "27ea9e8f9411fada885bf689a389ffddd6e5c32038d1926295d1a0acd9a426c1"
 metafile = true
 
 [[files]]
@@ -570,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/forgeendertech.pw.toml"
-hash = "b292058ea9997b96fc0d93cee3fdf86aac2a708fb35432fb91aefcdb5723f1b3"
+hash = "d3380196e6eb03d22fa2be352021763f0296fc31b5a60d7039da7b93d78135a2"
 metafile = true
 
 [[files]]
@@ -620,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/item-descriptions.pw.toml"
-hash = "e84246a0c4dd3f243ee8eb6aaf898422b3ddb7e0522ca7ef72a880d4564db30c"
+hash = "ace74f19d320d45b1d3291e9a962d0601fabb54f1866547cafdb19bae27e07a6"
 metafile = true
 
 [[files]]
@@ -635,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/knight-lib.pw.toml"
-hash = "c1cbef8d518b636c18c6bfa0dd30a6a4cb54fb30b577429f057efbafd9871a65"
+hash = "b50d7c742678340af17b06ba0532cee7fc2335f843fdeacf5a61f2a7eab2bb35"
 metafile = true
 
 [[files]]
@@ -655,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/mantle.pw.toml"
-hash = "07c4cd8054fb755c77a9ead005e519c8b337b367f84467cd7b8cbec56d08db01"
+hash = "157e9d7144ad908259603e601d908ec74c0a3f83e625b95d68977856ded28fb2"
 metafile = true
 
 [[files]]
@@ -760,7 +574,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/selene.pw.toml"
-hash = "8136fd71d8820c7d09960f36b1171aeba3954a07bb77099cc7b886b6f8fb0241"
+hash = "b33e8e5065790a30aa570841e3e184c9551621d6276e7bcffcc39476e33928e8"
 metafile = true
 
 [[files]]
@@ -870,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/equipment/simply-swords.pw.toml"
-hash = "c089ea080576231fe9b0d01701fc16ebf5809e60d009a00b4b7df3980b988b88"
+hash = "4b02b76f4eb1388d25231d8a272302145edf471594c9f756f376b015f376d2a8"
 metafile = true
 
 [[files]]
@@ -939,6 +753,11 @@ hash = "6aef066919582cf3a62ef3277c9410ec3f00541820d1a797edb3c70aee240865"
 metafile = true
 
 [[files]]
+file = "mods/mechanics/immersive-fluids.pw.toml"
+hash = "046809bcd79a6d944a7e12f47958d5c2815afb29736dde6cd45768e33993e189"
+metafile = true
+
+[[files]]
 file = "mods/mechanics/irons-spells-n-spellbooks.pw.toml"
 hash = "c3fbab6b81298371b0b51642453f5e0808b73f4c97e9d55233018de87cfdf998"
 metafile = true
@@ -965,7 +784,7 @@ metafile = true
 
 [[files]]
 file = "mods/mechanics/parcool.pw.toml"
-hash = "dc7df3a301cfc808eb7c4e6de6dd772ab18dba1f12ba2dac9caa31d9961c39f6"
+hash = "df92844c80a30892cdb7e8bbb9d2a97a621a25a51658288d051e82c8a76ad363"
 metafile = true
 
 [[files]]
@@ -990,7 +809,7 @@ metafile = true
 
 [[files]]
 file = "mods/mechanics/starcatcher.pw.toml"
-hash = "4cb21dff9510fdc74a232b1f9f50d89a5f1cb03afefad1fa6b5dac8111fda3e8"
+hash = "01a35d16a6e460c214f3466523714aff2f9db784911fcdf5a0b1234d42f86cbf"
 metafile = true
 
 [[files]]
@@ -1250,7 +1069,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/patchouli-library.pw.toml"
-hash = "b74585654be68978ea2cff5b91c7ef56c74f5fd36c483ad82798fc9d7ca55257"
+hash = "4f55d50cee1395580487d9d5ecbe922d7c8407961be4781bf2fbd77a1cc21911"
 metafile = true
 
 [[files]]
@@ -1315,7 +1134,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/simple-voice-chat.pw.toml"
-hash = "67f26a3d8d10a245941aa8eac08680a35d36aaa32ecdc93a73fcb2e660882d56"
+hash = "04c02e7ad3779ab35561f6ecae355b675ff7a97d218f4c2ba8546e8155851983"
 metafile = true
 
 [[files]]
@@ -1485,12 +1304,12 @@ metafile = true
 
 [[files]]
 file = "mods/mobs/saints-dragons.pw.toml"
-hash = "d40fa9cba9e95ab2022d1a55034fc904353bc1fd3cdfc3f5a4497e9d6dad89cc"
+hash = "f92dfb4b86ae372a0f11d6c0180c3686aaffdc30964e14924b190c37cbc63665"
 metafile = true
 
 [[files]]
 file = "mods/mobs/untitled-duck-mod-forge.pw.toml"
-hash = "ea15829812b66e64065c4df5fdf1647baa0c5afb9112c3c15fd25b75b2ec6728"
+hash = "0712e03df6fe97e7b8d4f3448da9290382768c51481999ca3faeed4b9e5f49a9"
 metafile = true
 
 [[files]]
@@ -1590,7 +1409,7 @@ metafile = true
 
 [[files]]
 file = "mods/performance/modernfix.pw.toml"
-hash = "105dff79b51c096da3b220468e032949c4d6c7f89e9bb7c8a03f15549dfe2604"
+hash = "645cb2ba519c9ed278854407d37e3f7098e948a650de503026001fa041aaecfa"
 metafile = true
 
 [[files]]
@@ -1775,7 +1594,7 @@ metafile = true
 
 [[files]]
 file = "mods/technology/copycats.pw.toml"
-hash = "1c34e3276f7333f6b099123d2572a5bba95cce18462b7cc874ea6aab3fce1ce9"
+hash = "b7412ba29b893964ee6ca834867c5bb4dd91b6d00aa502ac4c00fc01963d25f7"
 metafile = true
 
 [[files]]
@@ -1835,7 +1654,7 @@ metafile = true
 
 [[files]]
 file = "mods/technology/power-grid.pw.toml"
-hash = "2ad74bc7d696012758da210a4d5535de082fae63851071fcd57e7dbdc68184bd"
+hash = "1e4705e4d5a0a25d0b59710e1796003cf4d49438e53dc03271c57f3316ec6543"
 metafile = true
 
 [[files]]
@@ -1899,8 +1718,13 @@ hash = "93e69ffa298e42068ac2ca46cf7b1fa8cbeb7cfb5dc0b787cd4485994fac4c0a"
 metafile = true
 
 [[files]]
+file = "mods/utilities/immersive-fluids-compat.pw.toml"
+hash = "c5f520c5d1c252eac9c93f64341a2f4ed8336d835ff8440c048cfc91b12a7b74"
+metafile = true
+
+[[files]]
 file = "mods/utilities/in-control.pw.toml"
-hash = "f72e881837cdce7a518f2ae3daa131d2c820977228df076d012ccf37d89295d1"
+hash = "1ba7f5ee8d37166ab8c2356039c1a54bec725e77639f7d953802d72c696677c5"
 metafile = true
 
 [[files]]
@@ -2529,6 +2353,10 @@ file = "packs/bundled/insomnia/data/fromtheshadows/forge/biome_modifier/spawns.j
 hash = "0371a4848c6eadf08597281d021526359542bb8ea3669ff4fccdf8969b4c0611"
 
 [[files]]
+file = "packs/bundled/insomnia/data/insomnia/recipes/fill_canteen.json"
+hash = "068ac3f3b986f8baf15db995fb0127e75aaa04c40e89b1aea6d8860b458a284b"
+
+[[files]]
 file = "packs/bundled/insomnia/data/insomnia/tags/worldgen/biome/nehemoth_spawns.json"
 hash = "b8e614dbb6da70e259e77e50e1f3396cd827bf7c9b5bb735912323a1e9d6548c"
 
@@ -2765,7 +2593,7 @@ metafile = true
 
 [[files]]
 file = "packs/resources/immersive-interfaces-mod-support-unofficial.pw.toml"
-hash = "ccc13791da6b450157cda8afbfd056e2bab079aff31e1433737ff80b7ba7a2d7"
+hash = "7dbb2f26e3c377246915313c203a9389641d1f7187f91084cc74a1a5fa8cfeff"
 metafile = true
 
 [[files]]
@@ -2795,7 +2623,7 @@ metafile = true
 
 [[files]]
 file = "packs/resources/unique-dark.pw.toml"
-hash = "25f7d2a967f29b8e12fc2d5f3e253f16dd5c58bcb8cbf7ed126aca65c5447cf2"
+hash = "ee565e768b63bd488c7a41b34da67bf340ad3308b1eb80f8c11c7ff27e215ebf"
 metafile = true
 
 [[files]]
@@ -2820,7 +2648,7 @@ metafile = true
 
 [[files]]
 file = "packs/shaders/complementary-reimagined.pw.toml"
-hash = "f7d86262c00121eaff74518f0efff6df9a740e2a95c0d387060050f0a4fa0347"
+hash = "1ea0f1604ce00b5a40b9ff4b679a5ec69dcc72bef9a75225a3698d10edd514b1"
 metafile = true
 
 [[files]]

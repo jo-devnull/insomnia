@@ -1,13 +1,13 @@
 name = "Immersive Interfaces - Mod Support Unofficial"
-filename = "§6Immersive_Interfaces_Modded§8_1.20.x.zip"
+filename = "§6Immersive_Interfaces_Modded.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/zW0OkthM/versions/WO5sFiG0/%C2%A76Immersive_Interfaces_Modded%C2%A78_1.20.x.zip"
+url = "https://cdn.modrinth.com/data/zW0OkthM/versions/eixfoIBm/%C2%A76Immersive_Interfaces_Modded.zip"
 hash-format = "sha512"
-hash = "63a2fcefe67ee1d64da1d183c4dde0d580a9f91495ee039e0f34ac043feae5220d2e431d26bca02119d1b207655de0171842894d6d0c5261aa274b15ba5572f3"
+hash = "c0a7e1fa7da2b9a7fa318ea0b538080fdffeb31acbdf211cd724762935148e00035e9013f0a09e6bd8cf440ad3fe02c7cb56b7e8455a415c54bea43daf966ff6"
 
 [update]
 [update.modrinth]
 mod-id = "zW0OkthM"
-version = "WO5sFiG0"
+version = "eixfoIBm"

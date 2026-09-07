@@ -1,0 +1,13 @@
+name = "Immersive Fluids"
+filename = "../immersivefluids-1.2.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HgThmzCu/versions/xUncvhYD/immersivefluids-1.2.5.1.jar"
+hash-format = "sha512"
+hash = "726a9d807c46f24f5e1445b66d12a713c97e814731c68b32b865dae3ec63770f9aa562594b62fa5df9290f3f01d3dc71e3655be60bcb089ec690ce9f59fc54f3"
+
+[update]
+[update.modrinth]
+mod-id = "HgThmzCu"
+version = "xUncvhYD"

@@ -1,13 +1,13 @@
 name = "Guide Shelf"
-filename = "../guide_shelf-1.3.2.jar"
+filename = "../guide_shelf-1.3.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5b1bb5a30bab0faed5cc798970c5612a31b57c9e"
+hash = "bcb99323ba820e861f653387da36866e3c0fda6a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8714860
+file-id = 8815311
 project-id = 1500922
