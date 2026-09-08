@@ -1,0 +1,10 @@
+{
+  "type": "immersive_fluids_compat:pickup_water",
+  "amount": 1,
+  "container": {
+    "item": "cold_sweat:waterskin"
+  },
+  "result": {
+    "item": "cold_sweat:filled_waterskin"
+  }
+}

@@ -6,7 +6,15 @@ hash = "a29120a7deb7e407656c7b614fcca376b412249ba43e503e1fd962ffb4df6779"
 
 [[files]]
 file = "config/changeitemsdurability.conf"
-hash = "fa8e62165c002ae76fadc18d144ff5d71d7e396be0fa35a58cb66f3f7d40f80a"
+hash = "d6970cdc89aa974a8ad906bad919486166fb4c8b58fafa009c4f87c246821905"
+
+[[files]]
+file = "config/chloride-client.toml"
+hash = "00d9ee8c5e5b0790107dd4400a72cb999445b208394b0f53d0c13da029b3802c"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "b4b0aaec74cd2c37a2d0d384a4195768d8d7cbc9f86c7d993694e394fa35664d"
 
 [[files]]
 file = "config/emi.css"
@@ -45,6 +53,10 @@ file = "config/resourcepackoverrides.json"
 hash = "2f6ed2ff379d94ea9f9c5310444bb9d4b16a47b5e32566ea73cba0789783039a"
 
 [[files]]
+file = "config/sidebar_buttons.json"
+hash = "3dc1ec4d7bfc4f7a195544f2a0fe6e5cafd91f44a6cbc58d600cedecc3211290"
+
+[[files]]
 file = "config/sodiumdynamiclights-client.toml"
 hash = "a07f02d32ca757d3aab93dbff71081a33ea30300d85a0e5defee53eb83e7161f"
 preserve = true
@@ -52,6 +64,70 @@ preserve = true
 [[files]]
 file = "config/superior_ambience-client.json"
 hash = "52ddf5c4c461c7eedacc994293bd6d6da5b4ea6112a03df4f76805175d74d1e1"
+
+[[files]]
+file = "config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+
+[[files]]
+file = "config/xaero/lib/common.cfg"
+hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+
+[[files]]
+file = "config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+
+[[files]]
+file = "config/xaero/lib/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+
+[[files]]
+file = "config/xaero/minimap/common.cfg"
+hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_client.json"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_server.json"
+hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "f9ce478a7263a91a9234e4b6414fce1e4b1a62968350d0557d594d1ff78bab74"
+
+[[files]]
+file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+hash = "405e00f67e495574aa251d77a4379b3aac07204a7a9c3fee4eb94a37e02529b0"
+
+[[files]]
+file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+
+[[files]]
+file = "config/xaero/minimap/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "d0f079a8df083f6f60a0e0c1316a25fc841755a91bdcb2f86c66ead8e7d4d13d"
+
+[[files]]
+file = "config/xaero/world-map/common.cfg"
+hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+
+[[files]]
+file = "config/xaero/world-map/profiles/default.cfg"
+hash = "1377e87b65dcc92a022c06d5673733985b050b0a431dd0cba3c640ba5b346d72"
+
+[[files]]
+file = "config/xaero/world-map/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 
 [[files]]
 file = "credits.txt"
@@ -2222,7 +2298,19 @@ hash = "0371a4848c6eadf08597281d021526359542bb8ea3669ff4fccdf8969b4c0611"
 
 [[files]]
 file = "packs/bundled/insomnia/data/insomnia/recipes/fill_canteen.json"
-hash = "068ac3f3b986f8baf15db995fb0127e75aaa04c40e89b1aea6d8860b458a284b"
+hash = "8dc6e762b92e946bfbeb883ef070b17401e25442961bcc8ef147df8fc9ce296a"
+
+[[files]]
+file = "packs/bundled/insomnia/data/insomnia/recipes/fill_dragon_bottle.json"
+hash = "3b1fac89ce80e3ef5a9e51a1c2ec9ee83815b10047b3c9113bb4b3bacff14ed2"
+
+[[files]]
+file = "packs/bundled/insomnia/data/insomnia/recipes/fill_military_bottle.json"
+hash = "d552f8126d21a64d80126ca067a48ca53096d4b0a0cccde41c9803a77bf74e95"
+
+[[files]]
+file = "packs/bundled/insomnia/data/insomnia/recipes/fill_waterskin.json"
+hash = "776a57e44ae9675b3aa226510b2720a506df057509e4e028ca7262d026dbd785"
 
 [[files]]
 file = "packs/bundled/insomnia/data/insomnia/tags/worldgen/biome/nehemoth_spawns.json"

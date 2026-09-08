@@ -2,12 +2,12 @@
   "type": "immersive_fluids_compat:pickup_water",
   "amount": 1,
   "container": {
-    "item": "thirstcanteen:leather_canteen"
+    "item": "thirstcanteen:military_bottle"
   },
   "result": {
-    "item": "thirstcanteen:leather_canteen_full",
+    "item": "thirstcanteen:military_bottle_full",
     "nbt": {
-      "Purity": 0, "Contain": 8
+      "Purity": 0, "Contain": 12
     }
   }
 }
