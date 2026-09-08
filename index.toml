@@ -1820,7 +1820,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/immersive-fluids-compat.pw.toml"
-hash = "c5f520c5d1c252eac9c93f64341a2f4ed8336d835ff8440c048cfc91b12a7b74"
+hash = "06ae9b35c9769c4ab936da6dcf402162e0397284fdc9d7f162af2a4b67a0b88e"
 metafile = true
 
 [[files]]

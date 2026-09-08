@@ -1,15 +1,15 @@
 name = "immersive-fluids-compat"
-filename = "../immersive_fluids_compat-0.0.1-ALPHA.jar"
+filename = "../immersive_fluids_compat-0.0.2-ALPHA.jar"
 side = "both"
 
 [download]
-url = "https://github.com/jo-devnull/immersive-fluids-compat/releases/download/v0.0.1-ALPHA/immersive_fluids_compat-0.0.1-ALPHA.jar"
+url = "https://github.com/jo-devnull/immersive-fluids-compat/releases/download/v0.0.2-ALPHA/immersive_fluids_compat-0.0.2-ALPHA.jar"
 hash-format = "sha256"
-hash = "b166fc893817065683ded2ed1b4e59e819ffd066d7074f9e125fe6fbd9755991"
+hash = "c2b9606a741904abd1d1170da24c32379ddc4a2b3b3318778ac1daedb28e9faa"
 
 [update]
 [update.github]
 branch = "forge/1.20.1"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "jo-devnull/immersive-fluids-compat"
-tag = "v0.0.1-ALPHA"
+tag = "v0.0.2-ALPHA"
