@@ -78,6 +78,11 @@ file = "mods.txt"
 hash = "e4100a3a968ba33e5791ded5a375d7c8a903922b1b8f1fca1c35f637aeb76ba9"
 
 [[files]]
+file = "mods/cooking/alexs-mobs-delight.pw.toml"
+hash = "57932ce6e5473692702a404804292fc5808c61573083a7791b01d934bdf8f423"
+metafile = true
+
+[[files]]
 file = "mods/cooking/brewin-and-chewin.pw.toml"
 hash = "ea5a875db565a7ff9e7775b9cdf4bc565bf35bf6bdb5091fad865cf8df7bb409"
 metafile = true
@@ -289,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/dependency/blueprint.pw.toml"
-hash = "4b69867af6e0abb1ff4ee9929c632bb0b7e804c43b0776e0382f2deaf2dd3995"
+hash = "18d354881581de93c62c79cf4002c0866f50603b9eeb952a198e9feea96f8afb"
 metafile = true
 
 [[files]]
@@ -375,6 +380,11 @@ metafile = true
 [[files]]
 file = "mods/dependency/faewulfslib.pw.toml"
 hash = "61e173a0a66de32cd5a5ebcc27c13aa3b6c8e2aa88774fb675a3657c35c59def"
+metafile = true
+
+[[files]]
+file = "mods/dependency/fishing-real-extra-compatibility.pw.toml"
+hash = "f8854fee9b0fb56b072b6290dda7664befdfd49909319ca328afeea4bf1a4b2f"
 metafile = true
 
 [[files]]
@@ -743,8 +753,18 @@ hash = "39d0177c9959d75cfe7e537df6d24b46db03ed8f377d51f9481bf4541a9f427b"
 metafile = true
 
 [[files]]
-file = "mods/mechanics/enhanced-celestials.pw.toml"
-hash = "40deb5489ec740ce4d8ad1ceb15ba89aad5e2cafec161745f932d8177de7cc83"
+file = "mods/mechanics/enhanced-celestials-2-core.pw.toml"
+hash = "facd017e8465b375788e8439392a34a47cd80c3b52ed41054ceef425a6bd24ec"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/enhanced-celestials-2-default-lunar-events.pw.toml"
+hash = "b1a84d2657102aaab60af4339a71c2268a673865f75e08d924d213566f189224"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/enhanced-celestials-2-shader-support.pw.toml"
+hash = "d88c5f055ef8ed23143cedda46709bcc7f74559a6f49aed0fbc25432c743e287"
 metafile = true
 
 [[files]]
@@ -784,7 +804,7 @@ metafile = true
 
 [[files]]
 file = "mods/mechanics/parcool.pw.toml"
-hash = "df92844c80a30892cdb7e8bbb9d2a97a621a25a51658288d051e82c8a76ad363"
+hash = "7a5209d26df1c8f3dc8f83d7605f6b1e273dc4bc7ed95fbbfc8fb64c321e8a62"
 metafile = true
 
 [[files]]
@@ -809,7 +829,7 @@ metafile = true
 
 [[files]]
 file = "mods/mechanics/starcatcher.pw.toml"
-hash = "01a35d16a6e460c214f3466523714aff2f9db784911fcdf5a0b1234d42f86cbf"
+hash = "73cd048c0c2f853712139869d1e77f4fad0595be8549579d5e9368fbd29193b8"
 metafile = true
 
 [[files]]
@@ -958,6 +978,11 @@ hash = "f4078cefbcb68eb445cd9388c531eec7e6850e476648408e80ce53e4a7084d5e"
 metafile = true
 
 [[files]]
+file = "mods/misc/fishing-real.pw.toml"
+hash = "fed96046aa4bb2da067bcfa533b9e71a0292ffc2aa1ff15376beb8e7a0c4f02b"
+metafile = true
+
+[[files]]
 file = "mods/misc/friendly-fire.pw.toml"
 hash = "6e93945e54901d92aba7edf6c569a96a07685ac11a0308d5236ba5f9c5e85bbe"
 metafile = true
@@ -1065,6 +1090,11 @@ metafile = true
 [[files]]
 file = "mods/misc/overflowing-bars.pw.toml"
 hash = "94d03f560b2b67fa27191283d0a362b173ebde7fa51f106c74e3889fdfd68f60"
+metafile = true
+
+[[files]]
+file = "mods/misc/parcool-compatibility-addon.pw.toml"
+hash = "74ea9f7a15f78e1786f1202932b56a78e120279ad3eb46dd3a47429b6140a84a"
 metafile = true
 
 [[files]]
@@ -1243,11 +1273,6 @@ hash = "0bcd045fb5b2b083cf30a09eb78399d1d297d06072b9ad0ce842e4f5d9ee4d32"
 metafile = true
 
 [[files]]
-file = "mods/mobs/fathomless-crimson.pw.toml"
-hash = "ed521e71e735944efb70b51e442aef75ccd99d1d47c1b47a7a061829b7c1903a"
-metafile = true
-
-[[files]]
 file = "mods/mobs/from-the-shadow-reborn.pw.toml"
 hash = "17548a209807707e200723c146425a469d12f7cc9b4ed511d2cdd8fe44fb4ef2"
 metafile = true
@@ -1298,11 +1323,6 @@ hash = "2e748879c19b1f20ffb4ae50209c713f15520c29ebce6f1eff77da3336740ecd"
 metafile = true
 
 [[files]]
-file = "mods/mobs/primal-frontier.pw.toml"
-hash = "b0d2935d9d7bcaf280271f2ac017502350802723636099af0d95dcfd86931f55"
-metafile = true
-
-[[files]]
 file = "mods/mobs/saints-dragons.pw.toml"
 hash = "f92dfb4b86ae372a0f11d6c0180c3686aaffdc30964e14924b190c37cbc63665"
 metafile = true
@@ -1330,6 +1350,11 @@ metafile = true
 [[files]]
 file = "mods/performance/accelerated-decay.pw.toml"
 hash = "f627222b24ca3289c74dc80a963be4058ae8359f199729176ee4bc6724a44d57"
+metafile = true
+
+[[files]]
+file = "mods/performance/amt.pw.toml"
+hash = "fdae4385c3925e1b82b060f1f141ceca7a1dd293dfd9ce4bb6f75f4abde042fb"
 metafile = true
 
 [[files]]
@@ -1838,11 +1863,6 @@ hash = "e98961748f7295dff491506d46a1afe989821cda713b5bfa38c6088528de2594"
 metafile = true
 
 [[files]]
-file = "mods/world/puddles-floods.pw.toml"
-hash = "89a521a33437d4c887d635d71a7e14750d77f3214f63bebdc4e5cc4ebd04dabc"
-metafile = true
-
-[[files]]
 file = "mods/world/serene-seasons.pw.toml"
 hash = "8fe860bcd6ed7de3ab8b77e9c0f12ba120362f77322f07d031d10ded1c1fefe7"
 metafile = true
@@ -2077,156 +2097,8 @@ file = "packs/bundled/insomnia/assets/thirstcanteen/lang/pt_br.json"
 hash = "85ff901ebcbe6be2a200370e7776d5c8a9609b5464081318b4512c14910081e4"
 
 [[files]]
-file = "packs/bundled/insomnia/data/alexscaves/fishing/lanternfish.json"
-hash = "ee8217d02f91eec7012b3b703bec065176aa8b4116c890b2204b34fb1b5e3daf"
-
-[[files]]
-file = "packs/bundled/insomnia/data/alexscaves/fishing/radgill.json"
-hash = "56d02147ea17610c9c1b3bfb4d23d994964da47f68d4813cd4184d5c754de41b"
-
-[[files]]
-file = "packs/bundled/insomnia/data/alexscaves/fishing/tripodfish.json"
-hash = "d7c31ab9766c62d27126be4bcae3677815c8fc594a62a4b144978689cf881b35"
-
-[[files]]
-file = "packs/bundled/insomnia/data/alexsmobs/fishing/blobfish.json"
-hash = "1f730cf81b85da813a8b70c2c1f182f9c5df2b30dc3800641f4402da5d14e167"
-
-[[files]]
-file = "packs/bundled/insomnia/data/alexsmobs/fishing/cosmic_cod.json"
-hash = "6a48fade83fd7c2aa0e7fe16ad91ba7bde8c0db9441cc3917949ea81dce53f91"
-
-[[files]]
-file = "packs/bundled/insomnia/data/alexsmobs/fishing/flying_fish.json"
-hash = "a5c60d9df8696ffa441e876683ca920faae845740aacb98ced0034444bfc0d2b"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/arapaima.json"
-hash = "9d18354a5eef8c85454153dcc21f9f388f057e6d28fd53f4e476a3fc0c6568b9"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/atlantic_cod.json"
-hash = "10ba19ab1e61b5c827b6a8aa1845413f5d96b40e38b0688b0fc51a4fb83fb118"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/atlantic_halibut.json"
-hash = "8df8ea059f1ec91ecccf8ec494b022deb36044cba538da1d138517444d0548b3"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/atlantic_herring.json"
-hash = "05e25b33810a324fc4ebb9d0f997b3120712ee9f08984035129d3f9285fc3217"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/bayad.json"
-hash = "15e4ff18ede4c112a5574121308feb3d3919a721908209208ba454a87cf96b3e"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/blackfish.json"
-hash = "c10971d7f33726f88bdb8a8100dd2ed6b80c93d59cb4af59fd325a6a43ab74a0"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/bluegill.json"
-hash = "6aa337d05ef8b0c33902d7d62f7fbb1c59156e7b7d266b94215b43f0613d6672"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/boulti.json"
-hash = "f9e2f3f34a087c09d49e0d22b13ebd470de1f4ea99143b8b2576e8535bc402fb"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/brown_shrooma.json"
-hash = "1f298faf64831cf1f3a58637c1d9c7e3c4ae7afa0e7fc7ffac6fdef454c74fbe"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/brown_trout.json"
-hash = "6efdd1658e21f07ff1e5bb46ee8715aaecf1089a3d746c8b147635c3cc169d4e"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/capitaine.json"
-hash = "07b63adfc38c978df3704a887e8d639659920f34033601ef82811491e54aa4ad"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/carp.json"
-hash = "8257cacdbdeb1dd259deb375fc516ae1cd6c6486060a05ec8f73b18357de0569"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/catfish.json"
-hash = "9106fd1d82923c14eb4458dbc7a04be149d773a999e3d9630fbfccf4eb1bf0bc"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/gar.json"
-hash = "7d360bcafa3c95bb9adebe2dc05562dce00796e1f5449efb40fceb5d1782e780"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/jellyfish.json"
-hash = "684740a4034fe7b6b63a005e02ced3fe075a7ab2d2e461f1ce1edee10b8df529"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/minnow.json"
-hash = "e8f5586273e398f10b9e122f26ead1237674ae555307dc71a45c356b84e39376"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/muskellunge.json"
-hash = "320f2d8e9036cb77c4db0ca68630ab6128af519152191ba22d98b5a0eee808ab"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/pacific_halibut.json"
-hash = "2f3fcf2c1f63a493c7e3a17c904feb427e445b0eed279a9dc8ae93b6d0ccbfac"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/perch.json"
-hash = "8fd39bfb865ddd7c293a327f298bb9048ac1092434e7158a93c6d58b90b8a09f"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/pink_salmon.json"
-hash = "7702d2356371c187ee9118f03b7caef9cc24f5d6ce9e3f6abc319c92a3a49c82"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/piranha.json"
-hash = "db6f620184c28ea611b2c3d13aecc17e847a094e67a200d16456aa1b85f67757"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/rainbow_trout.json"
-hash = "4284a4dfafb0e3ffa270442af8fe14a2f0c58551abbb770a07d66b78ececdfa5"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/red_grouper.json"
-hash = "50b09667d50c0baa482248cbb0b8bcc0a74608c34bf0d77a7bcd8a240b5df7d6"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/red_shrooma.json"
-hash = "a213ad7d10590993119fd999a38615a5c60b9b12dab8338454458f400cbad230"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/smallmouth_bass.json"
-hash = "be13862952e33423425533b4980cdc0ae481384b71b77e85894278eb44743a28"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/synodontis.json"
-hash = "64c98cea759a7bc182f0ac84487597a2e19b28120b80ce52d6be5dc1c6714ad8"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/tambaqui.json"
-hash = "9b3d434382fca48e483ff373912119aee82de60553a78e580066d385bfa02b18"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquaculture/fishing/tuna.json"
-hash = "e1b7de7b5a8aca0a4230fc1fce1368396380ebc4cb3b59668732984a43f8c458"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquamirae/fishing/angler_fish.json"
-hash = "faa46ff9de00a4fa33060511c46bd85235a4df61e4d0b111bed2bd6c39ec0495"
-
-[[files]]
-file = "packs/bundled/insomnia/data/aquamirae/fishing/spinefish.json"
-hash = "2a5c6f4cfe09960e4b25fbc38f535d7d4798e5a835d023f082dfe810e1e9daef"
-
-[[files]]
 file = "packs/bundled/insomnia/data/c/tags/items/hidden_from_recipe_viewers.json"
 hash = "e1f62a0d151a2fd28139b3e8c30cf02a582954bb782bde7d98024c25722cfb5b"
-
-[[files]]
-file = "packs/bundled/insomnia/data/cataclysm/fishing/lionfish.json"
-hash = "4d924a1b0358983d546caddfda3882ab7addb70c64649e62030b458c96b04f7b"
 
 [[files]]
 file = "packs/bundled/insomnia/data/category/tags/items/archery.json"
@@ -2327,10 +2199,6 @@ hash = "e6da50f0daab0f426cdb3d5d48df48c5f1db3040af144150efb6a79c77b65159"
 [[files]]
 file = "packs/bundled/insomnia/data/category/tags/items/workbench.json"
 hash = "ece965abc02b80a7485b6e8bfc4f3f9375c5ed441bb78cf68a425890acd36587"
-
-[[files]]
-file = "packs/bundled/insomnia/data/crittersandcompanion/fishing/koi_fish.json"
-hash = "f0550fde5350e7524993a36dd46fb51af717b3b71ea7f3608a66b12d7c30ac32"
 
 [[files]]
 file = "packs/bundled/insomnia/data/enhancedcelestials/lunar/event/blood_moon.json"

@@ -1,0 +1,13 @@
+name = "Fishing Real Extra Compatibility"
+filename = "../fishing-real-extra-compatibility-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DQHB6vo3/versions/X8WpCBQc/fishing-real-extra-compatibility-1.1.0.jar"
+hash-format = "sha512"
+hash = "0d6be8801c436cf13271381bcf9203d52f866c2c8126f2a60fdf7dc9db603f4ff28028c8c9c437eaf9d97fe03d7c118317117669bd0741138c366eaa3a98444b"
+
+[update]
+[update.modrinth]
+mod-id = "DQHB6vo3"
+version = "X8WpCBQc"
