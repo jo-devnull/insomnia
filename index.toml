@@ -2450,7 +2450,7 @@ hash = "8f88fe4a45337bc87da9a2e5fc78be6ce31147690f8732c8600fd4aaa4066262"
 
 [[files]]
 file = "packs/bundled/water-reservoir/data/water_reservoir/worldgen/structure_set/underground_reservoirs.json"
-hash = "2457ff76c7c0260737cbc5519707d27dfaec5c6824ae96b0490fdea0056b3d48"
+hash = "bb8d9e59e79ee7fab4441979627f1cc983fb719bb9fd9f38daf8b916cc29e82e"
 
 [[files]]
 file = "packs/bundled/water-reservoir/data/water_reservoir/worldgen/template_pool/water_reservoirs.json"
