@@ -1,0 +1,11 @@
+{
+    "type": "lychee:block_interacting",
+    "hide_in_viewer": true,
+    "item_in": { "item": "air" },
+    "block_in": "notreepunching:stone_loose_rock",
+    "post": [
+        { "type": "prevent_default" },
+        { "type": "place", "block": "*" },
+        { "type": "drop_item", "item": "minecraft:flint" }
+    ]
+}

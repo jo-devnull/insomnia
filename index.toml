@@ -2312,6 +2312,10 @@ file = "packs/bundled/insomnia/data/insomnia/recipes/fill_waterskin.json"
 hash = "776a57e44ae9675b3aa226510b2720a506df057509e4e028ca7262d026dbd785"
 
 [[files]]
+file = "packs/bundled/insomnia/data/insomnia/recipes/flint_from_rock.json"
+hash = "2bcf0913d49d92a7f01cb50694180322c1d8cb0998a472f3294ad1853ffbd804"
+
+[[files]]
 file = "packs/bundled/insomnia/data/insomnia/tags/worldgen/biome/nehemoth_spawns.json"
 hash = "b8e614dbb6da70e259e77e50e1f3396cd827bf7c9b5bb735912323a1e9d6548c"
 
@@ -2322,6 +2326,10 @@ hash = "eb8d71d71611386792283be7da13bb5c556e577dc2b72945eccbe2f3c863c46c"
 [[files]]
 file = "packs/bundled/insomnia/data/modpack/tags/worldgen/biome/safe_biomes.json"
 hash = "0a71387ff661de908cfeeb889f5c417d91fdb962f16bf76c650a8973ea654ce0"
+
+[[files]]
+file = "packs/bundled/insomnia/data/notreepunching/loot_tables/blocks/stone_loose_rock.json"
+hash = "0f005e63609780e5a81e8cdeddfc14c01db7dfe3c8e236838417370e0e2b2086"
 
 [[files]]
 file = "packs/bundled/insomnia/data/simplymore/weapon_attributes/diamond_grandsword.json"
