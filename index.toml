@@ -2663,7 +2663,7 @@ metafile = true
 
 [[files]]
 file = "packs/shaders/complementary-reimagined.pw.toml"
-hash = "1ea0f1604ce00b5a40b9ff4b679a5ec69dcc72bef9a75225a3698d10edd514b1"
+hash = "2375aa595cd28589f007c9a85b54aaaf1f1cc2ffc54bf3d7ea00563817b0da47"
 metafile = true
 
 [[files]]
@@ -2683,7 +2683,7 @@ metafile = true
 
 [[files]]
 file = "packs/shaders/i-like-vanilla.pw.toml"
-hash = "44f8c4b8b0933f0752618040bc8b33de035ebf5d1d1a0eace330b1608d509e77"
+hash = "593fd0bcd413a6a9e56358eca2e1c309afaca4c671fa41bd6991fd60bc766bc3"
 metafile = true
 
 [[files]]
