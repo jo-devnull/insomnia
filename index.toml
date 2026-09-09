@@ -2396,6 +2396,22 @@ file = "packs/bundled/toolworking/data/oei/replacements/tools.json"
 hash = "dff9c38522a2d0ffc1940f4a53aae9a39fd0093dcf0e7e860a696da7f658b377"
 
 [[files]]
+file = "packs/bundled/toolworking/data/toolworking/recipes/bronze.json"
+hash = "1f46a1ff4bf8a240670c12713f991ceac2a991326e35d021a1f9e7177da6e7fb"
+
+[[files]]
+file = "packs/bundled/toolworking/data/toolworking/recipes/bronze_from_raw.json"
+hash = "ce32e173cd0b632aae898790214f44915a7804ecadb69f41c9a632c4be655de1"
+
+[[files]]
+file = "packs/bundled/toolworking/data/toolworking/recipes/glass.json"
+hash = "27826e9e005e730dac3dbcfa8293358039e1feb3cb3ab901d9852c1f0b55e82b"
+
+[[files]]
+file = "packs/bundled/toolworking/data/toolworking/recipes/molten_glass.json"
+hash = "6dba8af8b15c72338bf8cdbe29096883d265a37527e11c518e2807c944844fbd"
+
+[[files]]
 file = "packs/bundled/toolworking/data/toolworking/recipes/refractory_mortar.json"
 hash = "94731c8fd767644d50e478db20b566ac289d24f44b0932e2b30337300b836c0e"
 
@@ -2682,7 +2698,7 @@ metafile = true
 
 [[files]]
 file = "scripts/remove.zs"
-hash = "e0aec4411262085812a0ed6c48f6f0d02b5f04aef1b009b0f5869f33a8250531"
+hash = "5a8194fca2035c2207f1b2ce8d25cc8e20e87cf1872aa0061a71e3a4f65e0c79"
 
 [[files]]
 file = "scripts/tags.zs"

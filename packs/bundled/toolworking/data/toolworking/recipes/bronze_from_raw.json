@@ -1,0 +1,15 @@
+{
+  "type": "createmetallurgy:melting",
+  "heatRequirement": "heated",
+  "ingredients": [
+    { "item": "minecraft:raw_copper" },
+    { "item": "metal_works:raw_tin" }
+  ],
+  "processingTime": 4,
+  "results": [
+    {
+      "amount": 90,
+      "fluid": "createmetallurgy:molten_bronze"
+    }
+  ]
+}

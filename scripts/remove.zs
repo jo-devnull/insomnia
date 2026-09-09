@@ -1,6 +1,8 @@
 # Remove iron recipes from regular furnace
 furnace.remove(<item:minecraft:iron_ingot>);
 
+furnace.remove(<item:minecraft:glass>);
+
 # Remove Ironworks recipes
 craftingTable.removeByName("create_ironworks:tools/shovel/bronze");
 craftingTable.removeByName("create_ironworks:tools/pickaxe/bronze");

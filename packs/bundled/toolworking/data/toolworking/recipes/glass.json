@@ -1,0 +1,14 @@
+{
+  "type": "createmetallurgy:casting_in_basin",
+  "ingredients": [
+    {
+      "amount": 810,
+      "fluid": "toolworking:molten_glass",
+      "nbt": {}
+    }
+  ],
+  "processingTime": 480,
+  "result": {
+    "item": "minecraft:glass"
+  }
+}
