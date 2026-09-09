@@ -1968,6 +1968,11 @@ hash = "379eff87cd328fe5d717cf44e581d584e9cdbea71ce4a8cc13cc92fd30c5e42a"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "0fb3fd29bc4614e153150c36a80b016a0b2f3c91a81f382c606b7bb29ef9a3e3"
+preserve = true
+
+[[files]]
 file = "packs/bundled/VanillaTweaks.zip"
 hash = "622db52934292b831dd7a67bfc6ad22827fe00ce9fb228241c56a29362843aeb"
 
