@@ -45,6 +45,10 @@ file = "config/lmft.json"
 hash = "616b89227e557c16754a9d89ac5b28bf18da1607cea770e2b92eb95a91c6538e"
 
 [[files]]
+file = "config/mixinhelper.json"
+hash = "4b6d686c970403e94e6f8d7d81dba161d9bb8d324447ef76d40922a86d10feb9"
+
+[[files]]
 file = "config/notreepunching.toml"
 hash = "d4ba161e86898376bc32edd89d2baef3ed961380cef2779209c8ea9fec611939"
 
@@ -152,11 +156,6 @@ hash = "90fe7e9b643b074e808a17cc615877b12581867082275400c6c96f2a4dc5a07b"
 [[files]]
 file = "mods.txt"
 hash = "e4100a3a968ba33e5791ded5a375d7c8a903922b1b8f1fca1c35f637aeb76ba9"
-
-[[files]]
-file = "mods/cooking/alexs-mobs-delight.pw.toml"
-hash = "57932ce6e5473692702a404804292fc5808c61573083a7791b01d934bdf8f423"
-metafile = true
 
 [[files]]
 file = "mods/cooking/brewin-and-chewin.pw.toml"
@@ -396,6 +395,11 @@ metafile = true
 [[files]]
 file = "mods/dependency/cloth-config.pw.toml"
 hash = "8641a4f3970298ab8d5eb3fc9252621609eb6fe53a718ac37812fd56ae943f57"
+metafile = true
+
+[[files]]
+file = "mods/dependency/codxlib.pw.toml"
+hash = "60e7292664e0c619998de06a6815df76f7512d6d6418bd703a8072a5a4566515"
 metafile = true
 
 [[files]]
@@ -849,6 +853,11 @@ hash = "6aef066919582cf3a62ef3277c9410ec3f00541820d1a797edb3c70aee240865"
 metafile = true
 
 [[files]]
+file = "mods/mechanics/immersive-fluids-compat.pw.toml"
+hash = "a34b6db553f6407bf9aff377ea4adcc89d30051750385465dc223ef58c7e25dc"
+metafile = true
+
+[[files]]
 file = "mods/mechanics/immersive-fluids.pw.toml"
 hash = "046809bcd79a6d944a7e12f47958d5c2815afb29736dde6cd45768e33993e189"
 metafile = true
@@ -1289,13 +1298,8 @@ hash = "149c0e562d44fdf751f7793cd365dd248ee2ed0bb22e183c5f89181a61e22329"
 metafile = true
 
 [[files]]
-file = "mods/mobs/alexs-mobs-interaction.pw.toml"
-hash = "2ccc0c7a7ca3851e24f6e2dbc1d9d195cde42049a7e8519631771dc36fea7e97"
-metafile = true
-
-[[files]]
-file = "mods/mobs/alexs-mobs.pw.toml"
-hash = "be367a3747553d01d45316795404528aa01d32a126c9330f4076a90c283ccd1d"
+file = "mods/mobs/alexs-mobs-continued.pw.toml"
+hash = "b67f6fc61f135f2e5447620322d669b301570bcf8b78b14a76d3c29c0ce09052"
 metafile = true
 
 [[files]]
@@ -1426,11 +1430,6 @@ metafile = true
 [[files]]
 file = "mods/performance/accelerated-decay.pw.toml"
 hash = "f627222b24ca3289c74dc80a963be4058ae8359f199729176ee4bc6724a44d57"
-metafile = true
-
-[[files]]
-file = "mods/performance/amt.pw.toml"
-hash = "fdae4385c3925e1b82b060f1f141ceca7a1dd293dfd9ce4bb6f75f4abde042fb"
 metafile = true
 
 [[files]]
@@ -1819,11 +1818,6 @@ hash = "93e69ffa298e42068ac2ca46cf7b1fa8cbeb7cfb5dc0b787cd4485994fac4c0a"
 metafile = true
 
 [[files]]
-file = "mods/utilities/immersive-fluids-compat.pw.toml"
-hash = "06ae9b35c9769c4ab936da6dcf402162e0397284fdc9d7f162af2a4b67a0b88e"
-metafile = true
-
-[[files]]
 file = "mods/utilities/in-control.pw.toml"
 hash = "1ba7f5ee8d37166ab8c2356039c1a54bec725e77639f7d953802d72c696677c5"
 metafile = true
@@ -1841,6 +1835,11 @@ metafile = true
 [[files]]
 file = "mods/utilities/mcwifipnp.pw.toml"
 hash = "39dcfe1e4d395ad674b475a6442c815af276e5ffb6d9af82d9817cda432e72c8"
+metafile = true
+
+[[files]]
+file = "mods/utilities/mixin-helper.pw.toml"
+hash = "a9f8de0516398aa24d92dbec466c17c2bbfbbdb396c4ec971955176b6d5a0bb5"
 metafile = true
 
 [[files]]

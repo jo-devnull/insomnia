@@ -1,0 +1,13 @@
+name = "Alex's Mobs Continued"
+filename = "../alexsmobs-2.1.11-forge+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kYIaHHfw/versions/qBzl4UjA/alexsmobs-2.1.11-forge%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "0418c2691d600a3c4a09ba75858b3ffd5dbdefe309bc03e34281c9d1d092e2d248022483cc1b5d24f5c07948ded6268792a453a89f9b69e3f28f29a4b641395e"
+
+[update]
+[update.modrinth]
+mod-id = "kYIaHHfw"
+version = "qBzl4UjA"
