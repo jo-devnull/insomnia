@@ -1,0 +1,14 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "supported_formats": {
+            "min_inclusive":  16,
+            "max_inclusive": 81
+        },
+        "description": {
+            "text": "Adds underground water reservoirs",
+            "color": "light_blue",
+            "bold": false
+        }
+    }
+}

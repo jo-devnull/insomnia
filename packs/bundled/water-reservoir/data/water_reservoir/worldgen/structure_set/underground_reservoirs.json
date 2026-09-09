@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "water_reservoir:water_reservoir_one",
+      "weight": 3
+    },
+    {
+      "structure": "water_reservoir:water_reservoir_two",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 32,
+    "separation": 16,
+    "salt": 183746
+  }
+}
