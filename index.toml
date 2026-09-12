@@ -288,6 +288,11 @@ hash = "b972791975aab662f1bb04610dfaa896e0d278883dca084246e70dd1ec1ff5b6"
 metafile = true
 
 [[files]]
+file = "mods/decoration/punchy-fpa.pw.toml"
+hash = "99f325449bdb6681aed83ce9b00c7c76064161859fd845a38e77a95f00651e8e"
+metafile = true
+
+[[files]]
 file = "mods/decoration/radiant-gear.pw.toml"
 hash = "16de645ffccc914aad897a5ead503f2823702fb1fc9386cf53012082cda047b8"
 metafile = true
@@ -395,11 +400,6 @@ metafile = true
 [[files]]
 file = "mods/dependency/cloth-config.pw.toml"
 hash = "8641a4f3970298ab8d5eb3fc9252621609eb6fe53a718ac37812fd56ae943f57"
-metafile = true
-
-[[files]]
-file = "mods/dependency/codxlib.pw.toml"
-hash = "60e7292664e0c619998de06a6815df76f7512d6d6418bd703a8072a5a4566515"
 metafile = true
 
 [[files]]
@@ -1298,8 +1298,8 @@ hash = "149c0e562d44fdf751f7793cd365dd248ee2ed0bb22e183c5f89181a61e22329"
 metafile = true
 
 [[files]]
-file = "mods/mobs/alexs-mobs-continued.pw.toml"
-hash = "b67f6fc61f135f2e5447620322d669b301570bcf8b78b14a76d3c29c0ce09052"
+file = "mods/mobs/alexs-mobs.pw.toml"
+hash = "de4633d8e3a7837e6ab2794f57a7d2fa0140817bf5eb2161d8a661f6b9ac8571"
 metafile = true
 
 [[files]]
@@ -2609,6 +2609,11 @@ metafile = true
 [[files]]
 file = "packs/resources/gentler-weather-sounds.pw.toml"
 hash = "dbcf037cfc9dbbc387d2689cee6693896cedf9b632a4047d6163eaa115b29f61"
+metafile = true
+
+[[files]]
+file = "packs/resources/hyper-punchy.pw.toml"
+hash = "c1a500647c961f03e2e7b52364e1deefc860f56a6fe340355a04d7b04d05e111"
 metafile = true
 
 [[files]]

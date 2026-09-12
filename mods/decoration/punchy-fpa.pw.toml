@@ -1,0 +1,17 @@
+name = "Punchy!"
+filename = "../punchy-2.7e-forge-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8aoMKplv/versions/iwlf0oxi/punchy-2.7e-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "8dc52ab2754379a3efde871a77e45524b645284ecb90b37a83e5184c477b1de00c661a121ba2e144cbdd0da29e1da82a0b327f021582fbfaacd1d1837ae98186"
+
+[update]
+[update.modrinth]
+mod-id = "8aoMKplv"
+version = "iwlf0oxi"
+
+[option]
+optional = true
+default = true
