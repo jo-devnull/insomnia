@@ -7,8 +7,26 @@
     "result": "deny",
     "hostile": true,
     "dimension": "overworld",
-    "phase": "safe_phase",
+    "phase": "initial_protection",
     "minheight": 27
+  },
+  {
+    "result": "deny",
+    "hostile": true,
+    "dimension": "overworld",
+    "phase": "no_minibosses",
+    "mob": [
+        "samurai_dynasty:jorogumo",
+        "zoniex:tormented_zombie",
+        "irons_spellbooks:necromancer"
+    ]
+  },
+  {
+    "result": "deny",
+    "hostile": true,
+    "dimension": "overworld",
+    "phase": "no_minibosses",
+    "mod": "mutant_monsters"
   },
   {
     "result": "deny",
@@ -63,6 +81,7 @@
     "hostile": true,
     "dimension": "overworld",
     "biometags": "modpack:safe_biomes",
-    "minheight": 40
+    "phase": "safe_biomes",
+    "minheight": 30
   }
 ]

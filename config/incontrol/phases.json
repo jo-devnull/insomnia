@@ -1,8 +1,20 @@
 [
-  {
-    "name": "safe_phase",
-    "conditions": {
-      "maxdaycount": 3
+    {
+        "name": "initial_protection",
+        "conditions": {
+            "maxdaycount": 3
+        }
+    },
+    {
+        "name": "safe_biomes",
+        "conditions": {
+            "maxdaycount": 27
+        }
+    },
+    {
+        "name": "no_minibosses",
+        "conditions": {
+            "maxdaycount": 17
+        }
     }
-  }
 ]
