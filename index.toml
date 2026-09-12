@@ -18,7 +18,7 @@ hash = "b4b0aaec74cd2c37a2d0d384a4195768d8d7cbc9f86c7d993694e394fa35664d"
 
 [[files]]
 file = "config/emi.css"
-hash = "572000586752915fdc090f113cdb94470bc5b7d8f61ed120f9cb59207b5297c8"
+hash = "ad491bf1100ea98c957c3e18a0b31551f14fcc1ad6602e37fe1793ba549967a8"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
