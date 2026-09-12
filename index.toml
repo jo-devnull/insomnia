@@ -854,7 +854,7 @@ metafile = true
 
 [[files]]
 file = "mods/mechanics/immersive-fluids-compat.pw.toml"
-hash = "a34b6db553f6407bf9aff377ea4adcc89d30051750385465dc223ef58c7e25dc"
+hash = "840d332c52aa0ef50c58e3b825d9ab7fa52b73d3b80a4f7596f67811f08d49e6"
 metafile = true
 
 [[files]]
@@ -2672,6 +2672,11 @@ metafile = true
 [[files]]
 file = "packs/resources/xalis-potions.pw.toml"
 hash = "04068eb4e791f540e90b43efac083243672ed3f0999754bca09ec7b1b49c9c3a"
+metafile = true
+
+[[files]]
+file = "packs/shaders/bliss-shader.pw.toml"
+hash = "880a2651479206f4737f38f1855784cddc5313668da9232af95c58eab78f7e47"
 metafile = true
 
 [[files]]
