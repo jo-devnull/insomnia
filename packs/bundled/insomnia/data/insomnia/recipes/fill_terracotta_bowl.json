@@ -1,0 +1,13 @@
+{
+  "type": "immersive_fluids_compat:pickup_water",
+  "amount": 1,
+  "container": {
+    "item": "thirst:terracotta_bowl"
+  },
+  "result": {
+    "item": "thirst:terracotta_water_bowl",
+    "nbt": {
+      "Purity": 0
+    }
+  }
+}

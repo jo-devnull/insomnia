@@ -29,6 +29,12 @@
   {
     "result": "default",
     "hostile": true,
+    "spawner": true,
+    "dimension": "overworld"
+  },
+  {
+    "result": "default",
+    "hostile": true,
     "dimension": "overworld",
     "lunar": [
       "enhancedcelestials:blood_moon",

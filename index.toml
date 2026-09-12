@@ -30,7 +30,7 @@ hash = "adf61b3dd2c07d8649ce3973a1dbf04a0c663f7f8b6a2c3db96f991e1b3c6f14"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "120b744d7e1df43fdce9b3d3524741ec871ad802f781243386c62f47288b8651"
+hash = "660b85524675332ddbf15051672bc02255d00fb883e58e9b9c0a538b70c35a09"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -2313,6 +2313,10 @@ file = "packs/bundled/insomnia/data/insomnia/recipes/fill_military_bottle.json"
 hash = "d552f8126d21a64d80126ca067a48ca53096d4b0a0cccde41c9803a77bf74e95"
 
 [[files]]
+file = "packs/bundled/insomnia/data/insomnia/recipes/fill_terracotta_bowl.json"
+hash = "5c3417e79dcc92e7290a582a18c0c09acab489d21b24c99a509ab86a63e4257f"
+
+[[files]]
 file = "packs/bundled/insomnia/data/insomnia/recipes/fill_waterskin.json"
 hash = "776a57e44ae9675b3aa226510b2720a506df057509e4e028ca7262d026dbd785"
 
@@ -2330,11 +2334,15 @@ hash = "eb8d71d71611386792283be7da13bb5c556e577dc2b72945eccbe2f3c863c46c"
 
 [[files]]
 file = "packs/bundled/insomnia/data/modpack/tags/worldgen/biome/safe_biomes.json"
-hash = "0a71387ff661de908cfeeb889f5c417d91fdb962f16bf76c650a8973ea654ce0"
+hash = "59094509a66fd02c5a62078a2e2325906b9f148f1c6c01bbce030b1574fc797f"
 
 [[files]]
 file = "packs/bundled/insomnia/data/notreepunching/loot_tables/blocks/stone_loose_rock.json"
 hash = "0f005e63609780e5a81e8cdeddfc14c01db7dfe3c8e236838417370e0e2b2086"
+
+[[files]]
+file = "packs/bundled/insomnia/data/notreepunching/tags/items/weak_saws.json"
+hash = "0f614856644c3c19092cecc676b3c53fdfb310422761737055186868c55de486"
 
 [[files]]
 file = "packs/bundled/insomnia/data/simplymore/weapon_attributes/diamond_grandsword.json"
@@ -2694,6 +2702,11 @@ metafile = true
 [[files]]
 file = "packs/shaders/i-like-vanilla.pw.toml"
 hash = "593fd0bcd413a6a9e56358eca2e1c309afaca4c671fa41bd6991fd60bc766bc3"
+metafile = true
+
+[[files]]
+file = "packs/shaders/photon-shader.pw.toml"
+hash = "5249b78a31ce2bb6d8d7933233525cac2fd42ba7af1e0896ce6d76f8dd1e3c9d"
 metafile = true
 
 [[files]]
