@@ -2747,7 +2747,7 @@ metafile = true
 
 [[files]]
 file = "packs/shaders/photon-shader.pw.toml"
-hash = "5249b78a31ce2bb6d8d7933233525cac2fd42ba7af1e0896ce6d76f8dd1e3c9d"
+hash = "52623e95112b91b7e29316cd31aa277b7a31e9280e502f0a6f88f3e69bc2fecc"
 metafile = true
 
 [[files]]
