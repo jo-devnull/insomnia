@@ -2711,6 +2711,7 @@ metafile = true
 file = "packs/shaders/complementary-reimagined-options.pw.toml"
 hash = "fbb4255bfde7ba178c7761a1afea3cc0c38a5667523b9ccd0603443742c71e6d"
 metafile = true
+preserve = true
 
 [[files]]
 file = "packs/shaders/complementary-reimagined.pw.toml"
@@ -2721,6 +2722,7 @@ metafile = true
 file = "packs/shaders/glimmer-shaders-options.pw.toml"
 hash = "b90960c4c6ed70a1113af386598ec3a871e473441f344de09289a230910c88af"
 metafile = true
+preserve = true
 
 [[files]]
 file = "packs/shaders/glimmer-shaders.pw.toml"
@@ -2731,6 +2733,7 @@ metafile = true
 file = "packs/shaders/i-like-vanilla-options.pw.toml"
 hash = "645a8e93d8d5a0ff5bc9ebf20830f4be9d429103c7e872f4a694212844d50634"
 metafile = true
+preserve = true
 
 [[files]]
 file = "packs/shaders/i-like-vanilla.pw.toml"
@@ -2746,6 +2749,7 @@ metafile = true
 file = "packs/shaders/spooklementary-options.pw.toml"
 hash = "4e8c907be8cc5068b4315c40076f059b69ff1b62cb7381cc455b265349b5a239"
 metafile = true
+preserve = true
 
 [[files]]
 file = "packs/shaders/spooklementary.pw.toml"
