@@ -1307,6 +1307,11 @@ hash = "aebad8093fb59d03eb81b34f8c266c3d804f9971b68e2448f7e985de309a9357"
 metafile = true
 
 [[files]]
+file = "mods/misc/watering-cans-dew-drop.pw.toml"
+hash = "57304a02b3a8bed0fe04970a948f6ea70c4801892727c9a8419ed23c75536f22"
+metafile = true
+
+[[files]]
 file = "mods/misc/yung-structures-addon-for-loot-integrations.pw.toml"
 hash = "a99dbf197a7c961c6bb87e4e72d4e9c4a267535e311bc671c3ac2a45524987f5"
 metafile = true
