@@ -10,15 +10,18 @@ hash = "d6970cdc89aa974a8ad906bad919486166fb4c8b58fafa009c4f87c246821905"
 
 [[files]]
 file = "config/chloride-client.toml"
-hash = "00d9ee8c5e5b0790107dd4400a72cb999445b208394b0f53d0c13da029b3802c"
+hash = "e7defa71febea87b2437b3d4c3523fb556ea98bad19006c272961a28b0b6b805"
+preserve = true
 
 [[files]]
 file = "config/embeddium-options.json"
 hash = "b4b0aaec74cd2c37a2d0d384a4195768d8d7cbc9f86c7d993694e394fa35664d"
+preserve = true
 
 [[files]]
 file = "config/emi.css"
 hash = "ad491bf1100ea98c957c3e18a0b31551f14fcc1ad6602e37fe1793ba549967a8"
+preserve = true
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
@@ -72,66 +75,82 @@ hash = "52ddf5c4c461c7eedacc994293bd6d6da5b4ea6112a03df4f76805175d74d1e1"
 [[files]]
 file = "config/xaero/lib/client.cfg"
 hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+preserve = true
 
 [[files]]
 file = "config/xaero/lib/common.cfg"
 hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+preserve = true
 
 [[files]]
 file = "config/xaero/lib/profiles/default.cfg"
 hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+preserve = true
 
 [[files]]
 file = "config/xaero/lib/server_profiles/default.cfg"
 hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/client.cfg"
 hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/common.cfg"
 hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/default_radar_categories_client.json"
 hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/default_radar_categories_server.json"
 hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
 hash = "f9ce478a7263a91a9234e4b6414fce1e4b1a62968350d0557d594d1ff78bab74"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
 hash = "405e00f67e495574aa251d77a4379b3aac07204a7a9c3fee4eb94a37e02529b0"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
 hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/server_profiles/default.cfg"
 hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+preserve = true
 
 [[files]]
 file = "config/xaero/world-map/client.cfg"
 hash = "d0f079a8df083f6f60a0e0c1316a25fc841755a91bdcb2f86c66ead8e7d4d13d"
+preserve = true
 
 [[files]]
 file = "config/xaero/world-map/common.cfg"
 hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+preserve = true
 
 [[files]]
 file = "config/xaero/world-map/profiles/default.cfg"
 hash = "1377e87b65dcc92a022c06d5673733985b050b0a431dd0cba3c640ba5b346d72"
+preserve = true
 
 [[files]]
 file = "config/xaero/world-map/server_profiles/default.cfg"
 hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+preserve = true
 
 [[files]]
 file = "credits.txt"
