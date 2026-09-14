@@ -23,10 +23,9 @@
   },
   {
     "result": "deny",
-    "hostile": true,
     "dimension": "overworld",
     "phase": "no_minibosses",
-    "mod": "mutant_monsters"
+    "mod": "mutantmonsters"
   },
   {
     "result": "deny",
@@ -75,6 +74,13 @@
     "mod": "fromtheshadows",
     "biometags": "forge:is_cave",
     "minheight": 0
+  },
+  {
+    "result": "default",
+    "hostile": true,
+    "dimension": "overworld",
+    "biometags": "modpack:always_unsafe",
+    "phase": "after_3_days"
   },
   {
     "result": "deny",

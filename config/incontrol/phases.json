@@ -2,7 +2,13 @@
     {
         "name": "initial_protection",
         "conditions": {
-            "maxdaycount": 3
+            "maxdaycount": 4
+        }
+    },
+    {
+        "name": "after_3_days",
+        "conditions": {
+            "mindaycount": 4
         }
     },
     {

@@ -11,6 +11,11 @@
     "minecraft:snowy_slopes",
     "minecraft:frozen_peaks",
     "biomesoplenty:coniferous_forest",
-    "terralith:forested_highlands"
+    "terralith:forested_highlands",
+    "terralith:blooming_plateau",
+    "terralith:moonlight_valley",
+    "terralith:lush_valey",
+    "terralith:alpine_highlands",
+    "terralith:highlands"
   ]
 }

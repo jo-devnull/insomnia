@@ -29,11 +29,11 @@ hash = "43a36ecf6b8eb33bcd8570cec14426391e257280353730fec993ed5e94621fd9"
 
 [[files]]
 file = "config/incontrol/phases.json"
-hash = "80309fca01a60f4e12ce8c63a6aa11823b63c0ac8cb9696f1a44a40c457d1ce9"
+hash = "23c061dff537885bd4540c2a1471722a791e9cce3ffe348b8996d294098e2f1c"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "6d8673e69a07429f0fd904e601511cff1f31322f1e5dcedc1033e7167448866a"
+hash = "252503f6e7b3e75a0ab57cdf70ef03c90eca97603ea3ade3e00cd954db612d4b"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -2367,7 +2367,7 @@ hash = "eb8d71d71611386792283be7da13bb5c556e577dc2b72945eccbe2f3c863c46c"
 
 [[files]]
 file = "packs/bundled/insomnia/data/modpack/tags/worldgen/biome/safe_biomes.json"
-hash = "59094509a66fd02c5a62078a2e2325906b9f148f1c6c01bbce030b1574fc797f"
+hash = "c46246809690a9845ae9fb43f19517784696e9cc493e5dc7b103d46f5a7b5bb5"
 
 [[files]]
 file = "packs/bundled/insomnia/data/notreepunching/loot_tables/blocks/stone_loose_rock.json"
