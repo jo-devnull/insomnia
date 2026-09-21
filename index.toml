@@ -712,6 +712,11 @@ hash = "50441180dbe45abc794dda96a63ffcefb1e80d9a98d966040326d1ac89aa55b0"
 metafile = true
 
 [[files]]
+file = "mods/dependency/supermartijn642s-core-lib.pw.toml"
+hash = "fbdaa218fb15b128d49f68efd1af6a49581878117f44b808557ac87810b4d326"
+metafile = true
+
+[[files]]
 file = "mods/dependency/terrablender.pw.toml"
 hash = "33f55d6944dd3448368cb0a10c4f07cfde529afac04ce7a74d66ef80aa227de5"
 metafile = true
@@ -749,6 +754,16 @@ metafile = true
 [[files]]
 file = "mods/equipment/fantasy-armor.pw.toml"
 hash = "68f8d778e53c44de8258f791ba2e258ea2b817eb1cfba111e8b923d0f229a2fb"
+metafile = true
+
+[[files]]
+file = "mods/equipment/guns-without-roses.pw.toml"
+hash = "bc138155795596a0ff791bdda4c4a245b3cc46c8e79d289a212bba50cd7694a4"
+metafile = true
+
+[[files]]
+file = "mods/equipment/gunswithoutroses-expansions.pw.toml"
+hash = "4d65617927f0ee9774f50520a948efa4182abdd99ceb8d49ae3381a88cb25a4d"
 metafile = true
 
 [[files]]
@@ -997,6 +1012,11 @@ hash = "9ee19b29e99cae23b0c026b1e5e11d9e0de61e0e5b35f417099611f3b6639605"
 metafile = true
 
 [[files]]
+file = "mods/misc/arphex-bop-integration.pw.toml"
+hash = "bee32e76fd886afcacec813f812dd1c4934909cb6e228f13ed64dc8ef21f4ab1"
+metafile = true
+
+[[files]]
 file = "mods/misc/automobility.pw.toml"
 hash = "3774aa450a17ec506ff817b750f4af0332de66ee68ec33bdf98831e4ca92b109"
 metafile = true
@@ -1187,6 +1207,11 @@ hash = "fa3c9c407b1d9766929f5aa822e7873b4abe671ffc7ebcdc5031ef208accb409"
 metafile = true
 
 [[files]]
+file = "mods/misc/nirvana.pw.toml"
+hash = "a5c685f1dd9c259000479a70affe4fde595893f355d38f2f93466aca38b8cd65"
+metafile = true
+
+[[files]]
 file = "mods/misc/not-enough-animations.pw.toml"
 hash = "370d637a67c18a234cab9c262a6936036431389aa2ec992ae322e233b9c4d17f"
 metafile = true
@@ -1342,6 +1367,11 @@ hash = "2ab9174d44cc042df417b5743c7df5233eab7560b1cbdb015d86f8798712ccf6"
 metafile = true
 
 [[files]]
+file = "mods/mobs/arphex.pw.toml"
+hash = "12f171200252f34df69ce1be65933be0d2da436e893d0f1a51b3958546b9e721"
+metafile = true
+
+[[files]]
 file = "mods/mobs/better-animations-collection.pw.toml"
 hash = "92ebd54119bd8e02bde585df52f3c78647d119a49bfa43a51d41581382e8e654"
 metafile = true
@@ -1394,6 +1424,11 @@ metafile = true
 [[files]]
 file = "mods/mobs/lendercataclysm.pw.toml"
 hash = "bf584f52d89c3b187737bbbaf954a078de184f0162ca2d9a21f07b2f9b84aa0d"
+metafile = true
+
+[[files]]
+file = "mods/mobs/lisa-inspired-by-the-interactive-teaser-p.t..pw.toml"
+hash = "410d47d8ff0cf6ead71154da2a123e5dce89ebfed9fb7617cbb6a823154f3393"
 metafile = true
 
 [[files]]
@@ -1557,8 +1592,8 @@ hash = "3a9ebaacbf0adf950928b868c477c8db012bf503606b808d80ee1852e0aa9c03"
 metafile = true
 
 [[files]]
-file = "mods/performance/radium.pw.toml"
-hash = "256acc1cdee0fbb80b41592579db2477972844c43c95bad0dc78a499a3644213"
+file = "mods/performance/radium-re-reforged.pw.toml"
+hash = "a93d1b57bdc50662fefffbf8472c02f1179116ef2c0c7b590d96331ecadce76e"
 metafile = true
 
 [[files]]
@@ -1589,6 +1624,11 @@ metafile = true
 [[files]]
 file = "mods/performance/terrablenderfix.pw.toml"
 hash = "ed777a15d6936154186c41529e7d5d9e30bcf46ce388779be1f48a711ae736dd"
+metafile = true
+
+[[files]]
+file = "mods/performance/zfastnoise.pw.toml"
+hash = "625d388ba5b29ac96ec1a7e30fa6d875d82070be763bd7d5d753c7c543658328"
 metafile = true
 
 [[files]]
@@ -1807,6 +1847,11 @@ hash = "d427c12a40ad892fb3af7605eb30f0fb2ac33a51939fe759520af9c3d2929e39"
 metafile = true
 
 [[files]]
+file = "mods/utilities/chunky.pw.toml"
+hash = "a2d4182431afb4ef81fa0c11b38ff7427c6ae285228056a53b0451b9833cf02c"
+metafile = true
+
+[[files]]
 file = "mods/utilities/client-tweaks.pw.toml"
 hash = "98164206c37ed0d9b3f801fbf7da7b2e2fdf9313e2fd4a8f0752fdec5aa69c16"
 metafile = true
@@ -1964,6 +2009,11 @@ metafile = true
 [[files]]
 file = "mods/world/nyctophobia-forge.pw.toml"
 hash = "e98961748f7295dff491506d46a1afe989821cda713b5bfa38c6088528de2594"
+metafile = true
+
+[[files]]
+file = "mods/world/ore-growth.pw.toml"
+hash = "05642e0b52bc08ef20f40e9b5a45a15daf5943d61de85c8d53119c32614b708c"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "ArPhEx: BOP Integration"
+filename = "../arphexbopintegration-forge-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HaL2N8Kv/versions/K7xquP49/arphexbopintegration-forge-1.20.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "fb5425daeb06baee65e2e890fa2660bb92d8e8711d9a411fe97e4a20733268d269de365a2d07f174b50b500e4087a5c1b49d9cbb3610b23f11535d375fbf49f0"
+
+[update]
+[update.modrinth]
+mod-id = "HaL2N8Kv"
+version = "K7xquP49"

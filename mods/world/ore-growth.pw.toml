@@ -1,0 +1,13 @@
+name = "Ore Growth"
+filename = "../oregrowth-1.2.0-forge-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/psKAO98W/versions/wNEX7Y1u/oregrowth-1.2.0-forge-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "d06f9cc1fdaa91be203bab770e7fd4de0ad7495f3f7f62d34ab3765bf32aea23a22dadaedbfc5d6ddb6bfb59564648047712b8863542d24d73ee6f1f1d21b56b"
+
+[update]
+[update.modrinth]
+mod-id = "psKAO98W"
+version = "wNEX7Y1u"

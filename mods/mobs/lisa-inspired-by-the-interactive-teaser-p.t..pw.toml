@@ -1,0 +1,13 @@
+name = "Lisa (Inspired by the interactive teaser \"P.T.\")"
+filename = "../lisa-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g063piCq/versions/PnrEoasD/lisa-2.0.4.jar"
+hash-format = "sha512"
+hash = "2e4ad539c77a174e48dff16bd675c463711af45d5738d4084a0c50c0d7e2329a1c6017666a468cf8e36e096c266f91c8b04310d41c2df626b1041b658fd4593e"
+
+[update]
+[update.modrinth]
+mod-id = "g063piCq"
+version = "PnrEoasD"
