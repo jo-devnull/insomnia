@@ -20,7 +20,7 @@
     {
         "name": "no_minibosses",
         "conditions": {
-            "maxdaycount": 17
+            "maxdaycount": 14
         }
     }
 ]

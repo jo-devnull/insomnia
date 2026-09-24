@@ -1,0 +1,13 @@
+name = "Lisa (Inspired by the interactive teaser \"P.T.\")"
+filename = "../lisa-2.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d4b9e7e28640b39d22148310d5c5f954b290536f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8950695
+project-id = 1499943

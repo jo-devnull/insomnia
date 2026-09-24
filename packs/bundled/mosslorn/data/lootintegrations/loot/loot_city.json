@@ -1,0 +1,14 @@
+{
+    "loot_table": "lootintegrations:chests/village",
+    "max_result_itemcount": 8,
+    "integrated_loot_tables": {
+        "mosslorn:chests/crate_bathroom": 3,
+        "mosslorn:chests/crate_books": 3,
+        "mosslorn:chests/crate_car": 3,
+        "mosslorn:chests/crate_fridge": 2,
+        "mosslorn:chests/crate_house": 3,
+        "mosslorn:chests/crate_kitchen": 3,
+        "mosslorn:chests/crate_office": 2,
+        "mosslorn:chests/moss_megastructure": 3
+    }
+}

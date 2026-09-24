@@ -1,0 +1,9 @@
+{
+    "loot_table": "integrated_villages:chests/tavern_village/tavern_village_kitchen",
+    "max_result_itemcount": 8,
+    "integrated_loot_tables": {
+        "mosslorn:chests/crate_fridge": 2,
+        "mosslorn:chests/crate_house": 2,
+        "mosslorn:chests/crate_kitchen": 2
+    }
+}

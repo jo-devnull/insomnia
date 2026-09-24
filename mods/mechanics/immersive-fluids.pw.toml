@@ -1,13 +1,15 @@
-name = "Immersive Fluids"
-filename = "../immersivefluids-1.2.5.1.jar"
+name = "immersive-fluids"
+filename = "../immersivefluids-0.1.3.0-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HgThmzCu/versions/xUncvhYD/immersivefluids-1.2.5.1.jar"
-hash-format = "sha512"
-hash = "726a9d807c46f24f5e1445b66d12a713c97e814731c68b32b865dae3ec63770f9aa562594b62fa5df9290f3f01d3dc71e3655be60bcb089ec690ce9f59fc54f3"
+url = "https://github.com/jo-devnull/immersive-fluids/releases/download/v0.1.3.0-1.20.1/immersivefluids-0.1.3.0-1.20.1.jar"
+hash-format = "sha256"
+hash = "f4ae9eb5fcdee9e1eb06081ec8017766eee2b814329d171f0ec69e40b0cdb1a3"
 
 [update]
-[update.modrinth]
-mod-id = "HgThmzCu"
-version = "xUncvhYD"
+[update.github]
+branch = "1.20.1-forge"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "jo-devnull/immersive-fluids"
+tag = "v0.1.3.0-1.20.1"

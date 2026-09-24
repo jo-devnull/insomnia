@@ -1,0 +1,13 @@
+name = "The Witch"
+filename = "../thewitch-2.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9b8ad69cd999f2091db6a0950e303f86201cd8bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8950712
+project-id = 1233788
