@@ -1,0 +1,8 @@
+{
+    "loot_table": "lootintegrations:chests/village",
+    "max_result_itemcount": 8,
+    "integrated_loot_tables": {
+        "watchtower_building:chests/towerloot": 3,
+        "watchtower_building:chests/fresh_towerloot": 4
+    }
+}

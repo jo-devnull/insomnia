@@ -6,9 +6,9 @@
         }
     },
     {
-        "name": "after_3_days",
+        "name": "after_7_days",
         "conditions": {
-            "mindaycount": 4
+            "mindaycount": 7
         }
     },
     {

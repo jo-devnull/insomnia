@@ -79,14 +79,7 @@
     "result": "default",
     "hostile": true,
     "dimension": "overworld",
-    "area": "abandoned_city"
-  },
-  {
-    "result": "default",
-    "hostile": true,
-    "dimension": "overworld",
-    "biometags": "modpack:always_unsafe",
-    "phase": "after_3_days"
+    "biometags": "modpack:always_unsafe"
   },
   {
     "result": "deny",

@@ -1,13 +1,1 @@
-[
-    {
-        "dimension": "minecraft:overworld",
-        "name": "abandoned_city",
-        "type": "box",
-        "x": -95,
-        "y": 64,
-        "z": 106,
-        "dimx": 350,
-        "dimy": 64,
-        "dimz": 350
-    }
-]
+[]
