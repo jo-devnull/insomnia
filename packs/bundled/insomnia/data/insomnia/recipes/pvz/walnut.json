@@ -1,0 +1,10 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        { "item": "ecologics:walnut" },
+        { "fluid": "create_wizardry:mana", "amount": 125, "nbt": {} }
+    ],
+    "results": [
+        { "item": "pvz_myh:walnut_card" }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        { "item": "minecraft:wheat_seeds" },
+        { "item": "create:zinc_ingot" },
+        { "fluid": "create_wizardry:mana", "amount": 125, "nbt": {} }
+    ],
+    "results": [
+        { "item": "pvz_myh:repeater_card" }
+    ]
+}

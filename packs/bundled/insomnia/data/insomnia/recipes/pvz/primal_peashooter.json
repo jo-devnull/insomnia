@@ -1,0 +1,11 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        { "item": "minecraft:wheat_seeds" },
+        { "item": "irons_spellbooks:arcane_ingot" },
+        { "fluid": "create_wizardry:mana", "amount": 250, "nbt": {} }
+    ],
+    "results": [
+        { "item": "pvz_myh:primal_peashooter_card" }
+    ]
+}

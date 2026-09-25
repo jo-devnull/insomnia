@@ -1,0 +1,11 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        { "item"  : "minecraft:wheat_seeds" },
+        { "item"  : "minecraft:ice" },
+        { "fluid" : "create_wizardry:mana", "amount": 250, "nbt": {} }
+    ],
+    "results": [
+        { "item": "pvz_myh:snowpea_card" }
+    ]
+}

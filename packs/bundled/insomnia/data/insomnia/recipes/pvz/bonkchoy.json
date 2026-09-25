@@ -1,0 +1,11 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        { "item": "farmersdelight:cabbage" },
+        { "item": "dew_drop_farmland_growth:strong_fertilizer" },
+        { "fluid": "create_wizardry:mana", "amount": 125, "nbt": {} }
+    ],
+    "results": [
+        { "item": "pvz_myh:bonkchoy_card" }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        { "item": "ecologics:walnut" },
+        { "item": "dew_drop_farmland_growth:strong_fertilizer" },
+        { "fluid": "create_wizardry:mana", "amount": 250, "nbt": {} }
+    ],
+    "results": [
+        { "item": "pvz_myh:tall_nut_card" }
+    ]
+}

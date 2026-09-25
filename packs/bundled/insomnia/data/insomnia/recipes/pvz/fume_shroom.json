@@ -1,0 +1,10 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        { "item": "minecraft:red_mushroom" },
+        { "fluid": "create_wizardry:mana", "amount": 125, "nbt": {} }
+    ],
+    "results": [
+        { "item": "pvz_myh:fume_shroom_card" }
+    ]
+}

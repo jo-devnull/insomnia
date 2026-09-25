@@ -1,0 +1,11 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        { "item": "minecraft:wheat_seeds" },
+        { "item": "minecraft:blaze_rod" },
+        { "fluid": "create_wizardry:mana", "amount": 250, "nbt": {} }
+    ],
+    "results": [
+        { "item": "pvz_myh:gatling_pea_card" }
+    ]
+}

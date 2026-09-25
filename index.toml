@@ -2380,31 +2380,95 @@ hash = "0371a4848c6eadf08597281d021526359542bb8ea3669ff4fccdf8969b4c0611"
 
 [[files]]
 file = "packs/bundled/insomnia/data/immersive_fluids_compat/recipes/fill_glass_bottle.json"
-hash = "18b217f88a806b7119f4e1927baa5d1f46ba8938946d0053d64fad590fb50fd9"
+hash = "9093dbc36de6b443870cc28a60d6f15684d5165d78fd163ae482ec899537bcd3"
 
 [[files]]
-file = "packs/bundled/insomnia/data/insomnia/recipes/fill_canteen.json"
-hash = "8dc6e762b92e946bfbeb883ef070b17401e25442961bcc8ef147df8fc9ce296a"
+file = "packs/bundled/insomnia/data/insomnia/recipes/fill/fill_canteen.json"
+hash = "dc6072c8d5f197feb6725b80774c2212b0b732aba42cd18bf6d6ec8bdd67e748"
 
 [[files]]
-file = "packs/bundled/insomnia/data/insomnia/recipes/fill_dragon_bottle.json"
-hash = "3b1fac89ce80e3ef5a9e51a1c2ec9ee83815b10047b3c9113bb4b3bacff14ed2"
+file = "packs/bundled/insomnia/data/insomnia/recipes/fill/fill_dragon_bottle.json"
+hash = "61336767c3bbebf2031ddb76bf83481706adc7e508250a919828dc8009cd14db"
 
 [[files]]
-file = "packs/bundled/insomnia/data/insomnia/recipes/fill_military_bottle.json"
-hash = "d552f8126d21a64d80126ca067a48ca53096d4b0a0cccde41c9803a77bf74e95"
+file = "packs/bundled/insomnia/data/insomnia/recipes/fill/fill_military_bottle.json"
+hash = "975fb69f71b46c433353f5153f9cd65688ceae7e8a71b51e0c7340a1f9d4e2c7"
 
 [[files]]
-file = "packs/bundled/insomnia/data/insomnia/recipes/fill_terracotta_bowl.json"
-hash = "5c3417e79dcc92e7290a582a18c0c09acab489d21b24c99a509ab86a63e4257f"
+file = "packs/bundled/insomnia/data/insomnia/recipes/fill/fill_terracotta_bowl.json"
+hash = "d3e4bb517b7495ac362359b8f86cee25dd499e70a35150157ecaecca67f1a1a0"
 
 [[files]]
-file = "packs/bundled/insomnia/data/insomnia/recipes/fill_waterskin.json"
-hash = "776a57e44ae9675b3aa226510b2720a506df057509e4e028ca7262d026dbd785"
+file = "packs/bundled/insomnia/data/insomnia/recipes/fill/fill_waterskin.json"
+hash = "ce42799e170528b7ac09c06612b8d8a2d556127238b9d6bd0aaf89e7107bf15b"
 
 [[files]]
 file = "packs/bundled/insomnia/data/insomnia/recipes/flint_from_rock.json"
 hash = "2bcf0913d49d92a7f01cb50694180322c1d8cb0998a472f3294ad1853ffbd804"
+
+[[files]]
+file = "packs/bundled/insomnia/data/insomnia/recipes/pvz/bonkchoy.json"
+hash = "d96a88801c91319fa633aaba4a600f2bf8d393f0d0e7d88bbf9003453ee6de87"
+
+[[files]]
+file = "packs/bundled/insomnia/data/insomnia/recipes/pvz/electric_peashooter.json"
+hash = "d3af4ef256495a7099c3d405ed11d34c693d82dda7b4a6046de87a512fa34f6d"
+
+[[files]]
+file = "packs/bundled/insomnia/data/insomnia/recipes/pvz/fume_shroom.json"
+hash = "441ad2565d42c94e7ff87fa46404abd8bd2cd18de174374ae70caadd9d59a400"
+
+[[files]]
+file = "packs/bundled/insomnia/data/insomnia/recipes/pvz/gatling_pea.json"
+hash = "824e7b27d2df4411608bf564011d4a5f9e0a129da558414eb14380d2e81ee550"
+
+[[files]]
+file = "packs/bundled/insomnia/data/insomnia/recipes/pvz/mega_gatling_pea.json"
+hash = "5ba0c7f2c7cae88b820b24d3cc8092cc389a092a2b1405a35336489c7b6e0e04"
+
+[[files]]
+file = "packs/bundled/insomnia/data/insomnia/recipes/pvz/peashooter.json"
+hash = "f51af80c4d8297ab96d3c06c1a09bb91e1ecff7f443cf1835b465a68efa486e9"
+
+[[files]]
+file = "packs/bundled/insomnia/data/insomnia/recipes/pvz/potato_mine.json"
+hash = "7b021fa4ddf5eeacb1965528e13ff0304baa55e87abed462da397afd00500b70"
+
+[[files]]
+file = "packs/bundled/insomnia/data/insomnia/recipes/pvz/primal_peashooter.json"
+hash = "fc68623f7cdd6724d44a3c314539f1bf8e538de05211446c0dcb1a479d3b6d2e"
+
+[[files]]
+file = "packs/bundled/insomnia/data/insomnia/recipes/pvz/puff_shroom.json"
+hash = "b4f61a4a39b8e6392e9f3259285208efb79fafbff78f6fe01943df5667012119"
+
+[[files]]
+file = "packs/bundled/insomnia/data/insomnia/recipes/pvz/pumpkin.json"
+hash = "4353c6d7063a24d4254a26039d87d9ecf03f19bdb552338542d056a151d319d5"
+
+[[files]]
+file = "packs/bundled/insomnia/data/insomnia/recipes/pvz/repeater.json"
+hash = "251f67ede29a0b3a9baa51ab3e0bf06dca629908120544cb69c594faf3829bbf"
+
+[[files]]
+file = "packs/bundled/insomnia/data/insomnia/recipes/pvz/scaredy_shroom.json"
+hash = "e91dc96c366f0d99b80897422704067004965882a2fd1d434fd53cb353588fc8"
+
+[[files]]
+file = "packs/bundled/insomnia/data/insomnia/recipes/pvz/snowpea.json"
+hash = "3f92fce6abf79cd2d0d154821adc2b79c282e381fef33e23d16534bea18c02ac"
+
+[[files]]
+file = "packs/bundled/insomnia/data/insomnia/recipes/pvz/sunflower.json"
+hash = "d0fe26c7b0b85a75b9b26fa08e472dac9c64b49b8cb9611e47d0023037b04be3"
+
+[[files]]
+file = "packs/bundled/insomnia/data/insomnia/recipes/pvz/talnut.json"
+hash = "89638a5515cca31179134056286c479b9e7376ad5eea7c0e67d222619556b79d"
+
+[[files]]
+file = "packs/bundled/insomnia/data/insomnia/recipes/pvz/walnut.json"
+hash = "4576a5b86151c9f37c6436a1148499a31c63f71ef8957a5884cef7472343d0a7"
 
 [[files]]
 file = "packs/bundled/insomnia/data/insomnia/tags/worldgen/biome/nehemoth_spawns.json"

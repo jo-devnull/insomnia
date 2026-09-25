@@ -1,0 +1,11 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        { "item": "minecraft:wheat_seeds" },
+        { "item": "irons_spellbooks:lightning_bottle" },
+        { "fluid": "create_wizardry:mana", "amount": 250, "nbt": {} }
+    ],
+    "results": [
+        { "item": "pvz_myh:electric_peashooter_card" }
+    ]
+}

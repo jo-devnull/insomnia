@@ -1,0 +1,10 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        { "item": "minecraft:wheat_seeds" },
+        { "fluid": "create_wizardry:mana", "amount": 125, "nbt": {} }
+    ],
+    "results": [
+        { "item": "pvz_myh:peashooter_card" }
+    ]
+}
