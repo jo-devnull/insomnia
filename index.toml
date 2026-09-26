@@ -316,6 +316,11 @@ hash = "99f325449bdb6681aed83ce9b00c7c76064161859fd845a38e77a95f00651e8e"
 metafile = true
 
 [[files]]
+file = "mods/decoration/quick-skin.pw.toml"
+hash = "2dbe4691b910e5150a87b3fc5f6f2160e2df9a789c797830c9341953f0376afb"
+metafile = true
+
+[[files]]
 file = "mods/decoration/radiant-gear.pw.toml"
 hash = "16de645ffccc914aad897a5ead503f2823702fb1fc9386cf53012082cda047b8"
 metafile = true
