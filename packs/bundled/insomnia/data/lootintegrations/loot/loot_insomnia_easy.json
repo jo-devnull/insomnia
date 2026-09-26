@@ -1,0 +1,8 @@
+{
+    "loot_table": "lootintegrations:chests/easy",
+    "max_result_itemcount": 8,
+    "integrated_loot_tables": {
+        "big_lost_city:chests/tier_1": 3,
+        "big_lost_city:chests/tier_2": 3
+    }
+}

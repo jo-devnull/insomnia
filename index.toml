@@ -2488,8 +2488,20 @@ file = "packs/bundled/insomnia/data/insomnia/tags/worldgen/biome/nehemoth_spawns
 hash = "b8e614dbb6da70e259e77e50e1f3396cd827bf7c9b5bb735912323a1e9d6548c"
 
 [[files]]
-file = "packs/bundled/insomnia/data/lootintegrations/loot/loot_watchtower.json"
-hash = "2710b7395bddec2b61cb4367f3f0cbb883fc4d32be7fd22ac66503a126a82c00"
+file = "packs/bundled/insomnia/data/lootintegrations/loot/loot_insomnia_easy.json"
+hash = "f629e67b718eda2ba1300a45d5b1545d762bdefda30a3d10f2c7e01bdb7271eb"
+
+[[files]]
+file = "packs/bundled/insomnia/data/lootintegrations/loot/loot_insomnia_hard.json"
+hash = "a3da007daa1bee89914d0b209da45d4bb8de621131b8083cd8c00b66e7267241"
+
+[[files]]
+file = "packs/bundled/insomnia/data/lootintegrations/loot/loot_insomnia_medium.json"
+hash = "07c2eb17b96f40386f01184ee80fcb86bc40de930c2f3505d712877197443c49"
+
+[[files]]
+file = "packs/bundled/insomnia/data/lootintegrations/loot/loot_insomnia_village.json"
+hash = "3c877eee2a0bbe8d4505c87fa04c181ad4c1eb9cc89338288598faff58189c06"
 
 [[files]]
 file = "packs/bundled/insomnia/data/modpack/tags/worldgen/biome/always_unsafe.json"

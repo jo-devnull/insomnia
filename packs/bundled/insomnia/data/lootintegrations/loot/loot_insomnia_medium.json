@@ -1,0 +1,8 @@
+{
+    "loot_table": "lootintegrations:chests/medium",
+    "max_result_itemcount": 8,
+    "integrated_loot_tables": {
+        "big_lost_city:chests/tier_3": 1,
+        "big_lost_city:chests/tier_4": 1
+    }
+}

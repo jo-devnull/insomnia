@@ -1,0 +1,9 @@
+{
+    "loot_table": "lootintegrations:chests/hard",
+    "max_result_itemcount": 8,
+    "integrated_loot_tables": {
+        "watchtower_building:chests/fresh_towerloot": 2,
+
+        "big_lost_city:chests/tier_4": 1
+    }
+}

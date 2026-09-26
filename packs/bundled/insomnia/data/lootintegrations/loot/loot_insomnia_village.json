@@ -1,0 +1,13 @@
+{
+    "loot_table": "lootintegrations:chests/village",
+    "max_result_itemcount": 8,
+    "integrated_loot_tables": {
+        "watchtower_building:chests/towerloot": 2,
+        "watchtower_building:chests/fresh_towerloot": 3,
+
+        "big_lost_city:chests/tier_1": 1,
+        "big_lost_city:chests/tier_2": 1,
+        "big_lost_city:chests/tier_3": 2,
+        "big_lost_city:chests/tier_4": 2
+    }
+}
