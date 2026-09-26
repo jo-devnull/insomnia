@@ -1650,11 +1650,6 @@ hash = "498c45b544b1dc66e2e00d98b42af54e572f73b8d1a43c96648ba6ec506f7c77"
 metafile = true
 
 [[files]]
-file = "mods/structures/abandoned-watchtowers.pw.toml"
-hash = "206cbd3fe37a0a8bf199220d3ac5f207c1b6dbfb922514fb88561027de2ec1d2"
-metafile = true
-
-[[files]]
 file = "mods/structures/big-lost-city.pw.toml"
 hash = "d15127940e1675e247c00bd7f5f57c56aeba0bb1d383a08d66bfcd60dcd4f709"
 metafile = true
