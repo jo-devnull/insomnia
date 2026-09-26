@@ -52,6 +52,10 @@ file = "config/lmft.json"
 hash = "616b89227e557c16754a9d89ac5b28bf18da1607cea770e2b92eb95a91c6538e"
 
 [[files]]
+file = "config/mca.json"
+hash = "50891d0db7b5397469ee592adc97f54f40aaf81652adcdb4d717e319cdf0bb4e"
+
+[[files]]
 file = "config/mixinhelper.json"
 hash = "4b6d686c970403e94e6f8d7d81dba161d9bb8d324447ef76d40922a86d10feb9"
 
@@ -906,6 +910,16 @@ hash = "925a2d8bfd0c7bd3cbf674d31f5785645079c3cc6d95a0d81b502817f57781d7"
 metafile = true
 
 [[files]]
+file = "mods/mechanics/mca-quests.pw.toml"
+hash = "c78debeb693e8b241ed8e71d2824576bf7c5ee1bf9a0c469e01aaad605bbf29c"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/minecraft-comes-alive-reborn.pw.toml"
+hash = "ff1d11fe10d178c9daad75f2ce11d933045a704ecb75547fca33870c46bf20ad"
+metafile = true
+
+[[files]]
 file = "mods/mechanics/no-hostiles-around-campfire.pw.toml"
 hash = "4bfa0e4c7fd7aad6e076e1ac7fcd0b63dfe803fb1c2826bec4f976c904c94af9"
 metafile = true
@@ -1178,11 +1192,6 @@ metafile = true
 [[files]]
 file = "mods/misc/loot-integrations-hopo-better-mineshaft-ruins.pw.toml"
 hash = "ca3ce1038013d54f1daf72395d5786fb038c4be7b5c26b3dbe5a7df140c720ee"
-metafile = true
-
-[[files]]
-file = "mods/misc/loot-integrations-integrated-dungeons-villages.pw.toml"
-hash = "c9f3cd0fbf5a8467eb839dd673c657e9ec36c07756af5014f6410c352ac30101"
 metafile = true
 
 [[files]]
@@ -1696,16 +1705,6 @@ hash = "2b3fc71ce806037cd09544945b719511766875e1eca0cfc74b368ce2f5504192"
 metafile = true
 
 [[files]]
-file = "mods/structures/improved-village-placement.pw.toml"
-hash = "a9ced66462c54dfed6aad1fc1e9677535ad8fe362900bf345263cf98b11ae47f"
-metafile = true
-
-[[files]]
-file = "mods/structures/integrated-villages.pw.toml"
-hash = "d479f4b217706a30cceb4e2b3429db737c6387f714d0ad121c25e1f7b4563bc3"
-metafile = true
-
-[[files]]
 file = "mods/structures/jungle-treehouse-village.pw.toml"
 hash = "d60ed5b660786051c3cacb983cd32b0197667ece04b2c78e6e2504aa3a8b8ba9"
 metafile = true
@@ -1723,6 +1722,11 @@ metafile = true
 [[files]]
 file = "mods/structures/unnamed-sea.pw.toml"
 hash = "94eb4db4ff7e664b052f985d7285d79ddc46085d654d95ffd4f35cf63344d79f"
+metafile = true
+
+[[files]]
+file = "mods/structures/village-nullifier.pw.toml"
+hash = "3605e8d3fe78911155f70092ebc3b67cb04cbe3d22873d43dd9c3df40a7f0bec"
 metafile = true
 
 [[files]]
