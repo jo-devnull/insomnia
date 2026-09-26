@@ -23,6 +23,13 @@
   },
   {
     "result": "deny",
+    "hostile": true,
+    "dimension": "overworld",
+    "phase": "no_minibosses",
+    "mod": "saintsdragons"
+  },
+  {
+    "result": "deny",
     "dimension": "overworld",
     "phase": "no_minibosses",
     "mod": "mutantmonsters"

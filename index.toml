@@ -37,7 +37,7 @@ hash = "ee123923c5bee25630e042cee30178e1bd104a85948195a44c7385f168bef112"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "7d0a73a1f280258b824808f12223bfc488cf36896955cb799bc8bdb12c6b9b14"
+hash = "b87f86531c15b317356bb23418feeb1f129a782f5fdfda2d8fd2a9462201d7dc"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -62,6 +62,10 @@ hash = "4b6d686c970403e94e6f8d7d81dba161d9bb8d324447ef76d40922a86d10feb9"
 [[files]]
 file = "config/notreepunching.toml"
 hash = "d4ba161e86898376bc32edd89d2baef3ed961380cef2779209c8ea9fec611939"
+
+[[files]]
+file = "config/perspective_api.json"
+hash = "8dc3f89c6e6e41c31b296d644babb40c7bc76d87c7ac05e48d371cb33198510a"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
@@ -311,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/decoration/pretty-rain.pw.toml"
-hash = "b972791975aab662f1bb04610dfaa896e0d278883dca084246e70dd1ec1ff5b6"
+hash = "54833e6b68a6255a7d9273f0e7de211041ca3e2a83a2d43bb2071c672effdacb"
 metafile = true
 
 [[files]]
@@ -887,6 +891,11 @@ metafile = true
 [[files]]
 file = "mods/mechanics/enhanced-celestials-2-shader-support.pw.toml"
 hash = "d88c5f055ef8ed23143cedda46709bcc7f74559a6f49aed0fbc25432c743e287"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/exposure.pw.toml"
+hash = "4869064f7105f36e7f2ff1c3561aab574a7bac3a967de1d9ef049ac05cf637f5"
 metafile = true
 
 [[files]]
@@ -2372,7 +2381,7 @@ hash = "b1bda3b3bbd9e2420e2a04fdbb30f5716871f3b3ba77faaead02c23ef7a19f58"
 
 [[files]]
 file = "packs/bundled/insomnia/data/friendlyfire/tags/entity_types/player_protection.json"
-hash = "6c11b052f420fba14ec8ce4ec53a7dcd3aad9297a1f9d4a924902541bdd5aca8"
+hash = "5c7a75ccd93abca63b74a991b2c5ef20ec9f83e955a590dc22b2980ce4a7edcd"
 
 [[files]]
 file = "packs/bundled/insomnia/data/fromtheshadows/forge/biome_modifier/nether_spawns.json"
@@ -2889,3 +2898,7 @@ hash = "5a8194fca2035c2207f1b2ce8d25cc8e20e87cf1872aa0061a71e3a4f65e0c79"
 [[files]]
 file = "scripts/tags.zs"
 hash = "b8f9f849ac776c18320a17e708b36c37bfabf2c6624186ac08d1083fd71f6147"
+
+[[files]]
+file = "seeds/-6825733373707858981.png"
+hash = "2847a1a48f81ec73846f056d05ee099d0c8bf1e1d22d6b88807fe1c1ad573681"
