@@ -3,6 +3,8 @@
   "values": [
     "#migamigos:amigo",
     "#irons_spellbooks:summons",
+    "mca:male_villager",
+    "mca:female_villager",
     "migamigos:claymore",
     "minecraft:allay",
     "minecraft:wolf",
@@ -66,6 +68,23 @@
     "legendarycreatures:butterfly",
     "kobolds:kobold",
     "alexscaves:candicorn",
-    "saintsdragons:ivy_oleander"
+    "saintsdragons:ivy_oleander",
+
+    "pvz_myh:bonkchoy",
+    "pvz_myh:electric_peashooter",
+    "pvz_myh:fume_shroom",
+    "pvz_myh:gatling_pea",
+    "pvz_myh:mega_gatling_pea",
+    "pvz_myh:pea_shooter",
+    "pvz_myh:potato_mine",
+    "pvz_myh:primal_peashooter",
+    "pvz_myh:puff_shroom",
+    "pvz_myh:pumpkin",
+    "pvz_myh:repeater",
+    "pvz_myh:scaredy_shroom",
+    "pvz_myh:snowpea",
+    "pvz_myh:sunflower",
+    "pvz_myh:walnut",
+    "pvz_myh:tall_nut"
   ]
 }

@@ -859,6 +859,11 @@ hash = "188b54dc995936a318ed71d4510bc1c4b07da3a38b3e5adc64d5c2e69382aaa9"
 metafile = true
 
 [[files]]
+file = "mods/mechanics/chickensshed.pw.toml"
+hash = "4fc370e18a773c82bfc806bbfb188d5c391d0a12d5472ecde106dff590ad297d"
+metafile = true
+
+[[files]]
 file = "mods/mechanics/cold-sweat.pw.toml"
 hash = "2d3a7a8a90dfba648888fd42b24ed86659569c02e0cc8e47e657884a8fbc5c44"
 metafile = true
@@ -2381,7 +2386,7 @@ hash = "b1bda3b3bbd9e2420e2a04fdbb30f5716871f3b3ba77faaead02c23ef7a19f58"
 
 [[files]]
 file = "packs/bundled/insomnia/data/friendlyfire/tags/entity_types/player_protection.json"
-hash = "5c7a75ccd93abca63b74a991b2c5ef20ec9f83e955a590dc22b2980ce4a7edcd"
+hash = "6f7ef62687d82db71174e0558143c06477b41219b7fbc9cdd21f1395314ffd1a"
 
 [[files]]
 file = "packs/bundled/insomnia/data/fromtheshadows/forge/biome_modifier/nether_spawns.json"
