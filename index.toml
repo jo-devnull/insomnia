@@ -1499,6 +1499,11 @@ hash = "81838ae43efce3256f39e522e804d1edb5b4df3d2fe1c73a0dbc663f2366f579"
 metafile = true
 
 [[files]]
+file = "mods/mobs/urban-terrors.pw.toml"
+hash = "e45122f8dd810975b81c48b69e55f30cdcf0a836808dfc28348f81b474597383"
+metafile = true
+
+[[files]]
 file = "mods/mobs/xenomorph-types.pw.toml"
 hash = "b7d9e9244077998d80d06b3ea6e5f426e4020e0d5a0f7f564dac530a5d25f86b"
 metafile = true

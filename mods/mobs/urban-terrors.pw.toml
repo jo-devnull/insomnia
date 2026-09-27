@@ -1,0 +1,13 @@
+name = "Urban Terrors ( Dinosaur Horror )"
+filename = "../urbanterrors-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "96eeddb808509945fc70cf7551db0a952f6607b7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8985718
+project-id = 1345678
